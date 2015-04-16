@@ -1,0 +1,1 @@
+A project enabling users to read about natural history from scanned original historical journals, field notebooks, photographs, annotated maps, and personal papers.   This project aggregates metadata and provides an interface for browsing and searching documents contained in collections.
