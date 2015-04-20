@@ -1,0 +1,24 @@
+package renderer;
+
+/**
+ * Generic interface for defining Notebook Metadata elements
+ * this is used by Renderer classes and reading class both so that we
+ * can expect a common way of dealing with expected metadata elements
+ */
+public interface NotebookMetadata {
+    /**
+     * Text version of the language
+     * @return
+     */
+    String getLanguageText();
+
+    /**
+     * Document title
+     * @return
+     */
+    String getTitle();
+
+    String getIdentifier();
+
+    String getNameText();
+}
