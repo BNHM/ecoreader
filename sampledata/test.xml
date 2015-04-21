@@ -1,0 +1,33 @@
+<mods:mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd"
+           xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mods:titleInfo>
+        <mods:title>This is the title</mods:title>
+    </mods:titleInfo>
+
+    <mods:language>
+        <mods:languageTerm type="text">English</mods:languageTerm>
+        <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+    </mods:language>
+
+    <!--
+    mods:typeofResource
+    mods:originInfo
+    -->
+
+    <mods:name type="personal" authority="LCHS">
+        <mods:role>
+            <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+            <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+        </mods:role>
+        <mods:namePart type="family">Joseph Grinnell</mods:namePart>
+        <mods:namePart type="date">1877-1939</mods:namePart>
+        <mods:displayForm>Grinnell, Joseph, 1877-1939</mods:displayForm>
+    </mods:name>
+
+    <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316
+    </mods:identifier>
+
+    <mods:bar id="123" title="The First Child">Some text between the bars</mods:bar>
+    <mods:bar id="456" title="The Second Child"></mods:bar>
+</mods:mods>
