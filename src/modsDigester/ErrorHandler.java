@@ -1,4 +1,4 @@
-package digester;
+package modsDigester;
 
 import org.xml.sax.SAXParseException;
 

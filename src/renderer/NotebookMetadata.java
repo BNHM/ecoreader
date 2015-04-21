@@ -18,7 +18,15 @@ public interface NotebookMetadata {
      */
     String getTitle();
 
+    /**
+     * Identifier denotes the location of the image
+     * @return
+     */
     String getIdentifier();
 
+    /**
+     * the name of the Author
+     * @return
+     */
     String getNameText();
 }

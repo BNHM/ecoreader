@@ -1,4 +1,4 @@
-package digester;
+package modsDigester;
 
 /**
  * Term class stores all Terms, useful for processing with Digester

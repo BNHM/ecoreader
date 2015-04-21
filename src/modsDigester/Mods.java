@@ -1,11 +1,19 @@
-package digester;
+package modsDigester;
 
 import renderer.NotebookMetadata;
-
 import java.util.Iterator;
 import java.util.LinkedList;
 
+/**
+ * MODS class is an instance of NotebookMetadata and meant to be a representation of
+ * a MODS data file, for use in the natureReader library.  The MODS class is meant to be
+ * built using the Apache Digester functions with definitions derived from the Digester
+ * library.
+ */
 public class Mods implements NotebookMetadata {
+
+    // xmlFile to Parse
+    public String inputXmlFile;
 
     private int id;
     private Bar bar;
@@ -66,14 +74,19 @@ public class Mods implements NotebookMetadata {
     }
 
     /**
-     * Generic method for fetching values for Terms in the MOD file
+     * Generic method for fetching values for Terms in the MODS file.
+     * This class is a work-around for MODS data files which store various
+     * data in repeating elements with attributes defining entity types.  Since
+     * Apache Digester cannot parse this data, we instead build a linkedList
+     * of "terms" and pass in an attribute type, which we can search for to
+     * output the appropriate value.
      *
      * @param terms
      * @param attributeType
      *
      * @return
      */
-    private String getTermValue(LinkedList<Term> terms, String attributeType) {
+    public String getTermValue(LinkedList<Term> terms, String attributeType) {
         Iterator termsIterator = terms.iterator();
         while (termsIterator.hasNext()) {
             Term t = (Term) termsIterator.next();
@@ -83,4 +96,6 @@ public class Mods implements NotebookMetadata {
         }
         return null;
     }
+
+
 }

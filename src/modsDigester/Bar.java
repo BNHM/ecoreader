@@ -1,4 +1,4 @@
-package digester;
+package modsDigester;
 
 public class Bar {
     private String title;
