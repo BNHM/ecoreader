@@ -1,11 +1,7 @@
 package run;
 
 import modsDigester.*;
-import org.apache.commons.digester3.Digester;
-import org.xml.sax.SAXException;
 import renderer.printer;
-
-import java.io.IOException;
 
 /**
  * natureReader class contains the nuts and bolt functions to parse XML files for Field Notebooks
@@ -17,7 +13,8 @@ import java.io.IOException;
  */
 public class natureReader {
 
-    static String xmlFile = "file:////Users/jdeck/IdeaProjects/nature-reader/sampledata/test.xml";
+    //static String xmlFile = "file:////Users/jdeck/IdeaProjects/nature-reader/sampledata/test.xml";
+    static String xmlFile = "file:////Users/jdeck/IdeaProjects/nature-reader/docs/mvz/mods/Grinnell_v1316.xml";
 
     /**
      * Main method for command-line testing
@@ -26,10 +23,18 @@ public class natureReader {
      */
     public static void main(String[] args) {
 
+        // Create mods object to hold MODS data
         Mods mods = new modsFactory(xmlFile).getMods();
 
-        String output = new printer(mods).getDelimitedText("|");
+        // Create an instance of printer with MODS object
+        printer printer = new printer(mods,"|");
 
-        System.out.println(output);
+        // Get output in a particular format... this can be any type of format defined in the printer object
+        System.out.println("NOTEBOOK:\n" + printer.printNotebookMetadata());
+
+        System.out.println("SECTIONS:\n" + printer.printSectionMetadata());
+
+        System.out.println("PAGES ON FIRST SECTION:\n" + printer.printPages(mods.getSections().getFirst()));
+
     }
 }

@@ -1,6 +1,7 @@
 package modsDigester;
 
 import renderer.NotebookMetadata;
+
 import java.util.Iterator;
 import java.util.LinkedList;
 
@@ -14,14 +15,13 @@ public class Mods implements NotebookMetadata {
 
     // xmlFile to Parse
     public String inputXmlFile;
-
-    private int id;
-    private Bar bar;
     private String title;
 
-    private final LinkedList<Bar> bars = new LinkedList<Bar>();
+    private final LinkedList<Section> sections = new LinkedList<Section>();
     private final LinkedList<Term> languageList = new LinkedList<Term>();
     private final LinkedList<Term> nameList = new LinkedList<Term>();
+    private final LinkedList<Term> dateList = new LinkedList<Term>();
+
 
     private String identifier;
 
@@ -34,15 +34,15 @@ public class Mods implements NotebookMetadata {
     }
 
     public String getLanguageText() {
-        return getTermValue(languageList, "text");
+        return getTermValue(languageList, "type", "text");
     }
 
-    public void addBar(Bar bar) {
-        bars.addLast(bar);
+    public void addSection(Section section) {
+        sections.addLast(section);
     }
 
-    public LinkedList<Bar> getBars() {
-        return bars;
+    public LinkedList<Section> getSections() {
+        return sections;
     }
 
     public String getTitle() {
@@ -62,7 +62,7 @@ public class Mods implements NotebookMetadata {
     }
 
     public String getNameText() {
-        return getTermValue(nameList, "family");
+        return getTermValue(nameList, "type", "family");
     }
 
     public LinkedList<Term> getNameList() {
@@ -71,6 +71,26 @@ public class Mods implements NotebookMetadata {
 
     public void setName(Term term) {
         nameList.addLast(term);
+    }
+
+    public LinkedList<Term> getDateList() {
+        return dateList;
+    }
+
+    public String getDateStartText() {
+        return getTermValue(dateList, "point", "start");
+    }
+
+    public void setDateStart(Term term) {
+        dateList.addLast(term);
+    }
+
+    public String getDateEndText() {
+        return getTermValue(dateList, "point", "end");
+    }
+
+    public void setDateEnd(Term term) {
+        dateList.addLast(term);
     }
 
     /**
@@ -82,15 +102,22 @@ public class Mods implements NotebookMetadata {
      * output the appropriate value.
      *
      * @param terms
-     * @param attributeType
+     * @param attributeKey
+     * @param attributeValue
      *
      * @return
      */
-    public String getTermValue(LinkedList<Term> terms, String attributeType) {
+    public String getTermValue(LinkedList<Term> terms, String attributeKey, String attributeValue) {
         Iterator termsIterator = terms.iterator();
         while (termsIterator.hasNext()) {
             Term t = (Term) termsIterator.next();
-            if (t.getType().equals(attributeType)) {
+
+            if (attributeKey.equals("type") &&
+                    t.getType().equals(attributeValue)) {
+                return t.getValue();
+            } else if (attributeKey.equals("point") &&
+                    t.getPoint() != null &&
+                    t.getPoint().equals(attributeValue)) {
                 return t.getValue();
             }
         }

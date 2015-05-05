@@ -52,13 +52,23 @@ public class modsFactory {
         digester.addSetNext("mods/name/namePart", "setName");
         digester.addCallMethod("mods/name/namePart", "setValue", 0);
 
+         // Date Created
+        digester.addObjectCreate("mods/originInfo/dateCreated", Term.class);
+        digester.addSetProperties("mods/originInfo/dateCreated");
+        digester.addSetNext("mods/originInfo/dateCreated", "setDateStart");
+        digester.addSetNext("mods/originInfo/dateCreated", "setDateEnd");
+        digester.addCallMethod("mods/originInfo/dateCreated", "setValue", 0);
+
         /**
          * Sub-elements
          */
-        digester.addObjectCreate("mods/bar", Bar.class);
-        digester.addSetProperties("mods/bar");
-        digester.addSetNext("mods/bar", "addBar");
-        digester.addCallMethod("mods/bar", "addDefinition", 0);
+        digester.addObjectCreate("mods/relatedItem", Section.class);
+        digester.addSetProperties("mods/relatedItem");
+        digester.addSetNext("mods/relatedItem", "addSection");
+        digester.addCallMethod("mods/relatedItem/identifier", "addIdentifier", 0);
+        digester.addCallMethod("mods/relatedItem/titleInfo/title", "addTitle", 0);
+        digester.addCallMethod("mods/relatedItem/originInfo/dateCreated", "addDateCreated", 0);
+        digester.addCallMethod("mods/relatedItem/subject/geographic", "addGeographic", 0);
 
 
         try {
