@@ -38,5 +38,5 @@ public interface NotebookMetadata {
 
     String getDateEndText();
 
-    LinkedList<mvzSection> getSections();
+    LinkedList<sectionMetadata> getSections();
 }

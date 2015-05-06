@@ -32,9 +32,9 @@ public class natureReader {
         // Get output in a particular format... this can be any type of format defined in the printer object
         System.out.println("NOTEBOOK:\n" + printer.printNotebookMetadata());
 
-        System.out.println("SECTIONS:\n" + printer.printSectionMetadata());
+        System.out.println("SECTIONS:\n" + printer.printSections());
 
-        System.out.println("PAGES ON FIRST SECTION:\n" + printer.printPages(1));
+        //System.out.println("PAGES ON FIRST SECTION:\n" + printer.printPages(1));
 
     }
 }

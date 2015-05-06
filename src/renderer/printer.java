@@ -1,8 +1,6 @@
 package renderer;
 
-import modsDigester.mvzTaccPage;
 import modsDigester.mvzSection;
-
 import java.util.Iterator;
 import java.util.LinkedList;
 
@@ -26,58 +24,86 @@ public class printer {
     }
 
     /**
-     * Print all the pages out by section
-     * @param sectionNumber
+     * Print all the pages out by section in JSON
+     *
+     * @param section
+     *
      * @return
      */
-    public String printPages(int sectionNumber) {
-
-
+    public String printPages(sectionMetadata section) {
         StringBuilder sb = new StringBuilder();
+        sb.append("\t\t\"pages\": [\n");
 
-        // Find the section by the section number index
-        // TODO: find a better way to do this... actually should find section by the prescribed section number not the linkedlist order!
-        mvzSection section = notebook.getSections().get(sectionNumber);//.getFirst();
-
-        // get all the pages associated with this section
+        // Loop pages
         LinkedList<pageMetadata> pages = section.getPages();
-
         Iterator pagesIt = pages.iterator();
         while (pagesIt.hasNext()) {
-            mvzTaccPage page = (mvzTaccPage) pagesIt.next();
-            sb.append(section.getIdentifier() + page.getImageFileName());
-            sb.append("\n");
+            pageMetadata page = (pageMetadata) pagesIt.next();
+            sb.append(printPage(page));
+            if (pagesIt.hasNext()) {
+                sb.append(",\n");
+            }
         }
+        sb.append("]\n");
+        return sb.toString();
+    }
+
+    /**
+     * Print an individual page as JSON
+     *
+     * @param page
+     *
+     * @return
+     */
+    public String printPage(pageMetadata page) {
+        StringBuilder sb = new StringBuilder();
+        sb.append("\t\t\t{");
+        sb.append("\"pageImageName\":\"" + page.getImageFileName() + "\",");
+        sb.append("\"pageNumber\":\"" + page.getPageNumberAsInt() + "\"");
+        sb.append("}");
+        return sb.toString();
+    }
+
+    /**
+     * Print an individual section metadata as JSON
+     *
+     * @param section
+     *
+     * @return
+     */
+    public String printSection(sectionMetadata section) {
+        StringBuilder sb = new StringBuilder();;
+        sb.append("\t\t{\n");
+        sb.append("\t\t\"identifier\":\"" + section.getIdentifier() + "\",\n");
+        sb.append("\t\t\"title\":\"" + section.getTitle() + "\",\n");
+        sb.append("\t\t\"geographic\":\"" + section.getGeographic() + "\",\n");
+        sb.append("\t\t\"dateCreated\":\"" + section.getDateCreated() + "\",\n");
+        sb.append("\t\t\"sectionNumberAsString\":\"" + section.getSectionNumberAsString() + "\",\n");
+
+        sb.append(printPages(section));
+        sb.append("\t\t}");
         return sb.toString();
     }
 
     /**
      * Print out metadata about sections with this notebook
      */
-    public String printSectionMetadata() {
+    public String printSections() {
         StringBuilder sb = new StringBuilder();
-
-        // Header
-        sb.append("identifier" + delimiter);
-        sb.append("title" + delimiter);
-        sb.append("geographic" + delimiter);
-        sb.append("dateCreated");
-
-        sb.append("\n");
-
-        LinkedList<mvzSection> sections = notebook.getSections();
+        sb.append("\t{\"sections\": [\n");
+        LinkedList<sectionMetadata> sections = notebook.getSections();
+        // Loop sections
         Iterator sectionsIt = sections.iterator();
         while (sectionsIt.hasNext()) {
             mvzSection section = (mvzSection) sectionsIt.next();
-            sb.append(section.getIdentifier() + "|");
-            sb.append(section.getTitle() + "|");
-            sb.append(section.getGeographic() + "|");
-            sb.append(section.getDateCreated());
+            sb.append(printSection(section));
+            if (sectionsIt.hasNext()) {
+                sb.append(",");
+            }
             sb.append("\n");
         }
-
+        sb.append("]}");
         return sb.toString();
-
     }
 
     /**

@@ -29,6 +29,18 @@ public class mvzSection implements sectionMetadata {
         return dateCreated;
     }
 
+    @Override
+    public Integer getSectionNumber() {
+        return Integer.parseInt(getSectionNumberAsString().substring(1));
+    }
+
+    @Override
+    public String getSectionNumberAsString() {
+        String[] chunks =  identifier.split("/");
+                String lastchunk = chunks[chunks.length -1];
+                return lastchunk.split("_")[1];
+    }
+
     public void addDateCreated(String dateCreated) {
         this.dateCreated = dateCreated;
     }

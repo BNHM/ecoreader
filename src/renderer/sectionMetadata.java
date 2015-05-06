@@ -54,4 +54,29 @@ public interface sectionMetadata {
      * Add pages to this section
      */
     public void addPages(String urlString);
+
+    /**
+     * Get the location that this section refers to
+     * @return
+     */
+    public String getGeographic();
+
+    /**
+     * Get the date this section was created
+     * @return
+     */
+    public String getDateCreated();
+
+    /**
+     * Get Section Number as an Integer
+     * @return
+     */
+    public Integer getSectionNumber();
+
+    /**
+     * Get a String representation of the section number
+     * @return
+     */
+    public String getSectionNumberAsString();
+
 }

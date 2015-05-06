@@ -1,6 +1,7 @@
 package modsDigester;
 
 import renderer.NotebookMetadata;
+import renderer.sectionMetadata;
 
 import java.util.Iterator;
 import java.util.LinkedList;
@@ -17,7 +18,7 @@ public class Mods implements NotebookMetadata {
     public String inputXmlFile;
     private String title;
 
-    private final LinkedList<mvzSection> sections = new LinkedList<mvzSection>();
+    private final LinkedList<sectionMetadata> sections = new LinkedList<sectionMetadata>();
     private final LinkedList<Term> languageList = new LinkedList<Term>();
     private final LinkedList<Term> nameList = new LinkedList<Term>();
     private final LinkedList<Term> dateList = new LinkedList<Term>();
@@ -41,7 +42,7 @@ public class Mods implements NotebookMetadata {
         sections.addLast(section);
     }
 
-    public LinkedList<mvzSection> getSections() {
+    public LinkedList<sectionMetadata> getSections() {
         return sections;
     }
 
