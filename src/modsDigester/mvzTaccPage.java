@@ -1,27 +1,28 @@
 package modsDigester;
 
+import renderer.pageMetadata;
+
 /**
  * A page is represented by the imagename that is stored
  * on a remote server.  This class is a utility class for working with
  * those results.
  */
-public class Page {
+public class mvzTaccPage implements pageMetadata {
     private String imageFileName;
-    private String pageHome;
-    private int pageNumber;
+    private String imageFilePath;
 
     /**
      * Create a page object by passing in its home and the name of the image which represents this page
-     * @param pageHome
+     * @param imageFilePath
      * @param imageFileName
      */
-    public Page(String pageHome, String imageFileName) {
+    public mvzTaccPage(String imageFilePath, String imageFileName) {
         this.imageFileName = imageFileName;
-        this.pageHome = pageHome;
+        this.imageFilePath = imageFilePath;
     }
 
     public String getFullPath() {
-        return pageHome + imageFileName;
+        return imageFilePath + imageFileName;
     }
 
     public String getImageFileName() {
@@ -59,22 +60,11 @@ public class Page {
     }
 
     /**
-     * Return the volume
+     * Return the volume that this page is associated with
      * @return
      */
     public String getVolume() {
         return getImageFileName().split("_")[0];
     }
 
-    public static void main(String args[]) {
-
-        /*Page page = new Page("v1316_s1_p001.tif");
-        // Find the 3rd element using underscores, then the first part before .
-        System.out.println(page.getPageNumberAsString());
-        System.out.println(page.getPageNumberAsInt());
-        */
-
-
-
-    }
 }

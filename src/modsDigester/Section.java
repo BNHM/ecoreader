@@ -12,7 +12,7 @@ public class Section {
     private String identifier;
     private String geographic;
     private String dateCreated;
-    private final LinkedList<Page> pages = new LinkedList<Page>();
+    private final LinkedList<mvzTaccPage> pages = new LinkedList<mvzTaccPage>();
 
 
     public String getGeographic() {
@@ -51,11 +51,11 @@ public class Section {
         addPages(identifier);
     }
 
-    public LinkedList<Page> getPages() {
+    public LinkedList<mvzTaccPage> getPages() {
         return pages;
     }
 
-    public void addPage(Page page) {
+    public void addPage(mvzTaccPage page) {
         pages.addLast(page);
     }
 
@@ -78,7 +78,7 @@ public class Section {
         for (Element file : doc.select("td a")) {
             String filename = file.attr("href");
             if (filename.contains("tif") || filename.contains("TIF")) {
-                addPage(new Page(identifier, filename));
+                addPage(new mvzTaccPage(identifier, filename));
             }
         }
     }

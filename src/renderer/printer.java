@@ -1,6 +1,6 @@
 package renderer;
 
-import modsDigester.Page;
+import modsDigester.mvzTaccPage;
 import modsDigester.Section;
 
 import java.util.Iterator;
@@ -40,11 +40,11 @@ public class printer {
         Section section = notebook.getSections().get(sectionNumber);//.getFirst();
 
         // get all the pages associated with this section
-        LinkedList<Page> pages = section.getPages();
+        LinkedList<mvzTaccPage> pages = section.getPages();
 
         Iterator pagesIt = pages.iterator();
         while (pagesIt.hasNext()) {
-            Page page = (Page) pagesIt.next();
+            mvzTaccPage page = (mvzTaccPage) pagesIt.next();
             sb.append(section.getIdentifier() + page.getImageFileName());
             sb.append("\n");
         }

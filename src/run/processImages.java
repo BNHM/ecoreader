@@ -2,13 +2,11 @@ package run;
 
 import imageMediation.image;
 import modsDigester.Mods;
-import modsDigester.Page;
+import modsDigester.mvzTaccPage;
 import modsDigester.Section;
 import modsDigester.modsFactory;
-import renderer.printer;
 
 import java.util.Iterator;
-import java.util.LinkedList;
 
 /**
  * This class is the mechanism for building images at various resolutions for use in the
@@ -34,7 +32,7 @@ public class processImages {
             Section section = (Section) sectionsIt.next();
             Iterator pagesIt = section.getPages().iterator();
             while (pagesIt.hasNext()) {
-                Page page = (Page) pagesIt.next();
+                mvzTaccPage page = (mvzTaccPage) pagesIt.next();
                 image image = new image(page);
                 image.writeAllScales();
                 image.close();

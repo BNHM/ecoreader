@@ -2,7 +2,7 @@ package imageMediation;
 
 import com.sun.media.jai.codec.FileSeekableStream;
 import com.sun.media.jai.codec.TIFFDecodeParam;
-import modsDigester.Page;
+import modsDigester.mvzTaccPage;
 
 import javax.imageio.ImageIO;
 import javax.media.jai.JAI;
@@ -23,7 +23,7 @@ public class image {
     // place to hold tmpFile
     File tmpFile;
 
-    Page page;
+    mvzTaccPage page;
     String volume;
 
     public static int THUMB = 200;
@@ -37,7 +37,7 @@ public class image {
      * Construct the image class with an individual page
      * @param page
      */
-    public image(Page page) {
+    public image(mvzTaccPage page) {
         this.page = page;
         volume = page.getVolume();
 
@@ -117,7 +117,7 @@ public class image {
      * @param args
      */
     public static void main(String[] args) {
-        Page page = new Page("http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/", "v1316_s1_p000.tif");
+        mvzTaccPage page = new mvzTaccPage("http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/", "v1316_s1_p000.tif");
         image i = new image(page);
         i.writeAllScales();
         i.close();
