@@ -6,24 +6,30 @@ package modsDigester;
  * those results.
  */
 public class Page {
-    private String imagename;
+    private String imageFileName;
     private String pageHome;
     private int pageNumber;
 
-
-    public Page(String pageHome, String imagename) {
-        this.imagename = imagename;
+    /**
+     * Create a page object by passing in its home and the name of the image which represents this page
+     * @param pageHome
+     * @param imageFileName
+     */
+    public Page(String pageHome, String imageFileName) {
+        this.imageFileName = imageFileName;
         this.pageHome = pageHome;
     }
+
     public String getFullPath() {
-        return pageHome + imagename;
-    }
-    public String getImagename() {
-        return imagename;
+        return pageHome + imageFileName;
     }
 
-    public void setImagename(String imagename) {
-        this.imagename = imagename;
+    public String getImageFileName() {
+        return imageFileName;
+    }
+
+    public void setImageFileName(String imageFileName) {
+        this.imageFileName = imageFileName;
     }
 
     /**
@@ -36,12 +42,28 @@ public class Page {
         return Integer.parseInt(getPageNumberAsString());
     }
 
+    /**
+     * Return the Page Number as a String
+     * @return
+     */
     public String getPageNumberAsString() {
-        return getImagename().split("_")[2].split("\\.")[0].substring(1);
+        return getImageFileName().split("_")[2].split("\\.")[0].substring(1);
     }
 
+    /**
+     * Get the image name itself, minus the format extension
+     * @return
+     */
     public String getName() {
-        return getImagename().split("\\.")[0];
+        return getImageFileName().split("\\.")[0];
+    }
+
+    /**
+     * Return the volume
+     * @return
+     */
+    public String getVolume() {
+        return getImageFileName().split("_")[0];
     }
 
     public static void main(String args[]) {

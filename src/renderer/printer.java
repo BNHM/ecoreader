@@ -33,7 +33,7 @@ public class printer {
         Iterator pagesIt = pages.iterator();
         while (pagesIt.hasNext()) {
             Page page = (Page) pagesIt.next();
-            sb.append(section.getIdentifier() + page.getImagename());
+            sb.append(section.getIdentifier() + page.getImageFileName());
             sb.append("\n");
         }
         return sb.toString();

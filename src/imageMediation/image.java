@@ -22,33 +22,50 @@ public class image {
     BufferedImage image;
     // place to hold tmpFile
     File tmpFile;
+
     Page page;
+    String volume;
+
     public static int THUMB = 200;
-    public static int PAGE = 800;
-    public static int BIG = 2000;
+    public static int PAGE = 600;
+    public static int BIG = 1200;
 
+    public static String imageDirectory = "web/imagethumbs";
+    public static String format = "png";
 
+    /**
+     * Construct the image class with an individual page
+     * @param page
+     */
     public image(Page page) {
         this.page = page;
+        volume = page.getVolume();
+
         System.out.println("Copying " + page.getFullPath());
 
         // Create a temporary file
         // TODO: implement more robust tmpfile method
-        tmpFile = new File("imagethumbs/tmpfile");
+        tmpFile = new File(imageDirectory + File.separator + "tmpfile");
 
-        /*try {
+       /*
+       // TODO: remove this comment block
+       try {
             System.out.println("Copying to local ...");
             FileUtils.copyURLToFile(new URL(page.getFullPath()), tmpFile);
         } catch (IOException e) {
             e.printStackTrace();
-        }   */
+        }
+        */
 
+        // Create the filestream for reading the file we've copied over from the remote server
         FileSeekableStream stream = null;
         try {
             stream = new FileSeekableStream(tmpFile);
         } catch (IOException e) {
             e.printStackTrace();
         }
+
+        // Decode the TIFF and create an image object
         TIFFDecodeParam decodeParam = new TIFFDecodeParam();
         decodeParam.setDecodePaletteAsShorts(true);
         ParameterBlock params = new ParameterBlock();
@@ -64,14 +81,23 @@ public class image {
     }
 
     private String writeNewSize(int targetSize) {
-        String format = "png";
 
         System.out.println("writing thumbnail ...");
 
-        String outputFileString = "imagethumbs/" + targetSize + "/" + page.getName() + "_" + targetSize + "." + format;
+        // Create the output directory path with volume directory and subdirectories for various resolutions
+        String outputFileString = imageDirectory +
+                File.separator + volume +
+                File.separator + targetSize +
+                File.separator + page.getName() +
+                "." + format;
 
+        // Create the output file
         File outputfile = new File(outputFileString);
 
+        // Make all required directories if they don't exist
+        outputfile.mkdirs();
+
+        // Resize the image
         BufferedImage t = resize(image, Method.SPEED, targetSize, OP_ANTIALIAS, OP_BRIGHTER);
 
         try {
@@ -81,19 +107,20 @@ public class image {
         }
         System.out.println("Created " + outputfile.getAbsolutePath());
 
+        // Return the file that was created
         return outputfile.getAbsolutePath();
     }
 
+    /**
+     * main method used for local testing
+     *
+     * @param args
+     */
     public static void main(String[] args) {
-
-        //image i = new image();
         Page page = new Page("http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/", "v1316_s1_p000.tif");
-
         image i = new image(page);
         i.writeAllScales();
-        // i.close();
-
-
+        i.close();
     }
 
     /**
@@ -101,6 +128,7 @@ public class image {
      */
     public void close() {
         System.out.println("Cleaning up.");
-        tmpFile.delete();
+        // TODO: remove this comment!
+        //tmpFile.delete();
     }
 }
