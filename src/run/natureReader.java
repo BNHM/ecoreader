@@ -34,7 +34,7 @@ public class natureReader {
 
         System.out.println("SECTIONS:\n" + printer.printSectionMetadata());
 
-        System.out.println("PAGES ON FIRST SECTION:\n" + printer.printPages(mods.getSections().getFirst()));
+        System.out.println("PAGES ON FIRST SECTION:\n" + printer.printPages(1));
 
     }
 }

@@ -25,9 +25,21 @@ public class printer {
         this.notebook = notebook;
     }
 
-    public String printPages(Section section) {
+    /**
+     * Print all the pages out by section
+     * @param sectionNumber
+     * @return
+     */
+    public String printPages(int sectionNumber) {
+
+
         StringBuilder sb = new StringBuilder();
 
+        // Find the section by the section number index
+        // TODO: find a better way to do this... actually should find section by the prescribed section number not the linkedlist order!
+        Section section = notebook.getSections().get(sectionNumber);//.getFirst();
+
+        // get all the pages associated with this section
         LinkedList<Page> pages = section.getPages();
 
         Iterator pagesIt = pages.iterator();
