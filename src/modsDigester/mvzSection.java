@@ -85,7 +85,7 @@ public class mvzSection implements sectionMetadata {
     public void addPages(String urlString) {
         Document doc = null;
         try {
-            doc = Jsoup.connect(urlString).get();
+            doc = Jsoup.connect(urlString).timeout(10000).get();
         } catch (IOException e) {
             e.printStackTrace();
         }

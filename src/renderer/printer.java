@@ -58,10 +58,12 @@ public class printer {
      */
     public String printPage(pageMetadata page) {
         StringBuilder sb = new StringBuilder();
-        sb.append("\t\t\t\t{");
-        sb.append("\"pageImageName\":\"" + page.getImageFileName() + "\",");
-        sb.append("\"pageNumber\":\"" + page.getPageNumberAsInt() + "\"");
-        sb.append("}");
+        sb.append("\t\t\t\t{\n");
+        sb.append("\t\t\t\t\t\"pageImageName\":\"" + page.getImageFileName() + "\",\n");
+        sb.append("\t\t\t\t\t\"pageNumber\":\"" + page.getPageNumberAsInt() + "\",\n");
+        sb.append("\t\t\t\t\t\"@id\":\"" + page.getFullPath() + "\",\n");
+        sb.append("\t\t\t\t\t\"@type\":\"http://purl.org/dc/dcmitype/Image\"\n");
+        sb.append("\t\t\t\t}");
         return sb.toString();
     }
 
@@ -76,7 +78,8 @@ public class printer {
         StringBuilder sb = new StringBuilder();
         ;
         sb.append("\t\t{\n");
-        sb.append("\t\t\t\"identifier\":\"" + section.getIdentifier() + "\",\n");
+        sb.append("\t\t\t\"@id\":\"" + section.getIdentifier() + "\",\n");
+        sb.append("\t\t\t\"@type\":\"http://purl.org/dc/dcmitype/Collection\",\n");
         sb.append("\t\t\t\"title\":\"" + section.getTitle() + "\",\n");
         sb.append("\t\t\t\"geographic\":\"" + section.getGeographic() + "\",\n");
         sb.append("\t\t\t\"dateCreated\":\"" + section.getDateCreated() + "\",\n");
@@ -110,13 +113,15 @@ public class printer {
 
     /**
      * Print out the entire notebook structure
+     *
      * @return
      */
     public String printAllNotebookMetadata() {
         StringBuilder sb = new StringBuilder();
         sb.append("{\n");
         sb.append(printNotebookElements() + ",\n");
-        sb.append(printSections());
+        sb.append(printSections() + ",\n");
+        sb.append(printAllNotebookElementsContext());
         sb.append("\n}");
         return sb.toString();
     }
@@ -129,24 +134,66 @@ public class printer {
     public String printNotebookMetadata() {
         StringBuilder sb = new StringBuilder();
 
-        sb.append("{\n" + printNotebookElements() + "\n}");
+        sb.append("{\n" + printNotebookElements() + ",\n");
+        sb.append(printNotebookElementsContext() + "}");
 
         return sb.toString();
     }
 
     /**
      * Print out the notebook elements
+     *
      * @return
      */
     private String printNotebookElements() {
         StringBuilder sb = new StringBuilder();
 
         // Header
+        sb.append("\t\"@id\":\"" + notebook.getIdentifier() + "\",\n");
+        sb.append("\t\"@type\":\"http://purl.org/dc/terms/BibliographicResource\",\n");
         sb.append("\t\"title\":\"" + notebook.getTitle() + "\",\n");
-        sb.append("\t\"identifier\":\"" + notebook.getIdentifier() + "\",\n");
         sb.append("\t\"startDate\":\"" + notebook.getDateStartText() + "\",\n");
         sb.append("\t\"endDate\":\"" + notebook.getDateEndText() + "\",\n");
         sb.append("\t\"name\":\"" + notebook.getNameText() + "\"");
+
+        return sb.toString();
+    }
+
+    private String printNotebookElementsContext() {
+        StringBuilder sb = new StringBuilder();
+        sb.append("\t\"@context\": {\n");
+        sb.append("\t\t\"title\":\"http://purl.org/dc/elements/1.1/title\",\n");
+        sb.append("\t\t\"name\":\"http://purl.org/dc/elements/1.1/creator\",\n");
+        sb.append("\t\t\"startDate\":\"http://purl.org/dc/terms/issued\",\n");
+        sb.append("\t\t\"endDate\":\"http://purl.org/dc/terms/issued\"\n");
+        sb.append("\t}\n");
+        return sb.toString();
+    }
+
+    private String printAllNotebookElementsContext() {
+        StringBuilder sb = new StringBuilder();
+
+        // Volume level context
+        sb.append("\t\"@context\": {\n");
+        sb.append("\t\t\"title\":\"http://purl.org/dc/elements/1.1/title\",\n");
+        sb.append("\t\t\"name\":\"http://purl.org/dc/elements/1.1/creator\",\n");
+        sb.append("\t\t\"startDate\":\"http://purl.org/dc/terms/issued\",\n");
+        sb.append("\t\t\"endDate\":\"http://purl.org/dc/terms/issued\",\n");
+
+        // Section level context
+        sb.append("\t\t\"sections\":{\n");
+        sb.append("\t\t\t\"@id\":\"http://purl.org/dc/terms/hasPart\",\n");
+        sb.append("\t\t\t\"@type\":\"@id\"\n");
+        sb.append("\t\t},\n");
+
+        // Page level content
+        sb.append("\t\t\"pages\":{\n");
+        sb.append("\t\t\t\"@id\":\"http://purl.org/dc/terms/hasPart\",\n");
+        sb.append("\t\t\t\"@type\":\"@id\"\n");
+        sb.append("\t\t}\n");
+
+        sb.append("\t}\n");
+
 
         return sb.toString();
     }
