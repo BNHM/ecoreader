@@ -1,9 +1,8 @@
 package renderer;
 
-import modsDigester.Section;
+import modsDigester.mvzSection;
 
 import java.util.LinkedList;
-import java.util.List;
 
 /**
  * Generic interface for defining Notebook Metadata elements
@@ -39,5 +38,5 @@ public interface NotebookMetadata {
 
     String getDateEndText();
 
-    LinkedList<Section> getSections();
+    LinkedList<mvzSection> getSections();
 }

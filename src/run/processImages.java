@@ -3,7 +3,7 @@ package run;
 import imageMediation.image;
 import modsDigester.Mods;
 import modsDigester.mvzTaccPage;
-import modsDigester.Section;
+import modsDigester.mvzSection;
 import modsDigester.modsFactory;
 
 import java.util.Iterator;
@@ -29,7 +29,7 @@ public class processImages {
 
         Iterator sectionsIt = mods.getSections().iterator();
         while (sectionsIt.hasNext()) {
-            Section section = (Section) sectionsIt.next();
+            mvzSection section = (mvzSection) sectionsIt.next();
             Iterator pagesIt = section.getPages().iterator();
             while (pagesIt.hasNext()) {
                 mvzTaccPage page = (mvzTaccPage) pagesIt.next();

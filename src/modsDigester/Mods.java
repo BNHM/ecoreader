@@ -17,7 +17,7 @@ public class Mods implements NotebookMetadata {
     public String inputXmlFile;
     private String title;
 
-    private final LinkedList<Section> sections = new LinkedList<Section>();
+    private final LinkedList<mvzSection> sections = new LinkedList<mvzSection>();
     private final LinkedList<Term> languageList = new LinkedList<Term>();
     private final LinkedList<Term> nameList = new LinkedList<Term>();
     private final LinkedList<Term> dateList = new LinkedList<Term>();
@@ -37,11 +37,11 @@ public class Mods implements NotebookMetadata {
         return getTermValue(languageList, "type", "text");
     }
 
-    public void addSection(Section section) {
+    public void addSection(mvzSection section) {
         sections.addLast(section);
     }
 
-    public LinkedList<Section> getSections() {
+    public LinkedList<mvzSection> getSections() {
         return sections;
     }
 

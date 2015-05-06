@@ -3,16 +3,18 @@ package modsDigester;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
+import renderer.pageMetadata;
+import renderer.sectionMetadata;
 
 import java.io.IOException;
 import java.util.LinkedList;
 
-public class Section {
+public class mvzSection implements sectionMetadata {
     private String title;
     private String identifier;
     private String geographic;
     private String dateCreated;
-    private final LinkedList<mvzTaccPage> pages = new LinkedList<mvzTaccPage>();
+    private final LinkedList<pageMetadata> pages = new LinkedList<pageMetadata>();
 
 
     public String getGeographic() {
@@ -51,11 +53,11 @@ public class Section {
         addPages(identifier);
     }
 
-    public LinkedList<mvzTaccPage> getPages() {
+    public LinkedList<pageMetadata> getPages() {
         return pages;
     }
 
-    public void addPage(mvzTaccPage page) {
+    public void addPage(pageMetadata page) {
         pages.addLast(page);
     }
 

@@ -62,7 +62,7 @@ public class modsFactory {
         /**
          * Sub-elements
          */
-        digester.addObjectCreate("mods/relatedItem", Section.class);
+        digester.addObjectCreate("mods/relatedItem", mvzSection.class);
         digester.addSetProperties("mods/relatedItem");
         digester.addSetNext("mods/relatedItem", "addSection");
         digester.addCallMethod("mods/relatedItem/identifier", "addIdentifier", 0);

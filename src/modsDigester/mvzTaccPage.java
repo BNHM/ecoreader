@@ -4,8 +4,10 @@ import renderer.pageMetadata;
 
 /**
  * A page is represented by the imagename that is stored
- * on a remote server.  This class is a utility class for working with
- * those results.
+ * on the remote server, located at TACC  This class is a utility class for working with
+ * those results and carries a number of assumptions about how that server is configured, permissions
+ * for viewing directories, how those directories are rendered using the remote web service, and the structure
+ * of the file names listed on the server
  */
 public class mvzTaccPage implements pageMetadata {
     private String imageFileName;
@@ -13,6 +15,7 @@ public class mvzTaccPage implements pageMetadata {
 
     /**
      * Create a page object by passing in its home and the name of the image which represents this page
+     *
      * @param imageFilePath
      * @param imageFileName
      */
@@ -45,6 +48,7 @@ public class mvzTaccPage implements pageMetadata {
 
     /**
      * Return the Page Number as a String
+     *
      * @return
      */
     public String getPageNumberAsString() {
@@ -53,6 +57,7 @@ public class mvzTaccPage implements pageMetadata {
 
     /**
      * Get the image name itself, minus the format extension
+     *
      * @return
      */
     public String getName() {
@@ -61,6 +66,7 @@ public class mvzTaccPage implements pageMetadata {
 
     /**
      * Return the volume that this page is associated with
+     *
      * @return
      */
     public String getVolume() {

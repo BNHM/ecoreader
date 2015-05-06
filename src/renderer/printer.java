@@ -1,7 +1,7 @@
 package renderer;
 
 import modsDigester.mvzTaccPage;
-import modsDigester.Section;
+import modsDigester.mvzSection;
 
 import java.util.Iterator;
 import java.util.LinkedList;
@@ -37,10 +37,10 @@ public class printer {
 
         // Find the section by the section number index
         // TODO: find a better way to do this... actually should find section by the prescribed section number not the linkedlist order!
-        Section section = notebook.getSections().get(sectionNumber);//.getFirst();
+        mvzSection section = notebook.getSections().get(sectionNumber);//.getFirst();
 
         // get all the pages associated with this section
-        LinkedList<mvzTaccPage> pages = section.getPages();
+        LinkedList<pageMetadata> pages = section.getPages();
 
         Iterator pagesIt = pages.iterator();
         while (pagesIt.hasNext()) {
@@ -65,10 +65,10 @@ public class printer {
 
         sb.append("\n");
 
-        LinkedList<Section> sections = notebook.getSections();
+        LinkedList<mvzSection> sections = notebook.getSections();
         Iterator sectionsIt = sections.iterator();
         while (sectionsIt.hasNext()) {
-            Section section = (Section) sectionsIt.next();
+            mvzSection section = (mvzSection) sectionsIt.next();
             sb.append(section.getIdentifier() + "|");
             sb.append(section.getTitle() + "|");
             sb.append(section.getGeographic() + "|");
