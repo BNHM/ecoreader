@@ -1,0 +1,2870 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<mods:mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mods:titleInfo>
+        <mods:title>Grinnell, Joseph: Field notes, v1316</mods:title>
+    </mods:titleInfo>
+    <mods:language>
+        <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+        <mods:languageTerm type="text">English</mods:languageTerm>
+    </mods:language>
+    <mods:originInfo>
+        <mods:dateCreated>1908-1909</mods:dateCreated>
+        <mods:dateCreated point="start">1908</mods:dateCreated>
+        <mods:dateCreated point="end">1909</mods:dateCreated>
+    </mods:originInfo>
+    <mods:name type="personal" authority="LCHS">
+        <mods:role>
+            <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+            <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+        </mods:role>
+        <mods:namePart type="family">Joseph Grinnell</mods:namePart>
+        <mods:namePart type="date">1877-1939</mods:namePart>
+        <mods:displayForm>Grinnell, Joseph, 1877-1939</mods:displayForm>
+    </mods:name>
+    <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316</mods:identifier>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 0: General Index</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1908-1909</mods:dateCreated>
+            <mods:dateCreated point="start">1908</mods:dateCreated>
+            <mods:dateCreated point="end">1909</mods:dateCreated>
+        </mods:originInfo>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s0/</mods:identifier>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 0</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908-1909</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1909</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s0_p000.jpg</mods:identifier>
+        </mods:relatedItem>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 1: Journal and catalog: Mecca, Riverside Co., Calif.</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1908</mods:dateCreated>
+            <mods:dateCreated point="start">1908</mods:dateCreated>
+            <mods:dateCreated point="end">1908</mods:dateCreated>
+        </mods:originInfo>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, Salton Sea, United States, California, Imperial County, Pelican Island</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Riverside County</mods:geographic>
+        </mods:subject>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/</mods:identifier>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 0</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:typeOfResource>text</mods:typeOfResource>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s1_p000.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 1</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:typeOfResource>text</mods:typeOfResource>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s1_p001.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 2</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:typeOfResource>text</mods:typeOfResource>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s1_p002.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 3</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:typeOfResource>text</mods:typeOfResource>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s1_p003.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 4</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:typeOfResource>text</mods:typeOfResource>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s1_p004.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 5</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:typeOfResource>text</mods:typeOfResource>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s1_p005.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 6</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:typeOfResource>text</mods:typeOfResource>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s1_p006.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 7</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:typeOfResource>text</mods:typeOfResource>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s1_p007.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 8</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:typeOfResource>text</mods:typeOfResource>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s1_p008.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 9</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:typeOfResource>text</mods:typeOfResource>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s1_p009.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 10</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:typeOfResource>text</mods:typeOfResource>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s1_p010.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 11</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:typeOfResource>text</mods:typeOfResource>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s1_p011.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 12</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:typeOfResource>text</mods:typeOfResource>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s1_p012.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 13</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:typeOfResource>text</mods:typeOfResource>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s1_p013.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 14</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:typeOfResource>text</mods:typeOfResource>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s1_p014.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 15</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:typeOfResource>text</mods:typeOfResource>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s1_p015.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 16</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:typeOfResource>text</mods:typeOfResource>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s1_p016.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 17</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:typeOfResource>text</mods:typeOfResource>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s1_p017.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 18</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:typeOfResource>text</mods:typeOfResource>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s1_p018.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 19</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:typeOfResource>text</mods:typeOfResource>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s1_p019.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 20</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:typeOfResource>text</mods:typeOfResource>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s1_p020.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 21</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:typeOfResource>text</mods:typeOfResource>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s1_p021.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 22</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:typeOfResource>text</mods:typeOfResource>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s1_p022.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 23</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:typeOfResource>text</mods:typeOfResource>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s1_p023.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 24</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:typeOfResource>text</mods:typeOfResource>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s1_p024.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 25</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:typeOfResource>text</mods:typeOfResource>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s1_p025.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 26</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:typeOfResource>text</mods:typeOfResource>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s1_p026.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 27</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:typeOfResource>text</mods:typeOfResource>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s1_p027.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 28</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:typeOfResource>text</mods:typeOfResource>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s1_p028.jpg</mods:identifier>
+        </mods:relatedItem>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 2: Journal and catalog: San Jacinto Region, Riverside Co., Calif.</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1908</mods:dateCreated>
+            <mods:dateCreated point="start">1908</mods:dateCreated>
+            <mods:dateCreated point="end">1908</mods:dateCreated>
+        </mods:originInfo>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Riverside County</mods:geographic>
+        </mods:subject>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s2/</mods:identifier>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 0</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1909</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p000.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 1</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p001.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 2</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p002.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 3</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p003.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 4</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p004.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 5</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p005.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 6</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p006.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 7</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p007.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 8</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p008.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 9</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p009.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 10</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p010.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 11</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p011.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 12</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p012.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 13</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p013.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 14</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p014.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 15</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p015.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 16</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p016.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 17</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p017.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 18</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p018.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 19</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p019.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 20</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p020.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 21</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p021.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 22</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p022.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 23</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p023.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 24</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p024.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 25</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p025.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 26</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p026.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 27</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p027.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 28</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p028.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 29</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p029.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 30</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p030.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 31</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p031.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 32</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p032.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 33</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p033.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 34</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p034.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 35</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p035.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 36</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p036.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 37</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p037.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 38</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p038.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 39</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p039.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 40</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p040.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 41</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p041.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 42</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p042.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 43</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p043.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 44</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p044.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 45</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p045.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 46</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p046.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 47</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p047.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 48</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p048.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 49</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p049.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 50</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p050.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 51</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p051.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 52</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p052.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 53</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p053.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 54</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p054.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 55</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p055.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 56</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p056.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 57</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p057.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 58</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p058.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 59</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p059.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 60</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p060.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 61</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p061.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 62</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p062.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 63</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p063.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 64</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p064.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 65</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p065.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 66</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p066.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 67</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p067.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 68</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p068.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 69</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p069.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 70</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p070.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 71</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p071.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 72</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p072.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 73</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p073.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 74</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p074.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 75</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p075.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 76</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p076.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 77</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p077.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 78</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p078.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 79</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p079.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 80</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p080.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 81</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p081.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 82</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p082.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 83</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p083.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 84</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p084.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 85</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p085.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 86</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p086.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 87</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p087.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 88</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p088.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 89</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p089.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 90</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p090.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 91</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p091.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 92</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p092.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 93</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p093.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 94</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p094.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 95</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p095.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 96</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p096.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 97</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p097.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 98</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p098.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 99</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p099.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 100</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p100.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 101</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p101.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 102</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p102.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 103</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p103.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 104</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p104.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 105</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p105.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 106</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p106.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 107</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p107.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 108</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p108.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 109</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p109.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 110</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p110.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 111</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p111.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 112</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p112.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 113</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p113.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 114</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p114.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 115</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p115.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 116</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p116.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 117</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p117.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 118</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p118.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 119</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p119.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 120</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p120.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 121</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p121.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 122</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p122.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 123</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p123.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 124</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p124.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 125</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p125.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 126</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p126.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 127</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p127.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 128</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p128.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 129</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p129.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 130</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p130.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 131</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p131.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 132</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p132.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 133</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p133.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 134</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p134.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 135</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p135.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 136</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p136.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 137</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p137.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 138</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p138.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 139</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p139.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 140</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+                <mods:dateCreated>1908</mods:dateCreated>
+                <mods:dateCreated point="start">1908</mods:dateCreated>
+                <mods:dateCreated point="end">1908</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s2_p140.jpg</mods:identifier>
+        </mods:relatedItem>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 3: Journal and catalog: Placer Co., Calif.; Marin Co., Calif.</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1909</mods:dateCreated>
+            <mods:dateCreated point="start">1909</mods:dateCreated>
+            <mods:dateCreated point="end">1909</mods:dateCreated>
+        </mods:originInfo>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Marin County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Placer County</mods:geographic>
+        </mods:subject>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s3/</mods:identifier>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 0</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:typeOfResource>text</mods:typeOfResource>
+            <mods:originInfo>
+                <mods:dateCreated>1909</mods:dateCreated>
+                <mods:dateCreated point="start">1909</mods:dateCreated>
+                <mods:dateCreated point="end">1909</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Master">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s1_p000.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 1</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:typeOfResource>text</mods:typeOfResource>
+            <mods:originInfo>
+                <mods:dateCreated>1909</mods:dateCreated>
+                <mods:dateCreated point="start">1909</mods:dateCreated>
+                <mods:dateCreated point="end">1909</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Master">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s1_p001.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 2</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:typeOfResource>text</mods:typeOfResource>
+            <mods:originInfo>
+                <mods:dateCreated>1909</mods:dateCreated>
+                <mods:dateCreated point="start">1909</mods:dateCreated>
+                <mods:dateCreated point="end">1909</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Master">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s1_p002.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 3</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:typeOfResource>text</mods:typeOfResource>
+            <mods:originInfo>
+                <mods:dateCreated>1909</mods:dateCreated>
+                <mods:dateCreated point="start">1909</mods:dateCreated>
+                <mods:dateCreated point="end">1909</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Master">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s1_p003.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 4</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:typeOfResource>text</mods:typeOfResource>
+            <mods:originInfo>
+                <mods:dateCreated>1909</mods:dateCreated>
+                <mods:dateCreated point="start">1909</mods:dateCreated>
+                <mods:dateCreated point="end">1909</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Master">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s1_p004.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 5</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:typeOfResource>text</mods:typeOfResource>
+            <mods:originInfo>
+                <mods:dateCreated>1909</mods:dateCreated>
+                <mods:dateCreated point="start">1909</mods:dateCreated>
+                <mods:dateCreated point="end">1909</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Master">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s1_p005.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 6</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:typeOfResource>text</mods:typeOfResource>
+            <mods:originInfo>
+                <mods:dateCreated>1909</mods:dateCreated>
+                <mods:dateCreated point="start">1909</mods:dateCreated>
+                <mods:dateCreated point="end">1909</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Master">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s1_p006.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 7</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:typeOfResource>text</mods:typeOfResource>
+            <mods:originInfo>
+                <mods:dateCreated>1909</mods:dateCreated>
+                <mods:dateCreated point="start">1909</mods:dateCreated>
+                <mods:dateCreated point="end">1909</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Master">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s1_p007.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 8</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:typeOfResource>text</mods:typeOfResource>
+            <mods:originInfo>
+                <mods:dateCreated>1909</mods:dateCreated>
+                <mods:dateCreated point="start">1909</mods:dateCreated>
+                <mods:dateCreated point="end">1909</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Master">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s1_p008.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 9</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:typeOfResource>text</mods:typeOfResource>
+            <mods:originInfo>
+                <mods:dateCreated>1909</mods:dateCreated>
+                <mods:dateCreated point="start">1909</mods:dateCreated>
+                <mods:dateCreated point="end">1909</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Master">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s1_p009.jpg</mods:identifier>
+        </mods:relatedItem>
+        <mods:relatedItem type="constituent">
+            <mods:titleInfo>
+                <mods:title>page 10</mods:title>
+            </mods:titleInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            <mods:typeOfResource>text</mods:typeOfResource>
+            <mods:originInfo>
+                <mods:dateCreated>1909</mods:dateCreated>
+                <mods:dateCreated point="start">1909</mods:dateCreated>
+                <mods:dateCreated point="end">1909</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier displayLabel="Image-Master">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/v1316_s1_p010.jpg</mods:identifier>
+        </mods:relatedItem>
+    </mods:relatedItem>
+</mods:mods>
