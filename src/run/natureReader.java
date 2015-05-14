@@ -24,7 +24,7 @@ public class natureReader {
     public static void main(String[] args) {
 
         // Create mods object to hold MODS data
-        Mods mods = new modsFactory(xmlFile).getMods();
+        Mods mods = new modsFactory(xmlFile).getMods(true);
 
         // Create an instance of printer with MODS object
         printer printer = new printer(mods,"|");

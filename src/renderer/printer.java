@@ -1,5 +1,6 @@
 package renderer;
 
+import imageMediation.image;
 import modsDigester.mvzSection;
 
 import java.util.Iterator;
@@ -59,7 +60,9 @@ public class printer {
     public String printPage(pageMetadata page) {
         StringBuilder sb = new StringBuilder();
         sb.append("\t\t\t\t{\n");
-        sb.append("\t\t\t\t\t\"pageImageName\":\"" + page.getImageFileName() + "\",\n");
+        sb.append("\t\t\t\t\t\"pageSmall\":\"" + page.getImageLocation(image.THUMB) + "\",\n");
+        sb.append("\t\t\t\t\t\"pageMedium\":\"" + page.getImageLocation(image.PAGE) + "\",\n");
+        sb.append("\t\t\t\t\t\"pageLarge\":\"" + page.getImageLocation(image.BIG) + "\",\n");
         sb.append("\t\t\t\t\t\"pageNumber\":\"" + page.getPageNumberAsInt() + "\",\n");
         sb.append("\t\t\t\t\t\"@id\":\"" + page.getFullPath() + "\",\n");
         sb.append("\t\t\t\t\t\"@type\":\"http://purl.org/dc/dcmitype/Image\"\n");

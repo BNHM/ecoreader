@@ -1,6 +1,9 @@
 package modsDigester;
 
+import imageMediation.image;
 import renderer.pageMetadata;
+
+import java.io.File;
 
 /**
  * A page is represented by the imagename that is stored
@@ -10,30 +13,39 @@ import renderer.pageMetadata;
  * of the file names listed on the server
  */
 public class mvzTaccPage implements pageMetadata {
-    private String imageFileName;
-    private String imageFilePath;
+    private String imageFileInputName;
+    private String imageFileInputPath;
+
+    // TODO: fix the path root, this should be an ARK
+    public static String imageFilePathRoot = "file:///Users/jdeck/IdeaProjects/nature-reader/web/";
+    private String imageLocation;
 
     /**
      * Create a page object by passing in its home and the name of the image which represents this page
      *
-     * @param imageFilePath
-     * @param imageFileName
+     * @param imageFileInputPath
+     * @param imageFileInputName
      */
-    public mvzTaccPage(String imageFilePath, String imageFileName) {
-        this.imageFileName = imageFileName;
-        this.imageFilePath = imageFilePath;
+    public mvzTaccPage(String imageFileInputPath, String imageFileInputName) {
+        this.imageFileInputName = imageFileInputName;
+        this.imageFileInputPath = imageFileInputPath;
+
+    }
+
+    public String getImageLocation(int size) {
+        return imageFilePathRoot + getVolume() + File.separator + size + File.separator + getName() + "." + image.format;
     }
 
     public String getFullPath() {
-        return imageFilePath + imageFileName;
+        return imageFileInputPath + imageFileInputName;
     }
 
-    public String getImageFileName() {
-        return imageFileName;
+    public String getImageFileInputName() {
+        return imageFileInputName;
     }
 
-    public void setImageFileName(String imageFileName) {
-        this.imageFileName = imageFileName;
+    public void setImageFileInputName(String imageFileInputName) {
+        this.imageFileInputName = imageFileInputName;
     }
 
     /**
@@ -52,7 +64,7 @@ public class mvzTaccPage implements pageMetadata {
      * @return
      */
     public String getPageNumberAsString() {
-        return getImageFileName().split("_")[2].split("\\.")[0].substring(1);
+        return getImageFileInputName().split("_")[2].split("\\.")[0].substring(1);
     }
 
     /**
@@ -61,7 +73,7 @@ public class mvzTaccPage implements pageMetadata {
      * @return
      */
     public String getName() {
-        return getImageFileName().split("\\.")[0];
+        return getImageFileInputName().split("\\.")[0];
     }
 
     /**
@@ -70,7 +82,7 @@ public class mvzTaccPage implements pageMetadata {
      * @return
      */
     public String getVolume() {
-        return getImageFileName().split("_")[0];
+        return getImageFileInputName().split("_")[0];
     }
 
 }

@@ -11,38 +11,51 @@ public interface pageMetadata {
 
     /**
      * Get the full path where this page lives
+     *
      * @return
      */
-        String getFullPath();
+    String getFullPath();
 
     /**
-     * Get the image filename
+     * Get the image INPUT filename
+     *
      * @return
      */
-       public String getImageFileName();
+    public String getImageFileInputName();
 
+    /**
+     * Location of image, with size as parameter
+     *
+     * @return
+     */
+    public String getImageLocation(int size);
 
     /**
      * Get the page number as an integer
+     *
      * @return
      */
-       public int getPageNumberAsInt();
+    public int getPageNumberAsInt();
 
-       /**
-        * Return the Page Number as a String
-        * @return
-        */
-       public String getPageNumberAsString();
-       /**
-        * Get the image name itself, minus the format extension
-        * @return
-        */
-       public String getName();
+    /**
+     * Return the Page Number as a String
+     *
+     * @return
+     */
+    public String getPageNumberAsString();
 
-       /**
-        * Return the volume that this page is associated with
-        * @return
-        */
-       public String getVolume();
+    /**
+     * Get the image name itself, minus the format extension
+     *
+     * @return
+     */
+    public String getName();
+
+    /**
+     * Return the volume that this page is associated with
+     *
+     * @return
+     */
+    public String getVolume();
 
 }

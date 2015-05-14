@@ -21,7 +21,7 @@ public class modsFactory {
      *
      * @return
      */
-    public Mods getMods() {
+    public Mods getMods(boolean local) {
         Mods mods = null;
         Digester digester = new Digester();
         digester.setNamespaceAware(true);
@@ -65,7 +65,11 @@ public class modsFactory {
         digester.addObjectCreate("mods/relatedItem", mvzSection.class);
         digester.addSetProperties("mods/relatedItem");
         digester.addSetNext("mods/relatedItem", "addSection");
-        digester.addCallMethod("mods/relatedItem/identifier", "addIdentifier", 0);
+        if (local) {
+            digester.addCallMethod("mods/relatedItem/identifier", "addLocalIdentifier", 0);
+        }    else {
+            digester.addCallMethod("mods/relatedItem/identifier", "addIdentifier", 0);
+        }
         digester.addCallMethod("mods/relatedItem/titleInfo/title", "addTitle", 0);
         digester.addCallMethod("mods/relatedItem/originInfo/dateCreated", "addDateCreated", 0);
         digester.addCallMethod("mods/relatedItem/subject/geographic", "addGeographic", 0);

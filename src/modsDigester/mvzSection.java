@@ -1,12 +1,15 @@
 package modsDigester;
 
+import imageMediation.image;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import renderer.pageMetadata;
 import renderer.sectionMetadata;
 
+import java.io.File;
 import java.io.IOException;
+import java.util.ArrayList;
 import java.util.LinkedList;
 
 public class mvzSection implements sectionMetadata {
@@ -36,9 +39,9 @@ public class mvzSection implements sectionMetadata {
 
     @Override
     public String getSectionNumberAsString() {
-        String[] chunks =  identifier.split("/");
-                String lastchunk = chunks[chunks.length -1];
-                return lastchunk.split("_")[1];
+        String[] chunks = identifier.split("/");
+        String lastchunk = chunks[chunks.length - 1];
+        return lastchunk.split("_")[1];
     }
 
     public void addDateCreated(String dateCreated) {
@@ -57,6 +60,23 @@ public class mvzSection implements sectionMetadata {
         return identifier;
     }
 
+    /**
+     * Look for cached sampled image files locally
+     *
+     * @param identifier
+     */
+    public void addLocalIdentifier(String identifier) {
+        this.identifier = identifier;
+        String[] chunks = identifier.split("/");
+        String volume = chunks[chunks.length - 1].split("_")[0];
+        addPages(volume + File.separator + image.PAGE);
+    }
+
+    /**
+     * Look for image files on remote server
+     *
+     * @param identifier
+     */
     public void addIdentifier(String identifier) {
         this.identifier = identifier;
         // Add pages when fetching the identifier, the assumption
@@ -85,16 +105,29 @@ public class mvzSection implements sectionMetadata {
     public void addPages(String urlString) {
         Document doc = null;
         try {
-            doc = Jsoup.connect(urlString).timeout(10000).get();
+            if (urlString.contains("http")) {
+                doc = Jsoup.connect(urlString).timeout(10000).get();
+                for (Element file : doc.select("td a")) {
+                    String filename = file.attr("href");
+                    if (filename.contains("tif") || filename.contains("TIF")) {
+                        addPage(new mvzTaccPage(identifier, filename));
+                    }
+                }
+            } else {
+                 File f = new File(urlString);
+                String foo = f.getAbsolutePath();
+                ArrayList<File> files = new ArrayList<File>(java.util.Arrays.asList(f.listFiles()));
+                java.util.Iterator filesIt = files.iterator();
+                while (filesIt.hasNext()) {
+                    File file = ((File) filesIt.next());
+                    addPage(new mvzTaccPage(file.getAbsolutePath(),file.getName()));
+                }
+            }
         } catch (IOException e) {
+
             e.printStackTrace();
         }
-        for (Element file : doc.select("td a")) {
-            String filename = file.attr("href");
-            if (filename.contains("tif") || filename.contains("TIF")) {
-                addPage(new mvzTaccPage(identifier, filename));
-            }
-        }
+
     }
 
 }

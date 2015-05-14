@@ -3,6 +3,7 @@ package imageMediation;
 import com.sun.media.jai.codec.FileSeekableStream;
 import com.sun.media.jai.codec.TIFFDecodeParam;
 import modsDigester.mvzTaccPage;
+import org.apache.commons.io.FileUtils;
 
 import javax.imageio.ImageIO;
 import javax.media.jai.JAI;
@@ -11,6 +12,7 @@ import java.awt.image.BufferedImage;
 import java.awt.image.renderable.ParameterBlock;
 import java.io.File;
 import java.io.IOException;
+import java.net.URL;
 
 import static org.imgscalr.Scalr.*;
 
@@ -30,7 +32,7 @@ public class image {
     public static int PAGE = 600;
     public static int BIG = 1200;
 
-    public static String imageDirectory = "web/imagethumbs";
+    public static String imageDirectory = "images";
     public static String format = "png";
 
     /**
@@ -45,17 +47,18 @@ public class image {
 
         // Create a temporary file
         // TODO: implement more robust tmpfile method
-        tmpFile = new File(imageDirectory + File.separator + "tmpfile");
+        tmpFile = new File("web" + File.separator + imageDirectory + File.separator + "tmpfile");
 
-       /*
+
        // TODO: remove this comment block
+        /*
        try {
             System.out.println("Copying to local ...");
             FileUtils.copyURLToFile(new URL(page.getFullPath()), tmpFile);
         } catch (IOException e) {
             e.printStackTrace();
-        }
-        */
+        } */
+
 
         // Create the filestream for reading the file we've copied over from the remote server
         FileSeekableStream stream = null;
