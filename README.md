@@ -1,4 +1,4 @@
-# nature-reader
+# ecoreader
 
 A vast store of knowledge on our natural environment is not contained on the web or in digital format. It exists in hand and type-written field notebooks containing useful detailed notes, drawings, and photographs.  While there are applications to aid in the digitization of these notebooks or aggregate metadata (e.g. Archivist Toolkit, Archive Space, Biodiversity Heritage Library (BHL)) there is no open source application to directly publish, visualize, and query digitized notebooks from source collections that enable direct control over the input and output process via code.
 
