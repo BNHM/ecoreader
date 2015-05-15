@@ -1,0 +1,5 @@
+# BCID settings
+user =
+password =
+url = jdbc:mysql://localhost/ecoreader
+class = com.mysql.jdbc.Driver

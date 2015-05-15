@@ -23,6 +23,7 @@ public class authors {
     @Produces("application/json")
     public Response list() {
 
+        // TODO: replace this response with something coming from database
         String json = "{\n";
         json += "\t\"authors\": [\n";
         json += "\t\t{\n";
