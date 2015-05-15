@@ -23,7 +23,7 @@
                         </ul>
                     </li>
 
-                        <li><a href="https://github.com/biocodellc/biocode-fims/wiki/WebVersion">Help</a></li>
+                        <li><a href="https://github.com/bnhm/ecoreader">Help</a></li>
                 </ul>
             </div><!-- /.navbar-collapse -->
         </div>
