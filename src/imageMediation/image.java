@@ -120,10 +120,17 @@ public class image {
      * @param args
      */
     public static void main(String[] args) {
+        String[] names = ImageIO.getWriterFormatNames();
+        System.out.println("format names:\n");
+        for (int i =0; i< names.length; i++) {
+            System.out.println("\t" + names[i]);
+        }
+        /*
         mvzTaccPage page = new mvzTaccPage("http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/", "v1316_s1_p000.tif");
         image i = new image(page);
+
         i.writeAllScales();
-        i.close();
+        i.close(); */
     }
 
     /**
