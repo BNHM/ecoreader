@@ -17,6 +17,14 @@ public class modsFactory {
     }
 
     /**
+     * Default to NOT looking locally, which makes a BIG assumption that image files are
+     * somehow copied over to local server
+     * @return
+     */
+    public Mods getMods() {
+        return getMods(false);
+    }
+    /**
      * Create the Mods object
      *
      * @return

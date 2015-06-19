@@ -69,7 +69,7 @@ public class mvzSection implements sectionMetadata {
         this.identifier = identifier;
         String[] chunks = identifier.split("/");
         String volume = chunks[chunks.length - 1].split("_")[0];
-        addPages(volume + File.separator + image.PAGE);
+        addPages(image.imageDirectory + File.separator  + volume + File.separator + image.PAGE);
     }
 
     /**
@@ -115,8 +115,9 @@ public class mvzSection implements sectionMetadata {
                 }
             } else {
                  File f = new File(urlString);
-                String foo = f.getAbsolutePath();
+                System.out.println("Looking for files at " + f.getAbsolutePath());
                 ArrayList<File> files = new ArrayList<File>(java.util.Arrays.asList(f.listFiles()));
+                System.out.println("here");
                 java.util.Iterator filesIt = files.iterator();
                 while (filesIt.hasNext()) {
                     File file = ((File) filesIt.next());

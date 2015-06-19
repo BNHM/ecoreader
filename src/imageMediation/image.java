@@ -51,13 +51,13 @@ public class image {
 
 
        // TODO: remove this comment block
-        /*
+
        try {
             System.out.println("Copying to local ...");
             FileUtils.copyURLToFile(new URL(page.getFullPath()), tmpFile);
         } catch (IOException e) {
             e.printStackTrace();
-        } */
+        }
 
 
         // Create the filestream for reading the file we've copied over from the remote server

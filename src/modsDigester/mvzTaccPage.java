@@ -17,7 +17,7 @@ public class mvzTaccPage implements pageMetadata {
     private String imageFileInputPath;
 
     // TODO: fix the path root, this should be an ARK
-    public static String imageFilePathRoot = "file:///Users/jdeck/IdeaProjects/nature-reader/web/";
+    public static String imageFilePathRoot = "file:///Users/jdeck/IdeaProjects/ecoreader/ecoreader/web/";
     private String imageLocation;
 
     /**

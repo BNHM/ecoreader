@@ -14,8 +14,7 @@ import java.util.Iterator;
  */
 public class processImages {
 
-    //static String xmlFile = "file:////Users/jdeck/IdeaProjects/nature-reader/sampledata/test.xml";
-    static String xmlFile = "file:////Users/jdeck/IdeaProjects/nature-reader/docs/mvz/mods/Grinnell_v1316.xml";
+    static String xmlFile = "file:////Users/jdeck/IdeaProjects/ecoreader/ecoreader/docs/mvz/mods/Grinnell_v1316_MODS.xml";
 
     /**
      * Main method for command-line testing

@@ -7,12 +7,10 @@ import java.util.Iterator;
 import java.util.LinkedList;
 
 /**
- * Printer class is meant to output whatever format you want.
- * Individual methods are called to return the desired format, reading instances of NotebookMetadata
+ * print notebook as JSON
  */
-public class printer {
+public class jsonPrinter extends  printerAbstractClass {
 
-    NotebookMetadata notebook = null;
     String delimiter;
 
     /**
@@ -20,9 +18,9 @@ public class printer {
      *
      * @param notebook
      */
-    public printer(NotebookMetadata notebook, String delimiter) {
+    public jsonPrinter(NotebookMetadata notebook, String delimiter) {
+        super(notebook);
         this.delimiter = delimiter;
-        this.notebook = notebook;
     }
 
     /**
