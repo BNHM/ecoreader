@@ -125,12 +125,12 @@ public class image {
         for (int i =0; i< names.length; i++) {
             System.out.println("\t" + names[i]);
         }
-        /*
-        mvzTaccPage page = new mvzTaccPage("http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s1/", "v1316_s1_p000.tif");
+
+        mvzTaccPage page = new mvzTaccPage("http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s2/", "v1316_s2_p000.tif");
         image i = new image(page);
 
         i.writeAllScales();
-        i.close(); */
+        i.close();
     }
 
     /**
