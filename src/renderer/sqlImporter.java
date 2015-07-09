@@ -61,7 +61,7 @@ public class sqlImporter {
             stmt.setString(7, section.getSectionNumberAsString());
 
             stmt.execute();
-        } catch (SQLException | ParseException e) {
+        } catch (Exception e) {
             throw new ServerErrorException(e);
         } finally {
             db.close(stmt, null);
@@ -111,7 +111,7 @@ public class sqlImporter {
             stmt.setString(6, notebook.getNameText());
 
             stmt.execute();
-        } catch (SQLException | ParseException e) {
+        } catch (Exception e) {
             throw new ServerErrorException(e);
         } finally {
             db.close(stmt, null);

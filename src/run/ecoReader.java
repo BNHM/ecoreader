@@ -1,8 +1,11 @@
 package run;
 
 import imageMediation.image;
+import modsDigester.Mods;
+import modsDigester.modsFactory;
 import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;
+import renderer.sqlImporter;
 import utils.ServerErrorException;
 import utils.database;
 
@@ -248,7 +251,7 @@ public class ecoReader {
         String testFile = "file:docs/mvz/mods/Grinnell_v1316_MODS.xml";
 
         // Create mods object to hold MODS data
-//        Mods mods = new modsFactory(testFile).getMods();
+        Mods mods = new modsFactory(testFile).getMods();
 
 //         Create an instance of printer with MODS object
 //        jsonPrinter printer = new jsonPrinter(mods,"|");
@@ -257,8 +260,8 @@ public class ecoReader {
         //System.out.println( printer.printNotebookMetadata());
 
 //        System.out.println( printer.printAllNotebookMetadata());
-//        sqlImporter sqlImporter = new sqlImporter(mods);
-//        sqlImporter.importNotebook();
+        sqlImporter sqlImporter = new sqlImporter(mods);
+        sqlImporter.importNotebook();
         ecoReader er = new ecoReader();
         System.out.println(er.getSectionPages(4));
     }
