@@ -35,7 +35,7 @@ function populateVolumes() {
             $.each(vol.sections, function(i, section) {
                 html += li.replace("{section_title}", section.title);
                 // TODO only add this link if the section has been scanned
-                if (true) {
+                if (section.isScanned) {
                     html = html.replace("{view_section}", view_section_template.replace("{section_id}", section.section_id));
                 } else {
                     html = html.replace("{view_section}", "");

@@ -108,7 +108,10 @@ public class ecoReader {
 
                 // TODO need to add a column to db indicating if the section has been scanned or there is only metadata
                 // TODO this column should be populate with the upload script
-                String sql = "SELECT section_id, title, geographic FROM section WHERE volume_id = ?";
+                String sql = "SELECT section_id, title, geographic, " + "" +
+                        "CASE WHEN EXISTS (SELECT section_id FROM page WHERE section.section_id = page.section_id) " +
+                        "THEN 'TRUE' ELSE 'FALSE' END AS isScanned " +
+                        "FROM section WHERE volume_id = ?";
                 stmt = conn.prepareStatement(sql);
                 stmt.setInt(1, vol_id);
 
@@ -120,6 +123,7 @@ public class ecoReader {
                     section.put("section_id", rs.getInt("section_id"));
                     section.put("title", rs.getString("title"));
                     section.put("geographic", rs.getString("geographic"));
+                    section.put("isScanned", rs.getBoolean("isScanned"));
 
                     sections.add(section);
                 }
