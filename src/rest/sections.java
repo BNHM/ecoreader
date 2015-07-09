@@ -9,23 +9,22 @@ import javax.ws.rs.core.Response;
 import javax.ws.rs.core.Response.ResponseBuilder;
 
 /**
- * REST services for working with volumes
+ * REST services for working with sections
  *
- * @author jdeck
  */
-@Path("volumes")
-public class volumes {
+@Path("sections")
+public class sections {
     ResponseBuilder rb;
 
 //    @GET
 //    @Produces("application/json")
 //    @Path("/list")
-//    public Response getVolumes(
+//    public Response getSections(
 //            @QueryParam("session") String session) throws MalformedURLException {
 //
 //
 //        ecoReader er = new ecoReader();
-//        String json = er.getVolumes(null);
+//        String json = er.getSections(null);
 //        try {
 //            rb = Response.ok(json);
 //        } catch (Exception e) {
@@ -39,10 +38,10 @@ public class volumes {
 
     @GET
     @Produces(MediaType.APPLICATION_JSON)
-    @Path("/{author}/")
-    public Response getVolumesByAuthor(@PathParam("author") String author) {
+    @Path("/{section_id}/")
+    public Response getSectionPages(@PathParam("section_id") int section_id) {
         ecoReader er = new ecoReader();
-        String json = er.getVolumes(author);
+        String json = er.getSectionPages(section_id);
 
         try {
             rb = Response.ok(json);
