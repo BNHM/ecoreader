@@ -333,3 +333,15 @@ dd { margin: 0; padding: 0; display: none }
 .Warning:hover { text-decoration: underline;}
 .Error {color:red;}
 .Error:hover { text-decoration: underline;}
+
+
+/*
+*** FancyBox Section
+*/
+
+/*#fancybox-thumbs {
+*    width: 400px;
+*    left: 50%;
+*    margin-left: -200px;
+*}
+*/

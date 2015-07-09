@@ -24,6 +24,10 @@
             </tr>
         </table>
 
+        <div id="results">
+        </div>
+        <div id="parent_wrap"></div>
+
     </div>
 </div>
 
@@ -32,7 +36,7 @@
     $(document).ready(function() {
         populateAuthors();
         $("input[type=button]").click(function() {
-             formSubmit();
+             populateVolumes();
         });
     });
 </script>
