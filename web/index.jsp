@@ -10,7 +10,7 @@
             <tr>
                 <td align="right">Author Name&nbsp;&nbsp;</td>
                 <td>
-                    <select width=20 name="authors" id="authors">
+                    <select class="combobox" width=20 name="authors" id="authors">
                         <option value=0>Loading authors ...</option>
                     </select>
                 </td>
