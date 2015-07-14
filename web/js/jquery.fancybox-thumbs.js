@@ -24,6 +24,7 @@
 			width    : 50,       // thumbnail width
 			height   : 50,       // thumbnail height
 			position : 'bottom', // 'top' or 'bottom'
+			displayThumbs: null , // number of thumbnails to display. null if all thumbs to be displayed
 			source   : function ( item ) {  // function to obtain the URL of the thumbnail image
 				var href;
 
@@ -109,9 +110,14 @@
 			});
 
 			//Set initial width
-			this.width = this.list.children().eq(0).outerWidth(true);
+            this.width = this.list.children().eq(0).outerWidth(true);
 
-			this.list.width(this.width * (obj.group.length + 1)).css('left', Math.floor($(window).width() * 0.5 - (obj.index * this.width + this.width * 0.5)));
+			if (opts.displayThumbs != null) {
+			    // only display the specified number of thumbs and center
+                this.wrap.width(this.width * opts.displayThumbs).css("left", "50%").css("margin-left", -(this.wrap.width()/2));
+            }
+
+			this.list.width(this.width * (obj.group.length + 1));
 		},
 
 		beforeLoad: function (opts, obj) {
@@ -139,11 +145,23 @@
 			this.list.children().removeClass('active').eq(obj.index).addClass('active');
 		},
 
-		//Center list
 		onUpdate: function (opts, obj) {
+		    // reset the width if they don't match. jquery mysteriously adjusts the width
+		    if (this.width != this.list.children().eq(0).outerWidth(true)) {
+                this.width = this.list.children().eq(0).outerWidth(true);
+
+                if (opts.displayThumbs != null) {
+                    // only display the specified number of thumbs and center
+                    this.wrap.width(this.width * opts.displayThumbs).css("left", "50%").css("margin-left", -(this.wrap.width()/2));
+                }
+
+                this.list.width(this.width * (obj.group.length + 1));
+            }
+
+            // Center list
 			if (this.list) {
 				this.list.stop(true).animate({
-					'left': Math.floor($(window).width() * 0.5 - (obj.index * this.width + this.width * 0.5))
+					'left': Math.floor(this.wrap.width() * 0.5 - (obj.index * this.width + this.width * 0.5))
 				}, 150);
 			}
 		},

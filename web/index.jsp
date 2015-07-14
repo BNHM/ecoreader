@@ -26,7 +26,6 @@
 
         <div id="results">
         </div>
-        <div id="parent_wrap"></div>
 
     </div>
 </div>
