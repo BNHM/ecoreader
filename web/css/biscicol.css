@@ -309,7 +309,7 @@ li {
 
 .navbar-default {
      color: #333;
-    margin: 4px 6px;
+    /*margin: 4px 6px;*/
     margin-bottom: 0;
     padding: 4px 22px;
     border: solid 1px #888;
@@ -321,6 +321,23 @@ li {
     box-shadow: 0px 0px 6px rgba(0, 0, 0, .3);
 }
 
+#query {
+    width: 50%;
+    margin-bottom: 15px;
+}
+
+#results {
+    border-top: 1px solid #777;
+    display:none;
+}
+
+#query .form-group {
+    margin-bottom: 7px;
+}
+
+.dropdown-menu {
+    width: 92%;
+}
 /*
 *  dd element defines those items that are hidden in a toggle option on validation results
 */

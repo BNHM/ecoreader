@@ -43,7 +43,7 @@ function populateVolumes() {
 
         html += "</tbody></table>";
 
-        $("#results").html(html);
+        $("#results").html(html).show();
         $(".view_section").click(function() {
             showSection(this.dataset.id);
         });
