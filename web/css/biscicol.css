@@ -326,10 +326,10 @@ li {
     margin-bottom: 15px;
 }
 
-#results {
+/*#results {
     border-top: 1px solid #777;
     display:none;
-}
+}*/
 
 #query .form-group {
     margin-bottom: 7px;
@@ -337,6 +337,19 @@ li {
 
 .dropdown-menu {
     width: 92%;
+}
+
+.list-group-item {
+    padding: 0 0 4px 15px;
+    border: none;
+}
+
+.list-group-heading {
+    padding-bottom: 8px;
+}
+
+.list-group {
+    margin-bottom: 16px;
 }
 /*
 *  dd element defines those items that are hidden in a toggle option on validation results
@@ -364,8 +377,16 @@ dd { margin: 0; padding: 0; display: none }
     padding: 15px;
 }
 
-img.fancybox-image:hover {
+a#img_link:hover {
     cursor: zoom-in;
+}
+
+#img_link {
+    position: absolute;
+    width: 70%;
+    height: 100%;
+    top: 0;
+    left: 15%;
 }
 .fancybox-sidebar-container {
     position: relative;
@@ -375,4 +396,12 @@ img.fancybox-image:hover {
     position: absolute;
     width: 100%;
     bottom: 0;
+}
+
+#fancybox-thumbs.bottom {
+    max-height: 106px;
+}
+
+.fancybox-nav {
+    width: 15%;
 }

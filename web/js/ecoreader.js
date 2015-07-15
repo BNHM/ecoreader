@@ -20,28 +20,27 @@ function populateAuthors() {
 
 function populateVolumes() {
     theUrl = "rest/volumes/";
-    $.getJSON( theUrl + $("#authors").val(), function(data) {
-        var tr_begin = "<tr>\n\t<td>\n\t<b>{vol_title}</b>\n";
-        var tr_end = "\t</td>\n</tr>\n";
-        var li = "<li>{section_title}{view_section}</li>";
+    $.getJSON( theUrl + $("#authors").val + "?" + $("form").serialize(), function(data) {
+        var list_group_tpl = "<ul class='list-group'>{list}</ul>";
+        var list_heading_tpl = "<h4 class='list-group-heading'>{vol_title}</h4>";
+        var list_item_tpl = "<li class='list-group-item'>{section_title}{view_section}</li>";
+        var list;
+        var html = "";
         var view_section_template = " [<a href='#' class='view_section' data-id='{section_id}'>view section</a>]";
-        var html = "<table><tbody>";
 
         // generate the table of volumes and the corresponding sections
         $.each(data.volumes, function(i, vol) {
-            html += tr_begin.replace("{vol_title}", vol.title);
+            list = list_heading_tpl.replace("{vol_title}", vol.title)
             $.each(vol.sections, function(i, section) {
-                html += li.replace("{section_title}", section.title);
+                list += list_item_tpl.replace("{section_title}", section.title);
                 if (section.isScanned) {
-                    html = html.replace("{view_section}", view_section_template.replace("{section_id}", section.section_id));
+                    list = list.replace("{view_section}", view_section_template.replace("{section_id}", section.section_id));
                 } else {
-                    html = html.replace("{view_section}", "");
+                    list = list.replace("{view_section}", "");
                 }
             });
-            html += tr_end;
+            html += list_group_tpl.replace("{list}", list);
         });
-
-        html += "</tbody></table>";
 
         $("#results").html(html).show();
         $(".view_section").click(function() {
@@ -93,7 +92,10 @@ function showSection(section_id, galIndex) {
                     $.fancybox.jumpto(galIndex);
                     galIndex = null;
                 }
-                $("img.fancybox-image").click( {href: this.big} ,function(event) {
+
+                $("<a id='img_link' href='#'></a>").insertAfter(".fancybox-prev");
+
+                $("#img_link").click( {href: this.big} ,function(event) {
                       (function(index) {
                           $.fancybox.close();
                           $.fancybox.open({

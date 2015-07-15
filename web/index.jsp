@@ -8,50 +8,52 @@
 
         <form class="form-horizontal" >
           <div class="form-group form-group-sm">
-            <label for="authors" class="col-md-2 control-label">Author Name</label>
-            <div class="col-md-8">
-              <select class="combobox form-control" width=20 name="authors" id="authors">
-                        <option value=0>Loading authors ...</option>
+            <label for="author" class="col-md-2 control-label">Author Name</label>
+            <div class="col-md-5">
+              <select class="combobox form-control" width=20 id="authors">
+                        <option value=''>Loading authors ...</option>
               </select>
             </div>
           </div>
           <div class="form-group form-group-sm">
             <label for="begin_date" class="col-md-2 control-label">Year Between</label>
               <div class="col-md-2">
-                  <input type="text" class="form-control" id="begin_date">
+                  <input type="text" class="form-control" name="begin_date">
               </div>
               <div class="col-md-1" style="height:30px;line-height:30px;text-align:center;">
                   <span style="display:inline-block;vertical-align:bottom;line-height:normal;">and</span>
               </div>
               <div class="col-md-2">
-                  <input type="text" class="form-control" id="end_date">
+                  <input type="text" class="form-control" name="end_date">
               </div>
           </div>
           <div class="form-group form-group-sm">
             <label for="section_title" class="col-md-2 control-label">Section Title</label>
             <div class="col-md-8">
-              <input type="text" class="form-control" id="section_title">
+              <input type="text" class="form-control" name="section_title">
             </div>
           </div>
           <div class="form-group form-group-sm">
             <label for="volume_id" class="col-md-2 control-label">Volume Id</label>
             <div class="col-md-2">
-              <input type="text" class="form-control" id="volume_id">
+              <input type="text" class="form-control" name="volume_id">
             </div>
           </div>
+          <!--
           <div class="form-group form-group-sm">
             <label for="type" class="col-md-2 control-label">Type</label>
             <div class="col-md-8">
-              <select class="form-control" width=20 name="type" id="type">
+              <select class="form-control" width=20 name="type" name="type">
                         <option value="any">Any<option>
               </select>
             </div>
           </div>
+          -->
           <div class="form-group form-group-sm">
             <div class="col-md-offset-2 col-md-8">
               <div class="checkbox">
                 <label>
-                  <input type="checkbox"> Scanned sections only
+                  <input type="checkbox" name="scanned_only"> Scanned sections only
                 </label>
               </div>
             </div>
