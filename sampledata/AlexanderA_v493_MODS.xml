@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<mods:mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mods:titleInfo>
+        <mods:title>Field Notes: Alexander A.M. 1907-11</mods:title>
+    </mods:titleInfo>
+    <mods:language>
+        <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+        <mods:languageTerm type="text">English</mods:languageTerm>
+    </mods:language>
+    <mods:originInfo>
+        <mods:dateCreated>1907-04-23/1911-03-08</mods:dateCreated>
+        <mods:dateCreated point="start">1907</mods:dateCreated>
+        <mods:dateCreated point="end">1911</mods:dateCreated>
+    </mods:originInfo>
+    <mods:name type="personal" authority="LCHS">
+        <mods:role>
+            <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+            <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+        </mods:role>
+        <mods:namePart type="family">Alexander</mods:namePart>
+        <mods:namePart type="given">Annie Montague</mods:namePart>
+        <mods:namePart type="date">1867-1950</mods:namePart>
+        <mods:displayForm>Alexander, Annie Montague, 1867-1950</mods:displayForm>
+    </mods:name>
+    <mods:name type="personal" authority="ingest">
+        <mods:role>
+            <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+            <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+        </mods:role>
+        <mods:namePart type="family">Knowles</mods:namePart>
+        <mods:namePart type="given">George</mods:namePart>
+        <mods:namePart type="date">1867-1958</mods:namePart>
+        <mods:displayForm>Knowles, George</mods:displayForm>
+    </mods:name>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 0: General Index</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1907-04-23/1911-03-08</mods:dateCreated>
+            <mods:dateCreated point="start">1907</mods:dateCreated>
+            <mods:dateCreated point="end">1911</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="ingest">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Alexander</mods:namePart>
+            <mods:namePart type="given">Annie Montague</mods:namePart>
+            <mods:namePart type="date">1867-1951</mods:namePart>
+            <mods:displayForm>Alexander, Annie Montague, 1867-1951</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>1 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/AlexanderA/v493_s0.jpg</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 1: Southeastern Alaska 1907</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1907-04-23/1907-12-02</mods:dateCreated>
+            <mods:dateCreated point="start">1907</mods:dateCreated>
+            <mods:dateCreated point="end">1907</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="ingest">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Alexander</mods:namePart>
+            <mods:namePart type="given">Annie Montague</mods:namePart>
+            <mods:namePart type="date">1867-1952</mods:namePart>
+            <mods:displayForm>Alexander, Annie Montague, 1867-1952</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>13 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/AlexanderA/v493_s1.jpg</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 2: Alaska-Prince William Sound 1908</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1908-06-04/1908-09-05</mods:dateCreated>
+            <mods:dateCreated point="start">1908</mods:dateCreated>
+            <mods:dateCreated point="end">1908</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="ingest">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Alexander</mods:namePart>
+            <mods:namePart type="given">Annie Montague</mods:namePart>
+            <mods:namePart type="date">1867-1953</mods:namePart>
+            <mods:displayForm>Alexander, Annie Montague, 1867-1953</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>46 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/AlexanderA/v493_s2.jpg</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 3: Hawaiian Islands 1910</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1910-01-22/1910-03-21</mods:dateCreated>
+            <mods:dateCreated point="start">1910</mods:dateCreated>
+            <mods:dateCreated point="end">1910</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="ingest">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Alexander</mods:namePart>
+            <mods:namePart type="given">Annie Montague</mods:namePart>
+            <mods:namePart type="date">1867-1954</mods:namePart>
+            <mods:displayForm>Alexander, Annie Montague, 1867-1954</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>30 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/AlexanderA/v493_s3.jpg</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 4: Vancouver Island, British Columbia</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1910-04-21/1910-06-27</mods:dateCreated>
+            <mods:dateCreated point="start">1910</mods:dateCreated>
+            <mods:dateCreated point="end">1910</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="ingest">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Alexander</mods:namePart>
+            <mods:namePart type="given">Annie Montague</mods:namePart>
+            <mods:namePart type="date">1867-1955</mods:namePart>
+            <mods:displayForm>Alexander, Annie Montague, 1867-1955</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>39 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/AlexanderA/v493_s4.jpg</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 5: Nevada and El Dorado Cos., Calif. 1910</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1910-08-02/1910-08-21</mods:dateCreated>
+            <mods:dateCreated point="start">1910</mods:dateCreated>
+            <mods:dateCreated point="end">1910</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="ingest">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Alexander</mods:namePart>
+            <mods:namePart type="given">Annie Montague</mods:namePart>
+            <mods:namePart type="date">1867-1956</mods:namePart>
+            <mods:displayForm>Alexander, Annie Montague, 1867-1956</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>14 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/AlexanderA/v493_s5.jpg</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 6: San Francisco Bay Region 1910</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1910-12-01/1910-12-16</mods:dateCreated>
+            <mods:dateCreated point="start">1910</mods:dateCreated>
+            <mods:dateCreated point="end">1910</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="ingest">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Alexander</mods:namePart>
+            <mods:namePart type="given">Annie Montague</mods:namePart>
+            <mods:namePart type="date">1867-1957</mods:namePart>
+            <mods:displayForm>Alexander, Annie Montague, 1867-1957</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>5 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/AlexanderA/v493_s6.jpg</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 7: Trinity and Shasta Cos., Calif. 1911</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1911-02-10/1911-03-08</mods:dateCreated>
+            <mods:dateCreated point="start">1911</mods:dateCreated>
+            <mods:dateCreated point="end">1911</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="ingest">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Alexander</mods:namePart>
+            <mods:namePart type="given">Annie Montague</mods:namePart>
+            <mods:namePart type="date">1867-1958</mods:namePart>
+            <mods:displayForm>Alexander, Annie Montague, 1867-1958</mods:displayForm>
+        </mods:name>
+        <mods:name type="personal" authority="ingest">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Knowles</mods:namePart>
+            <mods:namePart type="given">George</mods:namePart>
+            <mods:namePart type="date">1867-1958</mods:namePart>
+            <mods:displayForm>Knowles, George</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>61 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/AlexanderA/v493_s7.jpg</mods:identifier>
+    </mods:relatedItem>
+</mods:mods>
