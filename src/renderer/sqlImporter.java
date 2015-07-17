@@ -54,10 +54,7 @@ public class sqlImporter {
             stmt.setString(4, section.getTitle());
             stmt.setString(5, section.getGeographic());
 
-            SimpleDateFormat sdf = new SimpleDateFormat("yyyy");
-            Date date = new Date(sdf.parse(section.getDateCreated()).getTime());
-
-            stmt.setDate(6, date);
+            stmt.setInt(6, Integer.parseInt(section.getDateCreated()));
             stmt.setString(7, section.getSectionNumberAsString());
 
             stmt.execute();
@@ -102,12 +99,8 @@ public class sqlImporter {
             stmt.setString(2, null);
             stmt.setString(3, notebook.getTitle());
 
-            SimpleDateFormat sdf = new SimpleDateFormat("yyyy");
-            Date startDate = new Date(sdf.parse(notebook.getDateStartText()).getTime());
-            Date endDate = new Date(sdf.parse(notebook.getDateEndText()).getTime());
-
-            stmt.setDate(4, startDate);
-            stmt.setDate(5, endDate);
+            stmt.setInt(4, Integer.parseInt(notebook.getDateStartText()));
+            stmt.setInt(5, Integer.parseInt(notebook.getDateEndText()));
             stmt.setString(6, notebook.getNameText());
 
             stmt.execute();
