@@ -20,7 +20,7 @@ function populateAuthors() {
 
 function populateVolumes() {
     theUrl = "rest/volumes/";
-    $.getJSON( theUrl + $("#authors").val + "?" + $("form").serialize(), function(data) {
+    $.getJSON( theUrl + $("#authors").val() + "?" + $("form").serialize(), function(data) {
         var list_group_tpl = "<ul class='list-group'>{list}</ul>";
         var list_heading_tpl = "<h4 class='list-group-heading'>{vol_title}</h4>";
         var list_item_tpl = "<li class='list-group-item'>{section_title}{view_section}</li>";

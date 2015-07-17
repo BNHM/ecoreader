@@ -53,7 +53,7 @@
             <div class="col-md-offset-2 col-md-8">
               <div class="checkbox">
                 <label>
-                  <input type="checkbox" name="scanned_only"> Scanned sections only
+                  <input type="checkbox" name="scanned_only" value="true"> Scanned sections only
                 </label>
               </div>
             </div>

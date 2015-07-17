@@ -58,17 +58,58 @@ public class ecoReader {
         return res.toJSONString();
     }
 
-    public String getVolumes(String author) {
+    public String getVolumes(String author, String section_title, boolean scanned_only, int volume_id,
+                             int begin_date, int end_date) {
         PreparedStatement stmt = null;
         ResultSet rs = null;
 
         JSONArray volumes = new JSONArray();
 
         try {
-            String sql = "SELECT title, volume_id FROM volume WHERE name = ?";
+            int paramSet = 1;
+            StringBuilder sql = new StringBuilder("SELECT title, volume_id FROM volume WHERE name = ?");
 
-            stmt = conn.prepareStatement(sql);
+            if (section_title != null && !section_title.isEmpty()) {
+                sql.append("AND Exists (SELECT * from section WHERE title = ? AND section.volume_id = volume.volume_id)");
+                paramSet++;
+            }
+            if (volume_id > 0) {
+                sql.append(" AND volume_id = ?");
+                paramSet++;
+            }
+            if (begin_date > 0) {
+                sql.append(" AND startDate >= ?");
+                paramSet++;
+            }
+            if (end_date > 0) {
+                sql.append(" AND endDate <= ?");
+                paramSet++;
+            }
+
+            stmt = conn.prepareStatement(sql.toString());
             stmt.setString(1, author);
+
+            int curr = 2;
+
+
+            if (curr <= paramSet) {
+                if (section_title != null && !section_title.isEmpty()) {
+                    stmt.setString(curr, section_title);
+                    curr++;
+                }
+                if (volume_id > 0) {
+                    stmt.setInt(curr, volume_id);
+                    curr++;
+                }
+                if (begin_date > 0) {
+                    stmt.setInt(curr, begin_date);
+                    curr++;
+                }
+                if (end_date > 0) {
+                    stmt.setInt(curr, end_date);
+                    curr ++;
+                }
+            }
 
             rs = stmt.executeQuery();
             while (rs.next()) {
@@ -90,11 +131,11 @@ public class ecoReader {
         JSONObject res = new JSONObject();
         res.put("volumes", volumes);
 
-        getSections(res);
+        getSections(res, scanned_only);
         return res.toJSONString();
     }
 
-    private void getSections(JSONObject volumes) {
+    private void getSections(JSONObject volumes, boolean scanned_only) {
         PreparedStatement stmt = null;
         ResultSet rs = null;
 
@@ -106,8 +147,6 @@ public class ecoReader {
 
                 int vol_id = Integer.parseInt(vol.get("volume_id").toString());
 
-                // TODO need to add a column to db indicating if the section has been scanned or there is only metadata
-                // TODO this column should be populate with the upload script
                 String sql = "SELECT section_id, title, geographic, " + "" +
                         "CASE WHEN EXISTS (SELECT section_id FROM page WHERE section.section_id = page.section_id) " +
                         "THEN 'TRUE' ELSE 'FALSE' END AS isScanned " +
@@ -120,12 +159,22 @@ public class ecoReader {
                 while (rs.next()) {
                     JSONObject section = new JSONObject();
 
-                    section.put("section_id", rs.getInt("section_id"));
-                    section.put("title", rs.getString("title"));
-                    section.put("geographic", rs.getString("geographic"));
-                    section.put("isScanned", rs.getBoolean("isScanned"));
+                    if (!scanned_only || (scanned_only && rs.getBoolean("isScanned"))) {
+                        section.put("section_id", rs.getInt("section_id"));
+                        section.put("title", rs.getString("title"));
+                        section.put("geographic", rs.getString("geographic"));
+                        section.put("isScanned", rs.getBoolean("isScanned"));
 
-                    sections.add(section);
+                        sections.add(section);
+                    }
+                }
+
+                //remove the volume if there are no scanned sections and scanned_only it true
+                if (scanned_only) {
+                    if (((JSONArray) vol.get("sections")).isEmpty()) {
+                        it.remove();
+//                        volumes.remove(it);
+                    }
                 }
             }
         } catch (SQLException e) {
@@ -264,9 +313,9 @@ public class ecoReader {
         //System.out.println( printer.printNotebookMetadata());
 
 //        System.out.println( printer.printAllNotebookMetadata());
-        sqlImporter sqlImporter = new sqlImporter(mods);
-        sqlImporter.importNotebook();
+//        sqlImporter sqlImporter = new sqlImporter(mods);
+//        sqlImporter.importNotebook();
         ecoReader er = new ecoReader();
-        System.out.println(er.getSectionPages(4));
+        System.out.println(er.getVolumes("Joseph Grinnell", null, true, 0, 1909, 0));
     }
 }
