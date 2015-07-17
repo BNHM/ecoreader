@@ -9,7 +9,7 @@
 
     <link rel="stylesheet" type="text/css" href="css/jquery-ui.css" />
     <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
-    <link rel="stylesheet" type="text/css" href="https://rawgit.com/danielfarrell/bootstrap-combobox/master/css/bootstrap-combobox.css">
+    <link rel="stylesheet" type="text/css" href="css/bootstrap-combobox.css">
     <link rel="stylesheet" type="text/css" href="css/jquery.fancybox.css"/>
     <link rel="stylesheet" type="text/css" href="css/jquery.fancybox-thumbs.css"/>
     <link rel="stylesheet" type="text/css" href="css/alerts.css"/>
@@ -18,8 +18,8 @@
     <script type="text/javascript" src="js/jquery.js"></script>
     <script type="text/javascript" src="js/jquery-ui.min.js"></script>
     <script type="text/javascript" src="js/bootstrap.min.js"></script>
-    <script type="text/javascript" src="https://rawgit.com/danielfarrell/bootstrap-combobox/master/js/bootstrap-combobox.js"></script>
-    <script type="text/javascript" src="js/jquery.fancybox.js"></script>
+    <script type="text/javascript" src="js/bootstrap-combobox.js"></script>
+    <script type="text/javascript" src="js/jquery.fancybox.pack.js"></script>
     <script type="text/javascript" src="js/jquery.fancybox-thumbs.js"></script>
     <script type="text/javascript" src="js/ecoreader.js"></script>
 

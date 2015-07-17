@@ -173,7 +173,6 @@ public class ecoReader {
                 if (scanned_only) {
                     if (((JSONArray) vol.get("sections")).isEmpty()) {
                         it.remove();
-//                        volumes.remove(it);
                     }
                 }
             }
@@ -205,6 +204,7 @@ public class ecoReader {
                 page.put("thumb", "images/" + volume + "/" + image.THUMB + "/" + file_name);
                 page.put("href", "images/" + volume + "/" + image.PAGE+ "/" + file_name);
                 page.put("big", "images/" + volume + "/" + image.BIG+ "/" + file_name);
+                page.put("high_res", rs.getString("page_identifier"));
                 page.put("title", "page: " + rs.getInt("page_number"));
 
                 pages.add(page);

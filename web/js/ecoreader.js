@@ -20,6 +20,12 @@ function populateAuthors() {
 
 function populateVolumes() {
     theUrl = "rest/volumes/";
+    if ($("#authors").val().length <= 0) {
+        $("#author_combobox").addClass("has-error");
+        return;
+    } else {
+        $("#author_combobox").removeClass("has-error");
+    }
     $.getJSON( theUrl + $("#authors").val() + "?" + $("form").serialize(), function(data) {
         var list_group_tpl = "<ul class='list-group'>{list}</ul>";
         var list_heading_tpl = "<h4 class='list-group-heading'>{vol_title}</h4>";
@@ -77,12 +83,14 @@ function showSection(section_id, galIndex) {
                   var sidebar = $('<div class="fancybox-sidebar"><div class="fancybox-sidebar-container"></div></div>');
                   this.skin.append(sidebar);
 
-                  var html = "<div class='fancybox-img-download'><a href='' download='image.png'>Download Image</a>" +
-                             "</div><div class='fancybox-page-nav'><a href='#' onClick='$.fancybox.jumpto(0);'>First</a>" +
+                  var html = "<div class='fancybox-img-download'><p>Download Image:</p><a href='' id='600' download='image.png'>600</a>" +
+                             "<a href='' id='high_res' download='high_res.tif'>high res</a></div><div class='fancybox-page-nav'>" +
+                             "<a href='#' onClick='$.fancybox.jumpto(0);'>First</a>" +
                              "<a href='#' style='display:block;float:right;' onClick='$.fancybox.jumpto($.fancybox.group.length - 1);'>Last</a></div>";
 
                   $(".fancybox-tmp .fancybox-sidebar-container").html(html);
-                  $(".fancybox-img-download a").attr("href", this.big);
+                  $(".fancybox-img-download a#600").attr("href", this.big);
+                  $(".fancybox-img-download a#high_res").attr("href", this.high_res);
              },
              onUpdate: function() {
                 $(".fancybox-sidebar").height(this.inner.height());
@@ -127,4 +135,14 @@ $('#alerts').append(
         '<div class="alert">' +
             '<button type="button" class="close" data-dismiss="alert">' +
             '&times;</button>' + message + '</div>');
+}
+
+function toggleQuery() {
+    if ($('.toggle-content#query_toggle').is(':hidden')) {
+        $('.toggle-content#query_toggle').show(400);
+        $('#toggle_query button').html("-");
+    } else {
+        $('.toggle-content#query_toggle').hide(400);
+        $('#toggle_query button').html("+");
+    }
 }
