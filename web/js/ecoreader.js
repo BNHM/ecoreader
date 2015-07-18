@@ -84,9 +84,12 @@ function showSection(section_id, galIndex) {
                   this.skin.append(sidebar);
 
                   var html = "<div class='fancybox-img-download'><p>Download Image:</p><a href='' id='600' download='image.png'>600</a>" +
-                             "<a href='' id='high_res' download='high_res.tif'>high res</a></div><div class='fancybox-page-nav'>" +
-                             "<a href='#' onClick='$.fancybox.jumpto(0);'>First</a>" +
-                             "<a href='#' style='display:block;float:right;' onClick='$.fancybox.jumpto($.fancybox.group.length - 1);'>Last</a></div>";
+                             "<a href='' id='high_res' download='high_res.tif'>high res</a></div>";
+                  if (this.group.length > 1) {
+                      html += "<div class='fancybox-page-nav'>" +
+                              "<a href='#' onClick='$.fancybox.jumpto(0);'>First</a>" +
+                              "<a href='#' style='display:block;float:right;' onClick='$.fancybox.jumpto($.fancybox.group.length - 1);'>Last</a></div>";
+                  }
 
                   $(".fancybox-tmp .fancybox-sidebar-container").html(html);
                   $(".fancybox-img-download a#600").attr("href", this.big);
