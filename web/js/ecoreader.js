@@ -87,8 +87,9 @@ function showSection(section_id, galIndex) {
                              "<a href='' id='high_res' download='high_res.tif'>high res</a></div>";
                   if (this.group.length > 1) {
                       html += "<div class='fancybox-page-nav'>" +
-                              "<a href='#' onClick='$.fancybox.jumpto(0);'>First</a>" +
-                              "<a href='#' style='display:block;float:right;' onClick='$.fancybox.jumpto($.fancybox.group.length - 1);'>Last</a></div>";
+                              "<a href='#' class='btn btn-default' onClick='$.fancybox.jumpto(0);'>First</a>" +
+                              "<a href='#' class='btn btn-default'style='float:right;' " +
+                              "onClick='$.fancybox.jumpto($.fancybox.group.length - 1);'>Last</a></div>";
                   }
 
                   $(".fancybox-tmp .fancybox-sidebar-container").html(html);
