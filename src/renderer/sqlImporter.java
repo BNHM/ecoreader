@@ -162,8 +162,8 @@ public class sqlImporter {
     private void updateVolume() {
         PreparedStatement stmt = null;
         try {
-            String sql = "UPDATE volume SET (volume_identifier, type, title, startDate, endDate, name) VALUES (" +
-                    "?,?,?,?,?,?) WHERE filename = ?";
+            String sql = "UPDATE volume SET volume_identifier = ?, type = ?, title = ?, startDate = ?, endDate = ?," +
+                    " name = ? WHERE filename = ?";
             stmt = conn.prepareStatement(sql);
 
             stmt.setString(1, notebook.getIdentifier());
@@ -187,18 +187,19 @@ public class sqlImporter {
     private void updateSection(mvzSection section) {
         PreparedStatement stmt = null;
         try {
-            String sql = "UPDATE section SET (volume_id, section_identifier, type, title, geographic, dateCreated, " +
-                    "sectionNumberAsString) VALUES ((Select volume_id from volume where filename = ?),?,?,?,?,?,?)";
+            String sql = "UPDATE section SET section_identifier = ?, type = ?, title = ?, geographic = ?," +
+                    " dateCreated = ? WHERE volume_id = (Select volume_id from volume where filename = ?)" +
+                    " AND sectionNumberAsString = ? ";
             stmt = conn.prepareStatement(sql);
 
-            stmt.setString(1, notebook.getFilename());
-            stmt.setString(2, section.getIdentifier());
+            stmt.setString(1, section.getIdentifier());
             // TODO insert type
-            stmt.setString(3, null);
-            stmt.setString(4, section.getTitle());
-            stmt.setString(5, section.getGeographic());
+            stmt.setString(2, null);
+            stmt.setString(3, section.getTitle());
+            stmt.setString(4, section.getGeographic());
 
-            stmt.setInt(6, Integer.parseInt(section.getDateCreated()));
+            stmt.setInt(5, Integer.parseInt(section.getDateCreated()));
+            stmt.setString(6, notebook.getFilename());
             stmt.setString(7, section.getSectionNumberAsString());
 
             stmt.execute();
@@ -213,16 +214,16 @@ public class sqlImporter {
     private void updatePage(pageMetadata page, String section_identifier) {
         PreparedStatement stmt = null;
         try {
-            String sql = "INSERT INTO page (section_id, page_number, page_identifier, type) VALUES ((SELECT section_id " +
-                    "FROM section WHERE section_identifier = ?),?,?,?)";
+            String sql = "UPDATE page SET page_identifier = ?, type = ? WHERE section_id = (SELECT section_id " +
+                    "FROM section WHERE section_identifier = ?) AND page_number = ?";
             stmt = conn.prepareStatement(sql);
 
-            stmt.setString(1, section_identifier);
-            stmt.setInt(2, page.getPageNumberAsInt());
             // is this correct?
-            stmt.setString(3, page.getFullPath());
+            stmt.setString(1, page.getFullPath());
             // TODO insert type
-            stmt.setString(4, null);
+            stmt.setString(2, null);
+            stmt.setString(3, section_identifier);
+            stmt.setInt(4, page.getPageNumberAsInt());
 
             stmt.execute();
         } catch (SQLException e) {

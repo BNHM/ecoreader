@@ -45,7 +45,7 @@ public class importer {
                 String file = (String) f;
 
                 if (file.startsWith(mods_dir)) {
-                    added.add(repo_url + sha + file);
+                    added.add(repo_url + sha + "/" + file);
                 }
             }
 
@@ -53,7 +53,7 @@ public class importer {
                 String file = (String) f;
 
                 if (file.startsWith(mods_dir)) {
-                    modified.add(repo_url + sha + file);
+                    modified.add(repo_url + sha + "/" + file);
                 }
             }
 
@@ -61,7 +61,7 @@ public class importer {
                 String file = (String) f;
 
                 if (file.startsWith(mods_dir)) {
-                    removed.add(repo_url + sha + file);
+                    removed.add(repo_url + sha + "/" + file);
                 }
             }
 

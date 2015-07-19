@@ -5,7 +5,7 @@ url = jdbc:mysql://localhost/ecoreader
 class = com.mysql.jdbc.Driver
 
 # path to mods files
-mods_dir= docs/mvz/mods
+mods_dir = docs/mvz/mods
 
 # raw content github repo url
 repo_url = https://raw.githubusercontent.com/BNHM/ecoreader/
