@@ -15,7 +15,7 @@ import java.util.LinkedList;
 public class Mods implements NotebookMetadata {
 
     // xmlFile to Parse
-    public String inputXmlFile;
+    private String filename;
     private String title;
 
     private final LinkedList<sectionMetadata> sections = new LinkedList<sectionMetadata>();
@@ -32,6 +32,15 @@ public class Mods implements NotebookMetadata {
 
     public LinkedList<Term> getLanguage() {
         return languageList;
+    }
+
+    @Override
+    public String getFilename() {
+        return filename;
+    }
+
+    public void setFilename(String filename) {
+        this.filename = filename;
     }
 
     public String getLanguageText() {

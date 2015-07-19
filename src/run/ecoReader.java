@@ -301,7 +301,7 @@ public class ecoReader {
 
         // Here is a test file to work with.
         // Later, we want to harvest any docs that appear in GitHub repository and put in Mysql database
-        String testFile = "file:docs/mvz/mods/Grinnell_v1316_MODS.xml";
+        String testFile = "file:docs/mvz/mods/Grinnell_v1333_MODS.xml";
 
         // Create mods object to hold MODS data
         Mods mods = new modsFactory(testFile).getMods();
@@ -313,9 +313,9 @@ public class ecoReader {
         //System.out.println( printer.printNotebookMetadata());
 
 //        System.out.println( printer.printAllNotebookMetadata());
-//        sqlImporter sqlImporter = new sqlImporter(mods);
-//        sqlImporter.importNotebook();
-        ecoReader er = new ecoReader();
-        System.out.println(er.getVolumes("Joseph Grinnell", null, true, 0, 1909, 0));
+        sqlImporter sqlImporter = new sqlImporter();
+        sqlImporter.importNotebook(mods);
+//        ecoReader er = new ecoReader();
+//        System.out.println(er.getVolumes("Joseph Grinnell", null, true, 0, 1909, 0));
     }
 }
