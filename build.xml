@@ -154,6 +154,9 @@
                 <patternset refid="compiler.resources"/>
                 <type type="file"/>
             </fileset>
+            <filelist dir="${basedir}">
+                <file name="ecoreader.props" />
+            </filelist>
         </copy>
     </target>
 

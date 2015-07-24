@@ -313,9 +313,9 @@ public class ecoReader {
         //System.out.println( printer.printNotebookMetadata());
 
 //        System.out.println( printer.printAllNotebookMetadata());
-        sqlImporter sqlImporter = new sqlImporter();
-        sqlImporter.importNotebook(mods);
-//        ecoReader er = new ecoReader();
-//        System.out.println(er.getVolumes("Joseph Grinnell", null, true, 0, 1909, 0));
+//        sqlImporter sqlImporter = new sqlImporter();
+//        sqlImporter.importNotebook(mods);
+        ecoReader er = new ecoReader();
+        System.out.println(er.getVolumes("Joseph Grinnell", null, true, 0, 1909, 0));
     }
 }

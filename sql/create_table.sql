@@ -10,8 +10,8 @@ create table `volume` (
 `updated` TIMESTAMP DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
 `filename` varchar(256),
 UNIQUE KEY `volume_volume_idx` (`volume_id`),
-## TODO should this be unique
-UNIQUE KEY `volume_volume_identifier` (`volume_identifier`)
+## TODO should this be unique?
+UNIQUE KEY `volume_filename` (`filename`)
 );
 
 create table `section` (

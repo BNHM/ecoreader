@@ -4,15 +4,10 @@ import modsDigester.Mods;
 import modsDigester.modsFactory;
 import modsDigester.mvzSection;
 import utils.ServerErrorException;
-import utils.SettingsManager;
 import utils.database;
 
-import java.sql.Connection;
-import java.sql.Date;
-import java.sql.PreparedStatement;
-import java.sql.SQLException;
-import java.text.ParseException;
-import java.text.SimpleDateFormat;
+import java.sql.*;
+import java.util.ArrayList;
 import java.util.List;
 
 /**
@@ -64,10 +59,10 @@ public class sqlImporter {
         PreparedStatement stmt = null;
         try {
             String sql = "INSERT INTO section (volume_id, section_identifier, type, title, geographic, dateCreated, " +
-                    "sectionNumberAsString) VALUES ((Select volume_id from volume where volume_identifier = ?),?,?,?,?,?,?)";
+                    "sectionNumberAsString) VALUES ((Select volume_id from volume where filename = ?),?,?,?,?,?,?)";
             stmt = conn.prepareStatement(sql);
 
-            stmt.setString(1, notebook.getIdentifier());
+            stmt.setString(1, notebook.getFilename());
             stmt.setString(2, section.getIdentifier());
             // TODO insert type
             stmt.setString(3, null);
@@ -259,5 +254,99 @@ public class sqlImporter {
         } finally {
             db.close(stmt, null);
         }
+    }
+
+    /**
+     * check if a notebook exists so we know if we need to import or update
+     * @param filename
+     * @return
+     */
+    private boolean notebookExists(String filename) {
+        PreparedStatement stmt = null;
+        ResultSet rs = null;
+        try {
+            String sql = "SELECT count(*) as count FROM volume WHERE filename = ?";
+
+            stmt = conn.prepareStatement(sql);
+            stmt.setString(1, filename);
+
+            rs = stmt.executeQuery();
+            rs.next();
+
+            return (rs.getInt("count") > 0);
+        } catch (SQLException e) {
+            throw new ServerErrorException(e);
+        } finally {
+            db.close(stmt, rs);
+        }
+    }
+
+    /**
+     * remove any notebooks that aren't in the list of files
+     * @param files list of notebook files not to be deleted
+     */
+    private void removeNotebooksNotInList(List<String> files) {
+        PreparedStatement stmt = null;
+        try {
+            String sql = "DELETE FROM volume WHERE volume_id not in (SELECT volume_id FROM (SELECT volume_id FROM volume WHERE filename IN (";
+
+            for (String file: files) {
+                sql += "?, ";
+            }
+            sql = sql.substring(0, sql.lastIndexOf(","));
+            sql += ")) as tmp)";
+
+            stmt = conn.prepareStatement(sql);
+
+            int i = 1;
+            for (String file: files) {
+                stmt.setString(i, file);
+                i++;
+            }
+
+            stmt.execute();
+        } catch (SQLException e) {
+            throw new ServerErrorException(e);
+        } finally {
+            db.close(stmt, null);
+        }
+    }
+
+    /**
+     * This method is called by the python script. The files will be imported or updated. Any mods file that is not
+     * included as an arg will be deleted from the database.
+     * @param args any mods file to be imported/updated
+     */
+    public static void main(String[] args) {
+        if (args.length < 1) {
+            System.out.println("mods files required as argument");
+            return;
+        }
+
+        sqlImporter im = new sqlImporter();
+        List<String> filenames = new ArrayList<String>();
+
+        for (String file: args) {
+
+            Mods mods = new modsFactory(file).getMods();
+
+            String[] filepath = file.split("/");
+            String filename = filepath[filepath.length - 1];
+            filenames.add(filename);
+
+            if (im.notebookExists(filename)) {
+                System.out.println("Updating: " + file);
+                im.updateNotebook(mods);
+            } else {
+                System.out.println("Importing: " + file);
+                im.importNotebook(mods);
+            }
+        }
+
+        // Delete any mods files in the db that are no longer on github
+        if (!filenames.isEmpty()) {
+            im.removeNotebooksNotInList(filenames);
+        }
+
     }
 }
