@@ -11,6 +11,12 @@ import java.util.LinkedList;
  */
 public interface NotebookMetadata {
     /**
+     * Text version of the filename
+     * @return
+     */
+    String getFilename();
+
+    /**
      * Text version of the language
      * @return
      */

@@ -15,15 +15,7 @@
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
-                    <li class="dropdown">
-                        <a href="#" data-toggle="dropdown" class="dropdown-toggle">Tools<b class="caret"></b></a>
-                        <ul class="dropdown-menu">
-                            <li><a href='/index.jsp' class='enabled'>Some option</a></li>
-                            <li><a href='/index.jsp' class='enabled'>Some other option</a></li>
-                        </ul>
-                    </li>
-
-                        <li><a href="https://github.com/bnhm/ecoreader">Help</a></li>
+                        <li><a href="https://github.com/bnhm/ecoreader#ecoreader">Help</a></li>
                 </ul>
             </div><!-- /.navbar-collapse -->
         </div>

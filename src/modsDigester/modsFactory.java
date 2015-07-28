@@ -85,6 +85,7 @@ public class modsFactory {
 
         try {
             mods = digester.parse(xmlFile);
+            mods.setFilename(xmlFile.split("/")[xmlFile.split("/").length - 1]);
         } catch (IOException e) {
             e.printStackTrace();
         } catch (SAXException e) {

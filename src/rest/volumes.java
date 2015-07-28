@@ -39,10 +39,15 @@ public class volumes {
 
     @GET
     @Produces(MediaType.APPLICATION_JSON)
-    @Path("/{author}/")
-    public Response getVolumesByAuthor(@PathParam("author") String author) {
+    @Path("/{author}")
+    public Response getVolumesByAuthor(@PathParam("author") String author,
+                                       @QueryParam("begin_date") int begin_date,
+                                       @QueryParam("end_date") int end_date,
+                                       @QueryParam("section_title") String section_title,
+                                       @QueryParam("volume_id") int volume_id,
+                                       @DefaultValue("false") @QueryParam("scanned_only") boolean scanned_only) {
         ecoReader er = new ecoReader();
-        String json = er.getVolumes(author);
+        String json = er.getVolumes(author, section_title, scanned_only, volume_id, begin_date, end_date);
 
         try {
             rb = Response.ok(json);

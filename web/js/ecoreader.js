@@ -2,14 +2,12 @@ function populateAuthors() {
     theUrl = "rest/authors/list";
     var jqxhr = $.getJSON( theUrl, function(data) {
         var listItems = "";
-        listItems+= "<option value='0'>Select an author ...</option>";
+        listItems+= "<option value=''>Select an author ...</option>";
         $.each(data.authors,function(index,author) {
             listItems+= "<option value='" + author  + "'>" + author + "</option>";
         });
         $("#authors").html(listItems);
-        // Set to the first value in the list which should be "select one..."
-        $("#authors").val($("#authors option:first").val());
-        $('.toggle-content#projects_toggle').show(400);
+        $(".combobox").combobox();
 
     }).fail(function(jqXHR,textStatus) {
         if (textStatus == "timeout") {
@@ -22,31 +20,35 @@ function populateAuthors() {
 
 function populateVolumes() {
     theUrl = "rest/volumes/";
-    $.getJSON( theUrl + $("#authors").val(), function(data) {
-        var tr_begin = "<tr>\n\t<td>\n\t<b>{vol_title}</b>\n";
-        var tr_end = "\t</td>\n</tr>\n";
-        var li = "<li>{section_title}{view_section}</li>";
+    if ($("#authors").val().length <= 0) {
+        $("#author_combobox").addClass("has-error");
+        return;
+    } else {
+        $("#author_combobox").removeClass("has-error");
+    }
+    $.getJSON( theUrl + $("#authors").val() + "?" + $("form").serialize(), function(data) {
+        var list_group_tpl = "<ul class='list-group'>{list}</ul>";
+        var list_heading_tpl = "<h4 class='list-group-heading'>{vol_title}</h4>";
+        var list_item_tpl = "<li class='list-group-item'>{section_title}{view_section}</li>";
+        var list;
+        var html = "";
         var view_section_template = " [<a href='#' class='view_section' data-id='{section_id}'>view section</a>]";
-        var html = "<table><tbody>";
 
         // generate the table of volumes and the corresponding sections
         $.each(data.volumes, function(i, vol) {
-            html += tr_begin.replace("{vol_title}", vol.title);
+            list = list_heading_tpl.replace("{vol_title}", vol.title)
             $.each(vol.sections, function(i, section) {
-                html += li.replace("{section_title}", section.title);
-                // TODO only add this link if the section has been scanned
-                if (true) {
-                    html = html.replace("{view_section}", view_section_template.replace("{section_id}", section.section_id));
+                list += list_item_tpl.replace("{section_title}", section.title);
+                if (section.isScanned) {
+                    list = list.replace("{view_section}", view_section_template.replace("{section_id}", section.section_id));
                 } else {
-                    html = html.replace("{view_section}", "");
+                    list = list.replace("{view_section}", "");
                 }
             });
-            html += tr_end;
+            html += list_group_tpl.replace("{list}", list);
         });
 
-        html += "</tbody></table>";
-
-        $("#results").html(html);
+        $("#results").html(html).show();
         $(".view_section").click(function() {
             showSection(this.dataset.id);
         });
@@ -59,52 +61,76 @@ function populateVolumes() {
     });
 }
 
-function showSection(section_id) {
-    $.getJSON("rest/sections/" + section_id, function(data) {
+function showSection(section_id, galIndex) {
+    (function(section_id, galIndex) {
+        $.getJSON("rest/sections/" + section_id, function(data) {
+
         $.fancybox.open(data.pages, {
-            nextEffect : 'none',
-            prevEffect : 'none',
-            padding    : 0,
-            autoSize   : false,
-            aspectRatio: true,
-            helpers    : {
-                title : {
-                    type: 'over'
-                },
-                overlay : {
-                    locked : false
-                },
-                thumbs : {
-                    width  : 75,
-                    height : 50,
-                    source : function( item ) {
+             padding     : [15, 190, 15, 15],
+             nextEffect  : 'fade',
+             prevEffect  : 'fade',
+             autoSize    : true,
+             helpers     : {
+                 thumbs  : {
+                    width: 75,
+                    height: 103,
+                    source: function( item ) {
                         return item.thumb;
                     }
+                 }
+             },
+             beforeShow: function(){
+                  var sidebar = $('<div class="fancybox-sidebar"><div class="fancybox-sidebar-container"></div></div>');
+                  this.skin.append(sidebar);
+
+                  var html = "<div class='fancybox-img-download'><p>Download Image:</p><a href='' id='600' download='image.png'>600</a>" +
+                             "<a href='' id='high_res' download='high_res.tif'>high res</a></div>";
+                  if (this.group.length > 1) {
+                      html += "<div class='fancybox-page-nav'>" +
+                              "<a href='#' class='btn btn-default' onClick='$.fancybox.jumpto(0);'>First</a>" +
+                              "<a href='#' class='btn btn-default'style='float:right;' " +
+                              "onClick='$.fancybox.jumpto($.fancybox.group.length - 1);'>Last</a></div>";
+                  }
+
+                  $(".fancybox-tmp .fancybox-sidebar-container").html(html);
+                  $(".fancybox-img-download a#600").attr("href", this.big);
+                  $(".fancybox-img-download a#high_res").attr("href", this.high_res);
+             },
+             onUpdate: function() {
+                $(".fancybox-sidebar").height(this.inner.height());
+             },
+             afterShow: function() {
+                if (galIndex != null) {
+                    $.fancybox.jumpto(galIndex);
+                    galIndex = null;
                 }
-            },
-            beforeShow: function () {
-                var html = '<span>Date<br>View Image<br>Title:<br></span>';
-                $('.fancybox-sidebar').append(html);
-            },
-            tpl: {
-                wrap: '<div class="fancybox-wrap" tabIndex="-1"><div class="fancybox-skin"><div class="fancybox-outer"><div class="fancybox-inner"></div><div class="fancybox-sidebar"></div></div></div></div>'
-            },
-//            afterLoad: function(current, previous) {
-//                if (current.index == 0) {
-//                    $("#fancybox-thumbs ul").css("left", 0);
-//                } else if (current.index > previous.index) {
-//                // subtract thumb size
-//                } else {
-//                }
-//            }
+
+                $("<a id='img_link' href='#'></a>").insertAfter(".fancybox-prev");
+
+                $("#img_link").click( {href: this.big} ,function(event) {
+                      (function(index) {
+                          $.fancybox.close();
+                          $.fancybox.open({
+                            width: "100%",
+                            height: "100%",
+                            href: event.data.href,
+                            type: "iframe",
+                            afterClose: function() {
+                                showSection(section_id, index);
+                            }
+                          });
+                      })($.fancybox.current.index);
+                });
+             }
+            });
+        }).fail(function(jqXHR,textStatus) {
+            if (textStatus == "timeout") {
+                showMessage ("Timed out waiting for response! Try again later or reduce the number of graphs you are querying. If the problem persists, contact the System Administrator.");
+            } else {
+                showMessage ("Error completing request!");
+            }
         });
-    }).fail(function(jqXHR,textStatus) {
-        if (textStatus == "timeout") {
-            showMessage ("Timed out waiting for response! Try again later or reduce the number of graphs you are querying. If the problem persists, contact the System Administrator.");
-        } else {
-            showMessage ("Error completing request!");
-        }
-    });
+    })(section_id, galIndex);
 }
 
 // A short message
@@ -113,4 +139,14 @@ $('#alerts').append(
         '<div class="alert">' +
             '<button type="button" class="close" data-dismiss="alert">' +
             '&times;</button>' + message + '</div>');
+}
+
+function toggleQuery() {
+    if ($('.toggle-content#query_toggle').is(':hidden')) {
+        $('.toggle-content#query_toggle').show(400);
+        $('#toggle_query button').html("-");
+    } else {
+        $('.toggle-content#query_toggle').hide(400);
+        $('#toggle_query button').html("+");
+    }
 }

@@ -4,12 +4,14 @@ create table `volume` (
 `volume_identifier` varchar (256),
 `type` varchar(256),
 `title` varchar(256),
-`startDate` datetime,
-`endDate` datetime,
+`startDate` smallint,
+`endDate` smallint,
 `name` varchar(256),
+`updated` TIMESTAMP DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
+`filename` varchar(256),
 UNIQUE KEY `volume_volume_idx` (`volume_id`),
-## TODO should this be unique
-UNIQUE KEY `volume_volume_identifier` (`volume_identifier`)
+## TODO should this be unique?
+UNIQUE KEY `volume_filename` (`filename`)
 );
 
 create table `section` (
@@ -19,10 +21,10 @@ create table `section` (
   type varchar(256),
   title varchar(256),
   geographic varchar(256),
-  dateCreated datetime,
+  dateCreated smallint,
   sectionNumberAsString varchar(16),
   UNIQUE KEY `section_section_idx` (`section_id`),
-  CONSTRAINT `FK_section_volume_id` FOREIGN KEY (`volume_id`) REFERENCES `volume` (`volume_id`)
+  CONSTRAINT `FK_section_volume_id` FOREIGN KEY (`volume_id`) REFERENCES `volume` (`volume_id`) ON DELETE CASCADE
 );
 
 create table page (
@@ -32,5 +34,5 @@ create table page (
   page_identifier varchar(256),
   type varchar(256),
   UNIQUE KEY `page_page_idx` (`page_id`),
-  CONSTRAINT `FK_page_section_id` FOREIGN KEY (`section_id`) REFERENCES `section` (`section_id`)
+  CONSTRAINT `FK_page_section_id` FOREIGN KEY (`section_id`) REFERENCES `section` (`section_id`) ON DELETE CASCADE
 );
