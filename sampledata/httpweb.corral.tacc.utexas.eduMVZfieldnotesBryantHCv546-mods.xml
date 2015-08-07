@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<mods:mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mods:titleInfo>
+        <mods:title>Field Notes: Bryant H.C. 1910-13</mods:title>
+    </mods:titleInfo>
+    <mods:language>
+        <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+        <mods:languageTerm type="text">English</mods:languageTerm>
+    </mods:language>
+    <mods:originInfo>
+        <mods:dateCreated>1910-05-18/1913-10-15</mods:dateCreated>
+        <mods:dateCreated point="start">1910</mods:dateCreated>
+        <mods:dateCreated point="end">1913</mods:dateCreated>
+    </mods:originInfo>
+    <mods:name type="personal" authority="LCHS">
+        <mods:role>
+            <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+            <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+        </mods:role>
+        <mods:namePart type="family">Bryant</mods:namePart>
+        <mods:namePart type="given">H. C. (Harold Child)</mods:namePart>
+        <mods:namePart type="date">1886-1968</mods:namePart>
+        <mods:displayForm>Bryant, H. C. (Harold Child), 1886-1968</mods:displayForm>
+    </mods:name>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 0: General Index</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1910-05-18/1913-10-15</mods:dateCreated>
+            <mods:dateCreated point="start">1910</mods:dateCreated>
+            <mods:dateCreated point="end">1913</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Bryant</mods:namePart>
+            <mods:namePart type="given">H. C. (Harold Child)</mods:namePart>
+            <mods:namePart type="date">1886-1968</mods:namePart>
+            <mods:displayForm>Bryant, H. C. (Harold Child), 1886-1968</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>1 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/BryantHC/v546_s0.jpg</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 1: Warner Mts., Modoc Co., Calif. 1910</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1910-05-18/1910-08-15</mods:dateCreated>
+            <mods:dateCreated point="start">1910</mods:dateCreated>
+            <mods:dateCreated point="end">1910</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Bryant</mods:namePart>
+            <mods:namePart type="given">H. C. (Harold Child)</mods:namePart>
+            <mods:namePart type="date">1886-1968</mods:namePart>
+            <mods:displayForm>Bryant, H. C. (Harold Child), 1886-1968</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>88 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/BryantHC/v546_s1.jpg</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 2: Six trips throughout California ""Demonstration Train"" 1910-1911</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1910-12-05/1911-05-06</mods:dateCreated>
+            <mods:dateCreated point="start">1910</mods:dateCreated>
+            <mods:dateCreated point="end">1911</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Bryant</mods:namePart>
+            <mods:namePart type="given">H. C. (Harold Child)</mods:namePart>
+            <mods:namePart type="date">1886-1968</mods:namePart>
+            <mods:displayForm>Bryant, H. C. (Harold Child), 1886-1968</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>42 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/BryantHC/v546_s2.jpg</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 3: San Francisco Bay region, Southern California, Sacramento 1913</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1913-05-14/1913-10-06</mods:dateCreated>
+            <mods:dateCreated point="start">1913</mods:dateCreated>
+            <mods:dateCreated point="end">1913</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Bryant</mods:namePart>
+            <mods:namePart type="given">H. C. (Harold Child)</mods:namePart>
+            <mods:namePart type="date">1886-1968</mods:namePart>
+            <mods:displayForm>Bryant, H. C. (Harold Child), 1886-1968</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>31 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/BryantHC/v546_s3.jpg</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 4: Elkhorn, Monterey Co., Calif. 1913</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1913-10-14/1913-10-15</mods:dateCreated>
+            <mods:dateCreated point="start">1913</mods:dateCreated>
+            <mods:dateCreated point="end">1913</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Bryant</mods:namePart>
+            <mods:namePart type="given">H. C. (Harold Child)</mods:namePart>
+            <mods:namePart type="date">1886-1968</mods:namePart>
+            <mods:displayForm>Bryant, H. C. (Harold Child), 1886-1968</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>13 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/BryantHC/v546_s4.jpg</mods:identifier>
+    </mods:relatedItem>
+</mods:mods>
