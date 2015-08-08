@@ -21,6 +21,7 @@ public class Mods implements NotebookMetadata {
     private final LinkedList<sectionMetadata> sections = new LinkedList<sectionMetadata>();
     private final LinkedList<Term> languageList = new LinkedList<Term>();
     private final LinkedList<Term> nameList = new LinkedList<Term>();
+    private final LinkedList<Term> familyNameList = new LinkedList<Term>();
     private final LinkedList<Term> dateList = new LinkedList<Term>();
 
 
@@ -72,7 +73,7 @@ public class Mods implements NotebookMetadata {
     }
 
     public String getNameText() {
-        return getTermValue(nameList, "type", "family");
+        return getTermValue(nameList, "type", "given");
     }
 
     public LinkedList<Term> getNameList() {
@@ -81,6 +82,18 @@ public class Mods implements NotebookMetadata {
 
     public void setName(Term term) {
         nameList.addLast(term);
+    }
+
+    public String getFamilyNameText() {
+        return getTermValue(familyNameList, "type", "family");
+    }
+
+    public LinkedList<Term> getFamilyNameList() {
+        return familyNameList;
+    }
+
+    public void setFamilyName(Term term) {
+        familyNameList.addLast(term);
     }
 
     public LinkedList<Term> getDateList() {

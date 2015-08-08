@@ -40,6 +40,12 @@ public interface NotebookMetadata {
      */
     String getNameText();
 
+    /**
+     * the family name of the Author
+     * @return
+     */
+    String getFamilyNameText();
+
     String getDateStartText();
 
     String getDateEndText();

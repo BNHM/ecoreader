@@ -5,6 +5,7 @@ import modsDigester.Mods;
 import modsDigester.modsFactory;
 import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;
+import renderer.jsonPrinter;
 import renderer.sqlImporter;
 import utils.ServerErrorException;
 import utils.database;
@@ -39,12 +40,12 @@ public class ecoReader {
         JSONArray authors = new JSONArray();
 
         try {
-            String sql = "SELECT `name` FROM volume GROUP BY `name`";
+            String sql = "SELECT `given_name`, `family_name` FROM volume GROUP BY `family_name`";
             stmt = conn.prepareStatement(sql);
 
             rs = stmt.executeQuery();
             while (rs.next()) {
-                authors.add(rs.getString("name"));
+                authors.add(rs.getString("family_name") + ", " + rs.getString("given_name"));
             }
         } catch (SQLException e) {
             throw new ServerErrorException(e);
@@ -58,7 +59,7 @@ public class ecoReader {
         return res.toJSONString();
     }
 
-    public String getVolumes(String author, String section_title, boolean scanned_only, int volume_id,
+    public String getVolumes(String familyName, String givenName, String section_title, boolean scanned_only, int volume_id,
                              int begin_date, int end_date) {
         PreparedStatement stmt = null;
         ResultSet rs = null;
@@ -66,8 +67,22 @@ public class ecoReader {
         JSONArray volumes = new JSONArray();
 
         try {
-            int paramSet = 1;
-            StringBuilder sql = new StringBuilder("SELECT title, volume_id FROM volume WHERE name = ?");
+            int paramSet = 0;
+            StringBuilder sql = new StringBuilder("SELECT title, volume_id FROM volume WHERE ");
+
+            if (familyName.equalsIgnoreCase("null")) {
+                sql.append("family_name IS NULL AND ");
+            } else {
+                sql.append("family_name = ? AND ");
+                paramSet++;
+            }
+
+            if (givenName.equalsIgnoreCase("null")) {
+                sql.append("given_name IS NULL ");
+            } else {
+                sql.append("given_name = ? ");
+                paramSet++;
+            }
 
             if (section_title != null && !section_title.isEmpty()) {
                 sql.append("AND Exists (SELECT * from section WHERE title = ? AND section.volume_id = volume.volume_id)");
@@ -87,10 +102,16 @@ public class ecoReader {
             }
 
             stmt = conn.prepareStatement(sql.toString());
-            stmt.setString(1, author);
+            int curr = 1;
 
-            int curr = 2;
-
+            if (!familyName.equalsIgnoreCase("null")) {
+                stmt.setString(curr, familyName);
+                curr++;
+            }
+            if (!givenName.equalsIgnoreCase("null")) {
+                stmt.setString(curr, givenName);
+                curr++;
+            }
 
             if (curr <= paramSet) {
                 if (section_title != null && !section_title.isEmpty()) {
@@ -301,21 +322,21 @@ public class ecoReader {
 
         // Here is a test file to work with.
         // Later, we want to harvest any docs that appear in GitHub repository and put in Mysql database
-        String testFile = "file:docs/mvz/mods/Grinnell_v1333_MODS.xml";
+        String testFile = "file:docs/mvz/mods/httpweb.corral.tacc.utexas.eduMVZfieldnotesAlexanderAMv496-mods.xml";
 
         // Create mods object to hold MODS data
         Mods mods = new modsFactory(testFile).getMods();
 
 //         Create an instance of printer with MODS object
-//        jsonPrinter printer = new jsonPrinter(mods,"|");
+        jsonPrinter printer = new jsonPrinter(mods,"|");
 
         // Get output in a particular format... this can be any type of format defined in the printer object
         //System.out.println( printer.printNotebookMetadata());
 
-//        System.out.println( printer.printAllNotebookMetadata());
+        System.out.println( printer.printAllNotebookMetadata());
 //        sqlImporter sqlImporter = new sqlImporter();
 //        sqlImporter.importNotebook(mods);
-        ecoReader er = new ecoReader();
-        System.out.println(er.getVolumes("Joseph Grinnell", null, true, 0, 1909, 0));
+//        ecoReader er = new ecoReader();
+//        System.out.println(er.getVolumes("Joseph Grinnell", null, true, 0, 1909, 0));
     }
 }

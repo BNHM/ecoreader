@@ -155,7 +155,8 @@ public class jsonPrinter extends  printerAbstractClass {
         sb.append("\t\"title\":\"" + notebook.getTitle() + "\",\n");
         sb.append("\t\"startDate\":\"" + notebook.getDateStartText() + "\",\n");
         sb.append("\t\"endDate\":\"" + notebook.getDateEndText() + "\",\n");
-        sb.append("\t\"name\":\"" + notebook.getNameText() + "\"");
+        sb.append("\t\"familyName\":\"" + notebook.getFamilyNameText() + "\",\n");
+        sb.append("\t\"givenName\":\"" + notebook.getNameText() + "\"");
 
         return sb.toString();
     }

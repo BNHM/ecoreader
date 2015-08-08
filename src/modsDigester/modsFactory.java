@@ -57,6 +57,7 @@ public class modsFactory {
         // Name  (only extract family name here)
         digester.addObjectCreate("mods/name/namePart", Term.class);
         digester.addSetProperties("mods/name/namePart");
+        digester.addSetNext("mods/name/namePart", "setFamilyName");
         digester.addSetNext("mods/name/namePart", "setName");
         digester.addCallMethod("mods/name/namePart", "setValue", 0);
 
