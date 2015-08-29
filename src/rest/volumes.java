@@ -47,7 +47,8 @@ public class volumes {
                                        @QueryParam("volume_id") int volume_id,
                                        @DefaultValue("false") @QueryParam("scanned_only") boolean scanned_only) {
         ecoReader er = new ecoReader();
-        String json = er.getVolumes(author, section_title, scanned_only, volume_id, begin_date, end_date);
+        String names[] = author.split(",");
+        String json = er.getVolumes(names[0].trim(), names[1].trim(), section_title, scanned_only, volume_id, begin_date, end_date);
 
         try {
             rb = Response.ok(json);

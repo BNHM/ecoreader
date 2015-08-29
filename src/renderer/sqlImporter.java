@@ -105,7 +105,7 @@ public class sqlImporter {
     private void saveVolume() {
         PreparedStatement stmt = null;
         try {
-            String sql = "INSERT INTO volume (volume_identifier, type, title, startDate, endDate, name, filename) VALUES (" +
+            String sql = "INSERT INTO volume (volume_identifier, type, title, startDate, endDate, family_name, given_name, filename) VALUES (" +
                     "?,?,?,?,?,?,?)";
             stmt = conn.prepareStatement(sql);
 
@@ -116,8 +116,9 @@ public class sqlImporter {
 
             stmt.setInt(4, Integer.parseInt(notebook.getDateStartText()));
             stmt.setInt(5, Integer.parseInt(notebook.getDateEndText()));
-            stmt.setString(6, notebook.getNameText());
-            stmt.setString(7, notebook.getFilename());
+            stmt.setString(6, notebook.getFamilyNameText());
+            stmt.setString(7, notebook.getNameText());
+            stmt.setString(8, notebook.getFilename());
 
             stmt.execute();
         } catch (Exception e) {
@@ -158,7 +159,7 @@ public class sqlImporter {
         PreparedStatement stmt = null;
         try {
             String sql = "UPDATE volume SET volume_identifier = ?, type = ?, title = ?, startDate = ?, endDate = ?," +
-                    " name = ? WHERE filename = ?";
+                    " family_name = ?, given_name = ? WHERE filename = ?";
             stmt = conn.prepareStatement(sql);
 
             stmt.setString(1, notebook.getIdentifier());
@@ -168,8 +169,9 @@ public class sqlImporter {
 
             stmt.setInt(4, Integer.parseInt(notebook.getDateStartText()));
             stmt.setInt(5, Integer.parseInt(notebook.getDateEndText()));
-            stmt.setString(6, notebook.getNameText());
-            stmt.setString(7, notebook.getFilename());
+            stmt.setString(6, notebook.getFamilyNameText());
+            stmt.setString(7, notebook.getNameText());
+            stmt.setString(8, notebook.getFilename());
 
             stmt.execute();
         } catch (Exception e) {

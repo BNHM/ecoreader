@@ -45,7 +45,7 @@
             <mods:namePart type="date">1913-</mods:namePart>
             <mods:displayForm>Adams, Lowell, 1913-</mods:displayForm>
         </mods:name>
-        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/AdamsL/v490_s1.jpg</mods:identifier>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/AdamsL/v490_s1</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
         <mods:titleInfo>
@@ -70,6 +70,6 @@
             <mods:namePart type="date">1913-</mods:namePart>
             <mods:displayForm>Adams, Lowell, 1913-</mods:displayForm>
         </mods:name>
-        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/AdamsL/v490_s2.jpg</mods:identifier>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/AdamsL/v490_s2</mods:identifier>
     </mods:relatedItem>
 </mods:mods>
