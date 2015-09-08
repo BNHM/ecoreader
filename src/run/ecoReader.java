@@ -10,6 +10,7 @@ import renderer.sqlImporter;
 import utils.ServerErrorException;
 import utils.database;
 
+import java.io.File;
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
@@ -20,7 +21,7 @@ import java.util.Iterator;
  * natureReader class contains the nuts and bolt functions to parse XML files for Field Notebooks
  * in various formats.  Currently, MODS is the only supported format but the system is
  * designed to be extensible to any other formats (MARC, Dublin Core, etc).
- *
+ * <p/>
  * This class is the primary entry point to the application when testing in the development
  * environment or running from the command-line.  It may be superseded by REST services.
  */
@@ -128,7 +129,7 @@ public class ecoReader {
                 }
                 if (end_date > 0) {
                     stmt.setInt(curr, end_date);
-                    curr ++;
+                    curr++;
                 }
             }
 
@@ -223,8 +224,8 @@ public class ecoReader {
 
                 JSONObject page = new JSONObject();
                 page.put("thumb", "images/" + volume + "/" + image.THUMB + "/" + file_name);
-                page.put("href", "images/" + volume + "/" + image.PAGE+ "/" + file_name);
-                page.put("big", "images/" + volume + "/" + image.BIG+ "/" + file_name);
+                page.put("href", "images/" + volume + "/" + image.PAGE + "/" + file_name);
+                page.put("big", "images/" + volume + "/" + image.BIG + "/" + file_name);
                 page.put("high_res", rs.getString("page_identifier"));
                 page.put("title", "page: " + rs.getInt("page_number"));
 
@@ -240,7 +241,6 @@ public class ecoReader {
 
         return res.toJSONString();
     }
-
 
 
     public String getSections(String volume) {
@@ -279,7 +279,7 @@ public class ecoReader {
     }
 
     public String getPages(String section) {
-    PreparedStatement stmt = null;
+        PreparedStatement stmt = null;
         ResultSet rs = null;
 
         JSONArray sections = new JSONArray();
@@ -320,23 +320,46 @@ public class ecoReader {
      */
     public static void main(String[] args) {
 
-        // Here is a test file to work with.
+        sqlImporter sqlImporter = new sqlImporter();
+
+        /*
+        // Bulk importer
+        File directory = new File("docs/mvz/mods");
+        File[] files = directory.listFiles();
+        for (int i = 0; i < files.length; i++) {
+            String filePath = files[i].getAbsolutePath();
+            System.out.println("Processing " + filePath);
+            try {
+                sqlImporter.importNotebook(new modsFactory("file:" + filePath).getMods());
+            } catch (Exception e) {
+                System.out.println ("   error:" + e.getMessage());
+            }
+        }
+        */
+
+
+        // Single test file to work with
         // Later, we want to harvest any docs that appear in GitHub repository and put in Mysql database
         String testFile = "file:docs/mvz/mods/httpweb.corral.tacc.utexas.eduMVZfieldnotesAlexanderAMv496-mods.xml";
+        testFile = "file:docs/mvz/mods/httpweb.corral.tacc.utexas.eduMVZfieldnotesBrodeJSv547-mods.xml";
+
+        System.out.println("Processing " + testFile);
 
         // Create mods object to hold MODS data
         Mods mods = new modsFactory(testFile).getMods();
 
 //         Create an instance of printer with MODS object
-        jsonPrinter printer = new jsonPrinter(mods,"|");
+        jsonPrinter printer = new jsonPrinter(mods, "|");
 
         // Get output in a particular format... this can be any type of format defined in the printer object
         //System.out.println( printer.printNotebookMetadata());
 
-        System.out.println( printer.printAllNotebookMetadata());
-//        sqlImporter sqlImporter = new sqlImporter();
-//        sqlImporter.importNotebook(mods);
-//        ecoReader er = new ecoReader();
-//        System.out.println(er.getVolumes("Joseph Grinnell", null, true, 0, 1909, 0));
+        //System.out.println( printer.printAllNotebookMetadata());
+        sqlImporter.importNotebook(mods);
+
+        ecoReader er = new ecoReader();
+        System.out.println(er.getVolumes("Brode","J. Stanley", null, false
+                , 0, 1909, 0));
+
     }
 }

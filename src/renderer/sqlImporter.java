@@ -105,8 +105,8 @@ public class sqlImporter {
     private void saveVolume() {
         PreparedStatement stmt = null;
         try {
-            String sql = "INSERT INTO volume (volume_identifier, type, title, startDate, endDate, family_name, given_name, filename) VALUES (" +
-                    "?,?,?,?,?,?,?)";
+            String sql = "REPLACE INTO volume (volume_identifier, type, title, startDate, endDate, family_name, given_name, filename) VALUES (" +
+                    "?,?,?,?,?,?,?,?)";
             stmt = conn.prepareStatement(sql);
 
             stmt.setString(1, notebook.getIdentifier());
