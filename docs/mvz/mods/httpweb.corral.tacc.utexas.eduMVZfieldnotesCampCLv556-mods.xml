@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<mods:mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mods:titleInfo>
+        <mods:title>Field Notes: Camp C.L. 1913-14, v556</mods:title>
+    </mods:titleInfo>
+    <mods:language>
+        <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+        <mods:languageTerm type="text">English</mods:languageTerm>
+    </mods:language>
+    <mods:originInfo>
+        <mods:dateCreated>1913-05-25/1914-07-29</mods:dateCreated>
+        <mods:dateCreated point="start">1913</mods:dateCreated>
+        <mods:dateCreated point="end">1914</mods:dateCreated>
+    </mods:originInfo>
+    <mods:name type="personal" authority="LCHS">
+        <mods:role>
+            <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+            <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+        </mods:role>
+        <mods:namePart type="family">Camp</mods:namePart>
+        <mods:namePart type="given">Charles Lewis</mods:namePart>
+        <mods:namePart type="date">1893-1975</mods:namePart>
+        <mods:displayForm>Camp, Charles Lewis, 1893-1975</mods:displayForm>
+    </mods:name>
+    <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/CampCL_v556</mods:identifier>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 0: General Index</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1913-05-25/1914-07-29</mods:dateCreated>
+            <mods:dateCreated point="start">1913</mods:dateCreated>
+            <mods:dateCreated point="end">1914</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Camp</mods:namePart>
+            <mods:namePart type="given">Charles Lewis</mods:namePart>
+            <mods:namePart type="date">1893-1975</mods:namePart>
+            <mods:displayForm>Camp, Charles Lewis, 1893-1975</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>1 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/CampCL_v556_s0</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 1: Marin, Sonoma, Mendocino, Tehama Cos., California 1913</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1913-05-25/1913-08-24</mods:dateCreated>
+            <mods:dateCreated point="start">1913</mods:dateCreated>
+            <mods:dateCreated point="end">1913</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Camp</mods:namePart>
+            <mods:namePart type="given">Charles Lewis</mods:namePart>
+            <mods:namePart type="date">1893-1975</mods:namePart>
+            <mods:displayForm>Camp, Charles Lewis, 1893-1975</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>167 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/CampCL_v556_s1</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 2: Marin Co., California 1913</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1913-11-28/1913-11-30</mods:dateCreated>
+            <mods:dateCreated point="start">1913</mods:dateCreated>
+            <mods:dateCreated point="end">1913</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Camp</mods:namePart>
+            <mods:namePart type="given">Charles Lewis</mods:namePart>
+            <mods:namePart type="date">1893-1975</mods:namePart>
+            <mods:displayForm>Camp, Charles Lewis, 1893-1975</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>11 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/CampCL_v556_s2</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 3: San Bernadino and Los Angeles Cos., California 1914</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1914-03-14/1914-05-15</mods:dateCreated>
+            <mods:dateCreated point="start">1914</mods:dateCreated>
+            <mods:dateCreated point="end">1914</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Camp</mods:namePart>
+            <mods:namePart type="given">Charles Lewis</mods:namePart>
+            <mods:namePart type="date">1893-1975</mods:namePart>
+            <mods:displayForm>Camp, Charles Lewis, 1893-1975</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>13 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/CampCL_v556_s3</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 4: E. base Turtle Mts, San Bernadino Co., Calif.; Arizona 1914</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1914-05-26/1914-06-15</mods:dateCreated>
+            <mods:dateCreated point="start">1914</mods:dateCreated>
+            <mods:dateCreated point="end">1914</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Camp</mods:namePart>
+            <mods:namePart type="given">Charles Lewis</mods:namePart>
+            <mods:namePart type="date">1893-1975</mods:namePart>
+            <mods:displayForm>Camp, Charles Lewis, 1893-1975</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>53 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/CampCL_v556_s4</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 5: Kern, Los Angeles and San Bernadino Cos., California 1914</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1914-07-10/1914-07-29</mods:dateCreated>
+            <mods:dateCreated point="start">1914</mods:dateCreated>
+            <mods:dateCreated point="end">1914</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Camp</mods:namePart>
+            <mods:namePart type="given">Charles Lewis</mods:namePart>
+            <mods:namePart type="date">1893-1975</mods:namePart>
+            <mods:displayForm>Camp, Charles Lewis, 1893-1975</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>22 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/CampCL_v556_s5</mods:identifier>
+    </mods:relatedItem>
+</mods:mods>

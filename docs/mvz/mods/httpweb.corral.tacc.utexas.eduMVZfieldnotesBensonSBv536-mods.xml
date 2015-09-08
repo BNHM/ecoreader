@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<mods:mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mods:titleInfo>
+        <mods:title>Field Notes: Benson S.B. 1950-57 (ref done to sec 6), v536</mods:title>
+    </mods:titleInfo>
+    <mods:language>
+        <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+        <mods:languageTerm type="text">English</mods:languageTerm>
+    </mods:language>
+    <mods:originInfo>
+        <mods:dateCreated>1950-06-26/1957-11-06</mods:dateCreated>
+        <mods:dateCreated point="start">1950</mods:dateCreated>
+        <mods:dateCreated point="end">1957</mods:dateCreated>
+    </mods:originInfo>
+    <mods:name type="personal" authority="ingest">
+        <mods:role>
+            <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+            <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+        </mods:role>
+        <mods:namePart type="family">Benson</mods:namePart>
+        <mods:namePart type="given">Seth B. (Seth Bertram)</mods:namePart>
+        <mods:namePart type="date">1905-2005</mods:namePart>
+        <mods:displayForm>Benson, Seth B. (Seth Bertram), 1905-2005</mods:displayForm>
+    </mods:name>
+    <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/BensonSB/v536</mods:identifier>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 1: S.B. Benson 1950 Journal Mexico: Baja porpoise hunt</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1950-07-14/1950-08-05</mods:dateCreated>
+            <mods:dateCreated point="start">1950</mods:dateCreated>
+            <mods:dateCreated point="end">1950</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="ingest">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Benson</mods:namePart>
+            <mods:namePart type="given">Seth B. (Seth Bertram)</mods:namePart>
+            <mods:namePart type="date">1905-2005</mods:namePart>
+            <mods:displayForm>Benson, Seth B. (Seth Bertram), 1905-2005</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>36 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/BensonSB/v536_s1</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 10: S.B. Benson 1956 Species Accounts Calif: Contra Costa Co., Tilden Park</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1956-12-06/1956-12-09</mods:dateCreated>
+            <mods:dateCreated point="start">1956</mods:dateCreated>
+            <mods:dateCreated point="end">1956</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="ingest">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Benson</mods:namePart>
+            <mods:namePart type="given">Seth B. (Seth Bertram)</mods:namePart>
+            <mods:namePart type="date">1905-2005</mods:namePart>
+            <mods:displayForm>Benson, Seth B. (Seth Bertram), 1905-2005</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>3 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/BensonSB/v536_s10</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 11: S.B. Benson 1957 Journal Calif: Siskiyou, Del Norte Cos. Calif: Contra Costa Co. Calif: Nevada Co., Sagehen Cr. Calif: Lassen Co., Susanville</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1957-08-19/1957-11-06</mods:dateCreated>
+            <mods:dateCreated point="start">1957</mods:dateCreated>
+            <mods:dateCreated point="end">1957</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="ingest">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Benson</mods:namePart>
+            <mods:namePart type="given">Seth B. (Seth Bertram)</mods:namePart>
+            <mods:namePart type="date">1905-2005</mods:namePart>
+            <mods:displayForm>Benson, Seth B. (Seth Bertram), 1905-2005</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>44 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/BensonSB/v536_s11</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 2: S.B. Benson 1950 Species Accounts Mexico: Baja Calif: Marin Co.</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1950-06-26/1950-06-26</mods:dateCreated>
+            <mods:dateCreated point="start">1950</mods:dateCreated>
+            <mods:dateCreated point="end">1950</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="ingest">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Benson</mods:namePart>
+            <mods:namePart type="given">Seth B. (Seth Bertram)</mods:namePart>
+            <mods:namePart type="date">1905-2005</mods:namePart>
+            <mods:displayForm>Benson, Seth B. (Seth Bertram), 1905-2005</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>3 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/BensonSB/v536_s2</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 3: S.B. Benson 1951 Journal Mexico: Baja</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1951-10-09/1951-11-15</mods:dateCreated>
+            <mods:dateCreated point="start">1951</mods:dateCreated>
+            <mods:dateCreated point="end">1951</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="ingest">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Benson</mods:namePart>
+            <mods:namePart type="given">Seth B. (Seth Bertram)</mods:namePart>
+            <mods:namePart type="date">1905-2005</mods:namePart>
+            <mods:displayForm>Benson, Seth B. (Seth Bertram), 1905-2005</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>55 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/BensonSB/v536_s3</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 4: S.B. Benson 1952 Journal Calif: Farralon sealing trip Calif: Alameda, Marin Cos. Calif: Tehama Co., Yolla Bolly</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1952-03-26/1952-07-17</mods:dateCreated>
+            <mods:dateCreated point="start">1952</mods:dateCreated>
+            <mods:dateCreated point="end">1952</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="ingest">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Benson</mods:namePart>
+            <mods:namePart type="given">Seth B. (Seth Bertram)</mods:namePart>
+            <mods:namePart type="date">1905-2005</mods:namePart>
+            <mods:displayForm>Benson, Seth B. (Seth Bertram), 1905-2005</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>36 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/BensonSB/v536_s4</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 5: S.B Benson 1952 Species Accounts Calif: Alameda, Marin Cos. Calif: Tehama Co., Yolla Bolly</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1952-02-06/1952-07-11</mods:dateCreated>
+            <mods:dateCreated point="start">1952</mods:dateCreated>
+            <mods:dateCreated point="end">1952</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="ingest">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Benson</mods:namePart>
+            <mods:namePart type="given">Seth B. (Seth Bertram)</mods:namePart>
+            <mods:namePart type="date">1905-2005</mods:namePart>
+            <mods:displayForm>Benson, Seth B. (Seth Bertram), 1905-2005</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>28 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/BensonSB/v536_s5</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 6: S.B. Benson 1953 Journal Calif: Nevada Co., Sagehen Cr.</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1953-10-03/1953-10-05</mods:dateCreated>
+            <mods:dateCreated point="start">1953</mods:dateCreated>
+            <mods:dateCreated point="end">1953</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="ingest">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Benson</mods:namePart>
+            <mods:namePart type="given">Seth B. (Seth Bertram)</mods:namePart>
+            <mods:namePart type="date">1905-2005</mods:namePart>
+            <mods:displayForm>Benson, Seth B. (Seth Bertram), 1905-2005</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>6 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/BensonSB/v536_s6</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 7: S.B. Benson 1954 Journal Calif: Marin Co.</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1954-10-29/1954-10-31</mods:dateCreated>
+            <mods:dateCreated point="start">1954</mods:dateCreated>
+            <mods:dateCreated point="end">1954</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="ingest">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Benson</mods:namePart>
+            <mods:namePart type="given">Seth B. (Seth Bertram)</mods:namePart>
+            <mods:namePart type="date">1905-2005</mods:namePart>
+            <mods:displayForm>Benson, Seth B. (Seth Bertram), 1905-2005</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>3 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/BensonSB/v536_s7</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 8: S.B. Benson 1955 Journal Calif: Fresno, San Benito Cos. Calif: Nevada Co., Sagehen Cr.</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1955-03-07/1955-10-15</mods:dateCreated>
+            <mods:dateCreated point="start">1955</mods:dateCreated>
+            <mods:dateCreated point="end">1955</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="ingest">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Benson</mods:namePart>
+            <mods:namePart type="given">Seth B. (Seth Bertram)</mods:namePart>
+            <mods:namePart type="date">1905-2005</mods:namePart>
+            <mods:displayForm>Benson, Seth B. (Seth Bertram), 1905-2005</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>19 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/BensonSB/v536_s8</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 9: S.B. Benson 1956 Journal California, Oregon, Washington Calif: Nevada Co., Sagehen Cr.</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1956-05-02/1956-10-01</mods:dateCreated>
+            <mods:dateCreated point="start">1956</mods:dateCreated>
+            <mods:dateCreated point="end">1956</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="ingest">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Benson</mods:namePart>
+            <mods:namePart type="given">Seth B. (Seth Bertram)</mods:namePart>
+            <mods:namePart type="date">1905-2005</mods:namePart>
+            <mods:displayForm>Benson, Seth B. (Seth Bertram), 1905-2005</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>38 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/BensonSB/v536_s9</mods:identifier>
+    </mods:relatedItem>
+</mods:mods>

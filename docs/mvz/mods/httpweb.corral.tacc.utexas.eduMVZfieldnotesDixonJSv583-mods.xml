@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<mods:mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mods:titleInfo>
+        <mods:title>Field Notes: Dixon J. 1908-09, v583</mods:title>
+    </mods:titleInfo>
+    <mods:language>
+        <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+        <mods:languageTerm type="text">English</mods:languageTerm>
+    </mods:language>
+    <mods:originInfo>
+        <mods:dateCreated>1908-06-01/1910-01-01</mods:dateCreated>
+        <mods:dateCreated point="start">1908</mods:dateCreated>
+        <mods:dateCreated point="end">1910</mods:dateCreated>
+    </mods:originInfo>
+    <mods:name type="personal" authority="ingest">
+        <mods:role>
+            <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+            <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+        </mods:role>
+        <mods:namePart type="family">Dixon</mods:namePart>
+        <mods:namePart type="given">Joseph S.</mods:namePart>
+        <mods:namePart type="date">1884-1985</mods:namePart>
+        <mods:displayForm>Dixon, Joseph S.,  (Joseph Scattergood), 1884-1952</mods:displayForm>
+    </mods:name>
+    <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/DixonJS_v583</mods:identifier>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 0: General Index</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1908-06-01/1910-01-01</mods:dateCreated>
+            <mods:dateCreated point="start">1908</mods:dateCreated>
+            <mods:dateCreated point="end">1910</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="ingest">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Dixon</mods:namePart>
+            <mods:namePart type="given">Joseph S.</mods:namePart>
+            <mods:namePart type="date">1884-1985</mods:namePart>
+            <mods:displayForm>Dixon, Joseph S.,  (Joseph Scattergood), 1884-1952</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>1 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/DixonJS_v583_s0</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 1: Prince William Sound, Alaska 1908</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1908-06-01/1908-08-28</mods:dateCreated>
+            <mods:dateCreated point="start">1908</mods:dateCreated>
+            <mods:dateCreated point="end">1908</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="ingest">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Dixon</mods:namePart>
+            <mods:namePart type="given">Joseph S.</mods:namePart>
+            <mods:namePart type="date">1884-1985</mods:namePart>
+            <mods:displayForm>Dixon, Joseph S.,  (Joseph Scattergood), 1884-1952</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>93 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/DixonJS_v583_s1</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 2: Palo Alto, Santa Clara Co., Calif.; Petaluma, Sonoma Co., Calif. 1908</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1908-09-19/1908-12-30</mods:dateCreated>
+            <mods:dateCreated point="start">1908</mods:dateCreated>
+            <mods:dateCreated point="end">1908</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="ingest">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Dixon</mods:namePart>
+            <mods:namePart type="given">Joseph S.</mods:namePart>
+            <mods:namePart type="date">1884-1985</mods:namePart>
+            <mods:displayForm>Dixon, Joseph S.,  (Joseph Scattergood), 1884-1952</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>28 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/DixonJS_v583_s2</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 3: Santa Clara and San Mateo cos., Calif. 1909</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1909-01-23/1909-05-01</mods:dateCreated>
+            <mods:dateCreated point="start">1909</mods:dateCreated>
+            <mods:dateCreated point="end">1909</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="ingest">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Dixon</mods:namePart>
+            <mods:namePart type="given">Joseph S.</mods:namePart>
+            <mods:namePart type="date">1884-1985</mods:namePart>
+            <mods:displayForm>Dixon, Joseph S.,  (Joseph Scattergood), 1884-1952</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>5 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/DixonJS_v583_s3</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 4: San Diego Co., Calif. 1909</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1909-06-06/1909-06-17</mods:dateCreated>
+            <mods:dateCreated point="start">1909</mods:dateCreated>
+            <mods:dateCreated point="end">1909</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="ingest">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Dixon</mods:namePart>
+            <mods:namePart type="given">Joseph S.</mods:namePart>
+            <mods:namePart type="date">1884-1985</mods:namePart>
+            <mods:displayForm>Dixon, Joseph S.,  (Joseph Scattergood), 1884-1952</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>11 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/DixonJS_v583_s4</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 5: Sherwoods, Mendocino Co., Calif. 1909</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1909-08-17/1909-08-29</mods:dateCreated>
+            <mods:dateCreated point="start">1909</mods:dateCreated>
+            <mods:dateCreated point="end">1909</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="ingest">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Dixon</mods:namePart>
+            <mods:namePart type="given">Joseph S.</mods:namePart>
+            <mods:namePart type="date">1884-1985</mods:namePart>
+            <mods:displayForm>Dixon, Joseph S.,  (Joseph Scattergood), 1884-1952</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>26 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/DixonJS_v583_s5</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 6: Marin Co., Calif. 1909</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1909-12-29/1910-01-01</mods:dateCreated>
+            <mods:dateCreated point="start">1909</mods:dateCreated>
+            <mods:dateCreated point="end">1910</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="ingest">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Dixon</mods:namePart>
+            <mods:namePart type="given">Joseph S.</mods:namePart>
+            <mods:namePart type="date">1884-1985</mods:namePart>
+            <mods:displayForm>Dixon, Joseph S.,  (Joseph Scattergood), 1884-1952</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>9 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/DixonJS_v583_s6</mods:identifier>
+    </mods:relatedItem>
+</mods:mods>
