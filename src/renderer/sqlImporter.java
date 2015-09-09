@@ -104,8 +104,9 @@ public class sqlImporter {
 
     private void saveVolume() {
         PreparedStatement stmt = null;
+        String sql = null;
         try {
-            String sql = "REPLACE INTO volume (volume_identifier, type, title, startDate, endDate, family_name, given_name, filename) VALUES (" +
+             sql = "REPLACE INTO volume (volume_identifier, type, title, startDate, endDate, family_name, given_name, filename) VALUES (" +
                     "?,?,?,?,?,?,?,?)";
             stmt = conn.prepareStatement(sql);
 
@@ -122,6 +123,8 @@ public class sqlImporter {
 
             stmt.execute();
         } catch (Exception e) {
+            System.out.println(sql);
+            e.printStackTrace();
             throw new ServerErrorException(e);
         } finally {
             db.close(stmt, null);
