@@ -68,10 +68,10 @@ public class sqlImporter {
      *  Validate a given notebook
      */
     private boolean validateNotebook(NotebookMetadata notebook) {
-        if (notebook.getIdentifier() == null || notebook.getIdentifier().equals("")) {
+        if (notebook.getIdentifier() == null ) {
             errors.append(notebook.getFilename() + " No Identifier\n");
         }
-        if (notebook.getFamilyNameText() == null || notebook.getFamilyNameText().equals("")) {
+        if (notebook.getFamilyNameText() == null ) {
             errors.append(notebook.getFilename() + " No Familyname \n");
         }
         if (!errors.toString().equals("")) return false;
