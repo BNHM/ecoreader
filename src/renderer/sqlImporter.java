@@ -18,6 +18,8 @@ public class sqlImporter {
     protected Connection conn;
     database db;
     private NotebookMetadata notebook;
+    StringBuilder errors = new StringBuilder();
+
 
     public sqlImporter() {
         db = new database();
@@ -29,11 +31,15 @@ public class sqlImporter {
      * @param files
      */
     public void importNotebooks(List<String> files) {
+
         for (String file: files) {
             // Create mods object to hold MODS data
             Mods mods = new modsFactory(file).getMods();
 
             importNotebook(mods);
+        }
+        if (!errors.toString().equals("")) {
+            throw new ServerErrorException("One or more files did not process:\n" + errors.toString());
         }
     }
 
@@ -43,16 +49,33 @@ public class sqlImporter {
      */
     public void importNotebook(NotebookMetadata notebook) {
         this.notebook = notebook;
-        saveVolume();
 
-        for (sectionMetadata section: notebook.getSections()) {
-            mvzSection mvzSection = (mvzSection) section;
-            saveSection(mvzSection);
+        if (validateNotebook(notebook)) {
+            saveVolume();
 
-            for (pageMetadata page: mvzSection.getPages()) {
-                savePage(page, mvzSection.getIdentifier());
+            for (sectionMetadata section : notebook.getSections()) {
+                mvzSection mvzSection = (mvzSection) section;
+                saveSection(mvzSection);
+
+                for (pageMetadata page : mvzSection.getPages()) {
+                    savePage(page, mvzSection.getIdentifier());
+                }
             }
         }
+    }
+
+    /**
+     *  Validate a given notebook
+     */
+    private boolean validateNotebook(NotebookMetadata notebook) {
+        if (notebook.getIdentifier() == null || notebook.getIdentifier().equals("")) {
+            errors.append(notebook.getFilename() + " No Identifier\n");
+        }
+        if (notebook.getFamilyNameText() == null || notebook.getFamilyNameText().equals("")) {
+            errors.append(notebook.getFilename() + " No Familyname \n");
+        }
+        if (!errors.toString().equals("")) return false;
+        else return true;
     }
 
     private void saveSection(mvzSection section) {
@@ -62,7 +85,7 @@ public class sqlImporter {
                     "sectionNumberAsString) VALUES ((Select volume_id from volume where filename = ?),?,?,?,?,?,?)";
             stmt = conn.prepareStatement(sql);
 
-            stmt.setString(1, notebook.getFilename());
+             stmt.setString(1, notebook.getFilename());
             stmt.setString(2, section.getIdentifier());
             // TODO insert type
             stmt.setString(3, null);
@@ -332,6 +355,7 @@ public class sqlImporter {
         List<String> filenames = new ArrayList<String>();
 
         for (String file: args) {
+            System.out.println("Processing: " + file.toString());
 
             Mods mods = new modsFactory(file).getMods();
 

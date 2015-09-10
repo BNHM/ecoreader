@@ -42,6 +42,9 @@ public class modsFactory {
         digester.addObjectCreate("mods", Mods.class);
         digester.addSetProperties("mods");
 
+        // Identifier
+        digester.addCallMethod("mods/identifier", "setIdentifier", 0);
+
         // Set title
         digester.addCallMethod("mods/titleInfo/title", "setTitle", 0);
 
@@ -51,8 +54,6 @@ public class modsFactory {
         digester.addSetNext("mods/language/languageTerm", "setLanguage");
         digester.addCallMethod("mods/language/languageTerm", "setValue", 0);
 
-        // Identifier
-        digester.addCallMethod("mods/identifier", "setIdentifier", 0);
 
         // Name  (only extract family name here)
         digester.addObjectCreate("mods/name/namePart", Term.class);

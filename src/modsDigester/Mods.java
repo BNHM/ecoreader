@@ -61,6 +61,7 @@ public class Mods implements NotebookMetadata {
     }
 
     public void setTitle(String title) {
+
         this.title = title;
     }
 
@@ -69,6 +70,7 @@ public class Mods implements NotebookMetadata {
     }
 
     public void setIdentifier(String identifier) {
+
         this.identifier = identifier;
     }
 
@@ -81,6 +83,7 @@ public class Mods implements NotebookMetadata {
     }
 
     public void setName(Term term) {
+
         nameList.addLast(term);
     }
 
