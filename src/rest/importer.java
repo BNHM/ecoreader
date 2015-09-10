@@ -4,6 +4,7 @@ import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;
 import org.json.simple.JSONValue;
 import renderer.sqlImporter;
+import utils.ServerErrorException;
 import utils.SettingsManager;
 
 import javax.ws.rs.POST;
@@ -66,9 +67,13 @@ public class importer {
             }
 
             // import, update, and remove the appropriate notebooks
-            sqlImporter.importNotebooks(added);
-            sqlImporter.updateNotebooks(modified);
-            sqlImporter.removeNotebooks(removed);
+            try {
+                sqlImporter.importNotebooks(added);
+                sqlImporter.updateNotebooks(modified);
+                sqlImporter.removeNotebooks(removed);
+            } catch (Exception e) {
+                throw new ServerErrorException(e);
+            }
         }
 
         return;

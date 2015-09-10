@@ -318,7 +318,7 @@ public class ecoReader {
      *
      * @param args
      */
-    public static void main(String[] args) {
+    public static void main(String[] args) throws Exception {
 
         sqlImporter sqlImporter = new sqlImporter();
 
@@ -338,6 +338,8 @@ public class ecoReader {
         */
 
 
+
+
         // Single test file to work with
         // Later, we want to harvest any docs that appear in GitHub repository and put in Mysql database
         String testFile = "file:docs/mvz/mods/httpweb.corral.tacc.utexas.eduMVZfieldnotesAlexanderAMv496-mods.xml";
@@ -355,7 +357,12 @@ public class ecoReader {
         //System.out.println( printer.printNotebookMetadata());
 
         //System.out.println( printer.printAllNotebookMetadata());
-        sqlImporter.importNotebook(mods);
+        try {
+            sqlImporter.importNotebook(mods);
+        } catch (Exception e) {
+            e.printStackTrace();
+            throw new Exception(e);
+        }
 
         ecoReader er = new ecoReader();
         System.out.println(er.getVolumes("Brode","J. Stanley", null, false

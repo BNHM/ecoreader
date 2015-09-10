@@ -6,6 +6,7 @@ import modsDigester.mvzSection;
 import utils.ServerErrorException;
 import utils.database;
 
+import java.io.File;
 import java.sql.*;
 import java.util.ArrayList;
 import java.util.List;
@@ -26,28 +27,56 @@ public class sqlImporter {
         conn = db.getConn();
     }
 
+
+    /**
+     * Given a list of mods files, validate them, appending to error string
+     *
+     * @param files
+     *
+     * @return
+     */
+    public String validateNotebooks(List<String> files, boolean ignoreSections) {
+        for (String file : files) {
+            // Create mods object to hold MODS data
+            modsFactory factory = new modsFactory(file);
+            factory.setIgnoreSections(ignoreSections);
+            Mods mods = factory.getMods();
+            validateNotebook(mods);
+        }
+        return errors.toString();
+    }
+
     /**
      * given a list of mods files, import them into the db
+     *
      * @param files
      */
-    public void importNotebooks(List<String> files) {
+    public void importNotebooks(List<String> files) throws validationException {
 
-        for (String file: files) {
+        for (String file : files) {
             // Create mods object to hold MODS data
             Mods mods = new modsFactory(file).getMods();
 
-            importNotebook(mods);
+
+            try {
+                importNotebook(mods);
+            } catch (validationException e) {
+                // do nothing, i think i want to catch
+                //e.printStackTrace();
+            }
         }
         if (!errors.toString().equals("")) {
-            throw new ServerErrorException("One or more files did not process:\n" + errors.toString());
+            throw new validationException(errors.toString());
         }
+
     }
 
     /**
      * Import a given mods file into the db
+     *
      * @param notebook
      */
-    public void importNotebook(NotebookMetadata notebook) {
+    public void importNotebook(NotebookMetadata notebook) throws validationException {
         this.notebook = notebook;
 
         if (validateNotebook(notebook)) {
@@ -61,18 +90,20 @@ public class sqlImporter {
                     savePage(page, mvzSection.getIdentifier());
                 }
             }
+        } else {
+            throw new validationException("One or more files did not process:\n" + errors.toString());
         }
     }
 
     /**
-     *  Validate a given notebook
+     * Validate a given notebook
      */
     private boolean validateNotebook(NotebookMetadata notebook) {
-        if (notebook.getIdentifier() == null ) {
-            errors.append(notebook.getFilename() + " No Identifier\n");
+        if (notebook.getIdentifier() == null) {
+            errors.append(notebook.getFilename() + " has no Volume Identifier\n");
         }
-        if (notebook.getFamilyNameText() == null ) {
-            errors.append(notebook.getFilename() + " No Familyname \n");
+        if (notebook.getFamilyNameText() == null) {
+            errors.append(notebook.getFilename() + " has no Familyname \n");
         }
         if (!errors.toString().equals("")) return false;
         else return true;
@@ -85,7 +116,7 @@ public class sqlImporter {
                     "sectionNumberAsString) VALUES ((Select volume_id from volume where filename = ?),?,?,?,?,?,?)";
             stmt = conn.prepareStatement(sql);
 
-             stmt.setString(1, notebook.getFilename());
+            stmt.setString(1, notebook.getFilename());
             stmt.setString(2, section.getIdentifier());
             // TODO insert type
             stmt.setString(3, null);
@@ -129,7 +160,7 @@ public class sqlImporter {
         PreparedStatement stmt = null;
         String sql = null;
         try {
-             sql = "REPLACE INTO volume (volume_identifier, type, title, startDate, endDate, family_name, given_name, filename) VALUES (" +
+            sql = "REPLACE INTO volume (volume_identifier, type, title, startDate, endDate, family_name, given_name, filename) VALUES (" +
                     "?,?,?,?,?,?,?,?)";
             stmt = conn.prepareStatement(sql);
 
@@ -156,28 +187,45 @@ public class sqlImporter {
 
     /**
      * given a list of mods files, update the stored mods file
+     *
      * @param files
      */
-    public void updateNotebooks(List<String> files) {
-        for (String file: files) {
+    public void updateNotebooks(List<String> files) throws validationException {
+        for (String file : files) {
             // Create mods object to hold MODS data
             Mods mods = new modsFactory(file).getMods();
 
-            updateNotebook(mods);
+            try {
+                updateNotebook(mods);
+            } catch (validationException e) {
+                // do nothing, i think i want to catch
+                //e.printStackTrace();
+            }
         }
+        if (!errors.toString().equals("")) {
+            throw new validationException(errors.toString());
+        }
+
     }
 
-    private void updateNotebook(NotebookMetadata notebook) {
+
+    private void updateNotebook(NotebookMetadata notebook) throws validationException {
         this.notebook = notebook;
-        updateVolume();
 
-        for (sectionMetadata section: notebook.getSections()) {
-            mvzSection mvzSection = (mvzSection) section;
-            updateSection(mvzSection);
 
-            for (pageMetadata page: mvzSection.getPages()) {
-                updatePage(page, mvzSection.getIdentifier());
+        if (validateNotebook(notebook)) {
+            updateVolume();
+
+            for (sectionMetadata section : notebook.getSections()) {
+                mvzSection mvzSection = (mvzSection) section;
+                updateSection(mvzSection);
+
+                for (pageMetadata page : mvzSection.getPages()) {
+                    updatePage(page, mvzSection.getIdentifier());
+                }
             }
+        } else {
+            throw new validationException("One or more files did not process:\n" + errors.toString());
         }
     }
 
@@ -233,7 +281,7 @@ public class sqlImporter {
         }
     }
 
-    
+
     private void updatePage(pageMetadata page, String section_identifier) {
         PreparedStatement stmt = null;
         try {
@@ -258,10 +306,11 @@ public class sqlImporter {
 
     /**
      * given a list of mods files, delete them from the db
+     *
      * @param files
      */
     public void removeNotebooks(List<String> files) {
-        for (String file: files) {
+        for (String file : files) {
             // Create mods object to hold MODS data
             Mods mods = new modsFactory(file).getMods();
 
@@ -286,7 +335,9 @@ public class sqlImporter {
 
     /**
      * check if a notebook exists so we know if we need to import or update
+     *
      * @param filename
+     *
      * @return
      */
     private boolean notebookExists(String filename) {
@@ -311,6 +362,7 @@ public class sqlImporter {
 
     /**
      * remove any notebooks that aren't in the list of files
+     *
      * @param files list of notebook files not to be deleted
      */
     private void removeNotebooksNotInList(List<String> files) {
@@ -318,7 +370,7 @@ public class sqlImporter {
         try {
             String sql = "DELETE FROM volume WHERE volume_id not in (SELECT volume_id FROM (SELECT volume_id FROM volume WHERE filename IN (";
 
-            for (String file: files) {
+            for (String file : files) {
                 sql += "?, ";
             }
             sql = sql.substring(0, sql.lastIndexOf(","));
@@ -327,7 +379,7 @@ public class sqlImporter {
             stmt = conn.prepareStatement(sql);
 
             int i = 1;
-            for (String file: files) {
+            for (String file : files) {
                 stmt.setString(i, file);
                 i++;
             }
@@ -343,18 +395,20 @@ public class sqlImporter {
     /**
      * This method is called by the python script. The files will be imported or updated. Any mods file that is not
      * included as an arg will be deleted from the database.
+     *
      * @param args any mods file to be imported/updated
      */
-    public static void main(String[] args) {
+    public static void main(String[] args) throws Exception {
         if (args.length < 1) {
             System.out.println("mods files required as argument");
             return;
         }
 
+
         sqlImporter im = new sqlImporter();
         List<String> filenames = new ArrayList<String>();
 
-        for (String file: args) {
+        for (String file : args) {
             System.out.println("Processing: " + file.toString());
 
             Mods mods = new modsFactory(file).getMods();

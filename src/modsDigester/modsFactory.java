@@ -11,9 +11,14 @@ import java.io.IOException;
  */
 public class modsFactory {
     String xmlFile;
+    boolean ignoreSections = false;
 
     public modsFactory(String xmlFile) {
         this.xmlFile = xmlFile;
+    }
+
+    public void setIgnoreSections(Boolean value) {
+        ignoreSections = value;
     }
 
     /**
@@ -72,18 +77,23 @@ public class modsFactory {
         /**
          * Sub-elements
          */
-        digester.addObjectCreate("mods/relatedItem", mvzSection.class);
-        digester.addSetProperties("mods/relatedItem");
-        digester.addSetNext("mods/relatedItem", "addSection");
-        if (local) {
-            digester.addCallMethod("mods/relatedItem/identifier", "addLocalIdentifier", 0);
-        }    else {
-            digester.addCallMethod("mods/relatedItem/identifier", "addIdentifier", 0);
-        }
-        digester.addCallMethod("mods/relatedItem/titleInfo/title", "addTitle", 0);
-        digester.addCallMethod("mods/relatedItem/originInfo/dateCreated", "addDateCreated", 0);
-        digester.addCallMethod("mods/relatedItem/subject/geographic", "addGeographic", 0);
+        if (!ignoreSections) {
 
+            digester.addObjectCreate("mods/relatedItem", mvzSection.class);
+            digester.addSetProperties("mods/relatedItem");
+
+            digester.addSetNext("mods/relatedItem", "addSection");
+
+
+            if (local) {
+                digester.addCallMethod("mods/relatedItem/identifier", "addLocalIdentifier", 0);
+            } else {
+                digester.addCallMethod("mods/relatedItem/identifier", "addIdentifier", 0);
+            }
+            digester.addCallMethod("mods/relatedItem/titleInfo/title", "addTitle", 0);
+            digester.addCallMethod("mods/relatedItem/originInfo/dateCreated", "addDateCreated", 0);
+            digester.addCallMethod("mods/relatedItem/subject/geographic", "addGeographic", 0);
+        }
 
         try {
             mods = digester.parse(xmlFile);
