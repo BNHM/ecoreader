@@ -22,7 +22,6 @@
         <mods:namePart type="date">1867-1950</mods:namePart>
         <mods:displayForm>Alexander, Annie Montague, 1867-1950</mods:displayForm>
     </mods:name>
-    <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/AlexanderAM/v497</mods:identifier>
     <mods:relatedItem type="constituent">
         <mods:titleInfo>
             <mods:title>Section 0: General Index</mods:title>
@@ -49,7 +48,7 @@
         <mods:physicalDescription>
             <mods:extent>1 pages</mods:extent>
         </mods:physicalDescription>
-        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/AlexanderAM/v497_s0</mods:identifier>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/AlexanderAM/v497_s0.jpg</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
         <mods:titleInfo>
@@ -107,7 +106,7 @@
         <mods:physicalDescription>
             <mods:extent>70 pages</mods:extent>
         </mods:physicalDescription>
-        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/AlexanderAM/v497_s1</mods:identifier>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/AlexanderAM/v497_s1.jpg</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
         <mods:titleInfo>
@@ -153,6 +152,6 @@
         <mods:physicalDescription>
             <mods:extent>176 pages</mods:extent>
         </mods:physicalDescription>
-        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/AlexanderAM/v497_s2</mods:identifier>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/AlexanderAM/v497_s2.jpg</mods:identifier>
     </mods:relatedItem>
 </mods:mods>

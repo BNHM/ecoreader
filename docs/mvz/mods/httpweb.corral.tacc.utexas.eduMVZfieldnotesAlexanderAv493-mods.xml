@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <mods:mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <mods:titleInfo>
-        <mods:title>Field Notes: Alexander A.M. 1907-11, v493</mods:title>
+        <mods:title>Field Notes: Alexander A.M. 1907-11</mods:title>
     </mods:titleInfo>
     <mods:language>
         <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
@@ -73,9 +73,6 @@
             <mods:namePart type="date">1867-1952</mods:namePart>
             <mods:displayForm>Alexander, Annie Montague, 1867-1952</mods:displayForm>
         </mods:name>
-        <mods:subject authority="arctos">
-            <mods:geographic>North America, United States, Alaska, Alexander Archipelago, Admiralty Island</mods:geographic>
-        </mods:subject>
         <mods:physicalDescription>
             <mods:extent>13 pages</mods:extent>
         </mods:physicalDescription>
@@ -104,33 +101,6 @@
             <mods:namePart type="date">1867-1953</mods:namePart>
             <mods:displayForm>Alexander, Annie Montague, 1867-1953</mods:displayForm>
         </mods:name>
-        <mods:subject authority="arctos">
-            <mods:geographic>North America, United States, Alaska</mods:geographic>
-        </mods:subject>
-        <mods:subject authority="arctos">
-            <mods:geographic>North America, United States, Alaska, Alexander Archipelago, Sergief Island </mods:geographic>
-        </mods:subject>
-        <mods:subject authority="arctos">
-            <mods:geographic>North America, United States, Alaska, Cordova, Prince William Sound</mods:geographic>
-        </mods:subject>
-        <mods:subject authority="arctos">
-            <mods:geographic>North America, United States, Alaska, Hawkins Island</mods:geographic>
-        </mods:subject>
-        <mods:subject authority="arctos">
-            <mods:geographic>North America, United States, Alaska, Hinchinbrook Island</mods:geographic>
-        </mods:subject>
-        <mods:subject authority="arctos">
-            <mods:geographic>North America, United States, Alaska, Knight Island</mods:geographic>
-        </mods:subject>
-        <mods:subject authority="arctos">
-            <mods:geographic>North America, United States, Alaska, La Touche Island</mods:geographic>
-        </mods:subject>
-        <mods:subject authority="arctos">
-            <mods:geographic>North America, United States, Alaska, Montague Island</mods:geographic>
-        </mods:subject>
-        <mods:subject authority="arctos">
-            <mods:geographic>North America, United States, Alaska, Valdez, Prince William Sound</mods:geographic>
-        </mods:subject>
         <mods:physicalDescription>
             <mods:extent>46 pages</mods:extent>
         </mods:physicalDescription>
@@ -159,15 +129,6 @@
             <mods:namePart type="date">1867-1954</mods:namePart>
             <mods:displayForm>Alexander, Annie Montague, 1867-1954</mods:displayForm>
         </mods:name>
-        <mods:subject authority="arctos">
-            <mods:geographic>Pacific Ocean, United States, Hawaii, Hawaiian Islands, Molokai</mods:geographic>
-        </mods:subject>
-        <mods:subject authority="arctos">
-            <mods:geographic>Pacific Ocean, United States, Hawaii, Honolulu County, Hawaiian Islands, Oahu</mods:geographic>
-        </mods:subject>
-        <mods:subject authority="arctos">
-            <mods:geographic>Pacific Ocean, United States, Hawaii, Maui County, Hawaiian Islands, Maui</mods:geographic>
-        </mods:subject>
         <mods:physicalDescription>
             <mods:extent>30 pages</mods:extent>
         </mods:physicalDescription>
@@ -196,9 +157,6 @@
             <mods:namePart type="date">1867-1955</mods:namePart>
             <mods:displayForm>Alexander, Annie Montague, 1867-1955</mods:displayForm>
         </mods:name>
-        <mods:subject authority="arctos">
-            <mods:geographic>North America, Canada, British Columbia, Vancouver Island, Vancouver Island</mods:geographic>
-        </mods:subject>
         <mods:physicalDescription>
             <mods:extent>39 pages</mods:extent>
         </mods:physicalDescription>
@@ -227,12 +185,6 @@
             <mods:namePart type="date">1867-1956</mods:namePart>
             <mods:displayForm>Alexander, Annie Montague, 1867-1956</mods:displayForm>
         </mods:name>
-        <mods:subject authority="arctos">
-            <mods:geographic>North America, United States, California, El Dorado County</mods:geographic>
-        </mods:subject>
-        <mods:subject authority="arctos">
-            <mods:geographic>North America, United States, California, Nevada County</mods:geographic>
-        </mods:subject>
         <mods:physicalDescription>
             <mods:extent>14 pages</mods:extent>
         </mods:physicalDescription>
@@ -261,12 +213,6 @@
             <mods:namePart type="date">1867-1957</mods:namePart>
             <mods:displayForm>Alexander, Annie Montague, 1867-1957</mods:displayForm>
         </mods:name>
-        <mods:subject authority="arctos">
-            <mods:geographic>North America, United States, California, Alameda County</mods:geographic>
-        </mods:subject>
-        <mods:subject authority="arctos">
-            <mods:geographic>North America, United States, California, Solano County</mods:geographic>
-        </mods:subject>
         <mods:physicalDescription>
             <mods:extent>5 pages</mods:extent>
         </mods:physicalDescription>
@@ -295,12 +241,6 @@
             <mods:namePart type="date">1867-1958</mods:namePart>
             <mods:displayForm>Alexander, Annie Montague, 1867-1958</mods:displayForm>
         </mods:name>
-        <mods:subject authority="arctos">
-            <mods:geographic>North America, United States, California, Shasta County</mods:geographic>
-        </mods:subject>
-        <mods:subject authority="arctos">
-            <mods:geographic>North America, United States, California, Trinity County</mods:geographic>
-        </mods:subject>
         <mods:physicalDescription>
             <mods:extent>61 pages</mods:extent>
         </mods:physicalDescription>
