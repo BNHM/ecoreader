@@ -22,6 +22,7 @@
         <mods:namePart type="date">1921-2011</mods:namePart>
         <mods:displayForm>Arnold, John R., 1921-2011</mods:displayForm>
     </mods:name>
+    <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/ArnoldJR/v502</mods:identifier>
     <mods:relatedItem type="constituent">
         <mods:titleInfo>
             <mods:title>Section 1: Nevada: Nye. Co. 1933</mods:title>

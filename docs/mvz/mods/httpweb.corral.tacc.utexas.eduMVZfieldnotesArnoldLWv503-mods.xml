@@ -21,6 +21,7 @@
         <mods:namePart type="given">Lee W.</mods:namePart>
         <mods:displayForm>Arnold, Lee W.</mods:displayForm>
     </mods:name>
+    <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/ArnoldLW/v503</mods:identifier>
     <mods:relatedItem type="constituent">
         <mods:titleInfo>
             <mods:title>Section 0: Table of Contents</mods:title>

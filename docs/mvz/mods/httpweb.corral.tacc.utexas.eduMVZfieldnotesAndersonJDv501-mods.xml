@@ -22,6 +22,7 @@
         <mods:namePart type="date">1930-1976</mods:namePart>
         <mods:displayForm>Anderson, James D., 1930-1976</mods:displayForm>
     </mods:name>
+    <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/AndersonJD/v501</mods:identifier>
     <mods:relatedItem type="constituent">
         <mods:titleInfo>
             <mods:title>Section 1: Journal:, California; Ambystoma m. croceum Study 1954-59</mods:title>

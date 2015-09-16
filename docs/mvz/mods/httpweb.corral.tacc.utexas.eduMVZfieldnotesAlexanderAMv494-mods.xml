@@ -4,8 +4,8 @@
         <mods:title>Field Notes: Alexander A.M. 1909, v494</mods:title>
     </mods:titleInfo>
     <mods:language>
-        <mods:languageTerm type="code" authority="iso639-2b">Field_Notes:_Alexander_A.M._1909__v495</mods:languageTerm>
-        <mods:languageTerm type="text">Field Notes: Alexander A.M. 1909, v495</mods:languageTerm>
+        <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+        <mods:languageTerm type="text">English</mods:languageTerm>
     </mods:language>
     <mods:originInfo>
         <mods:dateCreated>1909-05-03/1909-07-09</mods:dateCreated>
@@ -22,6 +22,7 @@
         <mods:namePart type="date">1867-1950</mods:namePart>
         <mods:displayForm>Alexander, Annie Montague, 1867-1950</mods:displayForm>
     </mods:name>
+    <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/AlexanderAM/v494</mods:identifier>
     <mods:relatedItem type="constituent">
         <mods:titleInfo>
             <mods:title>Section 1: Humboldt Co., Nevada, May 3-July 9</mods:title>

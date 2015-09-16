@@ -22,6 +22,7 @@
         <mods:namePart type="date">1911-</mods:namePart>
         <mods:displayForm>Alcorn, J. R. (J. Ray), 1911-</mods:displayForm>
     </mods:name>
+    <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/AlcornJ/v487</mods:identifier>
     <mods:relatedItem type="constituent">
         <mods:titleInfo>
             <mods:title>Section 1: Nevada-California-Oregon-Washington-Montana</mods:title>

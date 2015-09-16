@@ -22,6 +22,7 @@
         <mods:namePart type="date">1914-2010</mods:namePart>
         <mods:displayForm>Aldrich, Elmer Clare, 1914-2010</mods:displayForm>
     </mods:name>
+    <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/AldrichE/v491</mods:identifier>
     <mods:relatedItem type="constituent">
         <mods:titleInfo>
             <mods:title>Section 1: Idaho- May 11 to June 9, 1935; Catalog of specimens #1-84, General account and itinerary</mods:title>
