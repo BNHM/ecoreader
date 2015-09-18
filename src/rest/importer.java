@@ -46,7 +46,7 @@ public class importer {
             for (Object f : (JSONArray) commit.get("added")) {
                 String file = (String) f;
 
-                if (file.startsWith(mods_dir)) {
+                if (file.startsWith(mods_dir) && file.endsWith("xml")) {
                     added.add(repo_url + sha + "/" + file);
                 }
             }
@@ -54,7 +54,7 @@ public class importer {
             for (Object f : (JSONArray) commit.get("modified")) {
                 String file = (String) f;
 
-                if (file.startsWith(mods_dir)) {
+                if (file.startsWith(mods_dir) && file.endsWith("xml")) {
                     modified.add(repo_url + sha + "/" + file);
                 }
             }
@@ -62,7 +62,7 @@ public class importer {
             for (Object f : (JSONArray) commit.get("removed")) {
                 String file = (String) f;
 
-                if (file.startsWith(mods_dir)) {
+                if (file.startsWith(mods_dir) && file.endsWith("xml")) {
                     removed.add(repo_url + sha + "/" + file);
                 }
             }
