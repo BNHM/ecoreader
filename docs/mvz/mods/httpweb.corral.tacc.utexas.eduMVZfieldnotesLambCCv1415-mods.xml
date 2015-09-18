@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<mods:mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mods:titleInfo>
+        <mods:title>Field Notes: Lamb C.C. 1925 (Part 2)</mods:title>
+    </mods:titleInfo>
+    <mods:language>
+        <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+        <mods:languageTerm type="text">English</mods:languageTerm>
+    </mods:language>
+    <mods:originInfo>
+        <mods:dateCreated>1921-06-30/1921-06-30</mods:dateCreated>
+        <mods:dateCreated point="start">1921</mods:dateCreated>
+        <mods:dateCreated point="end">1921</mods:dateCreated>
+    </mods:originInfo>
+    <mods:name type="personal" authority="local">
+        <mods:role>
+            <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+            <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+        </mods:role>
+        <mods:namePart type="family">Lamb</mods:namePart>
+        <mods:namePart type="given">Chester Converse</mods:namePart>
+        <mods:namePart type="date">1883-</mods:namePart>
+        <mods:displayForm>Lamb, Chester Converse, 1883-</mods:displayForm>
+    </mods:name>
+    <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/LambCC/v1415</mods:identifier>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 1: Lower California, Mexico:-San Martin and Cedros Ids. Expedition 2-1925</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1921-06-30/1921-06-30</mods:dateCreated>
+            <mods:dateCreated point="start">1921</mods:dateCreated>
+            <mods:dateCreated point="end">1921</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="local">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Lamb</mods:namePart>
+            <mods:namePart type="given">Chester Converse</mods:namePart>
+            <mods:namePart type="date">1883-</mods:namePart>
+            <mods:displayForm>Lamb, Chester Converse, 1883-</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>39 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/LambCC/v1415_s1</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 2: Los Angeles, Calif. Berkeley, Alameda Co. Calif. 1925</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1921-08-07/1921-08-07</mods:dateCreated>
+            <mods:dateCreated point="start">1921</mods:dateCreated>
+            <mods:dateCreated point="end">1921</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="local">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Lamb</mods:namePart>
+            <mods:namePart type="given">Chester Converse</mods:namePart>
+            <mods:namePart type="date">1883-</mods:namePart>
+            <mods:displayForm>Lamb, Chester Converse, 1883-</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>12 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/LambCC/v1415_s2</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 3: Lower California, Mexico Expedition 3 1925</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1921-09-18/1921-09-18</mods:dateCreated>
+            <mods:dateCreated point="start">1921</mods:dateCreated>
+            <mods:dateCreated point="end">1921</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="local">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Lamb</mods:namePart>
+            <mods:namePart type="given">Chester Converse</mods:namePart>
+            <mods:namePart type="date">1883-</mods:namePart>
+            <mods:displayForm>Lamb, Chester Converse, 1883-</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>47 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/LambCC/v1415_s3</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 4: Lower California Mexico Expedition 4-1925</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1921-10-31/1921-10-31</mods:dateCreated>
+            <mods:dateCreated point="start">1921</mods:dateCreated>
+            <mods:dateCreated point="end">1921</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="local">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Lamb</mods:namePart>
+            <mods:namePart type="given">Chester Converse</mods:namePart>
+            <mods:namePart type="date">1883-</mods:namePart>
+            <mods:displayForm>Lamb, Chester Converse, 1883-</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>81 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/LambCC/v1415_s4</mods:identifier>
+    </mods:relatedItem>
+</mods:mods>

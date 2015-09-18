@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<mods:mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mods:titleInfo>
+        <mods:title>Field Notes: Leopold A.S. 1946-47</mods:title>
+    </mods:titleInfo>
+    <mods:language>
+        <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+        <mods:languageTerm type="text">English</mods:languageTerm>
+    </mods:language>
+    <mods:originInfo>
+        <mods:dateCreated>1942-01-14/1943-12-30</mods:dateCreated>
+        <mods:dateCreated point="start">1942</mods:dateCreated>
+        <mods:dateCreated point="end">1943</mods:dateCreated>
+    </mods:originInfo>
+    <mods:name type="personal" authority="LCHS">
+        <mods:role>
+            <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+            <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+        </mods:role>
+        <mods:namePart type="family">Leopold</mods:namePart>
+        <mods:namePart type="given">A. Starker</mods:namePart>
+        <mods:namePart type="date">1913-1983</mods:namePart>
+        <mods:displayForm>Leopold, A. Starker,  (Aldo Starker), 1913-1983</mods:displayForm>
+    </mods:name>
+    <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/LeopoldAS/v1435</mods:identifier>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 1: Field Notes A. Starker Leopold 1946 and 1947 Mexican Wildlife Survey (part) and general California notes</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1942-01-14/1943-12-30</mods:dateCreated>
+            <mods:dateCreated point="start">1942</mods:dateCreated>
+            <mods:dateCreated point="end">1943</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Leopold</mods:namePart>
+            <mods:namePart type="given">A. Starker</mods:namePart>
+            <mods:namePart type="date">1913-1983</mods:namePart>
+            <mods:displayForm>Leopold, A. Starker,  (Aldo Starker), 1913-1983</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>285 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/LeopoldAS/v1435_s1</mods:identifier>
+    </mods:relatedItem>
+</mods:mods>
