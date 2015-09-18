@@ -99,6 +99,9 @@ public class sqlImporter {
      * Validate a given notebook
      */
     private boolean validateNotebook(NotebookMetadata notebook) {
+        System.out.println("checking into notebook ");
+        System.out.println("\tfilename " + notebook.getFilename());
+        System.out.println("\tidentifier " + notebook.getIdentifier());
         if (notebook.getIdentifier() == null) {
             errors.append(notebook.getFilename() + " has no Volume Identifier\n");
         }
