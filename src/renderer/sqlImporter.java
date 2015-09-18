@@ -393,7 +393,7 @@ public class sqlImporter {
     }
 
     /**
-     * This method is called by the python script. The files will be imported or updated. Any mods file that is not
+     * This method is called by the python script. The files will be imported or updated. Any mods file that are not
      * included as an arg will be deleted from the database.
      *
      * @param args any mods file to be imported/updated
@@ -403,27 +403,25 @@ public class sqlImporter {
             System.out.println("mods files required as argument");
             return;
         }
-
+        ArrayList<String> filenames = new ArrayList<String>();
 
         sqlImporter im = new sqlImporter();
-        List<String> filenames = new ArrayList<String>();
 
-        for (String file : args) {
-            System.out.println("Processing: " + file.toString());
-
-            Mods mods = new modsFactory(file).getMods();
-
-            String[] filepath = file.split("/");
-            String filename = filepath[filepath.length - 1];
-            filenames.add(filename);
-
-            if (im.notebookExists(filename)) {
-                System.out.println("Updating: " + file);
-                im.updateNotebook(mods);
-            } else {
-                System.out.println("Importing: " + file);
-                im.importNotebook(mods);
+        String directoryPath = args[0];
+        File dir = new File(directoryPath);
+        ArrayList<String> filesAsStrings = new ArrayList<String>();
+        if (dir.isDirectory()) {
+            System.out.println("validating all files in " + dir.getAbsolutePath());
+            for (File child : dir.listFiles()) {
+                filenames.add(im.processFile(child));
             }
+        } else {
+            // Handle the case where dir is not really a directory.
+            // Checking dir.isDirectory() above would not be sufficient
+            // to avoid race conditions with another process that deletes
+            // directories.
+            filenames.add(im.processFile(new File(directoryPath)));
+            filesAsStrings.add(directoryPath);
         }
 
         // Delete any mods files in the db that are no longer on github
@@ -431,5 +429,30 @@ public class sqlImporter {
             im.removeNotebooksNotInList(filenames);
         }
 
+    }
+
+    /**
+     * Process a file, returning the filename itself as a String (parsed from File object)
+     * @param f
+     * @return
+     * @throws validationException
+     */
+    private String processFile(File f) throws validationException {
+        System.out.println("Processing: " + f.toString());
+
+        Mods mods = new modsFactory(f.getAbsolutePath()).getMods();
+
+        String[] filepath = f.getAbsolutePath().split("/");
+        String filename = filepath[filepath.length - 1];
+
+
+        if (notebookExists(filename)) {
+            System.out.println("Updating: " + f.getAbsolutePath());
+            updateNotebook(mods);
+        } else {
+            System.out.println("Importing: " + f.getAbsolutePath());
+            importNotebook(mods);
+        }
+        return filename;
     }
 }

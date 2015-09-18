@@ -17,7 +17,7 @@ public class database {
 //    final static Logger logger = LoggerFactory.getLogger(database.class);
 
     /**
-     * Load settings for creating this database connection from the bcidsettings.properties file
+     * Load settings for creating this database connection from the ecoreader.props file
      */
     public database() {
         try {
@@ -31,9 +31,9 @@ public class database {
             Class.forName(dbClass);
             conn = DriverManager.getConnection(Url, User, Password);
         } catch (ClassNotFoundException e) {
-            throw new ServerErrorException("Server Error","Driver issues accessing BCID system", e);
+            throw new ServerErrorException("Server Error","Driver issues accessing database", e);
         } catch (SQLException e) {
-            throw new ServerErrorException("Server Error","SQL Exception accessing BCID system", e);
+            throw new ServerErrorException("Server Error","SQL Exception accessing database", e);
         }
 
     }

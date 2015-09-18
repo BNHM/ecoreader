@@ -4,6 +4,7 @@ import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;
 import org.json.simple.JSONValue;
 import renderer.sqlImporter;
+import renderer.validationException;
 import utils.ServerErrorException;
 import utils.SettingsManager;
 
@@ -71,7 +72,7 @@ public class importer {
                 sqlImporter.importNotebooks(added);
                 sqlImporter.updateNotebooks(modified);
                 sqlImporter.removeNotebooks(removed);
-            } catch (Exception e) {
+            } catch (validationException e) {
                 throw new ServerErrorException(e);
             }
         }

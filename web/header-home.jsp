@@ -5,7 +5,7 @@
 
 <html>
 <head>
-    <title>ecoReaderd</title>
+    <title>ecoReader</title>
 
     <link rel="stylesheet" type="text/css" href="css/jquery-ui.css" />
     <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
