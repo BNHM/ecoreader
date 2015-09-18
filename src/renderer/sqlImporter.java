@@ -197,6 +197,8 @@ public class sqlImporter {
      */
     public void updateNotebooks(List<String> files) throws validationException {
         for (String file : files) {
+            System.out.println(file);
+
             // Create mods object to hold MODS data
             Mods mods = new modsFactory(file).getMods();
 
