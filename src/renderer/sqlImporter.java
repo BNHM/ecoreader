@@ -136,8 +136,9 @@ public class sqlImporter {
 
     private void savePage(pageMetadata page, String section_identifier) {
         PreparedStatement stmt = null;
+        String sql = null;
         try {
-            String sql = "INSERT INTO page (section_id, page_number, page_identifier, type) VALUES ((SELECT section_id " +
+             sql = "INSERT INTO page (section_id, page_number, page_identifier, type) VALUES ((SELECT section_id " +
                     "FROM section WHERE section_identifier = ?),?,?,?)";
             stmt = conn.prepareStatement(sql);
 
@@ -150,6 +151,7 @@ public class sqlImporter {
 
             stmt.execute();
         } catch (SQLException e) {
+            System.out.println(sql);
             throw new ServerErrorException(e);
         } finally {
             db.close(stmt, null);
@@ -284,8 +286,9 @@ public class sqlImporter {
 
     private void updatePage(pageMetadata page, String section_identifier) {
         PreparedStatement stmt = null;
+        String sql = null;
         try {
-            String sql = "UPDATE page SET page_identifier = ?, type = ? WHERE section_id = (SELECT section_id " +
+             sql = "UPDATE page SET page_identifier = ?, type = ? WHERE section_id = (SELECT section_id " +
                     "FROM section WHERE section_identifier = ?) AND page_number = ?";
             stmt = conn.prepareStatement(sql);
 
@@ -298,6 +301,7 @@ public class sqlImporter {
 
             stmt.execute();
         } catch (SQLException e) {
+            System.out.println(sql + page.getFullPath() + ";null;" + section_identifier + ";" + page.getPageNumberAsInt());
             throw new ServerErrorException(e);
         } finally {
             db.close(stmt, null);
@@ -440,7 +444,8 @@ public class sqlImporter {
     private String processFile(File f) throws validationException {
         System.out.println("Processing: " + f.toString());
 
-        Mods mods = new modsFactory(f.getAbsolutePath()).getMods();
+
+        Mods mods = new modsFactory("file:///" + f.getAbsolutePath()).getMods();
 
         String[] filepath = f.getAbsolutePath().split("/");
         String filename = filepath[filepath.length - 1];

@@ -78,6 +78,9 @@ public class mvzSection implements sectionMetadata {
      * @param identifier
      */
     public void addIdentifier(String identifier) {
+        // Strip .jpg off of name... this is not required but is in the identifier
+        identifier = identifier.replace(".jpg","");
+
         this.identifier = identifier;
         // Add pages when fetching the identifier, the assumption
         // is that the Identifier for the Section contains a directory
@@ -106,6 +109,7 @@ public class mvzSection implements sectionMetadata {
         Document doc = null;
         try {
             if (urlString.contains("http")) {
+
                 doc = Jsoup.connect(urlString).timeout(10000).get();
                 for (Element file : doc.select("td a")) {
                     String filename = file.attr("href");

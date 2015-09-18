@@ -126,6 +126,7 @@ public class image {
             System.out.println("\t" + names[i]);
         }
 
+
         mvzTaccPage page = new mvzTaccPage("http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellJ/v1316_s2/", "v1316_s2_p000.tif");
         image i = new image(page);
 
