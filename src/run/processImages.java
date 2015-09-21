@@ -58,10 +58,18 @@ public class processImages {
             // Loop through) pages
             while (pagesIt.hasNext()) {
                 mvzTaccPage page = (mvzTaccPage) pagesIt.next();
-                System.out.println("\t\t"  + page.getFullPath() + ";" + page.getImageFileInputName());
-                image image = new image(page);
-                image.writeAllScales();
-                image.close();
+                System.out.println("\t\t" + page.getFullPath() + ";" + page.getImageFileInputName());
+                try {
+                    image image = new image(page);
+                    if (!image.getExists()) {
+                        image.writeAllScales();
+                    } else {
+                        System.out.println("\t\tEXISTS, skipping");
+                    }
+                    image.close();
+                } catch (Exception e) {
+                    System.out.println("ERROR processing " + page.getFullPath());
+                }
             }
         }
 

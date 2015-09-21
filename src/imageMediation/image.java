@@ -35,48 +35,70 @@ public class image {
     public static String imageDirectory = "images";
     public static String format = "png";
 
+    private  boolean exists = false;
+
     /**
      * Construct the image class with an individual page
+     *
      * @param page
      */
-    public image(mvzTaccPage page) {
+    public image(mvzTaccPage page) throws Exception {
         this.page = page;
         volume = page.getVolume();
 
-        System.out.println("Copying " + page.getFullPath());
+        // Create the output directory path with volume directory and subdirectories for various resolutions
+        // Check to see if this exists
+        String outputFileString = imageDirectory +
+                File.separator + volume +
+                File.separator + BIG +
+                File.separator + page.getName() +
+                "." + format;
 
-        // Create a temporary file
-        // TODO: implement more robust tmpfile method
-        tmpFile = new File("web" + File.separator + imageDirectory + File.separator + "tmpfile");
+        if (new File(outputFileString).exists()) {
+            exists = true;
+        } else {
+            System.out.println("Copying " + page.getFullPath());
+
+            // Create a temporary file
+            // TODO: implement more robust tmpfile method
+            tmpFile = new File("web" + File.separator + imageDirectory + File.separator + "tmpfile");
 
 
-       // TODO: remove this comment block
+            // TODO: remove this comment block
 
-       try {
-            System.out.println("Copying to local ...");
-            FileUtils.copyURLToFile(new URL(page.getFullPath()), tmpFile);
-        } catch (IOException e) {
-            e.printStackTrace();
+            try {
+                System.out.println("Copying to local ...");
+                FileUtils.copyURLToFile(new URL(page.getFullPath()), tmpFile);
+            } catch (IOException e) {
+                e.printStackTrace();
+            }
+
+
+            // Create the filestream for reading the file we've copied over from the remote server
+            FileSeekableStream stream = null;
+            try {
+                stream = new FileSeekableStream(tmpFile);
+            } catch (IOException e) {
+                throw new Exception(e);
+            }
+
+            // Decode the TIFF and create an image object
+            TIFFDecodeParam decodeParam = new TIFFDecodeParam();
+            decodeParam.setDecodePaletteAsShorts(true);
+            ParameterBlock params = new ParameterBlock();
+            params.add(stream);
+            RenderedOp image1 = JAI.create("tiff", params);
+            image = image1.getAsBufferedImage();
         }
-
-
-        // Create the filestream for reading the file we've copied over from the remote server
-        FileSeekableStream stream = null;
-        try {
-            stream = new FileSeekableStream(tmpFile);
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
-
-        // Decode the TIFF and create an image object
-        TIFFDecodeParam decodeParam = new TIFFDecodeParam();
-        decodeParam.setDecodePaletteAsShorts(true);
-        ParameterBlock params = new ParameterBlock();
-        params.add(stream);
-        RenderedOp image1 = JAI.create("tiff", params);
-        image = image1.getAsBufferedImage();
     }
 
+    /**
+     * Tells us if the image exists in the local file system
+     * @return
+     */
+    public boolean getExists() {
+        return exists;
+    }
     public void writeAllScales() {
         writeNewSize(THUMB);
         writeNewSize(BIG);
@@ -119,10 +141,10 @@ public class image {
      *
      * @param args
      */
-    public static void main(String[] args) {
+    public static void main(String[] args) throws Exception {
         String[] names = ImageIO.getWriterFormatNames();
         System.out.println("format names:\n");
-        for (int i =0; i< names.length; i++) {
+        for (int i = 0; i < names.length; i++) {
             System.out.println("\t" + names[i]);
         }
 
