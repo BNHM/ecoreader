@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<mods:mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mods:titleInfo>
+        <mods:title>Field Notes: Thompson, B.H. 1929-1957</mods:title>
+    </mods:titleInfo>
+    <mods:language>
+        <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+        <mods:languageTerm type="text">English</mods:languageTerm>
+    </mods:language>
+    <mods:originInfo>
+        <mods:dateCreated>1925-10-16/1953-08-16</mods:dateCreated>
+        <mods:dateCreated point="start">1925</mods:dateCreated>
+        <mods:dateCreated point="end">1953</mods:dateCreated>
+    </mods:originInfo>
+    <mods:name type="personal" authority="LCHS">
+        <mods:role>
+            <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+            <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+        </mods:role>
+        <mods:namePart type="family">Thompson</mods:namePart>
+        <mods:namePart type="given">Ben H.</mods:namePart>
+        <mods:namePart type="date">1904-1997</mods:namePart>
+        <mods:displayForm>Thompson, Ben H.,  (Benjamin Hunter), 1904-1997</mods:displayForm>
+    </mods:name>
+    <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/ThompsonBH/v4159</mods:identifier>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 0: General Index</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1925-10-16/1953-08-16</mods:dateCreated>
+            <mods:dateCreated point="start">1925</mods:dateCreated>
+            <mods:dateCreated point="end">1953</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Thompson</mods:namePart>
+            <mods:namePart type="given">Ben H.</mods:namePart>
+            <mods:namePart type="date">1904-1997</mods:namePart>
+            <mods:displayForm>Thompson, Ben H.,  (Benjamin Hunter), 1904-1997</mods:displayForm>
+        </mods:name>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/ThompsonBH/v4159_s0</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 1: Calif: Alameda Co. Lake Merritt. Washington: Mount Rainier N.P., Oregon: Crater Lake N.P., Arizona: Grand Canyon N.P., Colorado: Mesa Verde N.P.</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1925-10-16/1926-11-11</mods:dateCreated>
+            <mods:dateCreated point="start">1925</mods:dateCreated>
+            <mods:dateCreated point="end">1926</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Thompson</mods:namePart>
+            <mods:namePart type="given">Ben H.</mods:namePart>
+            <mods:namePart type="date">1904-1997</mods:namePart>
+            <mods:displayForm>Thompson, Ben H.,  (Benjamin Hunter), 1904-1997</mods:displayForm>
+        </mods:name>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/ThompsonBH/v4159_s1</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 2: Florida, California, New Mexico, Colorado, Arizona, Utah, Wyoming</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1927-01-15/1927-11-28</mods:dateCreated>
+            <mods:dateCreated point="start">1927</mods:dateCreated>
+            <mods:dateCreated point="end">1927</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Thompson</mods:namePart>
+            <mods:namePart type="given">Ben H.</mods:namePart>
+            <mods:namePart type="date">1904-1997</mods:namePart>
+            <mods:displayForm>Thompson, Ben H.,  (Benjamin Hunter), 1904-1997</mods:displayForm>
+        </mods:name>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/ThompsonBH/v4159_s2</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 3: California, Nevada, Utah, Wyoming, Oregon, Idaho, British Columbia</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1928-03-17/1929-10-30</mods:dateCreated>
+            <mods:dateCreated point="start">1928</mods:dateCreated>
+            <mods:dateCreated point="end">1929</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Thompson</mods:namePart>
+            <mods:namePart type="given">Ben H.</mods:namePart>
+            <mods:namePart type="date">1904-1997</mods:namePart>
+            <mods:displayForm>Thompson, Ben H.,  (Benjamin Hunter), 1904-1997</mods:displayForm>
+        </mods:name>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/ThompsonBH/v4159_s3</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 4: Arizona: Grand Canyon N.P., Petrified Forest N.M., Canyon de Chelly N.M., Colorado: Mesa Verde N.P., Rocky Mountain N.P., Wyoming: Yellowstone N.P., Utah: San Rafael region</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1929-03-03/1929-10-29</mods:dateCreated>
+            <mods:dateCreated point="start">1929</mods:dateCreated>
+            <mods:dateCreated point="end">1929</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Thompson</mods:namePart>
+            <mods:namePart type="given">Ben H.</mods:namePart>
+            <mods:namePart type="date">1904-1997</mods:namePart>
+            <mods:displayForm>Thompson, Ben H.,  (Benjamin Hunter), 1904-1997</mods:displayForm>
+        </mods:name>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/ThompsonBH/v4159_s4</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 5: Arizona: Grand Canyon N.P., Petrified Forest N.M., New Mexico: Bandelier N.M., Carlsbad Caverns N.P., Texas: Big Bend, Washington: Mount Olympus, Montana: Redrock Lakes N.W.R.</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1930-02-26/1930-08-16</mods:dateCreated>
+            <mods:dateCreated point="start">1930</mods:dateCreated>
+            <mods:dateCreated point="end">1930</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Thompson</mods:namePart>
+            <mods:namePart type="given">Ben H.</mods:namePart>
+            <mods:namePart type="date">1904-1997</mods:namePart>
+            <mods:displayForm>Thompson, Ben H.,  (Benjamin Hunter), 1904-1997</mods:displayForm>
+        </mods:name>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/ThompsonBH/v4159_s5</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 6: Wyoming: Yellowstone N.P., Nevada: Lake Mead National Recreation Area</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1945-08-06/1945-08-09</mods:dateCreated>
+            <mods:dateCreated point="start">1945</mods:dateCreated>
+            <mods:dateCreated point="end">1945</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Thompson</mods:namePart>
+            <mods:namePart type="given">Ben H.</mods:namePart>
+            <mods:namePart type="date">1904-1997</mods:namePart>
+            <mods:displayForm>Thompson, Ben H.,  (Benjamin Hunter), 1904-1997</mods:displayForm>
+        </mods:name>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/ThompsonBH/v4159_s6</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 7: Kansas: Flint Hills</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1953-08-12/1953-08-16</mods:dateCreated>
+            <mods:dateCreated point="start">1953</mods:dateCreated>
+            <mods:dateCreated point="end">1953</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Thompson</mods:namePart>
+            <mods:namePart type="given">Ben H.</mods:namePart>
+            <mods:namePart type="date">1904-1997</mods:namePart>
+            <mods:displayForm>Thompson, Ben H.,  (Benjamin Hunter), 1904-1997</mods:displayForm>
+        </mods:name>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/ThompsonBH/v4159_s7</mods:identifier>
+    </mods:relatedItem>
+</mods:mods>

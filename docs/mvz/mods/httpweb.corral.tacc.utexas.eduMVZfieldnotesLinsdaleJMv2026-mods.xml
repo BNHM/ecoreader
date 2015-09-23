@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<mods:mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mods:titleInfo>
+        <mods:title>Field Notes: Linsdale J.M. 1934-35, Point Lobos Photographs Maps</mods:title>
+    </mods:titleInfo>
+    <mods:language>
+        <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+        <mods:languageTerm type="text">English</mods:languageTerm>
+    </mods:language>
+    <mods:originInfo>
+        <mods:dateCreated>1930-12-09/1931-09-22</mods:dateCreated>
+        <mods:dateCreated point="start">1930</mods:dateCreated>
+        <mods:dateCreated point="end">1931</mods:dateCreated>
+    </mods:originInfo>
+    <mods:name type="personal" authority="LCHS">
+        <mods:role>
+            <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+            <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+        </mods:role>
+        <mods:namePart type="family">Linsdale</mods:namePart>
+        <mods:namePart type="given">Jean M.</mods:namePart>
+        <mods:namePart type="date">1902-1969</mods:namePart>
+        <mods:displayForm>Linsdale, Jean M.,  (Jean Myron), 1902-1969</mods:displayForm>
+    </mods:name>
+    <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/LinsdaleJM/v2026</mods:identifier>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 0: General Index</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1930-12-09/1931-09-22</mods:dateCreated>
+            <mods:dateCreated point="start">1930</mods:dateCreated>
+            <mods:dateCreated point="end">1931</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Linsdale</mods:namePart>
+            <mods:namePart type="given">Jean M.</mods:namePart>
+            <mods:namePart type="date">1902-1969</mods:namePart>
+            <mods:displayForm>Linsdale, Jean M.,  (Jean Myron), 1902-1969</mods:displayForm>
+        </mods:name>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/LinsdaleJM/v2026_s0</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 1: Point Lobos State Park, Monterey Co., Calif. 1934-1935 J.M. Linsdale: Photographs, photo records and maps</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1930-12-09/1931-09-22</mods:dateCreated>
+            <mods:dateCreated point="start">1930</mods:dateCreated>
+            <mods:dateCreated point="end">1931</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Linsdale</mods:namePart>
+            <mods:namePart type="given">Jean M.</mods:namePart>
+            <mods:namePart type="date">1902-1969</mods:namePart>
+            <mods:displayForm>Linsdale, Jean M.,  (Jean Myron), 1902-1969</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>85 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/LinsdaleJM/v2026_s1</mods:identifier>
+    </mods:relatedItem>
+</mods:mods>
