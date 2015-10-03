@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<mods:mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mods:titleInfo>
+        <mods:title>Field Notes: Taylor W.P. 1911</mods:title>
+    </mods:titleInfo>
+    <mods:language>
+        <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+        <mods:languageTerm type="text">English</mods:languageTerm>
+    </mods:language>
+    <mods:originInfo>
+        <mods:dateCreated>1907-06-10/1908-02-08</mods:dateCreated>
+        <mods:dateCreated point="start">1907</mods:dateCreated>
+        <mods:dateCreated point="end">1908</mods:dateCreated>
+    </mods:originInfo>
+    <mods:name type="personal" authority="ingest">
+        <mods:role>
+            <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+            <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+        </mods:role>
+        <mods:namePart type="family">Taylor</mods:namePart>
+        <mods:namePart type="given">Walter P.</mods:namePart>
+        <mods:namePart type="date">1888-1972</mods:namePart>
+        <mods:displayForm>Taylor, Walter P.,  (Walter Penn), 1888-1972</mods:displayForm>
+    </mods:name>
+    <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/TaylorWP/v1693</mods:identifier>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 0: General Index</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1907-06-10/1908-02-08</mods:dateCreated>
+            <mods:dateCreated point="start">1907</mods:dateCreated>
+            <mods:dateCreated point="end">1908</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="ingest">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Taylor</mods:namePart>
+            <mods:namePart type="given">Walter P.</mods:namePart>
+            <mods:namePart type="date">1888-1972</mods:namePart>
+            <mods:displayForm>Taylor, Walter P.,  (Walter Penn), 1888-1972</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>1 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/TaylorWP/v1693_s0</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 1: Mt. Whitney region, California 1911</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1907-06-10/1907-09-12</mods:dateCreated>
+            <mods:dateCreated point="start">1907</mods:dateCreated>
+            <mods:dateCreated point="end">1907</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="ingest">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Taylor</mods:namePart>
+            <mods:namePart type="given">Walter P.</mods:namePart>
+            <mods:namePart type="date">1888-1972</mods:namePart>
+            <mods:displayForm>Taylor, Walter P.,  (Walter Penn), 1888-1972</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>308 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/TaylorWP/v1693_s1</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 2: Berkeley, Alameda Co., Calif. 1911-1912</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1907-09-20/1908-02-08</mods:dateCreated>
+            <mods:dateCreated point="start">1907</mods:dateCreated>
+            <mods:dateCreated point="end">1908</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="ingest">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Taylor</mods:namePart>
+            <mods:namePart type="given">Walter P.</mods:namePart>
+            <mods:namePart type="date">1888-1972</mods:namePart>
+            <mods:displayForm>Taylor, Walter P.,  (Walter Penn), 1888-1972</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>15 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/TaylorWP/v1693_s2</mods:identifier>
+    </mods:relatedItem>
+</mods:mods>

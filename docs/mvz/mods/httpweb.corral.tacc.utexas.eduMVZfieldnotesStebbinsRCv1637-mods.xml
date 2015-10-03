@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<mods:mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mods:titleInfo>
+        <mods:title>Field Notes: Stebbins R.C. 1955-1957</mods:title>
+    </mods:titleInfo>
+    <mods:language>
+        <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+        <mods:languageTerm type="text">English</mods:languageTerm>
+    </mods:language>
+    <mods:originInfo>
+        <mods:dateCreated>1951-07-17/1953-07-31</mods:dateCreated>
+        <mods:dateCreated point="start">1951</mods:dateCreated>
+        <mods:dateCreated point="end">1953</mods:dateCreated>
+    </mods:originInfo>
+    <mods:name type="personal" authority="LCHS">
+        <mods:role>
+            <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+            <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+        </mods:role>
+        <mods:namePart type="family">Stebbins</mods:namePart>
+        <mods:namePart type="given">Robert C.</mods:namePart>
+        <mods:namePart type="date">1915-2013</mods:namePart>
+        <mods:displayForm>Stebbins, Robert C.,  (Robert Cyril), 1915-2013</mods:displayForm>
+    </mods:name>
+    <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/StebbinsRC/v1637</mods:identifier>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 1: Stebbins, R.C. July, 1955-May 6, 1956 California, miscellaneous, local, Northern and Southern counties Catalogue nos. 7498-7779 Journal</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1951-07-17/1952-05-04</mods:dateCreated>
+            <mods:dateCreated point="start">1951</mods:dateCreated>
+            <mods:dateCreated point="end">1952</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Stebbins</mods:namePart>
+            <mods:namePart type="given">Robert C.</mods:namePart>
+            <mods:namePart type="date">1915-2013</mods:namePart>
+            <mods:displayForm>Stebbins, Robert C.,  (Robert Cyril), 1915-2013</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>47 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/StebbinsRC/v1637_s1</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 2: Stebbins, R.C. July 8-September 2, 1956 Nevada, and various counties in Arizona (including Southwestern Research Station area). Catalogue nos. 7780-8115 Journal</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1952-07-07/1952-09-01</mods:dateCreated>
+            <mods:dateCreated point="start">1952</mods:dateCreated>
+            <mods:dateCreated point="end">1952</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Stebbins</mods:namePart>
+            <mods:namePart type="given">Robert C.</mods:namePart>
+            <mods:namePart type="date">1915-2013</mods:namePart>
+            <mods:displayForm>Stebbins, Robert C.,  (Robert Cyril), 1915-2013</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>51 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/StebbinsRC/v1637_s2</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 3: Stebbins, R.C. September 16-November, 1956 Contra Costa county and other local areas, California Catalogue nos. 8116-8191</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1952-09-14/1952-11-30</mods:dateCreated>
+            <mods:dateCreated point="start">1952</mods:dateCreated>
+            <mods:dateCreated point="end">1952</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Stebbins</mods:namePart>
+            <mods:namePart type="given">Robert C.</mods:namePart>
+            <mods:namePart type="date">1915-2013</mods:namePart>
+            <mods:displayForm>Stebbins, Robert C.,  (Robert Cyril), 1915-2013</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>6 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/StebbinsRC/v1637_s3</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 4: Stebbins, R.C. Feb. 17-April 28, 1957 Local and Southern California counties. Catalogue nos. 8912-8297 Journal</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1953-02-16/1953-04-27</mods:dateCreated>
+            <mods:dateCreated point="start">1953</mods:dateCreated>
+            <mods:dateCreated point="end">1953</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Stebbins</mods:namePart>
+            <mods:namePart type="given">Robert C.</mods:namePart>
+            <mods:namePart type="date">1915-2013</mods:namePart>
+            <mods:displayForm>Stebbins, Robert C.,  (Robert Cyril), 1915-2013</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>29 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/StebbinsRC/v1637_s4</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 5: Stebbins, R.C. May 5-August 1, 1957 California, local counties; Arizona and New Mexico. Catalogue nos. 8280-8417b. Journal</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1953-05-04/1953-07-31</mods:dateCreated>
+            <mods:dateCreated point="start">1953</mods:dateCreated>
+            <mods:dateCreated point="end">1953</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Stebbins</mods:namePart>
+            <mods:namePart type="given">Robert C.</mods:namePart>
+            <mods:namePart type="date">1915-2013</mods:namePart>
+            <mods:displayForm>Stebbins, Robert C.,  (Robert Cyril), 1915-2013</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>13 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/StebbinsRC/v1637_s5</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 6: Stebbins, R.C. Species Accounts Amphibians Reptiles Birds</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1951-07-17/1953-07-31</mods:dateCreated>
+            <mods:dateCreated point="start">1951</mods:dateCreated>
+            <mods:dateCreated point="end">1953</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Stebbins</mods:namePart>
+            <mods:namePart type="given">Robert C.</mods:namePart>
+            <mods:namePart type="date">1915-2013</mods:namePart>
+            <mods:displayForm>Stebbins, Robert C.,  (Robert Cyril), 1915-2013</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>355 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/StebbinsRC/v1637_s6</mods:identifier>
+    </mods:relatedItem>
+</mods:mods>

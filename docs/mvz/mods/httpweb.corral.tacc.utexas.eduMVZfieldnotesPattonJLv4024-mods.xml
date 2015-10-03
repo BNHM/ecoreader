@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<mods:mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mods:titleInfo>
+        <mods:title>Field Notes: Patton J.L. 1966-1980</mods:title>
+    </mods:titleInfo>
+    <mods:language>
+        <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+        <mods:languageTerm type="text">English</mods:languageTerm>
+    </mods:language>
+    <mods:originInfo>
+        <mods:dateCreated>1962-01-31/1992-04-29</mods:dateCreated>
+        <mods:dateCreated point="start">1962</mods:dateCreated>
+        <mods:dateCreated point="end">1992</mods:dateCreated>
+    </mods:originInfo>
+    <mods:name type="personal" authority="LCHS">
+        <mods:role>
+            <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+            <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+        </mods:role>
+        <mods:namePart type="family">Patton</mods:namePart>
+        <mods:namePart type="given">James L.</mods:namePart>
+        <mods:displayForm>Patton, James L.</mods:displayForm>
+    </mods:name>
+    <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/PattonJL/v4024</mods:identifier>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 1: Arizona: Santa Cruz Co.</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1962-01-31/1992-04-29</mods:dateCreated>
+            <mods:dateCreated point="start">1962</mods:dateCreated>
+            <mods:dateCreated point="end">1992</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Patton</mods:namePart>
+            <mods:namePart type="given">James L.</mods:namePart>
+            <mods:displayForm>Patton, James L.</mods:displayForm>
+        </mods:name>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/PattonJL/v4024_s1</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 2: California: Lassen Co.</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1965-04-16/1965-04-17</mods:dateCreated>
+            <mods:dateCreated point="start">1965</mods:dateCreated>
+            <mods:dateCreated point="end">1965</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Patton</mods:namePart>
+            <mods:namePart type="given">James L.</mods:namePart>
+            <mods:displayForm>Patton, James L.</mods:displayForm>
+        </mods:name>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/PattonJL/v4024_s2</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 3: California: Inyo, San Bernardino Cos. Utah: Washington Co. Nevada: Lincoln Co. New Mexico: Hidalgo Co.</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1969-02-24/1969-08-07</mods:dateCreated>
+            <mods:dateCreated point="start">1969</mods:dateCreated>
+            <mods:dateCreated point="end">1969</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Patton</mods:namePart>
+            <mods:namePart type="given">James L.</mods:namePart>
+            <mods:displayForm>Patton, James L.</mods:displayForm>
+        </mods:name>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/PattonJL/v4024_s3</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 4: Arizona: Gila Co. New Mexico: Lincoln Co.</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1970-07-30/1970-08-04</mods:dateCreated>
+            <mods:dateCreated point="start">1970</mods:dateCreated>
+            <mods:dateCreated point="end">1970</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Patton</mods:namePart>
+            <mods:namePart type="given">James L.</mods:namePart>
+            <mods:displayForm>Patton, James L.</mods:displayForm>
+        </mods:name>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/PattonJL/v4024_s4</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 5: Arizona: Pinal Co. California: Mono Co.</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1971-02-06/1971-06-25</mods:dateCreated>
+            <mods:dateCreated point="start">1971</mods:dateCreated>
+            <mods:dateCreated point="end">1971</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Patton</mods:namePart>
+            <mods:namePart type="given">James L.</mods:namePart>
+            <mods:displayForm>Patton, James L.</mods:displayForm>
+        </mods:name>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/PattonJL/v4024_s5</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 6: California: Monterey Co.</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1972-11-21/1978-04-29</mods:dateCreated>
+            <mods:dateCreated point="start">1972</mods:dateCreated>
+            <mods:dateCreated point="end">1978</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Patton</mods:namePart>
+            <mods:namePart type="given">James L.</mods:namePart>
+            <mods:displayForm>Patton, James L.</mods:displayForm>
+        </mods:name>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/PattonJL/v4024_s6</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 7: New Mexico: Union Co. Colorado: Huerfano, Conejos, Archuleta Cos. Utah: Grand, Emery, Piute, Kane Cos. Arizona: Coconico Co.</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1972-08-09/1972-08-21</mods:dateCreated>
+            <mods:dateCreated point="start">1972</mods:dateCreated>
+            <mods:dateCreated point="end">1972</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Patton</mods:namePart>
+            <mods:namePart type="given">James L.</mods:namePart>
+            <mods:displayForm>Patton, James L.</mods:displayForm>
+        </mods:name>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/PattonJL/v4024_s7</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 8: California: Fresno, Monterey Cos.</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1975-03-20/1975-03-21</mods:dateCreated>
+            <mods:dateCreated point="start">1975</mods:dateCreated>
+            <mods:dateCreated point="end">1975</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Patton</mods:namePart>
+            <mods:namePart type="given">James L.</mods:namePart>
+            <mods:displayForm>Patton, James L.</mods:displayForm>
+        </mods:name>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/PattonJL/v4024_s8</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 9: Arizona: Pinal, Navajo Cos. New Mexico: Valencia, Socorro Cos.</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1976-05-06/1976-05-16</mods:dateCreated>
+            <mods:dateCreated point="start">1976</mods:dateCreated>
+            <mods:dateCreated point="end">1976</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Patton</mods:namePart>
+            <mods:namePart type="given">James L.</mods:namePart>
+            <mods:displayForm>Patton, James L.</mods:displayForm>
+        </mods:name>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/PattonJL/v4024_s9</mods:identifier>
+    </mods:relatedItem>
+</mods:mods>

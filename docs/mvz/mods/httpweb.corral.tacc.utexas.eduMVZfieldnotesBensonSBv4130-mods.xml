@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<mods:mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mods:titleInfo>
+        <mods:title>Field Notes: Benson, S.B. 1928-1938</mods:title>
+    </mods:titleInfo>
+    <mods:language>
+        <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+        <mods:languageTerm type="text">English</mods:languageTerm>
+    </mods:language>
+    <mods:originInfo>
+        <mods:dateCreated>1925-01-07/1934-01-08</mods:dateCreated>
+        <mods:dateCreated point="start">1925</mods:dateCreated>
+        <mods:dateCreated point="end">1934</mods:dateCreated>
+    </mods:originInfo>
+    <mods:name type="personal" authority="LCHS">
+        <mods:role>
+            <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+            <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+        </mods:role>
+        <mods:namePart type="family">Benson</mods:namePart>
+        <mods:namePart type="given">Seth B.</mods:namePart>
+        <mods:namePart type="date">1905-2005</mods:namePart>
+        <mods:displayForm>Benson, Seth B.,  (Seth Bertram), 1905-2005</mods:displayForm>
+    </mods:name>
+    <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/BensonSB/v4130</mods:identifier>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 0: General Index</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1925-01-07/1934-01-08</mods:dateCreated>
+            <mods:dateCreated point="start">1925</mods:dateCreated>
+            <mods:dateCreated point="end">1934</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Benson</mods:namePart>
+            <mods:namePart type="given">Seth B.</mods:namePart>
+            <mods:namePart type="date">1905-2005</mods:namePart>
+            <mods:displayForm>Benson, Seth B.,  (Seth Bertram), 1905-2005</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>1 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/BensonSB/v4130_s0</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 1: California #1-10, Michigan #2459-2571, 2625-2922</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1925-01-07/1931-12-18</mods:dateCreated>
+            <mods:dateCreated point="start">1925</mods:dateCreated>
+            <mods:dateCreated point="end">1931</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Benson</mods:namePart>
+            <mods:namePart type="given">Seth B.</mods:namePart>
+            <mods:namePart type="date">1905-2005</mods:namePart>
+            <mods:displayForm>Benson, Seth B.,  (Seth Bertram), 1905-2005</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>36 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/BensonSB/v4130_s1</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 2: Catalogue #2923-4830 (inc. Mexico)</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1932-01-01/1933-05-30</mods:dateCreated>
+            <mods:dateCreated point="start">1932</mods:dateCreated>
+            <mods:dateCreated point="end">1933</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Benson</mods:namePart>
+            <mods:namePart type="given">Seth B.</mods:namePart>
+            <mods:namePart type="date">1905-2005</mods:namePart>
+            <mods:displayForm>Benson, Seth B.,  (Seth Bertram), 1905-2005</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>95 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/BensonSB/v4130_s2</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 3: en route to Michigan through Washington, Montana Michigan. Michigan to California through Texas, New Mexico, Colorado, Nebraska, Wyoming. California: Local</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1930-08-24/1931-07-31</mods:dateCreated>
+            <mods:dateCreated point="start">1930</mods:dateCreated>
+            <mods:dateCreated point="end">1931</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Benson</mods:namePart>
+            <mods:namePart type="given">Seth B.</mods:namePart>
+            <mods:namePart type="date">1905-2005</mods:namePart>
+            <mods:displayForm>Benson, Seth B.,  (Seth Bertram), 1905-2005</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>62 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/BensonSB/v4130_s3</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 4: Species Accounts 1928-1938</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1934-09-23/1933-12-05</mods:dateCreated>
+            <mods:dateCreated point="start">1934</mods:dateCreated>
+            <mods:dateCreated point="end">1933</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Benson</mods:namePart>
+            <mods:namePart type="given">Seth B.</mods:namePart>
+            <mods:namePart type="date">1905-2005</mods:namePart>
+            <mods:displayForm>Benson, Seth B.,  (Seth Bertram), 1905-2005</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>35 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/BensonSB/v4130_s4</mods:identifier>
+    </mods:relatedItem>
+</mods:mods>

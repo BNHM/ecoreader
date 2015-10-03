@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<mods:mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mods:titleInfo>
+        <mods:title>Field Notes: Sage R.D. 1963-64</mods:title>
+    </mods:titleInfo>
+    <mods:language>
+        <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+        <mods:languageTerm type="text">English</mods:languageTerm>
+    </mods:language>
+    <mods:originInfo>
+        <mods:dateCreated>1959-06-08/1960-08-30</mods:dateCreated>
+        <mods:dateCreated point="start">1959</mods:dateCreated>
+        <mods:dateCreated point="end">1960</mods:dateCreated>
+    </mods:originInfo>
+    <mods:name type="personal" authority="local">
+        <mods:role>
+            <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+            <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+        </mods:role>
+        <mods:namePart type="family">Sage</mods:namePart>
+        <mods:namePart type="given">Richard D.</mods:namePart>
+        <mods:displayForm>Sage, Richard D.</mods:displayForm>
+    </mods:name>
+    <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/SageRD/v1584</mods:identifier>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 1: Richard D. Sage 1963-64 Catalogue #1-169 Calif.</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1959-06-08/1960-06-05</mods:dateCreated>
+            <mods:dateCreated point="start">1959</mods:dateCreated>
+            <mods:dateCreated point="end">1960</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="local">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Sage</mods:namePart>
+            <mods:namePart type="given">Richard D.</mods:namePart>
+            <mods:displayForm>Sage, Richard D.</mods:displayForm>
+        </mods:name>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/SageRD/v1584_s1</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 2: Richard D. Sage 1964 Journal Calif.</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1960-02-11/1960-06-05</mods:dateCreated>
+            <mods:dateCreated point="start">1960</mods:dateCreated>
+            <mods:dateCreated point="end">1960</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="local">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Sage</mods:namePart>
+            <mods:namePart type="given">Richard D.</mods:namePart>
+            <mods:displayForm>Sage, Richard D.</mods:displayForm>
+        </mods:name>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/SageRD/v1584_s2</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 3: Richard D. Sage 1964 Catalogue #170-579 Arizona, Texas, Mexico</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1960-06-11/1960-08-30</mods:dateCreated>
+            <mods:dateCreated point="start">1960</mods:dateCreated>
+            <mods:dateCreated point="end">1960</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="local">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Sage</mods:namePart>
+            <mods:namePart type="given">Richard D.</mods:namePart>
+            <mods:displayForm>Sage, Richard D.</mods:displayForm>
+        </mods:name>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/SageRD/v1584_s3</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 4: Richard D. Sage 1964 Journal: Calif. Arizona, Texas, Mexico</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1960-06-10/1960-04-18</mods:dateCreated>
+            <mods:dateCreated point="start">1960</mods:dateCreated>
+            <mods:dateCreated point="end">1960</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="local">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Sage</mods:namePart>
+            <mods:namePart type="given">Richard D.</mods:namePart>
+            <mods:displayForm>Sage, Richard D.</mods:displayForm>
+        </mods:name>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/SageRD/v1584_s4</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 5: Richard D. Sage 1964 Species Acc'ts Reptiles, Mammals, Birds</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1960-02-20/1960-02-27</mods:dateCreated>
+            <mods:dateCreated point="start">1960</mods:dateCreated>
+            <mods:dateCreated point="end">1960</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="local">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Sage</mods:namePart>
+            <mods:namePart type="given">Richard D.</mods:namePart>
+            <mods:displayForm>Sage, Richard D.</mods:displayForm>
+        </mods:name>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/SageRD/v1584_s5</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 6: Richard D. Sage 1964 Field Project</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1960-03-02/1960-03-10</mods:dateCreated>
+            <mods:dateCreated point="start">1960</mods:dateCreated>
+            <mods:dateCreated point="end">1960</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="local">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Sage</mods:namePart>
+            <mods:namePart type="given">Richard D.</mods:namePart>
+            <mods:displayForm>Sage, Richard D.</mods:displayForm>
+        </mods:name>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/SageRD/v1584_s6</mods:identifier>
+    </mods:relatedItem>
+</mods:mods>

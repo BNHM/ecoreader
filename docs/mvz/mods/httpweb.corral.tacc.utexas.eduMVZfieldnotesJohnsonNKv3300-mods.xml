@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<mods:mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mods:titleInfo>
+        <mods:title>Field Notes: Johnson N.K. 1962-1966</mods:title>
+    </mods:titleInfo>
+    <mods:language>
+        <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+        <mods:languageTerm type="text">English</mods:languageTerm>
+    </mods:language>
+    <mods:originInfo>
+        <mods:dateCreated>1958-06-01/1962-08-14</mods:dateCreated>
+        <mods:dateCreated point="start">1958</mods:dateCreated>
+        <mods:dateCreated point="end">1962</mods:dateCreated>
+    </mods:originInfo>
+    <mods:name type="personal" authority="LCHS">
+        <mods:role>
+            <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+            <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+        </mods:role>
+        <mods:namePart type="family">Johnson</mods:namePart>
+        <mods:namePart type="given">Ned K.</mods:namePart>
+        <mods:namePart type="date">1932-2003</mods:namePart>
+        <mods:displayForm>Johnson, Ned K., 1932-2003</mods:displayForm>
+    </mods:name>
+    <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/JohnsonNK/v3300</mods:identifier>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 1: Johnson, N.K. 1962 Catalogue #1608-1677 Nevada California</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1958-06-02/1958-06-12</mods:dateCreated>
+            <mods:dateCreated point="start">1958</mods:dateCreated>
+            <mods:dateCreated point="end">1958</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Johnson</mods:namePart>
+            <mods:namePart type="given">Ned K.</mods:namePart>
+            <mods:namePart type="date">1932-2003</mods:namePart>
+            <mods:displayForm>Johnson, Ned K., 1932-2003</mods:displayForm>
+        </mods:name>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/JohnsonNK/v3300_s1</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 10: Johnson, N.K. 1965 Journal Calif. Western U.S.</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1961-06-03/1961-09-25</mods:dateCreated>
+            <mods:dateCreated point="start">1961</mods:dateCreated>
+            <mods:dateCreated point="end">1961</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Johnson</mods:namePart>
+            <mods:namePart type="given">Ned K.</mods:namePart>
+            <mods:namePart type="date">1932-2003</mods:namePart>
+            <mods:displayForm>Johnson, Ned K., 1932-2003</mods:displayForm>
+        </mods:name>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/JohnsonNK/v3300_s10</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 11: Johnson, N.K. 1966 Catalogue #2161-#2640 Costa Rica</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1962-02-19/1962-08-05</mods:dateCreated>
+            <mods:dateCreated point="start">1962</mods:dateCreated>
+            <mods:dateCreated point="end">1962</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Johnson</mods:namePart>
+            <mods:namePart type="given">Ned K.</mods:namePart>
+            <mods:namePart type="date">1932-2003</mods:namePart>
+            <mods:displayForm>Johnson, Ned K., 1932-2003</mods:displayForm>
+        </mods:name>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/JohnsonNK/v3300_s11</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 12: Johnson, N.K. 1966 Journal Costa Rica</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1962-02-01/1962-08-14</mods:dateCreated>
+            <mods:dateCreated point="start">1962</mods:dateCreated>
+            <mods:dateCreated point="end">1962</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Johnson</mods:namePart>
+            <mods:namePart type="given">Ned K.</mods:namePart>
+            <mods:namePart type="date">1932-2003</mods:namePart>
+            <mods:displayForm>Johnson, Ned K., 1932-2003</mods:displayForm>
+        </mods:name>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/JohnsonNK/v3300_s12</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 13: Johnson, N.K. 1966 Species Accounts Costa Rica, Empidouax</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1962-02-22/1962-07-09</mods:dateCreated>
+            <mods:dateCreated point="start">1962</mods:dateCreated>
+            <mods:dateCreated point="end">1962</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Johnson</mods:namePart>
+            <mods:namePart type="given">Ned K.</mods:namePart>
+            <mods:namePart type="date">1932-2003</mods:namePart>
+            <mods:displayForm>Johnson, Ned K., 1932-2003</mods:displayForm>
+        </mods:name>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/JohnsonNK/v3300_s13</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 2: Johnson, N.K. 1962 Nevada, California</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1958-06-01/1958-07-07</mods:dateCreated>
+            <mods:dateCreated point="start">1958</mods:dateCreated>
+            <mods:dateCreated point="end">1958</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Johnson</mods:namePart>
+            <mods:namePart type="given">Ned K.</mods:namePart>
+            <mods:namePart type="date">1932-2003</mods:namePart>
+            <mods:displayForm>Johnson, Ned K., 1932-2003</mods:displayForm>
+        </mods:name>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/JohnsonNK/v3300_s2</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 3: Johnson, N.K. 1963 Catalogue #1682-#1865 California, Nevada</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1959-03-18/1958-11-02</mods:dateCreated>
+            <mods:dateCreated point="start">1959</mods:dateCreated>
+            <mods:dateCreated point="end">1958</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Johnson</mods:namePart>
+            <mods:namePart type="given">Ned K.</mods:namePart>
+            <mods:namePart type="date">1932-2003</mods:namePart>
+            <mods:displayForm>Johnson, Ned K., 1932-2003</mods:displayForm>
+        </mods:name>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/JohnsonNK/v3300_s3</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 4: Johnson, N.K. 1963 California, Nevada</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1959-05-21/1959-03-19</mods:dateCreated>
+            <mods:dateCreated point="start">1959</mods:dateCreated>
+            <mods:dateCreated point="end">1959</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Johnson</mods:namePart>
+            <mods:namePart type="given">Ned K.</mods:namePart>
+            <mods:namePart type="date">1932-2003</mods:namePart>
+            <mods:displayForm>Johnson, Ned K., 1932-2003</mods:displayForm>
+        </mods:name>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/JohnsonNK/v3300_s4</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 5: Johnson, N.K. 1964 Catalogue #1866-#2050 Calif., Oregon, Nevada</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1960-01-31/1960-11-25</mods:dateCreated>
+            <mods:dateCreated point="start">1960</mods:dateCreated>
+            <mods:dateCreated point="end">1960</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Johnson</mods:namePart>
+            <mods:namePart type="given">Ned K.</mods:namePart>
+            <mods:namePart type="date">1932-2003</mods:namePart>
+            <mods:displayForm>Johnson, Ned K., 1932-2003</mods:displayForm>
+        </mods:name>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/JohnsonNK/v3300_s5</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 6: Johnson, N.K. 1964 Johnson, N.K. 1964 Journal California, Oregon, Nevada</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1960-01-31/1960-10-24</mods:dateCreated>
+            <mods:dateCreated point="start">1960</mods:dateCreated>
+            <mods:dateCreated point="end">1960</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Johnson</mods:namePart>
+            <mods:namePart type="given">Ned K.</mods:namePart>
+            <mods:namePart type="date">1932-2003</mods:namePart>
+            <mods:displayForm>Johnson, Ned K., 1932-2003</mods:displayForm>
+        </mods:name>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/JohnsonNK/v3300_s6</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 7: Johnson, N.K. 1965 Catalogue #2051-#2127 Mexico</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1961-04-12/1961-05-04</mods:dateCreated>
+            <mods:dateCreated point="start">1961</mods:dateCreated>
+            <mods:dateCreated point="end">1961</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Johnson</mods:namePart>
+            <mods:namePart type="given">Ned K.</mods:namePart>
+            <mods:namePart type="date">1932-2003</mods:namePart>
+            <mods:displayForm>Johnson, Ned K., 1932-2003</mods:displayForm>
+        </mods:name>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/JohnsonNK/v3300_s7</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 8: Johnson, N.K. 1965 Journal Mexico</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1961-04-05/1961-05-08</mods:dateCreated>
+            <mods:dateCreated point="start">1961</mods:dateCreated>
+            <mods:dateCreated point="end">1961</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Johnson</mods:namePart>
+            <mods:namePart type="given">Ned K.</mods:namePart>
+            <mods:namePart type="date">1932-2003</mods:namePart>
+            <mods:displayForm>Johnson, Ned K., 1932-2003</mods:displayForm>
+        </mods:name>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/JohnsonNK/v3300_s8</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 9: Johnson, N.K. 1965 Catalogue #2128-#2160 Oregon, Utah, Nevada, Calif.</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1961-06-07/1961-10-20</mods:dateCreated>
+            <mods:dateCreated point="start">1961</mods:dateCreated>
+            <mods:dateCreated point="end">1961</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Johnson</mods:namePart>
+            <mods:namePart type="given">Ned K.</mods:namePart>
+            <mods:namePart type="date">1932-2003</mods:namePart>
+            <mods:displayForm>Johnson, Ned K., 1932-2003</mods:displayForm>
+        </mods:name>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/JohnsonNK/v3300_s9</mods:identifier>
+    </mods:relatedItem>
+</mods:mods>
