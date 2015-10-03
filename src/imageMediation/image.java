@@ -145,6 +145,7 @@ public class image {
         String[] names = ImageIO.getWriterFormatNames();
         System.out.println("format names:\n");
         for (int i = 0; i < names.length; i++) {
+
             System.out.println("\t" + names[i]);
         }
 

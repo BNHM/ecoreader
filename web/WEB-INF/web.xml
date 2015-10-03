@@ -14,6 +14,7 @@
 			<param-value>true</param-value>
 		</init-param>
         <load-on-startup>1</load-on-startup>
+
     </servlet>
     <servlet-mapping>
         <servlet-name>Jersey Web Application</servlet-name>
@@ -24,4 +25,12 @@
         <welcome-file>index.jsp</welcome-file>
     </welcome-file-list>
 
+    <servlet>
+        <servlet-name>fileServlet</servlet-name>
+                          <servlet-class>rest.FileServlet</servlet-class>
+      </servlet>
+      <servlet-mapping>
+          <servlet-name>fileServlet</servlet-name>
+          <url-pattern>/images/*</url-pattern>
+      </servlet-mapping>
 </web-app>
