@@ -120,7 +120,7 @@ module.exports = (grunt) ->
           sourceMapDir: "js/maps"
           sourceMap: true
         files:
-          "js/c.js":["coffee/core.coffee"]
+          "js/c.js":["coffee/*.coffee"]
     watch:
       scripts:
         files: ["coffee/*.coffee"]
