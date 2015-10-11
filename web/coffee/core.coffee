@@ -441,6 +441,34 @@ toastStatusMessage = (message, className = "", duration = 3000, selector = "#sta
     $(selector).attr("text","")
     window.metaTracker.isToasting = false
 
+showAlertDialog = (message, type = "warning", fallbackContainer = "body", selector = "#status-message") ->
+  ###
+  # Pop up a status message
+  # Uses the Bootstrap alert dialog
+  #
+  # See
+  # http://getbootstrap.com/components/#alerts
+  # for available types
+  #
+  # @param string message
+  # @param string type | Choose "info", "warning", "danger",
+  #                     "success", correponding to Bootstrap
+  # @param fallbackContainer | If we can't display in "main" or
+  #                            "article", show in selector
+  # @param selector | ID selector of alert dialog
+  ###
+  if not $(selector).exists()
+    html = """
+    <div class="alert alert-#{type} alert-dismissable" role="alert" id="#{selector.slice(1)}">
+      <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <div class="alert-message"></div>
+    </div>
+    """
+    topContainer = if $("main").exists() then "main" else if $("article").exists() then "article" else fallbackContainer
+    $(topContainer).prepend(html)
+  $("#{selector} .alert-message").html(message)
+
+
 openLink = (url) ->
   if not url? then return false
   window.open(url)

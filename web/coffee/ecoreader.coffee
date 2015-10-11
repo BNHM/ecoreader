@@ -1,4 +1,25 @@
-`
+populateAuthors = ->
+  theUrl = "rest/authors/list"
+  $.getJson theUrl
+  .success (data) ->
+    listItems = ""
+    listItems += "<option value=''>Select an author ...</option>"
+    for author in data.authors
+      listItems += """
+      <option value="#{author}">
+        #{author}
+      </option>
+      """
+    $("#authors").html listItems
+    $(".combobox").combobox()
+  .fail (jqxhr, status) ->
+    if status is "timeout"
+      showAlertDialog "Timed out waiting for response! Try again later or reduce the number of graphs you are querying. If the problem persists, contact the System Administrator."
+    else
+      showAlertDialog "Error completing request!"
+
+
+###
 function populateAuthors() {
     theUrl = "rest/authors/list";
     var jqxhr = $.getJSON( theUrl, function(data) {
@@ -12,13 +33,17 @@ function populateAuthors() {
 
     }).fail(function(jqXHR,textStatus) {
         if (textStatus == "timeout") {
-	        showMessage ("Timed out waiting for response! Try again later or reduce the number of graphs you are querying. If the problem persists, contact the System Administrator.");
+	        showAlertDialog ("Timed out waiting for response! Try again later or reduce the number of graphs you are querying. If the problem persists, contact the System Administrator.");
         } else {
-	        showMessage ("Error completing request!");
+	        showAlertDialog ("Error completing request!");
         }
     });
 }
 
+
+###
+
+`
 function populateVolumes() {
     theUrl = "rest/volumes/";
     if ($("#authors").val().length <= 0) {
@@ -55,9 +80,9 @@ function populateVolumes() {
         });
     }).fail(function(jqXHR,textStatus) {
         if (textStatus == "timeout") {
-	        showMessage ("Timed out waiting for response! Try again later or reduce the number of graphs you are querying. If the problem persists, contact the System Administrator.");
+	        showAlertDialog ("Timed out waiting for response! Try again later or reduce the number of graphs you are querying. If the problem persists, contact the System Administrator.");
         } else {
-	        showMessage ("Error completing request!");
+	        showAlertDialog ("Error completing request!");
         }
     });
 }
@@ -126,20 +151,12 @@ function showSection(section_id, galIndex) {
             });
         }).fail(function(jqXHR,textStatus) {
             if (textStatus == "timeout") {
-                showMessage ("Timed out waiting for response! Try again later or reduce the number of graphs you are querying. If the problem persists, contact the System Administrator.");
+                showAlertDialog ("Timed out waiting for response! Try again later or reduce the number of graphs you are querying. If the problem persists, contact the System Administrator.");
             } else {
-                showMessage ("Error completing request!");
+                showAlertDialog ("Error completing request!");
             }
         });
     })(section_id, galIndex);
-}
-
-// A short message
-function showMessage(message) {
-$('#alerts').append(
-        '<div class="alert">' +
-            '<button type="button" class="close" data-dismiss="alert">' +
-            '&times;</button>' + message + '</div>');
 }
 
 function toggleQuery() {

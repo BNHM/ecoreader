@@ -52,16 +52,16 @@ module.exports = (grunt) ->
           sourceMap:true
           sourceMapName:"js/maps/combined.map"
           sourceMapIncludeSources:true
-          sourceMapIn:"js/maps/c.js.map"
+          sourceMapIn:"js/maps/ecoreader.js.map"
         files:
-          "js/combined.min.js":["js/c.js","js/admin.js","bower_components/purl/purl.js","bower_components/xmlToJSON/lib/xmlToJSON.js","bower_components/jquery-cookie/jquery.cookie.js"]
-          "js/app.min.js":["js/c.js","js/admin.js"]
+          "js/combined.min.js":["js/ecoreader.js","js/admin.js","bower_components/purl/purl.js","bower_components/xmlToJSON/lib/xmlToJSON.js","bower_components/jquery-cookie/jquery.cookie.js"]
+          "js/app.min.js":["js/ecoreader.js","js/admin.js"]
       dist:
         options:
           sourceMap:true
-          sourceMapName:"js/maps/c.map"
+          sourceMapName:"js/maps/ecoreader.map"
           sourceMapIncludeSources:true
-          sourceMapIn:"js/maps/c.js.map"
+          sourceMapIn:"js/maps/ecoreader.js.map"
           compress:
             # From https://github.com/mishoo/UglifyJS2#compressor-options
             dead_code: true
@@ -76,7 +76,7 @@ module.exports = (grunt) ->
             sequences: true
             cascade: true
         files:
-          "js/c.min.js":["js/c.js"]
+          "js/ecoreader.min.js":["js/ecoreader.js"]
       minpurl:
         options:
           sourceMap:true
@@ -120,7 +120,7 @@ module.exports = (grunt) ->
           sourceMapDir: "js/maps"
           sourceMap: true
         files:
-          "js/c.js":["coffee/*.coffee"]
+          "js/ecoreader.js":["coffee/*.coffee"]
     watch:
       scripts:
         files: ["coffee/*.coffee"]
