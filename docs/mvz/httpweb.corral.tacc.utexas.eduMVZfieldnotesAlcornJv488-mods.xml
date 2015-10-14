@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<mods:mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mods:titleInfo>
+        <mods:title>Field Notes: Alcorn J.R. 1936-40, Part 2</mods:title>
+    </mods:titleInfo>
+    <mods:language>
+        <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+        <mods:languageTerm type="text">English</mods:languageTerm>
+    </mods:language>
+    <mods:originInfo>
+        <mods:dateCreated>1936-02-13/1940-08-30</mods:dateCreated>
+        <mods:dateCreated point="start">1936</mods:dateCreated>
+        <mods:dateCreated point="end">1940</mods:dateCreated>
+    </mods:originInfo>
+    <mods:name type="personal" authority="LCHS">
+        <mods:role>
+            <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+            <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+        </mods:role>
+        <mods:namePart type="family">Alcorn</mods:namePart>
+        <mods:namePart type="given">J. R. (J. Ray)</mods:namePart>
+        <mods:namePart type="date">1911-</mods:namePart>
+        <mods:displayForm>Alcorn, J. R. (J. Ray), 1911-</mods:displayForm>
+    </mods:name>
+    <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/AlcornJ/v488</mods:identifier>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 1: Species Accounts: California, Oregon, Washington, Montana, Nevada</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1936-02-13/1940-08-30</mods:dateCreated>
+            <mods:dateCreated point="start">1936</mods:dateCreated>
+            <mods:dateCreated point="end">1940</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Alcorn</mods:namePart>
+            <mods:namePart type="given">J. R. (J. Ray)</mods:namePart>
+            <mods:namePart type="date">1911-</mods:namePart>
+            <mods:displayForm>Alcorn, J. R. (J. Ray), 1911-</mods:displayForm>
+        </mods:name>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/AlcornJ/v488_s1.jpg</mods:identifier>
+    </mods:relatedItem>
+</mods:mods>

@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<mods:mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mods:titleInfo>
+        <mods:title>Field Notes: Parra, G. 1997-2000</mods:title>
+    </mods:titleInfo>
+    <mods:language>
+        <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+        <mods:languageTerm type="text">English</mods:languageTerm>
+    </mods:language>
+    <mods:originInfo>
+        <mods:dateCreated>1997-04-01/2000-03-20</mods:dateCreated>
+        <mods:dateCreated point="start">1997</mods:dateCreated>
+        <mods:dateCreated point="end">2000</mods:dateCreated>
+    </mods:originInfo>
+    <mods:name type="personal" authority="LCHS">
+        <mods:role>
+            <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+            <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+        </mods:role>
+        <mods:namePart type="family">Parra-Olea</mods:namePart>
+        <mods:namePart type="given">Gabriela</mods:namePart>
+        <mods:displayForm>Parra-Olea, Gabriela</mods:displayForm>
+    </mods:name>
+    <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/ParraG/v4145</mods:identifier>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 0: General Index</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1997-04-01/2000-03-20</mods:dateCreated>
+            <mods:dateCreated point="start">1997</mods:dateCreated>
+            <mods:dateCreated point="end">2000</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Parra-Olea</mods:namePart>
+            <mods:namePart type="given">Gabriela</mods:namePart>
+            <mods:displayForm>Parra-Olea, Gabriela</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>1 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/ParraG/v4145_s0</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 1: GP #001-460 FFP #001-006 OLY #001 SAL #001-257</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1997-04-01/2000-03-20</mods:dateCreated>
+            <mods:dateCreated point="start">1997</mods:dateCreated>
+            <mods:dateCreated point="end">2000</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Parra-Olea</mods:namePart>
+            <mods:namePart type="given">Gabriela</mods:namePart>
+            <mods:displayForm>Parra-Olea, Gabriela</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>50 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/ParraG/v4145_s1</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 2: Mexico: Nuevo Leon, Oaxaca, Puebla, Veracruz, Hidalgo</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1997-05-21/1997-10-21</mods:dateCreated>
+            <mods:dateCreated point="start">1997</mods:dateCreated>
+            <mods:dateCreated point="end">1997</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Parra-Olea</mods:namePart>
+            <mods:namePart type="given">Gabriela</mods:namePart>
+            <mods:displayForm>Parra-Olea, Gabriela</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>54 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/ParraG/v4145_s2</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 3: Mexico: Oaxaca, Morelos, Veracruz</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1998-03-23/1998-05-26</mods:dateCreated>
+            <mods:dateCreated point="start">1998</mods:dateCreated>
+            <mods:dateCreated point="end">1998</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Parra-Olea</mods:namePart>
+            <mods:namePart type="given">Gabriela</mods:namePart>
+            <mods:displayForm>Parra-Olea, Gabriela</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>21 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/ParraG/v4145_s3</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 4: Mexico: Mexico, Tlaxcala, Veracruz, Oaxaca, Hidalgo, Guerrero</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1999-01-04/1999-08-15</mods:dateCreated>
+            <mods:dateCreated point="start">1999</mods:dateCreated>
+            <mods:dateCreated point="end">1999</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Parra-Olea</mods:namePart>
+            <mods:namePart type="given">Gabriela</mods:namePart>
+            <mods:displayForm>Parra-Olea, Gabriela</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>41 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/ParraG/v4145_s4</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 5: Mexico: Veracruz</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>2000-01-27/2000-01-30</mods:dateCreated>
+            <mods:dateCreated point="start">2000</mods:dateCreated>
+            <mods:dateCreated point="end">2000</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Parra-Olea</mods:namePart>
+            <mods:namePart type="given">Gabriela</mods:namePart>
+            <mods:displayForm>Parra-Olea, Gabriela</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>8 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/ParraG/v4145_s5</mods:identifier>
+    </mods:relatedItem>
+</mods:mods>

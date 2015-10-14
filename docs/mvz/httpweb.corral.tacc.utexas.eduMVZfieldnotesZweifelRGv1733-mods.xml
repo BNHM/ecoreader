@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<mods:mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mods:titleInfo>
+        <mods:title>Field Notes: Zweifel R.G. 1953-1954, Indeces 1949-1962</mods:title>
+    </mods:titleInfo>
+    <mods:language>
+        <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+        <mods:languageTerm type="text">English</mods:languageTerm>
+    </mods:language>
+    <mods:originInfo>
+        <mods:dateCreated>1949-01-01/1962-12-31</mods:dateCreated>
+        <mods:dateCreated point="start">1949</mods:dateCreated>
+        <mods:dateCreated point="end">1962</mods:dateCreated>
+    </mods:originInfo>
+    <mods:name type="personal" authority="LCHS">
+        <mods:role>
+            <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+            <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+        </mods:role>
+        <mods:namePart type="family">Zweifel</mods:namePart>
+        <mods:namePart type="given">Richard George</mods:namePart>
+        <mods:namePart type="date">1926-</mods:namePart>
+        <mods:displayForm>Zweifel, Richard George, 1926-</mods:displayForm>
+    </mods:name>
+    <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/ZweifelRG/v1733</mods:identifier>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 1: Catalogue #1973-2206 Calif: Napa, Solano, Alameda, Santa Clara, Calaveras, Tuolumne, Santa Cruz, Mariposa, Shasta, Santa Barbara, Kern, Los Angeles Cos. Mexico</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1953-02-01/1953-10-04</mods:dateCreated>
+            <mods:dateCreated point="start">1953</mods:dateCreated>
+            <mods:dateCreated point="end">1953</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Zweifel</mods:namePart>
+            <mods:namePart type="given">Richard George</mods:namePart>
+            <mods:namePart type="date">1926-</mods:namePart>
+            <mods:displayForm>Zweifel, Richard George, 1926-</mods:displayForm>
+        </mods:name>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/ZweifelRG/v1733_s1</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 2: Calif: Monterey, Napa, Fresno, San Benito, Calaveras, San Luis Obispo, Madera Cos.</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1953-01-11/1953-09-29</mods:dateCreated>
+            <mods:dateCreated point="start">1953</mods:dateCreated>
+            <mods:dateCreated point="end">1953</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Zweifel</mods:namePart>
+            <mods:namePart type="given">Richard George</mods:namePart>
+            <mods:namePart type="date">1926-</mods:namePart>
+            <mods:displayForm>Zweifel, Richard George, 1926-</mods:displayForm>
+        </mods:name>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/ZweifelRG/v1733_s2</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 3: Calif: San Luis Obispo, Calaveras, Orange, Napa, Alameda, Contra Costa, Santa Clara, Madera, Mariposa, Tulare, Kern, San Benito, Sonoma, Mendocino Cos. Mexico</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1953-04-27/1953-03-01</mods:dateCreated>
+            <mods:dateCreated point="start">1953</mods:dateCreated>
+            <mods:dateCreated point="end">1953</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Zweifel</mods:namePart>
+            <mods:namePart type="given">Richard George</mods:namePart>
+            <mods:namePart type="date">1926-</mods:namePart>
+            <mods:displayForm>Zweifel, Richard George, 1926-</mods:displayForm>
+        </mods:name>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/ZweifelRG/v1733_s3</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 4: Species Index, Geographic Index 1949-1953</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1949-01-01/1953-12-31</mods:dateCreated>
+            <mods:dateCreated point="start">1949</mods:dateCreated>
+            <mods:dateCreated point="end">1953</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Zweifel</mods:namePart>
+            <mods:namePart type="given">Richard George</mods:namePart>
+            <mods:namePart type="date">1926-</mods:namePart>
+            <mods:displayForm>Zweifel, Richard George, 1926-</mods:displayForm>
+        </mods:name>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/ZweifelRG/v1733_s4</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 5: Catalogue #2611-2620, 2678-2692 Calif: Contra Costa, Glenn, Mendocino Cos.</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1954-03-15/1954-05-15</mods:dateCreated>
+            <mods:dateCreated point="start">1954</mods:dateCreated>
+            <mods:dateCreated point="end">1954</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Zweifel</mods:namePart>
+            <mods:namePart type="given">Richard George</mods:namePart>
+            <mods:namePart type="date">1926-</mods:namePart>
+            <mods:displayForm>Zweifel, Richard George, 1926-</mods:displayForm>
+        </mods:name>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/ZweifelRG/v1733_s5</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 6: Calif: Alameda, Marin, Madera, Sonoma, Mendocino Cos.</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1954-02-07/1954-05-30</mods:dateCreated>
+            <mods:dateCreated point="start">1954</mods:dateCreated>
+            <mods:dateCreated point="end">1954</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Zweifel</mods:namePart>
+            <mods:namePart type="given">Richard George</mods:namePart>
+            <mods:namePart type="date">1926-</mods:namePart>
+            <mods:displayForm>Zweifel, Richard George, 1926-</mods:displayForm>
+        </mods:name>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/ZweifelRG/v1733_s6</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 7: Species Accounts (except Mexico) 1954 Calif: Nevada, Mariposa, Contra Costa, Sonoma, Shasta, Mendocino, Orange, Madera, San Mateo Cos.</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1954-04-29/1954-05-30</mods:dateCreated>
+            <mods:dateCreated point="start">1954</mods:dateCreated>
+            <mods:dateCreated point="end">1954</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Zweifel</mods:namePart>
+            <mods:namePart type="given">Richard George</mods:namePart>
+            <mods:namePart type="date">1926-</mods:namePart>
+            <mods:displayForm>Zweifel, Richard George, 1926-</mods:displayForm>
+        </mods:name>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/ZweifelRG/v1733_s7</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 8: 1954 Mexico Catalogue #2621-2677, Journal, Species Accounts</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1954-04-25/1954-04-25</mods:dateCreated>
+            <mods:dateCreated point="start">1954</mods:dateCreated>
+            <mods:dateCreated point="end">1954</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Zweifel</mods:namePart>
+            <mods:namePart type="given">Richard George</mods:namePart>
+            <mods:namePart type="date">1926-</mods:namePart>
+            <mods:displayForm>Zweifel, Richard George, 1926-</mods:displayForm>
+        </mods:name>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/ZweifelRG/v1733_s8</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 9: Species Index, Geographic Index 1954-1962</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1954-01-01/1962-12-31</mods:dateCreated>
+            <mods:dateCreated point="start">1954</mods:dateCreated>
+            <mods:dateCreated point="end">1962</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Zweifel</mods:namePart>
+            <mods:namePart type="given">Richard George</mods:namePart>
+            <mods:namePart type="date">1926-</mods:namePart>
+            <mods:displayForm>Zweifel, Richard George, 1926-</mods:displayForm>
+        </mods:name>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/ZweifelRG/v1733_s9</mods:identifier>
+    </mods:relatedItem>
+</mods:mods>

@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<mods:mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mods:titleInfo>
+        <mods:title>Field Notes: Russell W.C. 1954-1957 (PT.)</mods:title>
+    </mods:titleInfo>
+    <mods:language>
+        <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+        <mods:languageTerm type="text">English</mods:languageTerm>
+    </mods:language>
+    <mods:originInfo>
+        <mods:dateCreated>1954-01-11/1957-07-12</mods:dateCreated>
+        <mods:dateCreated point="start">1954</mods:dateCreated>
+        <mods:dateCreated point="end">1957</mods:dateCreated>
+    </mods:originInfo>
+    <mods:name type="personal" authority="local">
+        <mods:role>
+            <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+            <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+        </mods:role>
+        <mods:namePart type="family">Russell</mods:namePart>
+        <mods:namePart type="given">Ward C.</mods:namePart>
+        <mods:namePart type="date">1907-2000</mods:namePart>
+        <mods:displayForm>Russell, Ward C., 1907-2000</mods:displayForm>
+    </mods:name>
+    <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/RussellWC/v1581</mods:identifier>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 1: Russell, W.C. Local and Miscellaneous January 11-May 14, 1954</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1954-01-11/1954-05-14</mods:dateCreated>
+            <mods:dateCreated point="start">1954</mods:dateCreated>
+            <mods:dateCreated point="end">1954</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="local">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Russell</mods:namePart>
+            <mods:namePart type="given">Ward C.</mods:namePart>
+            <mods:namePart type="date">1907-2000</mods:namePart>
+            <mods:displayForm>Russell, Ward C., 1907-2000</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>8 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/RussellWC/v1581_s1</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 10: Russell, W.C. Chihuahua, Mexico June 5-July 12, 1957</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1957-06-05/1957-07-12</mods:dateCreated>
+            <mods:dateCreated point="start">1957</mods:dateCreated>
+            <mods:dateCreated point="end">1957</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="local">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Russell</mods:namePart>
+            <mods:namePart type="given">Ward C.</mods:namePart>
+            <mods:namePart type="date">1907-2000</mods:namePart>
+            <mods:displayForm>Russell, Ward C., 1907-2000</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>26 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/RussellWC/v1581_s10</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 2: Russell, W.C. White Mts., California, and Nevada May 24, 1954-June 29, 1954</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1954-05-24/1954-06-29</mods:dateCreated>
+            <mods:dateCreated point="start">1954</mods:dateCreated>
+            <mods:dateCreated point="end">1954</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="local">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Russell</mods:namePart>
+            <mods:namePart type="given">Ward C.</mods:namePart>
+            <mods:namePart type="date">1907-2000</mods:namePart>
+            <mods:displayForm>Russell, Ward C., 1907-2000</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>44 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/RussellWC/v1581_s2</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 3: Russell, W.C. Local and Miscellaneous July 9, 1954-March 1, 1955</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1954-07-09/1955-03-01</mods:dateCreated>
+            <mods:dateCreated point="start">1954</mods:dateCreated>
+            <mods:dateCreated point="end">1955</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="local">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Russell</mods:namePart>
+            <mods:namePart type="given">Ward C.</mods:namePart>
+            <mods:namePart type="date">1907-2000</mods:namePart>
+            <mods:displayForm>Russell, Ward C., 1907-2000</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>22 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/RussellWC/v1581_s3</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 4: Russell, W.C. California, Fresno Co., Near Jct. Panoche and Silver Creeks March 7-March 11, 1955</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1955-03-07/1955-03-11</mods:dateCreated>
+            <mods:dateCreated point="start">1955</mods:dateCreated>
+            <mods:dateCreated point="end">1955</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="local">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Russell</mods:namePart>
+            <mods:namePart type="given">Ward C.</mods:namePart>
+            <mods:namePart type="date">1907-2000</mods:namePart>
+            <mods:displayForm>Russell, Ward C., 1907-2000</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>14 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/RussellWC/v1581_s4</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 5: Russell, W.C. Local and Miscellaneous March 16-May 27, 1955</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1955-03-16/1955-05-27</mods:dateCreated>
+            <mods:dateCreated point="start">1955</mods:dateCreated>
+            <mods:dateCreated point="end">1955</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="local">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Russell</mods:namePart>
+            <mods:namePart type="given">Ward C.</mods:namePart>
+            <mods:namePart type="date">1907-2000</mods:namePart>
+            <mods:displayForm>Russell, Ward C., 1907-2000</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>7 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/RussellWC/v1581_s5</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 6: Russell, W.C. Jarbidge Peak Elko Co., Nevada June 9-June 15, 1955</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1955-06-09/1955-06-15</mods:dateCreated>
+            <mods:dateCreated point="start">1955</mods:dateCreated>
+            <mods:dateCreated point="end">1955</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="local">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Russell</mods:namePart>
+            <mods:namePart type="given">Ward C.</mods:namePart>
+            <mods:namePart type="date">1907-2000</mods:namePart>
+            <mods:displayForm>Russell, Ward C., 1907-2000</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>15 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/RussellWC/v1581_s6</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 7: Russell, W.C. Local and Miscellaneous July 8, 1955-May 20, 1956</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1955-07-08/1956-05-20</mods:dateCreated>
+            <mods:dateCreated point="start">1955</mods:dateCreated>
+            <mods:dateCreated point="end">1956</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="local">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Russell</mods:namePart>
+            <mods:namePart type="given">Ward C.</mods:namePart>
+            <mods:namePart type="date">1907-2000</mods:namePart>
+            <mods:displayForm>Russell, Ward C., 1907-2000</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>36 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/RussellWC/v1581_s7</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 8: Russell, W.C. Nevada, Elko Co., Jarbidge, Ruby Mts., and Spruce Mtn. May 30-June 29, 1956</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1956-05-30/1956-06-29</mods:dateCreated>
+            <mods:dateCreated point="start">1956</mods:dateCreated>
+            <mods:dateCreated point="end">1956</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="local">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Russell</mods:namePart>
+            <mods:namePart type="given">Ward C.</mods:namePart>
+            <mods:namePart type="date">1907-2000</mods:namePart>
+            <mods:displayForm>Russell, Ward C., 1907-2000</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>39 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/RussellWC/v1581_s8</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 9: Russell, W.C. Local and Miscellaneous July 31, 1956-May 28, 1957</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1956-07-31/1957-05-28</mods:dateCreated>
+            <mods:dateCreated point="start">1956</mods:dateCreated>
+            <mods:dateCreated point="end">1957</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="local">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Russell</mods:namePart>
+            <mods:namePart type="given">Ward C.</mods:namePart>
+            <mods:namePart type="date">1907-2000</mods:namePart>
+            <mods:displayForm>Russell, Ward C., 1907-2000</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>19 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/RussellWC/v1581_s9</mods:identifier>
+    </mods:relatedItem>
+</mods:mods>

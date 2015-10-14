@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<mods:mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mods:titleInfo>
+        <mods:title>Field Notes: Zink R.M. 1978-1982 (Catalogue)</mods:title>
+    </mods:titleInfo>
+    <mods:language>
+        <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+        <mods:languageTerm type="text">English</mods:languageTerm>
+    </mods:language>
+    <mods:originInfo>
+        <mods:dateCreated>1977-11-28/1982-08-25</mods:dateCreated>
+        <mods:dateCreated point="start">1977</mods:dateCreated>
+        <mods:dateCreated point="end">1982</mods:dateCreated>
+    </mods:originInfo>
+    <mods:name type="personal" authority="LCHS">
+        <mods:role>
+            <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+            <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+        </mods:role>
+        <mods:namePart type="family">Zink</mods:namePart>
+        <mods:namePart type="given">Robert Martin</mods:namePart>
+        <mods:namePart type="date">1953-</mods:namePart>
+        <mods:displayForm>Zink, Robert Martin, 1953-</mods:displayForm>
+    </mods:name>
+    <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/ZinkRM/v1728</mods:identifier>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 1: Calif: Marin, Tuolumne, Madera, Fresno, Placer, Nevada, Plumas, Shasta, Trinity Cos.</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1977-11-28/1978-03-31</mods:dateCreated>
+            <mods:dateCreated point="start">1977</mods:dateCreated>
+            <mods:dateCreated point="end">1978</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Zink</mods:namePart>
+            <mods:namePart type="given">Robert Martin</mods:namePart>
+            <mods:namePart type="date">1953-</mods:namePart>
+            <mods:displayForm>Zink, Robert Martin, 1953-</mods:displayForm>
+        </mods:name>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/ZinkRM/v1728_s1</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 2: Calif: Lake, Madera, Shasta, Kern, Tulare, Mono, Alpine, Fresno, Inyo Cos. Nevada: Esmeralda, Douglas Cos.</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1979-04-01/1979-12-12</mods:dateCreated>
+            <mods:dateCreated point="start">1979</mods:dateCreated>
+            <mods:dateCreated point="end">1979</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Zink</mods:namePart>
+            <mods:namePart type="given">Robert Martin</mods:namePart>
+            <mods:namePart type="date">1953-</mods:namePart>
+            <mods:displayForm>Zink, Robert Martin, 1953-</mods:displayForm>
+        </mods:name>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/ZinkRM/v1728_s2</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 3: Calif: San Bernardino, Glenn, Mendocino, Trinity, Siskiyou Cos. Paraguay: Itapua. Oregon: Klamath, Jackson, Harney Cos. Nevada: Humboldt, Canyon Cos.</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1980-01-31/1980-07-19</mods:dateCreated>
+            <mods:dateCreated point="start">1980</mods:dateCreated>
+            <mods:dateCreated point="end">1980</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Zink</mods:namePart>
+            <mods:namePart type="given">Robert Martin</mods:namePart>
+            <mods:namePart type="date">1953-</mods:namePart>
+            <mods:displayForm>Zink, Robert Martin, 1953-</mods:displayForm>
+        </mods:name>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/ZinkRM/v1728_s3</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 4: Illinois: Cook Co. Calif: Lake, Shasta, San Francisco Cos. Oklahoma: Cleveland. Minnesota: Hubbard, Wilkin, Beltrami, Lake, Cook, Pope, Clay Cos.</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1980-10-03/1981-11-05</mods:dateCreated>
+            <mods:dateCreated point="start">1980</mods:dateCreated>
+            <mods:dateCreated point="end">1981</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Zink</mods:namePart>
+            <mods:namePart type="given">Robert Martin</mods:namePart>
+            <mods:namePart type="date">1953-</mods:namePart>
+            <mods:displayForm>Zink, Robert Martin, 1953-</mods:displayForm>
+        </mods:name>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/ZinkRM/v1728_s4</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 5: Calif: Los Angeles, San Luis Obispo Cos. Oklahoma: Latimer, Haskell, Sequoyah Cos. Montana: Ravalli Co. Idaho: Lemhi Co. Costa Rica Co.</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1982-05-12/1982-08-25</mods:dateCreated>
+            <mods:dateCreated point="start">1982</mods:dateCreated>
+            <mods:dateCreated point="end">1982</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Zink</mods:namePart>
+            <mods:namePart type="given">Robert Martin</mods:namePart>
+            <mods:namePart type="date">1953-</mods:namePart>
+            <mods:displayForm>Zink, Robert Martin, 1953-</mods:displayForm>
+        </mods:name>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/ZinkRM/v1728_s5</mods:identifier>
+    </mods:relatedItem>
+</mods:mods>

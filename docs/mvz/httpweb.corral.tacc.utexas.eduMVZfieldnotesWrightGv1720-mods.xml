@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<mods:mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mods:titleInfo>
+        <mods:title>Field Notes: Wright G. 1930-31, Journal</mods:title>
+    </mods:titleInfo>
+    <mods:language>
+        <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+        <mods:languageTerm type="text">English</mods:languageTerm>
+    </mods:language>
+    <mods:originInfo>
+        <mods:dateCreated>1930-02-28/1931-11-30</mods:dateCreated>
+        <mods:dateCreated point="start">1930</mods:dateCreated>
+        <mods:dateCreated point="end">1931</mods:dateCreated>
+    </mods:originInfo>
+    <mods:name type="personal" authority="LCHS">
+        <mods:role>
+            <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+            <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+        </mods:role>
+        <mods:namePart type="family">Wright</mods:namePart>
+        <mods:namePart type="given">George M.</mods:namePart>
+        <mods:namePart type="date">1904-1936</mods:namePart>
+        <mods:displayForm>Wright, George M.,  (George Melendez), 1904-1936</mods:displayForm>
+    </mods:name>
+    <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/WrightG/v1720</mods:identifier>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 1: Misc. Loc., California Utah and Arizona Yellowstone, Wyoming Washington Grand Canyon, Arizona Mesa Verde, Colorado</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1930-02-28/1930-11-14</mods:dateCreated>
+            <mods:dateCreated point="start">1930</mods:dateCreated>
+            <mods:dateCreated point="end">1930</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Wright</mods:namePart>
+            <mods:namePart type="given">George M.</mods:namePart>
+            <mods:namePart type="date">1904-1936</mods:namePart>
+            <mods:displayForm>Wright, George M.,  (George Melendez), 1904-1936</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>134 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/WrightG/v1720_s1</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 2: Misc. Loc., California Death Valley New Mexico and Colorado Berkeley Wyoming, Colorado, Montana, Alberta, Washington, Oregon, California Yosemite</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1931-03-04/1931-11-30</mods:dateCreated>
+            <mods:dateCreated point="start">1931</mods:dateCreated>
+            <mods:dateCreated point="end">1931</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Wright</mods:namePart>
+            <mods:namePart type="given">George M.</mods:namePart>
+            <mods:namePart type="date">1904-1936</mods:namePart>
+            <mods:displayForm>Wright, George M.,  (George Melendez), 1904-1936</mods:displayForm>
+        </mods:name>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/WrightG/v1720_s2</mods:identifier>
+    </mods:relatedItem>
+</mods:mods>

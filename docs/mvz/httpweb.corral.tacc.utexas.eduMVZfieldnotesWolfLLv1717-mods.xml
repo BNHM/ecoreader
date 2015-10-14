@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<mods:mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mods:titleInfo>
+        <mods:title>Field Notes: Wolf L.L. 1961-1964</mods:title>
+    </mods:titleInfo>
+    <mods:language>
+        <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+        <mods:languageTerm type="text">English</mods:languageTerm>
+    </mods:language>
+    <mods:originInfo>
+        <mods:dateCreated>1961-09-30/1964-08-05</mods:dateCreated>
+        <mods:dateCreated point="start">1961</mods:dateCreated>
+        <mods:dateCreated point="end">1964</mods:dateCreated>
+    </mods:originInfo>
+    <mods:name type="personal" authority="LCHS">
+        <mods:role>
+            <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+            <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+        </mods:role>
+        <mods:namePart type="family">Wolf</mods:namePart>
+        <mods:namePart type="given">Larry L.</mods:namePart>
+        <mods:displayForm>Wolf, Larry L.</mods:displayForm>
+    </mods:name>
+    <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/WolfLL/v1717</mods:identifier>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 1: California: Yolo, Colusa, Marin, Santa Cruz, Alameda Cos. Arizona: Pima, Graham, Cochise Cos. New Mexico: Hidalgo, Grant Cos. Mexico: Sonora, Sinaloa, Oaxaca, Michoacan, Morelos. Nevada: Elko Co. Texas</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1961-09-30/1964-09-01</mods:dateCreated>
+            <mods:dateCreated point="start">1961</mods:dateCreated>
+            <mods:dateCreated point="end">1964</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Wolf</mods:namePart>
+            <mods:namePart type="given">Larry L.</mods:namePart>
+            <mods:displayForm>Wolf, Larry L.</mods:displayForm>
+        </mods:name>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/WolfLL/v1717_s1</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 2: California: Arizona: Tucson Co. New Mexico: Grant Co. Mexico: Sonora, Hidalgo, Morelos, Oaxaca. Texas: Tom Green, Cameron, Jasper, San Patricio Cos.</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1963-06-22/1964-09-04</mods:dateCreated>
+            <mods:dateCreated point="start">1963</mods:dateCreated>
+            <mods:dateCreated point="end">1964</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Wolf</mods:namePart>
+            <mods:namePart type="given">Larry L.</mods:namePart>
+            <mods:displayForm>Wolf, Larry L.</mods:displayForm>
+        </mods:name>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/WolfLL/v1717_s2</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 3: Exclusive of Aimophila. Arizona: Pima, Cochise Cos. New Mexico: Grant, Hidalgo Cos. Mexico: Sonora, Morelos, Guerro, Pueblo, Oaxaca. California: Imperial, Contra Costa Cos. Texas: San Patricio Co. Texas: Tom Green Co.</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1963-06-23/1964-08-05</mods:dateCreated>
+            <mods:dateCreated point="start">1963</mods:dateCreated>
+            <mods:dateCreated point="end">1964</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Wolf</mods:namePart>
+            <mods:namePart type="given">Larry L.</mods:namePart>
+            <mods:displayForm>Wolf, Larry L.</mods:displayForm>
+        </mods:name>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/WolfLL/v1717_s3</mods:identifier>
+    </mods:relatedItem>
+</mods:mods>

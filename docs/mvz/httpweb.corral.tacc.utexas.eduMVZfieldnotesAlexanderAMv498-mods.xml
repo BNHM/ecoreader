@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<mods:mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mods:titleInfo>
+        <mods:title>Field Notes: Alexander A.M., 1933, Navajo Mtn. Area, v498</mods:title>
+    </mods:titleInfo>
+    <mods:language>
+        <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+        <mods:languageTerm type="text">English</mods:languageTerm>
+    </mods:language>
+    <mods:originInfo>
+        <mods:dateCreated>1933-05-17/1933-07-07</mods:dateCreated>
+        <mods:dateCreated point="start">1933</mods:dateCreated>
+        <mods:dateCreated point="end">1933</mods:dateCreated>
+    </mods:originInfo>
+    <mods:name type="personal" authority="LCHS">
+        <mods:role>
+            <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+            <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+        </mods:role>
+        <mods:namePart type="family">Alexander</mods:namePart>
+        <mods:namePart type="given">Annie Montague</mods:namePart>
+        <mods:namePart type="date">1867-1950</mods:namePart>
+        <mods:displayForm>Alexander, Annie Montague, 1867-1950</mods:displayForm>
+    </mods:name>
+    <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/AlexanderAM/v498</mods:identifier>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 1: Species Accounts 1933; Navajo Mtn. Area; San Juan Co., Utah and Coconino Co., Arizona; Navajo Mtn., War God Spring, Rainbow Bridge, Endische Spring, Rainbow Lodge</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1933-06-11/1933-06-27</mods:dateCreated>
+            <mods:dateCreated point="start">1933</mods:dateCreated>
+            <mods:dateCreated point="end">1933</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Alexander</mods:namePart>
+            <mods:namePart type="given">Annie Montague</mods:namePart>
+            <mods:namePart type="date">1867-1950</mods:namePart>
+            <mods:displayForm>Alexander, Annie Montague, 1867-1950</mods:displayForm>
+        </mods:name>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Arizona, Navajo County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Utah, San Juan County</mods:geographic>
+        </mods:subject>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/AlexanderAM/v498_s1.jpg</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 2: Plant Lists 1933, includes a list of localities, Bird list by A. P. Hendrickson, Jr., 1936</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1933-05-17/1933-07-07</mods:dateCreated>
+            <mods:dateCreated point="start">1933</mods:dateCreated>
+            <mods:dateCreated point="end">1933</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Alexander</mods:namePart>
+            <mods:namePart type="given">Annie Montague</mods:namePart>
+            <mods:namePart type="date">1867-1950</mods:namePart>
+            <mods:displayForm>Alexander, Annie Montague, 1867-1950</mods:displayForm>
+        </mods:name>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Arizona, Coconino County</mods:geographic>
+        </mods:subject>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/AlexanderAM/v498_s2.jpg</mods:identifier>
+    </mods:relatedItem>
+</mods:mods>

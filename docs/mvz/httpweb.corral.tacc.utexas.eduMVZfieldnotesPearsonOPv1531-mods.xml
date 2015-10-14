@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<mods:mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mods:titleInfo>
+        <mods:title>Field Notes: Pearson O.P. 1993-1998</mods:title>
+    </mods:titleInfo>
+    <mods:language>
+        <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+        <mods:languageTerm type="text">English</mods:languageTerm>
+    </mods:language>
+    <mods:originInfo>
+        <mods:dateCreated>1993-11-10/1998-12-16</mods:dateCreated>
+        <mods:dateCreated point="start">1993</mods:dateCreated>
+        <mods:dateCreated point="end">1998</mods:dateCreated>
+    </mods:originInfo>
+    <mods:name type="personal" authority="LCHS">
+        <mods:role>
+            <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+            <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+        </mods:role>
+        <mods:namePart type="family">Pearson</mods:namePart>
+        <mods:namePart type="given">Oliver P.</mods:namePart>
+        <mods:namePart type="date">1915-2003</mods:namePart>
+        <mods:displayForm>Pearson, Oliver P.,  (Oliver Payne), 1915-2003</mods:displayForm>
+    </mods:name>
+    <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/PearsonOP/v1531</mods:identifier>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 0: General Index</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1993-11-10/1998-12-16</mods:dateCreated>
+            <mods:dateCreated point="start">1993</mods:dateCreated>
+            <mods:dateCreated point="end">1998</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Pearson</mods:namePart>
+            <mods:namePart type="given">Oliver P.</mods:namePart>
+            <mods:namePart type="date">1915-2003</mods:namePart>
+            <mods:displayForm>Pearson, Oliver P.,  (Oliver Payne), 1915-2003</mods:displayForm>
+        </mods:name>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/PearsonOP/v1531_s0</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 1: Catalogue #8052-8114, Journal: 1993 Argentina: Bariloche Area, List of owl pellets, Species Accounts: Bamboo, Akodon olivaceus, Index</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1993-11-10/1993-11-14</mods:dateCreated>
+            <mods:dateCreated point="start">1993</mods:dateCreated>
+            <mods:dateCreated point="end">1993</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Pearson</mods:namePart>
+            <mods:namePart type="given">Oliver P.</mods:namePart>
+            <mods:namePart type="date">1915-2003</mods:namePart>
+            <mods:displayForm>Pearson, Oliver P.,  (Oliver Payne), 1915-2003</mods:displayForm>
+        </mods:name>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/PearsonOP/v1531_s1</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 2: Catalogue #8085-8106, Journal: 1994 Argentina -Bariloche area, Species Accounts: Bamboo, Index</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1994-11-16/1994-12-08</mods:dateCreated>
+            <mods:dateCreated point="start">1994</mods:dateCreated>
+            <mods:dateCreated point="end">1994</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Pearson</mods:namePart>
+            <mods:namePart type="given">Oliver P.</mods:namePart>
+            <mods:namePart type="date">1915-2003</mods:namePart>
+            <mods:displayForm>Pearson, Oliver P.,  (Oliver Payne), 1915-2003</mods:displayForm>
+        </mods:name>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/PearsonOP/v1531_s2</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 3: Catalogue #8110-8119, Journal: 1995 Argentina -Bariloche area, lists of owl pellets, Species Account: Bamboo</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1995-11-09/1995-12-11</mods:dateCreated>
+            <mods:dateCreated point="start">1995</mods:dateCreated>
+            <mods:dateCreated point="end">1995</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Pearson</mods:namePart>
+            <mods:namePart type="given">Oliver P.</mods:namePart>
+            <mods:namePart type="date">1915-2003</mods:namePart>
+            <mods:displayForm>Pearson, Oliver P.,  (Oliver Payne), 1915-2003</mods:displayForm>
+        </mods:name>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/PearsonOP/v1531_s3</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 4: Catalogue #8120-8131, Journal: 1996 Argentina -Bariloche area, lists of owl pellets, Species Account: Bamboo</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1996-12-06/1996-11-02</mods:dateCreated>
+            <mods:dateCreated point="start">1996</mods:dateCreated>
+            <mods:dateCreated point="end">1996</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Pearson</mods:namePart>
+            <mods:namePart type="given">Oliver P.</mods:namePart>
+            <mods:namePart type="date">1915-2003</mods:namePart>
+            <mods:displayForm>Pearson, Oliver P.,  (Oliver Payne), 1915-2003</mods:displayForm>
+        </mods:name>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/PearsonOP/v1531_s4</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 5: Catalogue #8132-8656, Journal: 1997 Argentina -Bariloche area, lists of owl pellets, index</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1997-10-03/1997-12-15</mods:dateCreated>
+            <mods:dateCreated point="start">1997</mods:dateCreated>
+            <mods:dateCreated point="end">1997</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Pearson</mods:namePart>
+            <mods:namePart type="given">Oliver P.</mods:namePart>
+            <mods:namePart type="date">1915-2003</mods:namePart>
+            <mods:displayForm>Pearson, Oliver P.,  (Oliver Payne), 1915-2003</mods:displayForm>
+        </mods:name>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/PearsonOP/v1531_s5</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 6: Catalogue #8657-9048, Journal 1998: Argentina: Bariloche area, Index</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1998-04-18/1998-11-14</mods:dateCreated>
+            <mods:dateCreated point="start">1998</mods:dateCreated>
+            <mods:dateCreated point="end">1998</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Pearson</mods:namePart>
+            <mods:namePart type="given">Oliver P.</mods:namePart>
+            <mods:namePart type="date">1915-2003</mods:namePart>
+            <mods:displayForm>Pearson, Oliver P.,  (Oliver Payne), 1915-2003</mods:displayForm>
+        </mods:name>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/PearsonOP/v1531_s6</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 7: Journal -Argentina: Bariloche area, Index</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1998-04-17/1998-05-06</mods:dateCreated>
+            <mods:dateCreated point="start">1998</mods:dateCreated>
+            <mods:dateCreated point="end">1998</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Pearson</mods:namePart>
+            <mods:namePart type="given">Oliver P.</mods:namePart>
+            <mods:namePart type="date">1915-2003</mods:namePart>
+            <mods:displayForm>Pearson, Oliver P.,  (Oliver Payne), 1915-2003</mods:displayForm>
+        </mods:name>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/PearsonOP/v1531_s7</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 8: Journal -Argentina: Bariloche area</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1998-10-23/1998-12-12</mods:dateCreated>
+            <mods:dateCreated point="start">1998</mods:dateCreated>
+            <mods:dateCreated point="end">1998</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Pearson</mods:namePart>
+            <mods:namePart type="given">Oliver P.</mods:namePart>
+            <mods:namePart type="date">1915-2003</mods:namePart>
+            <mods:displayForm>Pearson, Oliver P.,  (Oliver Payne), 1915-2003</mods:displayForm>
+        </mods:name>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/PearsonOP/v1531_s8</mods:identifier>
+    </mods:relatedItem>
+</mods:mods>
