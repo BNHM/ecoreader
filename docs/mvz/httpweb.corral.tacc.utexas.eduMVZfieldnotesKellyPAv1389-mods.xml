@@ -9,6 +9,8 @@
     </mods:language>
     <mods:originInfo>
         <mods:dateCreated>1983-01-25/1990-03-10</mods:dateCreated>
+        <mods:dateCreated point="start">1983</mods:dateCreated>
+        <mods:dateCreated point="end">1990</mods:dateCreated>
     </mods:originInfo>
     <mods:name type="personal" authority="LCHS">
         <mods:role>
@@ -30,6 +32,8 @@
         </mods:language>
         <mods:originInfo>
             <mods:dateCreated>1983-01-25/1990-03-10</mods:dateCreated>
+            <mods:dateCreated point="start">1983</mods:dateCreated>
+            <mods:dateCreated point="end">1990</mods:dateCreated>
         </mods:originInfo>
         <mods:name type="personal" authority="LCHS">
             <mods:role>
@@ -52,6 +56,8 @@
         </mods:language>
         <mods:originInfo>
             <mods:dateCreated>1983-01-25/1989-07-28</mods:dateCreated>
+            <mods:dateCreated point="start">1983</mods:dateCreated>
+            <mods:dateCreated point="end">1989</mods:dateCreated>
         </mods:originInfo>
         <mods:name type="personal" authority="LCHS">
             <mods:role>
@@ -74,6 +80,8 @@
         </mods:language>
         <mods:originInfo>
             <mods:dateCreated>1983-09-09/1983-11-20</mods:dateCreated>
+            <mods:dateCreated point="start">1983</mods:dateCreated>
+            <mods:dateCreated point="end">1983</mods:dateCreated>
         </mods:originInfo>
         <mods:name type="personal" authority="LCHS">
             <mods:role>
@@ -96,6 +104,8 @@
         </mods:language>
         <mods:originInfo>
             <mods:dateCreated>1984-01-17/1984-10-28</mods:dateCreated>
+            <mods:dateCreated point="start">1984</mods:dateCreated>
+            <mods:dateCreated point="end">1984</mods:dateCreated>
         </mods:originInfo>
         <mods:name type="personal" authority="LCHS">
             <mods:role>
@@ -118,6 +128,8 @@
         </mods:language>
         <mods:originInfo>
             <mods:dateCreated>1985-01-25/1985-10-27</mods:dateCreated>
+            <mods:dateCreated point="start">1985</mods:dateCreated>
+            <mods:dateCreated point="end">1985</mods:dateCreated>
         </mods:originInfo>
         <mods:name type="personal" authority="LCHS">
             <mods:role>
@@ -140,6 +152,8 @@
         </mods:language>
         <mods:originInfo>
             <mods:dateCreated>1986-04-01/1986-12-01</mods:dateCreated>
+            <mods:dateCreated point="start">1986</mods:dateCreated>
+            <mods:dateCreated point="end">1986</mods:dateCreated>
         </mods:originInfo>
         <mods:name type="personal" authority="LCHS">
             <mods:role>
@@ -162,6 +176,8 @@
         </mods:language>
         <mods:originInfo>
             <mods:dateCreated>1987-01-04/1987-12-20</mods:dateCreated>
+            <mods:dateCreated point="start">1987</mods:dateCreated>
+            <mods:dateCreated point="end">1987</mods:dateCreated>
         </mods:originInfo>
         <mods:name type="personal" authority="LCHS">
             <mods:role>
@@ -184,6 +200,8 @@
         </mods:language>
         <mods:originInfo>
             <mods:dateCreated>1988-02-02/1988-12-21</mods:dateCreated>
+            <mods:dateCreated point="start">1988</mods:dateCreated>
+            <mods:dateCreated point="end">1988</mods:dateCreated>
         </mods:originInfo>
         <mods:name type="personal" authority="LCHS">
             <mods:role>
@@ -206,6 +224,8 @@
         </mods:language>
         <mods:originInfo>
             <mods:dateCreated>1989-02-25/1989-07-30</mods:dateCreated>
+            <mods:dateCreated point="start">1989</mods:dateCreated>
+            <mods:dateCreated point="end">1989</mods:dateCreated>
         </mods:originInfo>
         <mods:name type="personal" authority="LCHS">
             <mods:role>
@@ -228,6 +248,8 @@
         </mods:language>
         <mods:originInfo>
             <mods:dateCreated>1990-02-07/1990-03-10</mods:dateCreated>
+            <mods:dateCreated point="start">1990</mods:dateCreated>
+            <mods:dateCreated point="end">1990</mods:dateCreated>
         </mods:originInfo>
         <mods:name type="personal" authority="LCHS">
             <mods:role>

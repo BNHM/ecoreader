@@ -9,6 +9,8 @@
     </mods:language>
     <mods:originInfo>
         <mods:dateCreated>1964-01-01/1964-10-07</mods:dateCreated>
+        <mods:dateCreated point="start">1964</mods:dateCreated>
+        <mods:dateCreated point="end">1964</mods:dateCreated>
     </mods:originInfo>
     <mods:name type="personal" authority="LCHS">
         <mods:role>
@@ -30,6 +32,8 @@
         </mods:language>
         <mods:originInfo>
             <mods:dateCreated>1964-01-04/1964-10-01</mods:dateCreated>
+            <mods:dateCreated point="start">1964</mods:dateCreated>
+            <mods:dateCreated point="end">1964</mods:dateCreated>
         </mods:originInfo>
         <mods:name type="personal" authority="LCHS">
             <mods:role>
@@ -52,6 +56,8 @@
         </mods:language>
         <mods:originInfo>
             <mods:dateCreated>1964-01-01/1964-10-07</mods:dateCreated>
+            <mods:dateCreated point="start">1964</mods:dateCreated>
+            <mods:dateCreated point="end">1964</mods:dateCreated>
         </mods:originInfo>
         <mods:name type="personal" authority="LCHS">
             <mods:role>

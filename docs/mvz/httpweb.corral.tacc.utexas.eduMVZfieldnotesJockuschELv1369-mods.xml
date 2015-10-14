@@ -9,6 +9,8 @@
     </mods:language>
     <mods:originInfo>
         <mods:dateCreated>1992-07-30/1995-12-05</mods:dateCreated>
+        <mods:dateCreated point="start">1992</mods:dateCreated>
+        <mods:dateCreated point="end">1995</mods:dateCreated>
     </mods:originInfo>
     <mods:name type="personal" authority="LCHS">
         <mods:role>
@@ -30,6 +32,8 @@
         </mods:language>
         <mods:originInfo>
             <mods:dateCreated>1992-07-30/1992-12-16</mods:dateCreated>
+            <mods:dateCreated point="start">1992</mods:dateCreated>
+            <mods:dateCreated point="end">1992</mods:dateCreated>
         </mods:originInfo>
         <mods:name type="personal" authority="LCHS">
             <mods:role>
@@ -52,6 +56,8 @@
         </mods:language>
         <mods:originInfo>
             <mods:dateCreated>1993-02-25/1993-12-16</mods:dateCreated>
+            <mods:dateCreated point="start">1993</mods:dateCreated>
+            <mods:dateCreated point="end">1993</mods:dateCreated>
         </mods:originInfo>
         <mods:name type="personal" authority="LCHS">
             <mods:role>
@@ -74,6 +80,8 @@
         </mods:language>
         <mods:originInfo>
             <mods:dateCreated>1994-04-08/1994-12-02</mods:dateCreated>
+            <mods:dateCreated point="start">1994</mods:dateCreated>
+            <mods:dateCreated point="end">1994</mods:dateCreated>
         </mods:originInfo>
         <mods:name type="personal" authority="LCHS">
             <mods:role>
@@ -96,6 +104,8 @@
         </mods:language>
         <mods:originInfo>
             <mods:dateCreated>1995-01-30/1995-12-05</mods:dateCreated>
+            <mods:dateCreated point="start">1995</mods:dateCreated>
+            <mods:dateCreated point="end">1995</mods:dateCreated>
         </mods:originInfo>
         <mods:name type="personal" authority="LCHS">
             <mods:role>

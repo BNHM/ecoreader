@@ -9,6 +9,8 @@
     </mods:language>
     <mods:originInfo>
         <mods:dateCreated>1987-04-04/1987-09-12</mods:dateCreated>
+        <mods:dateCreated point="start">1987</mods:dateCreated>
+        <mods:dateCreated point="end">1987</mods:dateCreated>
     </mods:originInfo>
     <mods:name type="personal" authority="local">
         <mods:role>
@@ -30,6 +32,8 @@
         </mods:language>
         <mods:originInfo>
             <mods:dateCreated>1987-04-04/1987-05-30</mods:dateCreated>
+            <mods:dateCreated point="start">1987</mods:dateCreated>
+            <mods:dateCreated point="end">1987</mods:dateCreated>
         </mods:originInfo>
         <mods:name type="personal" authority="local">
             <mods:role>
@@ -52,6 +56,8 @@
         </mods:language>
         <mods:originInfo>
             <mods:dateCreated>1987-04-07/1987-05-29</mods:dateCreated>
+            <mods:dateCreated point="start">1987</mods:dateCreated>
+            <mods:dateCreated point="end">1987</mods:dateCreated>
         </mods:originInfo>
         <mods:name type="personal" authority="local">
             <mods:role>
@@ -74,6 +80,8 @@
         </mods:language>
         <mods:originInfo>
             <mods:dateCreated>1987-04-05/1987-09-12</mods:dateCreated>
+            <mods:dateCreated point="start">1987</mods:dateCreated>
+            <mods:dateCreated point="end">1987</mods:dateCreated>
         </mods:originInfo>
         <mods:name type="personal" authority="local">
             <mods:role>

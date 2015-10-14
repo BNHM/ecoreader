@@ -9,6 +9,8 @@
     </mods:language>
     <mods:originInfo>
         <mods:dateCreated>1951-03-24/1956-03-13</mods:dateCreated>
+        <mods:dateCreated point="start">1951</mods:dateCreated>
+        <mods:dateCreated point="end">1956</mods:dateCreated>
     </mods:originInfo>
     <mods:name type="personal" authority="ingest">
         <mods:role>
@@ -30,6 +32,8 @@
         </mods:language>
         <mods:originInfo>
             <mods:dateCreated>1951-03-24/1952-11-06</mods:dateCreated>
+            <mods:dateCreated point="start">1951</mods:dateCreated>
+            <mods:dateCreated point="end">1952</mods:dateCreated>
         </mods:originInfo>
         <mods:name type="personal" authority="ingest">
             <mods:role>
@@ -52,6 +56,8 @@
         </mods:language>
         <mods:originInfo>
             <mods:dateCreated>1953-07-17/1953-08-23</mods:dateCreated>
+            <mods:dateCreated point="start">1953</mods:dateCreated>
+            <mods:dateCreated point="end">1953</mods:dateCreated>
         </mods:originInfo>
         <mods:name type="personal" authority="ingest">
             <mods:role>
@@ -74,6 +80,8 @@
         </mods:language>
         <mods:originInfo>
             <mods:dateCreated>1954-04-24/1954-06-12</mods:dateCreated>
+            <mods:dateCreated point="start">1954</mods:dateCreated>
+            <mods:dateCreated point="end">1954</mods:dateCreated>
         </mods:originInfo>
         <mods:name type="personal" authority="ingest">
             <mods:role>
@@ -96,6 +104,8 @@
         </mods:language>
         <mods:originInfo>
             <mods:dateCreated>1956-03-12/1956-03-13</mods:dateCreated>
+            <mods:dateCreated point="start">1956</mods:dateCreated>
+            <mods:dateCreated point="end">1956</mods:dateCreated>
         </mods:originInfo>
         <mods:name type="personal" authority="ingest">
             <mods:role>

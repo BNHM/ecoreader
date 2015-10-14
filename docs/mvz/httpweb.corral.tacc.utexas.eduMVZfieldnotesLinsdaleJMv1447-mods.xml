@@ -9,6 +9,8 @@
     </mods:language>
     <mods:originInfo>
         <mods:dateCreated>1927-12-18/1928-07-26</mods:dateCreated>
+        <mods:dateCreated point="start">1927</mods:dateCreated>
+        <mods:dateCreated point="end">1928</mods:dateCreated>
     </mods:originInfo>
     <mods:name type="personal" authority="ingest">
         <mods:role>
@@ -31,6 +33,8 @@
         </mods:language>
         <mods:originInfo>
             <mods:dateCreated>1927-12-18/1928-07-26</mods:dateCreated>
+            <mods:dateCreated point="start">1927</mods:dateCreated>
+            <mods:dateCreated point="end">1928</mods:dateCreated>
         </mods:originInfo>
         <mods:name type="personal" authority="ingest">
             <mods:role>
@@ -57,6 +61,8 @@
         </mods:language>
         <mods:originInfo>
             <mods:dateCreated>1927-12-18/1928-01-02</mods:dateCreated>
+            <mods:dateCreated point="start">1927</mods:dateCreated>
+            <mods:dateCreated point="end">1928</mods:dateCreated>
         </mods:originInfo>
         <mods:name type="personal" authority="ingest">
             <mods:role>
@@ -83,6 +89,8 @@
         </mods:language>
         <mods:originInfo>
             <mods:dateCreated>1928-04-05/1928-05-01</mods:dateCreated>
+            <mods:dateCreated point="start">1928</mods:dateCreated>
+            <mods:dateCreated point="end">1928</mods:dateCreated>
         </mods:originInfo>
         <mods:name type="personal" authority="ingest">
             <mods:role>
@@ -109,6 +117,8 @@
         </mods:language>
         <mods:originInfo>
             <mods:dateCreated>1928-07-10/1928-07-26</mods:dateCreated>
+            <mods:dateCreated point="start">1928</mods:dateCreated>
+            <mods:dateCreated point="end">1928</mods:dateCreated>
         </mods:originInfo>
         <mods:name type="personal" authority="ingest">
             <mods:role>

@@ -9,6 +9,8 @@
     </mods:language>
     <mods:originInfo>
         <mods:dateCreated>1974-11-06/1979-01-10</mods:dateCreated>
+        <mods:dateCreated point="start">1974</mods:dateCreated>
+        <mods:dateCreated point="end">1979</mods:dateCreated>
     </mods:originInfo>
     <mods:name type="personal" authority="LCHS">
         <mods:role>
@@ -31,6 +33,8 @@
         </mods:language>
         <mods:originInfo>
             <mods:dateCreated>1974-11-06/1979-01-10</mods:dateCreated>
+            <mods:dateCreated point="start">1974</mods:dateCreated>
+            <mods:dateCreated point="end">1979</mods:dateCreated>
         </mods:originInfo>
         <mods:name type="personal" authority="LCHS">
             <mods:role>

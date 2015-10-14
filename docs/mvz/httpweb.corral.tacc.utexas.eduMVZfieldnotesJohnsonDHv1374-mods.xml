@@ -9,6 +9,8 @@
     </mods:language>
     <mods:originInfo>
         <mods:dateCreated>1936-12-26/1937-08-06</mods:dateCreated>
+        <mods:dateCreated point="start">1936</mods:dateCreated>
+        <mods:dateCreated point="end">1937</mods:dateCreated>
     </mods:originInfo>
     <mods:name type="personal" authority="LCHS">
         <mods:role>
@@ -31,6 +33,8 @@
         </mods:language>
         <mods:originInfo>
             <mods:dateCreated>1936-12-26/1937-01-30</mods:dateCreated>
+            <mods:dateCreated point="start">1936</mods:dateCreated>
+            <mods:dateCreated point="end">1937</mods:dateCreated>
         </mods:originInfo>
         <mods:name type="personal" authority="LCHS">
             <mods:role>
@@ -54,6 +58,8 @@
         </mods:language>
         <mods:originInfo>
             <mods:dateCreated>1937-02-28/1937-03-14</mods:dateCreated>
+            <mods:dateCreated point="start">1937</mods:dateCreated>
+            <mods:dateCreated point="end">1937</mods:dateCreated>
         </mods:originInfo>
         <mods:name type="personal" authority="LCHS">
             <mods:role>
@@ -77,6 +83,8 @@
         </mods:language>
         <mods:originInfo>
             <mods:dateCreated>1937-03-26/1937-04-06</mods:dateCreated>
+            <mods:dateCreated point="start">1937</mods:dateCreated>
+            <mods:dateCreated point="end">1937</mods:dateCreated>
         </mods:originInfo>
         <mods:name type="personal" authority="LCHS">
             <mods:role>
@@ -100,6 +108,8 @@
         </mods:language>
         <mods:originInfo>
             <mods:dateCreated>1937-05-24/1937-08-06</mods:dateCreated>
+            <mods:dateCreated point="start">1937</mods:dateCreated>
+            <mods:dateCreated point="end">1937</mods:dateCreated>
         </mods:originInfo>
         <mods:name type="personal" authority="LCHS">
             <mods:role>

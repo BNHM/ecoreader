@@ -9,6 +9,8 @@
     </mods:language>
     <mods:originInfo>
         <mods:dateCreated>1935-10-06/1939-05-16</mods:dateCreated>
+        <mods:dateCreated point="start">1935</mods:dateCreated>
+        <mods:dateCreated point="end">1939</mods:dateCreated>
     </mods:originInfo>
     <mods:name type="personal" authority="local">
         <mods:role>
@@ -30,6 +32,8 @@
         </mods:language>
         <mods:originInfo>
             <mods:dateCreated>1935-10-06/1938-07-17</mods:dateCreated>
+            <mods:dateCreated point="start">1935</mods:dateCreated>
+            <mods:dateCreated point="end">1938</mods:dateCreated>
         </mods:originInfo>
         <mods:name type="personal" authority="local">
             <mods:role>
@@ -52,6 +56,8 @@
         </mods:language>
         <mods:originInfo>
             <mods:dateCreated>1935-10-06/1939-05-16</mods:dateCreated>
+            <mods:dateCreated point="start">1935</mods:dateCreated>
+            <mods:dateCreated point="end">1939</mods:dateCreated>
         </mods:originInfo>
         <mods:name type="personal" authority="local">
             <mods:role>
@@ -74,6 +80,8 @@
         </mods:language>
         <mods:originInfo>
             <mods:dateCreated>1937-05-25/1937-06-22</mods:dateCreated>
+            <mods:dateCreated point="start">1937</mods:dateCreated>
+            <mods:dateCreated point="end">1937</mods:dateCreated>
         </mods:originInfo>
         <mods:name type="personal" authority="local">
             <mods:role>
@@ -96,6 +104,8 @@
         </mods:language>
         <mods:originInfo>
             <mods:dateCreated>1937-12-19/1938-01-12</mods:dateCreated>
+            <mods:dateCreated point="start">1937</mods:dateCreated>
+            <mods:dateCreated point="end">1938</mods:dateCreated>
         </mods:originInfo>
         <mods:name type="personal" authority="local">
             <mods:role>
@@ -118,6 +128,8 @@
         </mods:language>
         <mods:originInfo>
             <mods:dateCreated>1938-05-18/1938-08-16</mods:dateCreated>
+            <mods:dateCreated point="start">1938</mods:dateCreated>
+            <mods:dateCreated point="end">1938</mods:dateCreated>
         </mods:originInfo>
         <mods:name type="personal" authority="local">
             <mods:role>

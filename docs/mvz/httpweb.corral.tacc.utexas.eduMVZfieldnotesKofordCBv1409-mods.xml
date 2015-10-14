@@ -9,6 +9,8 @@
     </mods:language>
     <mods:originInfo>
         <mods:dateCreated>1962-02-01/1970-08-05</mods:dateCreated>
+        <mods:dateCreated point="start">1962</mods:dateCreated>
+        <mods:dateCreated point="end">1970</mods:dateCreated>
     </mods:originInfo>
     <mods:name type="personal" authority="ingest">
         <mods:role>
@@ -30,6 +32,8 @@
         </mods:language>
         <mods:originInfo>
             <mods:dateCreated>1962-02-01/1962-04-01</mods:dateCreated>
+            <mods:dateCreated point="start">1962</mods:dateCreated>
+            <mods:dateCreated point="end">1962</mods:dateCreated>
         </mods:originInfo>
         <mods:name type="personal" authority="ingest">
             <mods:role>
@@ -52,6 +56,8 @@
         </mods:language>
         <mods:originInfo>
             <mods:dateCreated>1969-08-02/1969-09-13</mods:dateCreated>
+            <mods:dateCreated point="start">1969</mods:dateCreated>
+            <mods:dateCreated point="end">1969</mods:dateCreated>
         </mods:originInfo>
         <mods:name type="personal" authority="ingest">
             <mods:role>
@@ -74,6 +80,8 @@
         </mods:language>
         <mods:originInfo>
             <mods:dateCreated>1969-07-30/1969-09-15</mods:dateCreated>
+            <mods:dateCreated point="start">1969</mods:dateCreated>
+            <mods:dateCreated point="end">1969</mods:dateCreated>
         </mods:originInfo>
         <mods:name type="personal" authority="ingest">
             <mods:role>
@@ -96,6 +104,8 @@
         </mods:language>
         <mods:originInfo>
             <mods:dateCreated>1970-06-16/1970-07-25</mods:dateCreated>
+            <mods:dateCreated point="start">1970</mods:dateCreated>
+            <mods:dateCreated point="end">1970</mods:dateCreated>
         </mods:originInfo>
         <mods:name type="personal" authority="ingest">
             <mods:role>
@@ -118,6 +128,8 @@
         </mods:language>
         <mods:originInfo>
             <mods:dateCreated>1970-06-13/1970-08-05</mods:dateCreated>
+            <mods:dateCreated point="start">1970</mods:dateCreated>
+            <mods:dateCreated point="end">1970</mods:dateCreated>
         </mods:originInfo>
         <mods:name type="personal" authority="ingest">
             <mods:role>
@@ -140,6 +152,8 @@
         </mods:language>
         <mods:originInfo>
             <mods:dateCreated>1964-01-06/1964-02-28</mods:dateCreated>
+            <mods:dateCreated point="start">1964</mods:dateCreated>
+            <mods:dateCreated point="end">1964</mods:dateCreated>
         </mods:originInfo>
         <mods:name type="personal" authority="ingest">
             <mods:role>
@@ -162,6 +176,8 @@
         </mods:language>
         <mods:originInfo>
             <mods:dateCreated>1967-07-02/1967-09-18</mods:dateCreated>
+            <mods:dateCreated point="start">1967</mods:dateCreated>
+            <mods:dateCreated point="end">1967</mods:dateCreated>
         </mods:originInfo>
         <mods:name type="personal" authority="ingest">
             <mods:role>
@@ -184,6 +200,8 @@
         </mods:language>
         <mods:originInfo>
             <mods:dateCreated>1967-06-26/1967-09-18</mods:dateCreated>
+            <mods:dateCreated point="start">1967</mods:dateCreated>
+            <mods:dateCreated point="end">1967</mods:dateCreated>
         </mods:originInfo>
         <mods:name type="personal" authority="ingest">
             <mods:role>
@@ -206,6 +224,8 @@
         </mods:language>
         <mods:originInfo>
             <mods:dateCreated>1968-07-19/1968-10-22</mods:dateCreated>
+            <mods:dateCreated point="start">1968</mods:dateCreated>
+            <mods:dateCreated point="end">1968</mods:dateCreated>
         </mods:originInfo>
         <mods:name type="personal" authority="ingest">
             <mods:role>
@@ -228,6 +248,8 @@
         </mods:language>
         <mods:originInfo>
             <mods:dateCreated>1968-07-08/1968-08-23</mods:dateCreated>
+            <mods:dateCreated point="start">1968</mods:dateCreated>
+            <mods:dateCreated point="end">1968</mods:dateCreated>
         </mods:originInfo>
         <mods:name type="personal" authority="ingest">
             <mods:role>
@@ -250,6 +272,8 @@
         </mods:language>
         <mods:originInfo>
             <mods:dateCreated>1968-10-04/1968-11-24</mods:dateCreated>
+            <mods:dateCreated point="start">1968</mods:dateCreated>
+            <mods:dateCreated point="end">1968</mods:dateCreated>
         </mods:originInfo>
         <mods:name type="personal" authority="ingest">
             <mods:role>
@@ -272,6 +296,8 @@
         </mods:language>
         <mods:originInfo>
             <mods:dateCreated>1969-06-21/1969-07-04</mods:dateCreated>
+            <mods:dateCreated point="start">1969</mods:dateCreated>
+            <mods:dateCreated point="end">1969</mods:dateCreated>
         </mods:originInfo>
         <mods:name type="personal" authority="ingest">
             <mods:role>
@@ -294,6 +320,8 @@
         </mods:language>
         <mods:originInfo>
             <mods:dateCreated>1969-06-15/1969-07-12</mods:dateCreated>
+            <mods:dateCreated point="start">1969</mods:dateCreated>
+            <mods:dateCreated point="end">1969</mods:dateCreated>
         </mods:originInfo>
         <mods:name type="personal" authority="ingest">
             <mods:role>

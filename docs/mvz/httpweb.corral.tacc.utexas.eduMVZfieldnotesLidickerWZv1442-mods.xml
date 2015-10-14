@@ -9,6 +9,8 @@
     </mods:language>
     <mods:originInfo>
         <mods:dateCreated>1965-05-11/1974-12-19</mods:dateCreated>
+        <mods:dateCreated point="start">1965</mods:dateCreated>
+        <mods:dateCreated point="end">1974</mods:dateCreated>
     </mods:originInfo>
     <mods:name type="personal" authority="LCHS">
         <mods:role>
@@ -31,6 +33,8 @@
         </mods:language>
         <mods:originInfo>
             <mods:dateCreated>1965-05-11/1969-04-11</mods:dateCreated>
+            <mods:dateCreated point="start">1965</mods:dateCreated>
+            <mods:dateCreated point="end">1969</mods:dateCreated>
         </mods:originInfo>
         <mods:name type="personal" authority="LCHS">
             <mods:role>
@@ -54,6 +58,8 @@
         </mods:language>
         <mods:originInfo>
             <mods:dateCreated>1965-06-15/1968-09-07</mods:dateCreated>
+            <mods:dateCreated point="start">1965</mods:dateCreated>
+            <mods:dateCreated point="end">1968</mods:dateCreated>
         </mods:originInfo>
         <mods:name type="personal" authority="LCHS">
             <mods:role>
@@ -77,6 +83,8 @@
         </mods:language>
         <mods:originInfo>
             <mods:dateCreated>1969-04-11/1969-08-12</mods:dateCreated>
+            <mods:dateCreated point="start">1969</mods:dateCreated>
+            <mods:dateCreated point="end">1969</mods:dateCreated>
         </mods:originInfo>
         <mods:name type="personal" authority="LCHS">
             <mods:role>
@@ -100,6 +108,8 @@
         </mods:language>
         <mods:originInfo>
             <mods:dateCreated>1969-07-14/1969-11-23</mods:dateCreated>
+            <mods:dateCreated point="start">1969</mods:dateCreated>
+            <mods:dateCreated point="end">1969</mods:dateCreated>
         </mods:originInfo>
         <mods:name type="personal" authority="LCHS">
             <mods:role>
@@ -123,6 +133,8 @@
         </mods:language>
         <mods:originInfo>
             <mods:dateCreated>1969-07-25/1972-03-12</mods:dateCreated>
+            <mods:dateCreated point="start">1969</mods:dateCreated>
+            <mods:dateCreated point="end">1972</mods:dateCreated>
         </mods:originInfo>
         <mods:name type="personal" authority="LCHS">
             <mods:role>
@@ -146,6 +158,8 @@
         </mods:language>
         <mods:originInfo>
             <mods:dateCreated>1970-03-27/1972-01-06</mods:dateCreated>
+            <mods:dateCreated point="start">1970</mods:dateCreated>
+            <mods:dateCreated point="end">1972</mods:dateCreated>
         </mods:originInfo>
         <mods:name type="personal" authority="LCHS">
             <mods:role>
@@ -169,6 +183,8 @@
         </mods:language>
         <mods:originInfo>
             <mods:dateCreated>1972-03-12/1973-12-15</mods:dateCreated>
+            <mods:dateCreated point="start">1972</mods:dateCreated>
+            <mods:dateCreated point="end">1973</mods:dateCreated>
         </mods:originInfo>
         <mods:name type="personal" authority="LCHS">
             <mods:role>
@@ -192,6 +208,8 @@
         </mods:language>
         <mods:originInfo>
             <mods:dateCreated>1973-12-11/1974-12-19</mods:dateCreated>
+            <mods:dateCreated point="start">1973</mods:dateCreated>
+            <mods:dateCreated point="end">1974</mods:dateCreated>
         </mods:originInfo>
         <mods:name type="personal" authority="LCHS">
             <mods:role>

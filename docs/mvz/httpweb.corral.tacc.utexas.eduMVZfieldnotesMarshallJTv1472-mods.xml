@@ -9,6 +9,8 @@
     </mods:language>
     <mods:originInfo>
         <mods:dateCreated>1942-01-22/1945-12-03</mods:dateCreated>
+        <mods:dateCreated point="start">1942</mods:dateCreated>
+        <mods:dateCreated point="end">1945</mods:dateCreated>
     </mods:originInfo>
     <mods:name type="personal" authority="local">
         <mods:role>
@@ -30,6 +32,8 @@
         </mods:language>
         <mods:originInfo>
             <mods:dateCreated>1942-01-22/1945-12-03</mods:dateCreated>
+            <mods:dateCreated point="start">1942</mods:dateCreated>
+            <mods:dateCreated point="end">1945</mods:dateCreated>
         </mods:originInfo>
         <mods:name type="personal" authority="local">
             <mods:role>
@@ -52,6 +56,8 @@
         </mods:language>
         <mods:originInfo>
             <mods:dateCreated>1942-01-22/1942-05-02</mods:dateCreated>
+            <mods:dateCreated point="start">1942</mods:dateCreated>
+            <mods:dateCreated point="end">1942</mods:dateCreated>
         </mods:originInfo>
         <mods:name type="personal" authority="local">
             <mods:role>
@@ -74,6 +80,8 @@
         </mods:language>
         <mods:originInfo>
             <mods:dateCreated>1943-05-23/1944-05-22</mods:dateCreated>
+            <mods:dateCreated point="start">1943</mods:dateCreated>
+            <mods:dateCreated point="end">1944</mods:dateCreated>
         </mods:originInfo>
         <mods:name type="personal" authority="local">
             <mods:role>
@@ -96,6 +104,8 @@
         </mods:language>
         <mods:originInfo>
             <mods:dateCreated>1944-11-08/1945-12-03</mods:dateCreated>
+            <mods:dateCreated point="start">1944</mods:dateCreated>
+            <mods:dateCreated point="end">1945</mods:dateCreated>
         </mods:originInfo>
         <mods:name type="personal" authority="local">
             <mods:role>

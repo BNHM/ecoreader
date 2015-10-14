@@ -9,6 +9,8 @@
     </mods:language>
     <mods:originInfo>
         <mods:dateCreated>1939-06-28/1941-07-15</mods:dateCreated>
+        <mods:dateCreated point="start">1939</mods:dateCreated>
+        <mods:dateCreated point="end">1941</mods:dateCreated>
     </mods:originInfo>
     <mods:name type="personal" authority="LCHS">
         <mods:role>
@@ -31,6 +33,8 @@
         </mods:language>
         <mods:originInfo>
             <mods:dateCreated>1939-06-28/1939-08-01</mods:dateCreated>
+            <mods:dateCreated point="start">1939</mods:dateCreated>
+            <mods:dateCreated point="end">1939</mods:dateCreated>
         </mods:originInfo>
         <mods:name type="personal" authority="LCHS">
             <mods:role>
@@ -54,6 +58,8 @@
         </mods:language>
         <mods:originInfo>
             <mods:dateCreated>1939-08-22/1939-12-05</mods:dateCreated>
+            <mods:dateCreated point="start">1939</mods:dateCreated>
+            <mods:dateCreated point="end">1939</mods:dateCreated>
         </mods:originInfo>
         <mods:name type="personal" authority="LCHS">
             <mods:role>
@@ -77,6 +83,8 @@
         </mods:language>
         <mods:originInfo>
             <mods:dateCreated>1940-05-27/1940-06-26</mods:dateCreated>
+            <mods:dateCreated point="start">1940</mods:dateCreated>
+            <mods:dateCreated point="end">1940</mods:dateCreated>
         </mods:originInfo>
         <mods:name type="personal" authority="LCHS">
             <mods:role>
@@ -100,6 +108,8 @@
         </mods:language>
         <mods:originInfo>
             <mods:dateCreated>1941-01-12/1941-06-09</mods:dateCreated>
+            <mods:dateCreated point="start">1941</mods:dateCreated>
+            <mods:dateCreated point="end">1941</mods:dateCreated>
         </mods:originInfo>
         <mods:name type="personal" authority="LCHS">
             <mods:role>
@@ -123,6 +133,8 @@
         </mods:language>
         <mods:originInfo>
             <mods:dateCreated>1941-07-09/1941-07-15</mods:dateCreated>
+            <mods:dateCreated point="start">1941</mods:dateCreated>
+            <mods:dateCreated point="end">1941</mods:dateCreated>
         </mods:originInfo>
         <mods:name type="personal" authority="LCHS">
             <mods:role>

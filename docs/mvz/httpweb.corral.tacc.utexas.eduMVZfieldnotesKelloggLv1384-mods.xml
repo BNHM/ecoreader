@@ -9,6 +9,8 @@
     </mods:language>
     <mods:originInfo>
         <mods:dateCreated>1908-06-06/1911-04-01</mods:dateCreated>
+        <mods:dateCreated point="start">1908</mods:dateCreated>
+        <mods:dateCreated point="end">1911</mods:dateCreated>
     </mods:originInfo>
     <mods:name type="personal" authority="local">
         <mods:role>
@@ -31,6 +33,8 @@
         </mods:language>
         <mods:originInfo>
             <mods:dateCreated>1908-06-06/1911-04-01</mods:dateCreated>
+            <mods:dateCreated point="start">1908</mods:dateCreated>
+            <mods:dateCreated point="end">1911</mods:dateCreated>
         </mods:originInfo>
         <mods:name type="personal" authority="local">
             <mods:role>
@@ -57,6 +61,8 @@
         </mods:language>
         <mods:originInfo>
             <mods:dateCreated>1908-06-06/1908-07-30</mods:dateCreated>
+            <mods:dateCreated point="start">1908</mods:dateCreated>
+            <mods:dateCreated point="end">1908</mods:dateCreated>
         </mods:originInfo>
         <mods:name type="personal" authority="local">
             <mods:role>
@@ -83,6 +89,8 @@
         </mods:language>
         <mods:originInfo>
             <mods:dateCreated>1911-03-29/1911-04-01</mods:dateCreated>
+            <mods:dateCreated point="start">1911</mods:dateCreated>
+            <mods:dateCreated point="end">1911</mods:dateCreated>
         </mods:originInfo>
         <mods:name type="personal" authority="local">
             <mods:role>
@@ -109,6 +117,8 @@
         </mods:language>
         <mods:originInfo>
             <mods:dateCreated>1908-09-10/1909-04-10</mods:dateCreated>
+            <mods:dateCreated point="start">1908</mods:dateCreated>
+            <mods:dateCreated point="end">1909</mods:dateCreated>
         </mods:originInfo>
         <mods:name type="personal" authority="local">
             <mods:role>
@@ -135,6 +145,8 @@
         </mods:language>
         <mods:originInfo>
             <mods:dateCreated>1909-05-30/1909-07-23</mods:dateCreated>
+            <mods:dateCreated point="start">1909</mods:dateCreated>
+            <mods:dateCreated point="end">1909</mods:dateCreated>
         </mods:originInfo>
         <mods:name type="personal" authority="local">
             <mods:role>
@@ -161,6 +173,8 @@
         </mods:language>
         <mods:originInfo>
             <mods:dateCreated>1909-08-01/1909-08-18</mods:dateCreated>
+            <mods:dateCreated point="start">1909</mods:dateCreated>
+            <mods:dateCreated point="end">1909</mods:dateCreated>
         </mods:originInfo>
         <mods:name type="personal" authority="local">
             <mods:role>
@@ -187,6 +201,8 @@
         </mods:language>
         <mods:originInfo>
             <mods:dateCreated>1909-09-06/1910-03-24</mods:dateCreated>
+            <mods:dateCreated point="start">1909</mods:dateCreated>
+            <mods:dateCreated point="end">1910</mods:dateCreated>
         </mods:originInfo>
         <mods:name type="personal" authority="local">
             <mods:role>
@@ -213,6 +229,8 @@
         </mods:language>
         <mods:originInfo>
             <mods:dateCreated>1910-04-22/1910-06-27</mods:dateCreated>
+            <mods:dateCreated point="start">1910</mods:dateCreated>
+            <mods:dateCreated point="end">1910</mods:dateCreated>
         </mods:originInfo>
         <mods:name type="personal" authority="local">
             <mods:role>
@@ -239,6 +257,8 @@
         </mods:language>
         <mods:originInfo>
             <mods:dateCreated>1910-07-10/1910-08-21</mods:dateCreated>
+            <mods:dateCreated point="start">1910</mods:dateCreated>
+            <mods:dateCreated point="end">1910</mods:dateCreated>
         </mods:originInfo>
         <mods:name type="personal" authority="local">
             <mods:role>
@@ -265,6 +285,8 @@
         </mods:language>
         <mods:originInfo>
             <mods:dateCreated>1910-11-28/1910-12-16</mods:dateCreated>
+            <mods:dateCreated point="start">1910</mods:dateCreated>
+            <mods:dateCreated point="end">1910</mods:dateCreated>
         </mods:originInfo>
         <mods:name type="personal" authority="local">
             <mods:role>
@@ -291,6 +313,8 @@
         </mods:language>
         <mods:originInfo>
             <mods:dateCreated>1911-02-09/1911-03-09</mods:dateCreated>
+            <mods:dateCreated point="start">1911</mods:dateCreated>
+            <mods:dateCreated point="end">1911</mods:dateCreated>
         </mods:originInfo>
         <mods:name type="personal" authority="local">
             <mods:role>

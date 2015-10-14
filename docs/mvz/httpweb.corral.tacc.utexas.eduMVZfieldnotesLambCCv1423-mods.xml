@@ -9,6 +9,8 @@
     </mods:language>
     <mods:originInfo>
         <mods:dateCreated>1929-01-01/1929-05-18</mods:dateCreated>
+        <mods:dateCreated point="start">1929</mods:dateCreated>
+        <mods:dateCreated point="end">1929</mods:dateCreated>
     </mods:originInfo>
     <mods:name type="personal" authority="local">
         <mods:role>
@@ -31,6 +33,8 @@
         </mods:language>
         <mods:originInfo>
             <mods:dateCreated>1929-01-01/1929-05-18</mods:dateCreated>
+            <mods:dateCreated point="start">1929</mods:dateCreated>
+            <mods:dateCreated point="end">1929</mods:dateCreated>
         </mods:originInfo>
         <mods:name type="personal" authority="local">
             <mods:role>
