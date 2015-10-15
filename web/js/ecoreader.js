@@ -61,7 +61,26 @@ function populateVolumes() {
     });
 }
 
+function getPage() {
+    return parseInt(sessionStorage.getItem('pageIndex'));
+}
+function gotoPage(page) {
+    sessionStorage.setItem('pageIndex',page);
+    return page;
+}
+function nextPage() {
+    var curValue = getPage()+1;
+    sessionStorage.setItem('pageIndex',curValue);
+    return curValue;
+}
+function prevPage() {
+    var curValue = getPage()-1;
+    sessionStorage.setItem('pageIndex',curValue);
+    return curValue;
+}
+
 function showSection(section_id, galIndex) {
+ sessionStorage.setItem('pageIndex', 0);
     (function(section_id, galIndex) {
         $.getJSON("rest/sections/" + section_id, function(data) {
 
@@ -83,18 +102,18 @@ function showSection(section_id, galIndex) {
                   var sidebar = $('<div class="fancybox-sidebar"><div class="fancybox-sidebar-container"></div></div>');
                   this.skin.append(sidebar);
 
-                  var html = "<div class='fancybox-img-download'><p>Download Image:</p><a href='' id='600' download='image.png'>600</a>";
-                   //+"<a href='' id='high_res' download='high_res.tif'>high res</a></div>";
+                  var html = "<div class='fancybox-img-download'><p><a href='" +this.big + "' download='image.png'>Download Image</a></p>";
                   if (this.group.length > 1) {
                       html += "<div class='fancybox-page-nav'>" +
-                              "<a href='#' class='btn btn-default' onClick='$.fancybox.jumpto(0);'>First</a>" +
-                              "<a href='#' class='btn btn-default'style='float:right;' " +
-                              "onClick='$.fancybox.jumpto($.fancybox.group.length - 1);'>Last</a></div>";
+                              "<a href='#' class='btn btn-default' onClick='$.fancybox.jumpto(gotoPage(0));' style='float:left'>|<</a>" +
+				"<a href='#' class='btn btn-default' onClick='$.fancybox.jumpto(prevPage());' style='float:left'><</a>" +
+				"<a href='#' class='btn btn-default' onClick='$.fancybox.jumpto(nextPage());' style='float:left'>></a>" +
+                              "<a href='#' class='btn btn-default' style='float:left;' " +
+                              "onClick='$.fancybox.jumpto(gotoPage($.fancybox.group.length - 1));'>>|</a></div>";
                   }
 
                   $(".fancybox-tmp .fancybox-sidebar-container").html(html);
-                  $(".fancybox-img-download a#600").attr("href", this.big);
-                  $(".fancybox-img-download a#high_res").attr("href", this.high_res);
+                  $(".fancybox-img-download a#1200").attr("href", this.big);
              },
              onUpdate: function() {
                 $(".fancybox-sidebar").height(this.inner.height());
@@ -111,10 +130,11 @@ function showSection(section_id, galIndex) {
                       (function(index) {
                           $.fancybox.close();
                           $.fancybox.open({
+			    fitToView: false,
+			    autoSize: true,
                             width: "100%",
                             height: "100%",
                             href: event.data.href,
-                            type: "iframe",
                             afterClose: function() {
                                 showSection(section_id, index);
                             }
