@@ -83,8 +83,8 @@ function showSection(section_id, galIndex) {
                   var sidebar = $('<div class="fancybox-sidebar"><div class="fancybox-sidebar-container"></div></div>');
                   this.skin.append(sidebar);
 
-                  var html = "<div class='fancybox-img-download'><p>Download Image:</p><a href='' id='600' download='image.png'>600</a>" +
-                             "<a href='' id='high_res' download='high_res.tif'>high res</a></div>";
+                  var html = "<div class='fancybox-img-download'><p>Download Image:</p><a href='' id='600' download='image.png'>600</a>";
+                   //+"<a href='' id='high_res' download='high_res.tif'>high res</a></div>";
                   if (this.group.length > 1) {
                       html += "<div class='fancybox-page-nav'>" +
                               "<a href='#' class='btn btn-default' onClick='$.fancybox.jumpto(0);'>First</a>" +
