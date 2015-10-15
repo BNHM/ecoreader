@@ -26,7 +26,7 @@ public class validator {
             // Checking dir.isDirectory() above would not be sufficient
             // to avoid race conditions with another process that deletes
             // directories.
-            System.out.println("validating " + directoryPath);
+            //System.out.println("validating " + directoryPath);
             filesAsStrings.add(directoryPath);
         }
         // tell it to ignore sections as second argument

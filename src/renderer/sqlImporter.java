@@ -99,15 +99,32 @@ public class sqlImporter {
      * Validate a given notebook
      */
     private boolean validateNotebook(NotebookMetadata notebook) {
-        System.out.println("checking into notebook ");
-        System.out.println("\tfilename " + notebook.getFilename());
-        System.out.println("\tidentifier " + notebook.getIdentifier());
+        //System.out.println("checking into notebook ");
+        //System.out.println("\tfilename " + notebook.getFilename());
+        ///System.out.println("\tidentifier " + notebook.getIdentifier());
         if (notebook.getIdentifier() == null) {
             errors.append(notebook.getFilename() + " has no Volume Identifier\n");
         }
         if (notebook.getFamilyNameText() == null) {
             errors.append(notebook.getFilename() + " has no Familyname \n");
         }
+        if (notebook.getTitle() == null) {
+            errors.append(notebook.getFilename() + " has no Title \n");
+        }
+        if (notebook.getFamilyNameText() == null) {
+            errors.append(notebook.getFilename() + " has no Family Name \n");
+        }
+        if (notebook.getNameText() == null) {
+            errors.append(notebook.getFilename() + " has no Name \n");
+        }
+        if (notebook.getDateStartText() == null) {
+            errors.append(notebook.getFilename() + " has no Start Date Text \n");
+        }
+        if (notebook.getDateEndText() == null) {
+            errors.append(notebook.getFilename() + " has no End Date Text \n");
+        }
+
+
         if (!errors.toString().equals("")) return false;
         else return true;
     }
@@ -141,7 +158,7 @@ public class sqlImporter {
         PreparedStatement stmt = null;
         String sql = null;
         try {
-             sql = "INSERT INTO page (section_id, page_number, page_identifier, type) VALUES ((SELECT section_id " +
+            sql = "INSERT INTO page (section_id, page_number, page_identifier, type) VALUES ((SELECT section_id " +
                     "FROM section WHERE section_identifier = ?),?,?,?)";
             stmt = conn.prepareStatement(sql);
 
@@ -293,7 +310,7 @@ public class sqlImporter {
         PreparedStatement stmt = null;
         String sql = null;
         try {
-             sql = "UPDATE page SET page_identifier = ?, type = ? WHERE section_id = (SELECT section_id " +
+            sql = "UPDATE page SET page_identifier = ?, type = ? WHERE section_id = (SELECT section_id " +
                     "FROM section WHERE section_identifier = ?) AND page_number = ?";
             stmt = conn.prepareStatement(sql);
 
@@ -442,26 +459,37 @@ public class sqlImporter {
 
     /**
      * Process a file, returning the filename itself as a String (parsed from File object)
+     *
      * @param f
+     *
      * @return
+     *
      * @throws validationException
      */
     private String processFile(File f) throws validationException {
         System.out.println("Processing: " + f.toString());
-
 
         Mods mods = new modsFactory("file:///" + f.getAbsolutePath()).getMods();
 
         String[] filepath = f.getAbsolutePath().split("/");
         String filename = filepath[filepath.length - 1];
 
-
         if (notebookExists(filename)) {
-            System.out.println("Updating: " + f.getAbsolutePath());
-            updateNotebook(mods);
+            /*try {
+                System.out.println("Updating: " + f.getAbsolutePath());
+                updateNotebook(mods);
+            } catch (Exception e) {
+                System.out.println("ERROR UPDATING " + e);
+                e.printStackTrace();
+            } */
         } else {
-            System.out.println("Importing: " + f.getAbsolutePath());
-            importNotebook(mods);
+            try {
+                System.out.println("Importing: " + f.getAbsolutePath());
+                importNotebook(mods);
+            } catch (Exception e) {
+                System.out.println("ERROR IMPORTING " + e);
+                e.printStackTrace();
+            }
         }
         return filename;
     }

@@ -14,7 +14,7 @@
           <div class="form-group form-group-sm" id="author_row">
             <label for="author" class="col-md-2 control-label">Author Name</label>
             <div class="col-md-3" id="author_combobox">
-              <select class="combobox form-control" width=20 id="authors">
+              <select class="combobox form-control" width=20 id="authors" onchange="populateVolumes();">
                         <option value=''>Loading authors ...</option>
               </select>
             </div>
