@@ -172,7 +172,7 @@ public class ecoReader {
                 String sql = "SELECT section_id, title, geographic, " + "" +
                         "CASE WHEN EXISTS (SELECT section_id FROM page WHERE section.section_id = page.section_id) " +
                         "THEN 'TRUE' ELSE 'FALSE' END AS isScanned " +
-                        "FROM section WHERE volume_id = ?";
+                        "FROM section WHERE volume_id = ? ORDER BY section_identifier";
                 stmt = conn.prepareStatement(sql);
                 stmt.setInt(1, vol_id);
 
