@@ -328,7 +328,7 @@ public class ecoReader {
         File[] files = directory.listFiles();
         for (int i = 0; i < files.length; i++) {
             String filePath = files[i].getAbsolutePath();
-            System.out.println("Processing " + filePath);
+            System.out.print("Processing " + filePath);
             try {
                 sqlImporter.importNotebook(new modsFactory("file:" + filePath).getMods());
             } catch (Exception e) {
@@ -338,14 +338,14 @@ public class ecoReader {
         */
 
 
-
-
         // Single test file to work with
         // Later, we want to harvest any docs that appear in GitHub repository and put in Mysql database
         String testFile = "file:docs/mvz/mods/httpweb.corral.tacc.utexas.eduMVZfieldnotesAlexanderAMv496-mods.xml";
         testFile = "file:docs/mvz/mods/httpweb.corral.tacc.utexas.eduMVZfieldnotesBrodeJSv547-mods.xml";
+        testFile = "file:docs/mvz/httpweb.corral.tacc.utexas.eduMVZfieldnotesBorellAv540-mods.xml";
+        testFile = "file:docs/mvz/httpweb.corral.tacc.utexas.eduMVZfieldnotesAlexanderAMv497-mods.xml";
 
-        System.out.println("Processing " + testFile);
+        System.out.print("Processing " + testFile);
 
         // Create mods object to hold MODS data
         Mods mods = new modsFactory(testFile).getMods();
@@ -363,10 +363,10 @@ public class ecoReader {
             e.printStackTrace();
             throw new Exception(e);
         }
+        System.out.println();
 
         ecoReader er = new ecoReader();
-        System.out.println(er.getVolumes("Brode","J. Stanley", null, false
-                , 0, 1909, 0));
+        //System.out.println(er.getVolumes("Brode","J. Stanley", null, false, 0, 1909, 0));
 
     }
 }

@@ -45,12 +45,10 @@ public class Mods implements NotebookMetadata {
     }
 
     public String getLanguageText() {
-        return getTermValue(languageList, "type", "text");
+        return modsUtils.getTermValue(languageList, "type", "text");
     }
 
-    public void addSection(mvzSection section) {
-        sections.addLast(section);
-    }
+    public void addSection(mvzSection section) {sections.addLast(section);}
 
     public LinkedList<sectionMetadata> getSections() {
         return sections;
@@ -60,35 +58,24 @@ public class Mods implements NotebookMetadata {
         return title;
     }
 
-    public void setTitle(String title) {
+    public void setTitle(String title) {this.title = title;}
 
-        this.title = title;
-    }
+    public String getIdentifier() {return identifier;}
 
-    public String getIdentifier() {
-        return identifier;
-    }
-
-    public void setIdentifier(String identifier) {
-
-        this.identifier = identifier;
-    }
+    public void setIdentifier(String identifier) {this.identifier = identifier;}
 
     public String getNameText() {
-        return getTermValue(nameList, "type", "given");
+        return modsUtils.getTermValue(nameList, "type", "given");
     }
 
     public LinkedList<Term> getNameList() {
         return nameList;
     }
 
-    public void setName(Term term) {
-
-        nameList.addLast(term);
-    }
+    public void setName(Term term) { nameList.addLast(term);}
 
     public String getFamilyNameText() {
-        return getTermValue(familyNameList, "type", "family");
+        return modsUtils.getTermValue(familyNameList, "type", "family");
     }
 
     public LinkedList<Term> getFamilyNameList() {
@@ -104,7 +91,7 @@ public class Mods implements NotebookMetadata {
     }
 
     public String getDateStartText() {
-        return getTermValue(dateList, "point", "start");
+        return modsUtils.getTermValue(dateList, "point", "start");
     }
 
     public void setDateStart(Term term) {
@@ -112,42 +99,11 @@ public class Mods implements NotebookMetadata {
     }
 
     public String getDateEndText() {
-        return getTermValue(dateList, "point", "end");
+        return modsUtils.getTermValue(dateList, "point", "end");
     }
 
     public void setDateEnd(Term term) {
         dateList.addLast(term);
-    }
-
-    /**
-     * Generic method for fetching values for Terms in the MODS file.
-     * This class is a work-around for MODS data files which store various
-     * data in repeating elements with attributes defining entity types.  Since
-     * Apache Digester cannot parse this data, we instead build a linkedList
-     * of "terms" and pass in an attribute type, which we can search for to
-     * output the appropriate value.
-     *
-     * @param terms
-     * @param attributeKey
-     * @param attributeValue
-     *
-     * @return
-     */
-    public String getTermValue(LinkedList<Term> terms, String attributeKey, String attributeValue) {
-        Iterator termsIterator = terms.iterator();
-        while (termsIterator.hasNext()) {
-            Term t = (Term) termsIterator.next();
-
-            if (attributeKey.equals("type") &&
-                    t.getType().equals(attributeValue)) {
-                return t.getValue();
-            } else if (attributeKey.equals("point") &&
-                    t.getPoint() != null &&
-                    t.getPoint().equals(attributeValue)) {
-                return t.getValue();
-            }
-        }
-        return null;
     }
 
 

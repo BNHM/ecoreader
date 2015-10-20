@@ -132,11 +132,14 @@ public class sqlImporter {
     private void saveSection(mvzSection section) {
         PreparedStatement stmt = null;
         try {
-            String sql = "INSERT INTO section (volume_id, section_identifier, type, title, geographic, dateCreated, " +
-                    "sectionNumberAsString) VALUES ((Select volume_id from volume where filename = ?),?,?,?,?,?,?)";
+            String sql = "REPLACE INTO section " +
+                    "(volume_id, section_identifier, type, title, geographic, dateCreated, sectionNumberAsString,family_name,given_name) " +
+                    "VALUES ((Select volume_id from volume where filename = ?)," +
+                    "?,?,?,?,?,?,?,?)";
             stmt = conn.prepareStatement(sql);
-
+            System.out.println(notebook.getFilename());
             stmt.setString(1, notebook.getFilename());
+
             stmt.setString(2, section.getIdentifier());
             // TODO insert type
             stmt.setString(3, null);
@@ -145,8 +148,16 @@ public class sqlImporter {
 
             stmt.setInt(6, Integer.parseInt(section.getDateCreated()));
             stmt.setString(7, section.getSectionNumberAsString());
+            stmt.setString(8, section.getFamilyNameText());
+            stmt.setString(9, section.getNameText());
 
             stmt.execute();
+
+            // Cleanup pages that don't match sections
+            String delete = "delete from page where section_id not in (select section_id from section)";
+            PreparedStatement deleteStmt = conn.prepareStatement(delete);
+            deleteStmt.execute();
+
         } catch (Exception e) {
             throw new ServerErrorException(e);
         } finally {
@@ -171,7 +182,7 @@ public class sqlImporter {
 
             stmt.execute();
         } catch (SQLException e) {
-            System.out.println(sql);
+            System.out.println(sql + ":" + section_identifier);
             throw new ServerErrorException(e);
         } finally {
             db.close(stmt, null);
@@ -198,6 +209,11 @@ public class sqlImporter {
             stmt.setString(8, notebook.getFilename());
 
             stmt.execute();
+
+            // Cleanup sections that don't match volumes
+            String delete = "delete from section where volume_id not in (select volume_id from volume)";
+            PreparedStatement deleteStmt = conn.prepareStatement(delete);
+            deleteStmt.execute();
         } catch (Exception e) {
             System.out.println(sql);
             e.printStackTrace();
@@ -467,6 +483,7 @@ public class sqlImporter {
      * @throws validationException
      */
     private String processFile(File f) throws validationException {
+        System.out.println();
         System.out.println("Processing: " + f.toString());
 
         Mods mods = new modsFactory("file:///" + f.getAbsolutePath()).getMods();
