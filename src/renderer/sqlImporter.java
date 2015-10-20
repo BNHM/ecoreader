@@ -211,9 +211,10 @@ public class sqlImporter {
             stmt.execute();
 
             // Cleanup sections that don't match volumes
-            String delete = "delete from section where volume_id not in (select volume_id from volume)";
+            String delete = "DELETE FROM section where volume_id not in (select volume_id from volume)";
             PreparedStatement deleteStmt = conn.prepareStatement(delete);
             deleteStmt.execute();
+
         } catch (Exception e) {
             System.out.println(sql);
             e.printStackTrace();
@@ -491,15 +492,17 @@ public class sqlImporter {
         String[] filepath = f.getAbsolutePath().split("/");
         String filename = filepath[filepath.length - 1];
 
-        if (notebookExists(filename)) {
-            /*try {
+       /*
+       // THE UPDATE SECTION DOESN'T WORK PROPERLY WHEN NEW SECTION METADATA NEEDS TO BE ADDED
+       if (notebookExists(filename)) {
+            try {
                 System.out.println("Updating: " + f.getAbsolutePath());
                 updateNotebook(mods);
             } catch (Exception e) {
                 System.out.println("ERROR UPDATING " + e);
                 e.printStackTrace();
-            } */
-        } else {
+            }
+        } else {  */
             try {
                 System.out.println("Importing: " + f.getAbsolutePath());
                 importNotebook(mods);
@@ -507,7 +510,7 @@ public class sqlImporter {
                 System.out.println("ERROR IMPORTING " + e);
                 e.printStackTrace();
             }
-        }
+        //}
         return filename;
     }
 }

@@ -320,53 +320,5 @@ public class ecoReader {
      */
     public static void main(String[] args) throws Exception {
 
-        sqlImporter sqlImporter = new sqlImporter();
-
-        /*
-        // Bulk importer
-        File directory = new File("docs/mvz/mods");
-        File[] files = directory.listFiles();
-        for (int i = 0; i < files.length; i++) {
-            String filePath = files[i].getAbsolutePath();
-            System.out.print("Processing " + filePath);
-            try {
-                sqlImporter.importNotebook(new modsFactory("file:" + filePath).getMods());
-            } catch (Exception e) {
-                System.out.println ("   error:" + e.getMessage());
-            }
-        }
-        */
-
-
-        // Single test file to work with
-        // Later, we want to harvest any docs that appear in GitHub repository and put in Mysql database
-        String testFile = "file:docs/mvz/mods/httpweb.corral.tacc.utexas.eduMVZfieldnotesAlexanderAMv496-mods.xml";
-        testFile = "file:docs/mvz/mods/httpweb.corral.tacc.utexas.eduMVZfieldnotesBrodeJSv547-mods.xml";
-        testFile = "file:docs/mvz/httpweb.corral.tacc.utexas.eduMVZfieldnotesBorellAv540-mods.xml";
-        testFile = "file:docs/mvz/httpweb.corral.tacc.utexas.eduMVZfieldnotesAlexanderAMv497-mods.xml";
-
-        System.out.print("Processing " + testFile);
-
-        // Create mods object to hold MODS data
-        Mods mods = new modsFactory(testFile).getMods();
-
-//         Create an instance of printer with MODS object
-        jsonPrinter printer = new jsonPrinter(mods, "|");
-
-        // Get output in a particular format... this can be any type of format defined in the printer object
-        //System.out.println( printer.printNotebookMetadata());
-
-        //System.out.println( printer.printAllNotebookMetadata());
-        try {
-            sqlImporter.importNotebook(mods);
-        } catch (Exception e) {
-            e.printStackTrace();
-            throw new Exception(e);
-        }
-        System.out.println();
-
-        ecoReader er = new ecoReader();
-        //System.out.println(er.getVolumes("Brode","J. Stanley", null, false, 0, 1909, 0));
-
     }
 }
