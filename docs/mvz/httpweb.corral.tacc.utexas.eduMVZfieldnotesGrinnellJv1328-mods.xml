@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<mods:mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mods:titleInfo>
+        <mods:title>Field Notes: Grinnell J. 1926-27, v1328</mods:title>
+    </mods:titleInfo>
+    <mods:language>
+        <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+        <mods:languageTerm type="text">English</mods:languageTerm>
+    </mods:language>
+    <mods:originInfo>
+        <mods:dateCreated>1926-05-18/1927-12-31</mods:dateCreated>
+        <mods:dateCreated point="start">1926</mods:dateCreated>
+        <mods:dateCreated point="end">1927</mods:dateCreated>
+    </mods:originInfo>
+    <mods:name type="personal" authority="LCHS">
+        <mods:role>
+            <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+            <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+        </mods:role>
+        <mods:namePart type="family">Grinnell</mods:namePart>
+        <mods:namePart type="given">Joseph</mods:namePart>
+        <mods:namePart type="date">1877-1939</mods:namePart>
+        <mods:displayForm>Grinnell, Joseph, 1877-1939</mods:displayForm>
+    </mods:name>
+    <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellL/v1328</mods:identifier>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 1: Napa, Lake and Mendocino Cos., Calif. Eastern Trip 1926</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1926-05-18/1926-05-19</mods:dateCreated>
+            <mods:dateCreated point="start">1926</mods:dateCreated>
+            <mods:dateCreated point="end">1926</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Grinnell</mods:namePart>
+            <mods:namePart type="given">Joseph</mods:namePart>
+            <mods:namePart type="date">1877-1939</mods:namePart>
+            <mods:displayForm>Grinnell, Joseph, 1877-1939</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>26 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellL/v1328_s1</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 2: Lassen Section, Calif. 1927 (May-June)</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1927-05-07/1927-06-19</mods:dateCreated>
+            <mods:dateCreated point="start">1927</mods:dateCreated>
+            <mods:dateCreated point="end">1927</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Grinnell</mods:namePart>
+            <mods:namePart type="given">Joseph</mods:namePart>
+            <mods:namePart type="date">1877-1939</mods:namePart>
+            <mods:displayForm>Grinnell, Joseph, 1877-1939</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>77 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellL/v1328_s2</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 3: Contra Costa Co., Calif. Yosemite, Calif. 1927</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1927-08-28/1927-08-28</mods:dateCreated>
+            <mods:dateCreated point="start">1927</mods:dateCreated>
+            <mods:dateCreated point="end">1927</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Grinnell</mods:namePart>
+            <mods:namePart type="given">Joseph</mods:namePart>
+            <mods:namePart type="date">1877-1939</mods:namePart>
+            <mods:displayForm>Grinnell, Joseph, 1877-1939</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>13 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellL/v1328_s3</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 4: Lassen Section, Calif. 1927 (Dec.)</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1927-12-18/1927-12-31</mods:dateCreated>
+            <mods:dateCreated point="start">1927</mods:dateCreated>
+            <mods:dateCreated point="end">1927</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Grinnell</mods:namePart>
+            <mods:namePart type="given">Joseph</mods:namePart>
+            <mods:namePart type="date">1877-1939</mods:namePart>
+            <mods:displayForm>Grinnell, Joseph, 1877-1939</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>45 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellL/v1328_s4</mods:identifier>
+    </mods:relatedItem>
+</mods:mods>

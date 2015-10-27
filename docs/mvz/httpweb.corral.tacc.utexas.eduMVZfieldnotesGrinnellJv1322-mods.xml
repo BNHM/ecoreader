@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<mods:mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mods:titleInfo>
+        <mods:title>Field Notes: Grinnell J. 1918-19, v1322</mods:title>
+    </mods:titleInfo>
+    <mods:language>
+        <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+        <mods:languageTerm type="text">English</mods:languageTerm>
+    </mods:language>
+    <mods:originInfo>
+        <mods:dateCreated>1918-05-12/1919-11-21</mods:dateCreated>
+        <mods:dateCreated point="start">1918</mods:dateCreated>
+        <mods:dateCreated point="end">1919</mods:dateCreated>
+    </mods:originInfo>
+    <mods:name type="personal" authority="LCHS">
+        <mods:role>
+            <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+            <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+        </mods:role>
+        <mods:namePart type="family">Grinnell</mods:namePart>
+        <mods:namePart type="given">Joseph</mods:namePart>
+        <mods:namePart type="date">1877-1939</mods:namePart>
+        <mods:displayForm>Grinnell, Joseph, 1877-1939</mods:displayForm>
+    </mods:name>
+    <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellL/v1322</mods:identifier>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 1: Siskiyou trip, Calif. 1918 (part)</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1918-05-12/1918-05-22</mods:dateCreated>
+            <mods:dateCreated point="start">1918</mods:dateCreated>
+            <mods:dateCreated point="end">1918</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Grinnell</mods:namePart>
+            <mods:namePart type="given">Joseph</mods:namePart>
+            <mods:namePart type="date">1877-1939</mods:namePart>
+            <mods:displayForm>Grinnell, Joseph, 1877-1939</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>32 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellL/v1322_s1</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 2: Alameda and Marin cos., Calif. 1918</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1918-06-02/1918-06-21</mods:dateCreated>
+            <mods:dateCreated point="start">1918</mods:dateCreated>
+            <mods:dateCreated point="end">1918</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Grinnell</mods:namePart>
+            <mods:namePart type="given">Joseph</mods:namePart>
+            <mods:namePart type="date">1877-1939</mods:namePart>
+            <mods:displayForm>Grinnell, Joseph, 1877-1939</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>10 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellL/v1322_s2</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 3: Siskiyou trip (Yreka), Calif. 1918 (part)</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1918-06-23/1918-06-25</mods:dateCreated>
+            <mods:dateCreated point="start">1918</mods:dateCreated>
+            <mods:dateCreated point="end">1918</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Grinnell</mods:namePart>
+            <mods:namePart type="given">Joseph</mods:namePart>
+            <mods:namePart type="date">1877-1939</mods:namePart>
+            <mods:displayForm>Grinnell, Joseph, 1877-1939</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>7 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellL/v1322_s3</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 4: Contra Costa Co., Calif. 1918</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1918-07-26/1918-08-15</mods:dateCreated>
+            <mods:dateCreated point="start">1918</mods:dateCreated>
+            <mods:dateCreated point="end">1918</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Grinnell</mods:namePart>
+            <mods:namePart type="given">Joseph</mods:namePart>
+            <mods:namePart type="date">1877-1939</mods:namePart>
+            <mods:displayForm>Grinnell, Joseph, 1877-1939</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>7 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellL/v1322_s4</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 5: Morro Bay, San Luis Obispo Co., Calif 1918</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1918-09-17/1918-10-25</mods:dateCreated>
+            <mods:dateCreated point="start">1918</mods:dateCreated>
+            <mods:dateCreated point="end">1918</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Grinnell</mods:namePart>
+            <mods:namePart type="given">Joseph</mods:namePart>
+            <mods:namePart type="date">1877-1939</mods:namePart>
+            <mods:displayForm>Grinnell, Joseph, 1877-1939</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>58 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellL/v1322_s5</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 6: Alameda and Contra Costa cos., Calif. 1919</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1919-04-06/1919-04-27</mods:dateCreated>
+            <mods:dateCreated point="start">1919</mods:dateCreated>
+            <mods:dateCreated point="end">1919</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Grinnell</mods:namePart>
+            <mods:namePart type="given">Joseph</mods:namePart>
+            <mods:namePart type="date">1877-1939</mods:namePart>
+            <mods:displayForm>Grinnell, Joseph, 1877-1939</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>9 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellL/v1322_s6</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 7: Yosemite region, Calif. (including Coulterville) 1919</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1919-05-05/1919-05-27</mods:dateCreated>
+            <mods:dateCreated point="start">1919</mods:dateCreated>
+            <mods:dateCreated point="end">1919</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Grinnell</mods:namePart>
+            <mods:namePart type="given">Joseph</mods:namePart>
+            <mods:namePart type="date">1877-1939</mods:namePart>
+            <mods:displayForm>Grinnell, Joseph, 1877-1939</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>92 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellL/v1322_s7</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 8: Alameda and Contra Costa cos., Calif. 1919</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1919-06-25/1919-08-17</mods:dateCreated>
+            <mods:dateCreated point="start">1919</mods:dateCreated>
+            <mods:dateCreated point="end">1919</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Grinnell</mods:namePart>
+            <mods:namePart type="given">Joseph</mods:namePart>
+            <mods:namePart type="date">1877-1939</mods:namePart>
+            <mods:displayForm>Grinnell, Joseph, 1877-1939</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>6 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellL/v1322_s8</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 9: Mendocino and Tulare cos., Calif. 1919</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1919-10-08/1919-11-21</mods:dateCreated>
+            <mods:dateCreated point="start">1919</mods:dateCreated>
+            <mods:dateCreated point="end">1919</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Grinnell</mods:namePart>
+            <mods:namePart type="given">Joseph</mods:namePart>
+            <mods:namePart type="date">1877-1939</mods:namePart>
+            <mods:displayForm>Grinnell, Joseph, 1877-1939</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>16 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GrinnellL/v1322_s9</mods:identifier>
+    </mods:relatedItem>
+</mods:mods>
