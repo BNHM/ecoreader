@@ -39,9 +39,10 @@ public class sections {
     @GET
     @Produces(MediaType.APPLICATION_JSON)
     @Path("/{section_id}/")
-    public Response getSectionPages(@PathParam("section_id") int section_id) {
+    public Response getSectionPages(@PathParam("section_id") int section_id,
+                                    @DefaultValue("false") @QueryParam("defaultToBig") boolean defaultToBig) {
         ecoReader er = new ecoReader();
-        String json = er.getSectionPages(section_id);
+        String json = er.getSectionPages(section_id, defaultToBig);
 
         try {
             rb = Response.ok(json);

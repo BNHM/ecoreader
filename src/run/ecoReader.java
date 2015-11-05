@@ -8,6 +8,7 @@ import org.json.simple.JSONObject;
 import renderer.jsonPrinter;
 import renderer.sqlImporter;
 import utils.ServerErrorException;
+import utils.SettingsManager;
 import utils.database;
 
 import java.io.File;
@@ -205,7 +206,14 @@ public class ecoReader {
         }
     }
 
-    public String getSectionPages(int section_id) {
+    public String getSectionPages(int section_id,
+                                  boolean defaultToBig) {
+
+
+        SettingsManager sm = SettingsManager.getInstance();
+        sm.loadProperties();
+        String imageURLRoot = sm.retrieveValue("imageURLRoot", "");
+
         PreparedStatement stmt = null;
         ResultSet rs = null;
         JSONArray pages = new JSONArray();
@@ -223,9 +231,14 @@ public class ecoReader {
                 String volume = file_name.split("_")[0];
 
                 JSONObject page = new JSONObject();
-                page.put("thumb", "images/" + volume + "/" + image.THUMB + "/" + file_name);
-                page.put("href", "images/" + volume + "/" + image.PAGE + "/" + file_name);
-                page.put("big", "images/" + volume + "/" + image.BIG + "/" + file_name);
+                page.put("thumb", imageURLRoot + "images/" + volume + "/" + image.THUMB + "/" + file_name);
+                if (defaultToBig) {
+                    page.put("page", imageURLRoot + "images/" + volume + "/" + image.PAGE + "/" + file_name);
+                    page.put("href", imageURLRoot + "images/" + volume + "/" + image.BIG + "/" + file_name);
+                } else {
+                    page.put("href", imageURLRoot + "images/" + volume + "/" + image.PAGE + "/" + file_name);
+                    page.put("big", imageURLRoot + "images/" + volume + "/" + image.BIG + "/" + file_name);
+                }
                 page.put("high_res", rs.getString("page_identifier"));
                 page.put("title", "page: " + rs.getInt("page_number"));
 
