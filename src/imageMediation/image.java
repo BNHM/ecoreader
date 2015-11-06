@@ -33,7 +33,7 @@ public class image {
     public static int PAGE = 600;
     public static int BIG = 1200;
 
-    public String imageDirectory;
+    public static String imageDirectory;
     public static String format = "png";
 
     private boolean exists = false;
