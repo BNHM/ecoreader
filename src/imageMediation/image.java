@@ -4,6 +4,7 @@ import com.sun.media.jai.codec.FileSeekableStream;
 import com.sun.media.jai.codec.TIFFDecodeParam;
 import modsDigester.mvzTaccPage;
 import org.apache.commons.io.FileUtils;
+import utils.SettingsManager;
 
 import javax.imageio.ImageIO;
 import javax.media.jai.JAI;
@@ -32,10 +33,10 @@ public class image {
     public static int PAGE = 600;
     public static int BIG = 1200;
 
-    public static String imageDirectory = "images";
+    public String imageDirectory;
     public static String format = "png";
 
-    private  boolean exists = false;
+    private boolean exists = false;
 
     /**
      * Construct the image class with an individual page
@@ -43,6 +44,10 @@ public class image {
      * @param page
      */
     public image(mvzTaccPage page) throws Exception {
+        SettingsManager sm = SettingsManager.getInstance();
+        sm.loadProperties();
+        this.imageDirectory = sm.retrieveValue("imageFilePath");
+
         this.page = page;
         volume = page.getVolume();
 
@@ -94,11 +99,13 @@ public class image {
 
     /**
      * Tells us if the image exists in the local file system
+     *
      * @return
      */
     public boolean getExists() {
         return exists;
     }
+
     public void writeAllScales() {
         writeNewSize(THUMB);
         writeNewSize(BIG);
