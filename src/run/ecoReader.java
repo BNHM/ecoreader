@@ -90,8 +90,9 @@ public class ecoReader {
                 }
             }
 
+            // Query based on section title
             if (section_title != null && !section_title.isEmpty()) {
-                sql.append("\n\tAND Exists (SELECT * from section WHERE title = ? AND section.volume_id = volume.volume_id)");
+                sql.append("\n\tAND s.title like concat('%',?,'%')");
                 paramSet++;
             }
 
@@ -113,7 +114,7 @@ public class ecoReader {
 
             // Grouping by the volume_id removes duplicate records since we don't want every section associated with this
             // author in most cases, we only want to get distinct volumes
-            sql.append("\nGROUP BY volume_id");
+            sql.append("\nGROUP BY v.volume_id");
 
             // DEBUG
             sql.append(" LIMIT 10");
@@ -362,7 +363,7 @@ public class ecoReader {
        */
 
         //String results = e.getVolumes("Alexander","Annie Montague",null,true,0,0,0);//?begin_date=&end_date=&section_title=&volume_id=")
-        String results = e.getVolumes(null, null, null, true, 500, 0, 0);//?begin_date=&end_date=&section_title=&volume_id=")
+        String results = e.getVolumes(null, null, "Bernardino", true, 0, 0, 0);//?begin_date=&end_date=&section_title=&volume_id=")
         System.out.println(results);
     }
 }
