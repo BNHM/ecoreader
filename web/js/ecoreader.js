@@ -20,12 +20,12 @@ function populateAuthors() {
 
 function populateVolumes() {
     theUrl = "rest/volumes/";
-    if ($("#authors").val().length <= 0) {
+    /*if ($("#authors").val().length <= 0) {
         $("#author_combobox").addClass("has-error");
         return;
     } else {
         $("#author_combobox").removeClass("has-error");
-    }
+    }  */
     $.getJSON( theUrl + $("#authors").val() + "?" + $("form").serialize(), function(data) {
         var list_group_tpl = "<ul class='list-group'>{list}</ul>";
         var list_heading_tpl = "<h4 class='list-group-heading'>{vol_title}</h4>";

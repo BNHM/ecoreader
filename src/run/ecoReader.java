@@ -70,47 +70,64 @@ public class ecoReader {
 
         try {
             int paramSet = 0;
-            StringBuilder sql = new StringBuilder("SELECT title, volume_id FROM volume WHERE ");
-
-            if (familyName.equalsIgnoreCase("null")) {
-                sql.append("family_name IS NULL AND ");
-            } else {
-                sql.append("family_name = ? AND ");
-                paramSet++;
+            StringBuilder sql = new StringBuilder("SELECT\n\tv.title, v.volume_id\nFROM\n\tvolume v, section s");
+            sql.append("\nWHERE v.volume_id = s.volume_id");
+            if (familyName != null) {
+                if (familyName.equalsIgnoreCase("null")) {
+                    sql.append("\n\tAND s.family_name IS NULL ");
+                } else {
+                    sql.append("\n\tAND s.family_name = ? ");
+                    paramSet++;
+                }
             }
 
-            if (givenName.equalsIgnoreCase("null")) {
-                sql.append("given_name IS NULL ");
-            } else {
-                sql.append("given_name = ? ");
-                paramSet++;
+            if (givenName != null) {
+                if (givenName.equalsIgnoreCase("null")) {
+                    sql.append("\n\tAND s.given_name IS NULL");
+                } else {
+                    sql.append("\n\tAND s.given_name = ?");
+                    paramSet++;
+                }
             }
 
             if (section_title != null && !section_title.isEmpty()) {
-                sql.append("AND Exists (SELECT * from section WHERE title = ? AND section.volume_id = volume.volume_id)");
+                sql.append("\n\tAND Exists (SELECT * from section WHERE title = ? AND section.volume_id = volume.volume_id)");
                 paramSet++;
             }
+
+            // Fetch volume_id not using "volume_id" in the database but the last part of the volume_identifier ('e.g. .../v500')
+            // But in this case only input the numeric portion of the volume identifier, e.g. "500.
             if (volume_id > 0) {
-                sql.append(" AND volume_id = ?");
+                sql.append("\n\tAND v.volume_identifier like concat('%/v',?)");
                 paramSet++;
             }
             if (begin_date > 0) {
-                sql.append(" AND startDate >= ?");
+                sql.append("\n\tAND s.dateCreated >= ?");
                 paramSet++;
             }
             if (end_date > 0) {
-                sql.append(" AND endDate <= ?");
+                sql.append("\n\tAND s.dateCreated <= ?");
                 paramSet++;
             }
+
+
+            // Grouping by the volume_id removes duplicate records since we don't want every section associated with this
+            // author in most cases, we only want to get distinct volumes
+            sql.append("\nGROUP BY volume_id");
+
+            // DEBUG
+            sql.append(" LIMIT 10");
+            System.out.println(sql.toString());
 
             stmt = conn.prepareStatement(sql.toString());
             int curr = 1;
 
-            if (!familyName.equalsIgnoreCase("null")) {
+
+            if (familyName != null && !familyName.equalsIgnoreCase("null")) {
                 stmt.setString(curr, familyName);
                 curr++;
             }
-            if (!givenName.equalsIgnoreCase("null")) {
+            if (givenName != null && !givenName.equalsIgnoreCase("null")) {
                 stmt.setString(curr, givenName);
                 curr++;
             }
@@ -332,6 +349,20 @@ public class ecoReader {
      * @param args
      */
     public static void main(String[] args) throws Exception {
+        ecoReader e = new ecoReader();
 
+       /*
+       String familyName,
+       String givenName,
+       String section_title,
+       boolean scanned_only,
+       int volume_id,
+       int begin_date,
+       int end_date
+       */
+
+        //String results = e.getVolumes("Alexander","Annie Montague",null,true,0,0,0);//?begin_date=&end_date=&section_title=&volume_id=")
+        String results = e.getVolumes(null, null, null, true, 500, 0, 0);//?begin_date=&end_date=&section_title=&volume_id=")
+        System.out.println(results);
     }
 }
