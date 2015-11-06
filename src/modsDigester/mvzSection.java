@@ -135,7 +135,7 @@ public class mvzSection implements sectionMetadata {
         Document doc = null;
         try {
             if (urlString.contains("http")) {
-                doc = Jsoup.connect(urlString).timeout(10000).get();
+                doc = Jsoup.connect(urlString).timeout(60000).get();
                 for (Element file : doc.select("td a")) {
                     String filename = file.attr("href");
                     if (filename.contains("tif") || filename.contains("TIF")) {
@@ -154,7 +154,7 @@ public class mvzSection implements sectionMetadata {
             }
         } catch (IOException e) {
             System.out.print("-");
-            //System.out.println("   404:" + urlString);
+   //         System.out.println("   404:" + urlString);
         }
 
     }

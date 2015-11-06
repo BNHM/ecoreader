@@ -61,8 +61,26 @@ public class ecoReader {
         return res.toJSONString();
     }
 
-    public String getVolumes(String familyName, String givenName, String section_title, boolean scanned_only, int volume_id,
-                             int begin_date, int end_date) {
+    /**
+     * Get Volumes... these queries work closely with the section table, querying information as author, date, etc...
+     * from the section table itself and then returning the enclosing volume information.
+     * @param familyName
+     * @param givenName
+     * @param section_title
+     * @param scanned_only
+     * @param volume_id
+     * @param begin_date
+     * @param end_date
+     * @return
+     */
+    public String getVolumes(
+            String familyName,
+            String givenName,
+            String section_title,
+            boolean scanned_only,
+            int volume_id,
+            int begin_date,
+            int end_date) {
         PreparedStatement stmt = null;
         ResultSet rs = null;
 
@@ -98,10 +116,13 @@ public class ecoReader {
 
             // Fetch volume_id not using "volume_id" in the database but the last part of the volume_identifier ('e.g. .../v500')
             // But in this case only input the numeric portion of the volume identifier, e.g. "500.
+            // 0 means no volume_id
             if (volume_id > 0) {
                 sql.append("\n\tAND v.volume_identifier like concat('%/v',?)");
                 paramSet++;
             }
+
+            // Queries based on date-- 0 means no date
             if (begin_date > 0) {
                 sql.append("\n\tAND s.dateCreated >= ?");
                 paramSet++;
@@ -110,7 +131,6 @@ public class ecoReader {
                 sql.append("\n\tAND s.dateCreated <= ?");
                 paramSet++;
             }
-
 
             // Grouping by the volume_id removes duplicate records since we don't want every section associated with this
             // author in most cases, we only want to get distinct volumes
