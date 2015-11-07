@@ -18,5 +18,5 @@ The basic workflow in ecoReader consists of:
 
 5. Publish data to BHL periodically.
      
-_ecoReader_ replaces the "BSCIT MVZ Field Notebook" website. This first iteration is funded through the [MVZ 'Hidden Collections' CLIR grant ](http://www.clir.org/hiddencollections/awards/for-2011).
+_ecoReader_ replaces the "BSCIT MVZ Archival Field Notebooks" website. This first iteration is funded through the [MVZ 'Hidden Collections' CLIR grant ](http://www.clir.org/hiddencollections/awards/for-2011).
 
