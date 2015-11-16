@@ -42,7 +42,7 @@ public class ecoReader {
         JSONArray authors = new JSONArray();
 
         try {
-            String sql = "SELECT `given_name`, `family_name` FROM volume GROUP BY `family_name`";
+            String sql = "SELECT `given_name`, `family_name` FROM section GROUP BY `family_name`,`given_name`";
             stmt = conn.prepareStatement(sql);
 
             rs = stmt.executeQuery();
@@ -381,9 +381,9 @@ public class ecoReader {
        int begin_date,
        int end_date
        */
-
+        System.out.println(e.getAuthors());
         //String results = e.getVolumes("Alexander","Annie Montague",null,true,0,0,0);//?begin_date=&end_date=&section_title=&volume_id=")
-        String results = e.getVolumes(null, null, "Bernardino", true, 0, 0, 0);//?begin_date=&end_date=&section_title=&volume_id=")
-        System.out.println(results);
+        //String results = e.getVolumes(null, null, "Bernardino", true, 0, 0, 0);//?begin_date=&end_date=&section_title=&volume_id=")
+        //System.out.println(results);
     }
 }
