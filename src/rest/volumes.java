@@ -49,14 +49,18 @@ public class volumes {
         ecoReader er = new ecoReader();
 
         // parse (or not) author name
-        String names[] =null;
+        String familyName = "";
+        String givenName = "";
         if (author !=null && !author.trim().equals("")) {
-            names = author.split(",");
+            String[] names = author.split(",");
+            familyName = names[0].trim();
+            givenName = names[1].trim();
         } else {
-            names[0] = null; names[1] = null;
+            familyName = null;
+            givenName = null;
         }
 
-        String json = er.getVolumes(names[0].trim(), names[1].trim(), section_title, scanned_only, volume_id, begin_date, end_date);
+        String json = er.getVolumes(familyName, givenName, section_title, scanned_only, volume_id, begin_date, end_date);
 
         try {
             rb = Response.ok(json);
