@@ -10,7 +10,6 @@
              here.  For any inquiries or issues contact <b>mvzarchives@berkeley.edu</b>.
         </p>
 
-        <form class="form-inline my-form" >
 
         <div class="form-horizontal my-form">
           <div class="form-group form-group-sm" id="author_row">
@@ -26,6 +25,8 @@
           <div class="col-md-1"><input type="button" value="Submit" class="btn btn-default btn-sm btn-block"></div>
           </div>
         </div>
+
+        <form class="form-inline my-form" >
 
         <div class="toggle-content" id="query_toggle">
           <div class="form-group form-group-sm">
