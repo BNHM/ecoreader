@@ -70,7 +70,9 @@ public class importer {
             // import, update, and remove the appropriate notebooks
             try {
                 // for testing
-                System.out.println("the modified url being sent: " + modified.get(0));
+                if (modified.size() > 0) {
+                    System.out.println("the modified url being sent: " + modified.get(0));
+                }
 
                 sqlImporter.importNotebooks(added);
                 sqlImporter.updateNotebooks(modified);
