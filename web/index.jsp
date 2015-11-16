@@ -23,6 +23,8 @@
             <button class="btn btn-default btn-sm" type="button" onclick="toggleQuery();">+</button>
           </div>
           <div class="col-md-1"><input type="button" value="Submit" class="btn btn-default btn-sm btn-block"></div>
+          <div class="col-md-1"><input type="button" value="Reset" class="btn btn-default btn-sm btn-block"></div>
+
           </div>
         </div>
 
@@ -63,8 +65,11 @@
 <script>
     $(document).ready(function() {
         populateAuthors();
-        $("input[type=button]").click(function() {
+        $('input[type=button][value="Submit"]').click(function() {
              populateVolumes();
+        });
+        $('input[type=button][value="Reset"]').click(function() {
+            location.reload();
         });
     });
 </script>
