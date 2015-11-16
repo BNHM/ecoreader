@@ -10,6 +10,8 @@
              here.  For any inquiries or issues contact <b>mvzarchives@berkeley.edu</b>.
         </p>
 
+        <form class="form-inline my-form" >
+
         <div class="form-horizontal my-form">
           <div class="form-group form-group-sm" id="author_row">
             <label for="author" class="col-md-2 control-label">Author Name</label>
@@ -25,7 +27,6 @@
           </div>
         </div>
 
-        <form class="form-inline my-form" >
         <div class="toggle-content" id="query_toggle">
           <div class="form-group form-group-sm">
             <label for="begin_date" class="control-label">Year Between</label>
