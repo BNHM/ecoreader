@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<mods:mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mods:titleInfo>
+        <mods:title>Field Notes: Miller A.H. 1959-65, Captive Experiments Berkeley, (also H.J. Peeters 1961-62), v1497</mods:title>
+    </mods:titleInfo>
+    <mods:language>
+        <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+        <mods:languageTerm type="text">English</mods:languageTerm>
+    </mods:language>
+    <mods:originInfo>
+        <mods:dateCreated>1959-05-07/1965-09-26</mods:dateCreated>
+        <mods:dateCreated point="start">1959</mods:dateCreated>
+        <mods:dateCreated point="end">1965</mods:dateCreated>
+    </mods:originInfo>
+    <mods:name type="personal" authority="ingest">
+        <mods:role>
+            <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+            <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+        </mods:role>
+        <mods:namePart type="family">Miller</mods:namePart>
+        <mods:namePart type="given">Alden H.</mods:namePart>
+        <mods:displayForm>Alden H. Miller,  (Alden Holmes), 1906-1965</mods:displayForm>
+    </mods:name>
+    <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/MillerAH/v1497</mods:identifier>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Miller, Alden H. Berkeley-Behavior Station 1959-1965 Captive Zonotrichia capensis Captive Junco insularis</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1959-05-07/1965-09-26</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="ingest">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Miller</mods:namePart>
+            <mods:namePart type="given">Alden H.</mods:namePart>
+            <mods:displayForm>Alden H. Miller,  (Alden Holmes), 1906-1965</mods:displayForm>
+        </mods:name>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Peeters</mods:namePart>
+            <mods:namePart type="given">Hans J.</mods:namePart>
+            <mods:displayForm>Peeters, Hans J.</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>224 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/MillerAH/v1497_s1</mods:identifier>
+    </mods:relatedItem>
+</mods:mods>

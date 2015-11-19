@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<mods:mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mods:titleInfo>
+        <mods:title>Field Notes: Miller A.H. 1965, Captive Experiments Berkeley, (also R.B. Lynch 1965, W.D. Arvey 1965, D.R. Moore 1965-66), v1499</mods:title>
+    </mods:titleInfo>
+    <mods:language>
+        <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+        <mods:languageTerm type="text">English</mods:languageTerm>
+    </mods:language>
+    <mods:originInfo>
+        <mods:dateCreated>1965-06-10/1966-01-24</mods:dateCreated>
+        <mods:dateCreated point="start">1965</mods:dateCreated>
+        <mods:dateCreated point="end">1966</mods:dateCreated>
+    </mods:originInfo>
+    <mods:name type="personal" authority="ingest">
+        <mods:role>
+            <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+            <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+        </mods:role>
+        <mods:namePart type="family">Miller</mods:namePart>
+        <mods:namePart type="given">Alden H.</mods:namePart>
+        <mods:displayForm>Alden H. Miller,  (Alden Holmes), 1906-1965</mods:displayForm>
+    </mods:name>
+    <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/MillerAH/v1499</mods:identifier>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Miller, A.H. 1965 Captive Zonotrichia (R.B. Lynch) W.D. Arvey, R.D. Moore</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1965-06-10/1966-01-24</mods:dateCreated>
+            <mods:dateCreated point="start">1965</mods:dateCreated>
+            <mods:dateCreated point="end">1966</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="ingest">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Miller</mods:namePart>
+            <mods:namePart type="given">Alden H.</mods:namePart>
+            <mods:displayForm>Alden H. Miller,  (Alden Holmes), 1906-1965</mods:displayForm>
+        </mods:name>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Arvey</mods:namePart>
+            <mods:namePart type="given">William D.</mods:namePart>
+            <mods:displayForm>Arvey, William D.</mods:displayForm>
+        </mods:name>
+        <mods:name type="personal" authority="local">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Lynch</mods:namePart>
+            <mods:namePart type="given">R.B.</mods:namePart>
+            <mods:displayForm>Lynch, R.B.</mods:displayForm>
+        </mods:name>
+        <mods:name type="personal" authority="local">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Moore</mods:namePart>
+            <mods:namePart type="given">Robert D.</mods:namePart>
+            <mods:displayForm>Moore, Robert D.</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>26 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/MillerAH/v1499_s1</mods:identifier>
+    </mods:relatedItem>
+</mods:mods>

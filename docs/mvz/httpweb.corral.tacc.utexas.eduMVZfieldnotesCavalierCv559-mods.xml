@@ -24,7 +24,7 @@
     <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/CavalierC_v559</mods:identifier>
     <mods:relatedItem type="constituent">
         <mods:titleInfo>
-            <mods:title>Section 1: Catalogue: California, Costa Rice, Panama</mods:title>
+            <mods:title>Section 1: Catalogue: California, Costa Rica, Panama</mods:title>
         </mods:titleInfo>
         <mods:language>
             <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>

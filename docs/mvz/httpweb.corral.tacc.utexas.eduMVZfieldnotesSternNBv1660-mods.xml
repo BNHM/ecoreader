@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<mods:mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mods:titleInfo>
+        <mods:title>Field Notes: Stern N.B. 1910-12, Stone G.E. 1913</mods:title>
+    </mods:titleInfo>
+    <mods:language>
+        <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+        <mods:languageTerm type="text">English</mods:languageTerm>
+    </mods:language>
+    <mods:originInfo>
+        <mods:dateCreated>1910-05-18/1913-09-10</mods:dateCreated>
+        <mods:dateCreated point="start">1910</mods:dateCreated>
+        <mods:dateCreated point="end">1913</mods:dateCreated>
+    </mods:originInfo>
+    <mods:name type="personal" authority="local">
+        <mods:role>
+            <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+            <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+        </mods:role>
+        <mods:namePart type="family">Stern</mods:namePart>
+        <mods:namePart type="given">Norman B.</mods:namePart>
+        <mods:displayForm>Stern, Norman B.</mods:displayForm>
+    </mods:name>
+    <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/SternNB/v1660</mods:identifier>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Warner Mts., in Modoc and Lassen Cos., Calif. 1910 Stern, N.B.</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1910-05-18/1910-08-15</mods:dateCreated>
+            <mods:dateCreated point="start">1910</mods:dateCreated>
+            <mods:dateCreated point="end">1910</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="local">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Stern</mods:namePart>
+            <mods:namePart type="given">Norman B.</mods:namePart>
+            <mods:displayForm>Stern, Norman B.</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>29 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/SternNB/v1660_s1</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Mount Whitney region, California 1911 Stern, N.B.</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1911-06-11/1911-08-25</mods:dateCreated>
+            <mods:dateCreated point="start">1911</mods:dateCreated>
+            <mods:dateCreated point="end">1911</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="local">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Stern</mods:namePart>
+            <mods:namePart type="given">Norman B.</mods:namePart>
+            <mods:displayForm>Stern, Norman B.</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>32 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/SternNB/v1660_s2</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Owens Valley, Inyo and Mono Cos., Calif. 1912 Stern, N.B.</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1912-05-31/1912-06-11</mods:dateCreated>
+            <mods:dateCreated point="start">1912</mods:dateCreated>
+            <mods:dateCreated point="end">1912</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="local">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Stern</mods:namePart>
+            <mods:namePart type="given">Norman B.</mods:namePart>
+            <mods:displayForm>Stern, Norman B.</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>46 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/SternNB/v1660_s3</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>North Coast Counties, Calif., in Tehama and Mendocino Cos. 1913 Stone, G.E.</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1913-08-05/1913-09-10</mods:dateCreated>
+            <mods:dateCreated point="start">1913</mods:dateCreated>
+            <mods:dateCreated point="end">1913</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="local">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Stone</mods:namePart>
+            <mods:namePart type="given">George E.</mods:namePart>
+            <mods:displayForm>Stone, George E.</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>53 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/SternNB/v1660_s4</mods:identifier>
+    </mods:relatedItem>
+</mods:mods>

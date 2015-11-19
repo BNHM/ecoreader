@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<mods:mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mods:titleInfo>
+        <mods:title>Field Notes: Shaffer B. and Paul Elias 1976-1977</mods:title>
+    </mods:titleInfo>
+    <mods:language>
+        <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+        <mods:languageTerm type="text">English</mods:languageTerm>
+    </mods:language>
+    <mods:originInfo>
+        <mods:dateCreated>1976-01-28/1977-07-14</mods:dateCreated>
+        <mods:dateCreated point="start">1976</mods:dateCreated>
+        <mods:dateCreated point="end">1977</mods:dateCreated>
+    </mods:originInfo>
+    <mods:name type="personal" authority="ingest">
+        <mods:role>
+            <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+            <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+        </mods:role>
+        <mods:namePart type="family">Shaffer</mods:namePart>
+        <mods:namePart type="given">H. Bradley</mods:namePart>
+        <mods:displayForm>Shaffer, H. Bradley,  (Howard Bradley), 1953-</mods:displayForm>
+    </mods:name>
+    <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/ShafferHB/v1609</mods:identifier>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Mexico: Mexico, Veracruz, Puebla, Oaxaca.</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1976-01-29/1976-02-18</mods:dateCreated>
+            <mods:dateCreated point="start">1976</mods:dateCreated>
+            <mods:dateCreated point="end">1976</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Elias</mods:namePart>
+            <mods:namePart type="given">Paul</mods:namePart>
+            <mods:displayForm>Elias, Paul</mods:displayForm>
+        </mods:name>
+        <mods:name type="personal" authority="ingest">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Shaffer</mods:namePart>
+            <mods:namePart type="given">H. Bradley</mods:namePart>
+            <mods:displayForm>Shaffer, H. Bradley,  (Howard Bradley), 1953-</mods:displayForm>
+        </mods:name>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/ShafferHB/v1609_s1</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Mexico: Mexico, Puebla, Veracruz.</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1976-01-28/1976-02-18</mods:dateCreated>
+            <mods:dateCreated point="start">1976</mods:dateCreated>
+            <mods:dateCreated point="end">1976</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Elias</mods:namePart>
+            <mods:namePart type="given">Paul</mods:namePart>
+            <mods:displayForm>Elias, Paul</mods:displayForm>
+        </mods:name>
+        <mods:name type="personal" authority="ingest">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Shaffer</mods:namePart>
+            <mods:namePart type="given">H. Bradley</mods:namePart>
+            <mods:displayForm>Shaffer, H. Bradley,  (Howard Bradley), 1953-</mods:displayForm>
+        </mods:name>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/ShafferHB/v1609_s2</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Costa Rica: Prov. San Jose, Limon, Heredia, Alajuela, Puntarenas.</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1976-07-15/1976-07-03</mods:dateCreated>
+            <mods:dateCreated point="start">1976</mods:dateCreated>
+            <mods:dateCreated point="end">1976</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Elias</mods:namePart>
+            <mods:namePart type="given">Paul</mods:namePart>
+            <mods:displayForm>Elias, Paul</mods:displayForm>
+        </mods:name>
+        <mods:name type="personal" authority="ingest">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Shaffer</mods:namePart>
+            <mods:namePart type="given">H. Bradley</mods:namePart>
+            <mods:displayForm>Shaffer, H. Bradley,  (Howard Bradley), 1953-</mods:displayForm>
+        </mods:name>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/ShafferHB/v1609_s3</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Costa Rica: San Jose, Limon, Puntarenas.</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1976-09-08/1976-09-22</mods:dateCreated>
+            <mods:dateCreated point="start">1976</mods:dateCreated>
+            <mods:dateCreated point="end">1976</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Elias</mods:namePart>
+            <mods:namePart type="given">Paul</mods:namePart>
+            <mods:displayForm>Elias, Paul</mods:displayForm>
+        </mods:name>
+        <mods:name type="personal" authority="ingest">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Shaffer</mods:namePart>
+            <mods:namePart type="given">H. Bradley</mods:namePart>
+            <mods:displayForm>Shaffer, H. Bradley,  (Howard Bradley), 1953-</mods:displayForm>
+        </mods:name>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/ShafferHB/v1609_s4</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Mexico: Chihuahua, Mexico, Oaxaca. Guatemala: Huehuetenango, San Marcos. #918-1462</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1977-06-17/1977-07-12</mods:dateCreated>
+            <mods:dateCreated point="start">1977</mods:dateCreated>
+            <mods:dateCreated point="end">1977</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Elias</mods:namePart>
+            <mods:namePart type="given">Paul</mods:namePart>
+            <mods:displayForm>Elias, Paul</mods:displayForm>
+        </mods:name>
+        <mods:name type="personal" authority="ingest">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Shaffer</mods:namePart>
+            <mods:namePart type="given">H. Bradley</mods:namePart>
+            <mods:displayForm>Shaffer, H. Bradley,  (Howard Bradley), 1953-</mods:displayForm>
+        </mods:name>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/ShafferHB/v1609_s5</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Mexico: Puebla. Guatemala: Huehuetenango.</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1976-06-15/1977-07-14</mods:dateCreated>
+            <mods:dateCreated point="start">1976</mods:dateCreated>
+            <mods:dateCreated point="end">1977</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Elias</mods:namePart>
+            <mods:namePart type="given">Paul</mods:namePart>
+            <mods:displayForm>Elias, Paul</mods:displayForm>
+        </mods:name>
+        <mods:name type="personal" authority="ingest">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Shaffer</mods:namePart>
+            <mods:namePart type="given">H. Bradley</mods:namePart>
+            <mods:displayForm>Shaffer, H. Bradley,  (Howard Bradley), 1953-</mods:displayForm>
+        </mods:name>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/ShafferHB/v1609_s6</mods:identifier>
+    </mods:relatedItem>
+</mods:mods>

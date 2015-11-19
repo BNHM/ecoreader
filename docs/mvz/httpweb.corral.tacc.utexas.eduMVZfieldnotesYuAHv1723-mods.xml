@@ -68,6 +68,24 @@
             <mods:namePart type="given">Alex H.</mods:namePart>
             <mods:displayForm>Yu, Alex H.</mods:displayForm>
         </mods:name>
+        <mods:subject authority="arctos">
+            <mods:geographic>Asia, Taiwan, Chiayi County, Taiwan</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>Asia, Taiwan, Green Island</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>Asia, Taiwan, Nantou</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>Asia, Taiwan, Tainan County, Taiwan</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>Asia, Taiwan, Taipei County, Taiwan</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>Asia, Taiwan, Taiwan</mods:geographic>
+        </mods:subject>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/YuAH/v1723_s1</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -92,6 +110,18 @@
             <mods:namePart type="given">Alex H.</mods:namePart>
             <mods:displayForm>Yu, Alex H.</mods:displayForm>
         </mods:name>
+        <mods:subject authority="arctos">
+            <mods:geographic>Asia, Taiwan, Yilan County, Taiwan</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Monterey County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Nevada County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Plumas County</mods:geographic>
+        </mods:subject>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/YuAH/v1723_s2</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -116,6 +146,21 @@
             <mods:namePart type="given">Alex H.</mods:namePart>
             <mods:displayForm>Yu, Alex H.</mods:displayForm>
         </mods:name>
+        <mods:subject authority="arctos">
+            <mods:geographic>Asia, Taiwan, Chiayi County, Taiwan</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>Asia, Taiwan, Kaohsiung County, Taiwan</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>Asia, Taiwan, Nantou</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>Asia, Taiwan, Taichung County, Taiwan</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>Asia, Taiwan, Taipei County, Taiwan</mods:geographic>
+        </mods:subject>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/YuAH/v1723_s3</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -140,6 +185,12 @@
             <mods:namePart type="given">Alex H.</mods:namePart>
             <mods:displayForm>Yu, Alex H.</mods:displayForm>
         </mods:name>
+        <mods:subject authority="arctos">
+            <mods:geographic>Asia, Taiwan, Taichung County, Taiwan</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Contra Costa County</mods:geographic>
+        </mods:subject>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/YuAH/v1723_s4</mods:identifier>
     </mods:relatedItem>
 </mods:mods>
