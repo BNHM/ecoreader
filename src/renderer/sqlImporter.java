@@ -3,6 +3,7 @@ package renderer;
 import modsDigester.Mods;
 import modsDigester.modsFactory;
 import modsDigester.mvzSection;
+import run.processImages;
 import utils.ServerErrorException;
 import utils.database;
 
@@ -76,8 +77,9 @@ public class sqlImporter {
      *
      * @param notebook
      */
-    public void importNotebook(NotebookMetadata notebook) throws validationException {
+    public void importNotebook(Mods notebook) throws validationException {
         this.notebook = notebook;
+        processImages imgProcessor = new processImages();
 
         if (validateNotebook(notebook)) {
             saveVolume();
@@ -94,6 +96,9 @@ public class sqlImporter {
             // verify that the section_identifiers in the db match the mods file. this method needs to be called
             // after all sections have already been added
             verifySections();
+
+            // fetch any images that still need to be fetched
+            imgProcessor.writeImagesForAllSections(notebook);
         } else {
             throw new validationException("One or more files did not process:\n" + errors.toString());
         }
