@@ -106,6 +106,9 @@ public class sqlImporter {
         //System.out.println("checking into notebook ");
         //System.out.println("\tfilename " + notebook.getFilename());
         ///System.out.println("\tidentifier " + notebook.getIdentifier());
+        if (!notebook.getIdentifier().matches("^.*/v[0-9]+$")) {
+            errors.append(notebook.getFilename() + " has an invalid Volume Identifier\n");
+        }
         if (notebook.getIdentifier() == null) {
             errors.append(notebook.getFilename() + " has no Volume Identifier\n");
         }
