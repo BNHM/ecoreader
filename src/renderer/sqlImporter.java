@@ -3,7 +3,7 @@ package renderer;
 import modsDigester.Mods;
 import modsDigester.modsFactory;
 import modsDigester.mvzSection;
-import run.processImages;
+import imageMediation.imageProcessor;
 import utils.ServerErrorException;
 import utils.database;
 
@@ -12,6 +12,8 @@ import java.sql.*;
 import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;
+import java.util.concurrent.ExecutorService;
+import java.util.concurrent.Executors;
 
 /**
  * class to import, update, and remove mods files from the db
@@ -22,6 +24,7 @@ public class sqlImporter {
     database db;
     private NotebookMetadata notebook;
     StringBuilder errors = new StringBuilder();
+    private static ExecutorService executorService = Executors.newFixedThreadPool(1);
 
 
     public sqlImporter() {
@@ -79,7 +82,7 @@ public class sqlImporter {
      */
     public void importNotebook(Mods notebook) throws validationException {
         this.notebook = notebook;
-        processImages imgProcessor = new processImages();
+        imageProcessor imageProcessor = new imageProcessor(notebook);
 
         if (validateNotebook(notebook)) {
             saveVolume();
@@ -98,9 +101,9 @@ public class sqlImporter {
             verifySections();
 
             // fetch any images that still need to be fetched
-            imgProcessor.writeImagesForAllSections(notebook);
+            executorService.submit(imageProcessor);
         } else {
-            throw new validationException("One or more files did not process:\n" + errors.toString());
+            throw new validationException("One or more files did not validate:\n" + errors.toString());
         }
     }
 
