@@ -38,16 +38,15 @@ public class importer {
         // there may be multiple commits so update the mods files for each commit individually
         for (Object c : commits) {
             JSONObject commit = (JSONObject) c;
-            List<String> added = new ArrayList<String>();
+            List<String> toImport = new ArrayList<String>();
             List<String> removed = new ArrayList<String>();
-            List<String> modified = new ArrayList<String>();
             String sha = (String) commit.get("id");
 
             for (Object f : (JSONArray) commit.get("added")) {
                 String file = (String) f;
 
                 if (file.startsWith(mods_dir) && file.endsWith("xml")) {
-                    added.add(repo_url + sha + "/" + file);
+                    toImport.add(repo_url + sha + "/" + file);
                 }
             }
 
@@ -55,7 +54,7 @@ public class importer {
                 String file = (String) f;
 
                 if (file.startsWith(mods_dir) && file.endsWith("xml")) {
-                    modified.add(repo_url + sha + "/" + file);
+                    toImport.add(repo_url + sha + "/" + file);
                 }
             }
 
@@ -70,13 +69,12 @@ public class importer {
             // import, update, and remove the appropriate notebooks
             try {
                 // for testing
-                if (modified.size() > 0) {
-                    System.out.println("the modified url being sent: " + modified.get(0));
-                }
+//                if (toImport.size() > 0) {
+//                    System.out.println("the modified url being sent: " + toImport.get(0));
+//                }
 
-                sqlImporter.importNotebooks(added);
-                sqlImporter.updateNotebooks(modified);
-                sqlImporter.removeNotebooks(removed);
+                sqlImporter.importNotebooks(toImport);
+                sqlImporter.removeNotebooksInList(removed);
             } catch (validationException e) {
                 throw new ServerErrorException(e);
             }

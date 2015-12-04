@@ -3,13 +3,17 @@ package renderer;
 import modsDigester.Mods;
 import modsDigester.modsFactory;
 import modsDigester.mvzSection;
+import imageMediation.imageProcessor;
 import utils.ServerErrorException;
 import utils.database;
 
 import java.io.File;
 import java.sql.*;
 import java.util.ArrayList;
+import java.util.LinkedList;
 import java.util.List;
+import java.util.concurrent.ExecutorService;
+import java.util.concurrent.Executors;
 
 /**
  * class to import, update, and remove mods files from the db
@@ -20,6 +24,7 @@ public class sqlImporter {
     database db;
     private NotebookMetadata notebook;
     StringBuilder errors = new StringBuilder();
+    private static ExecutorService executorService = Executors.newFixedThreadPool(1);
 
 
     public sqlImporter() {
@@ -47,7 +52,7 @@ public class sqlImporter {
     }
 
     /**
-     * given a list of mods files, import them into the db
+     * import or update a list of mods files
      *
      * @param files
      */
@@ -56,7 +61,6 @@ public class sqlImporter {
         for (String file : files) {
             // Create mods object to hold MODS data
             Mods mods = new modsFactory(file).getMods();
-
 
             try {
                 importNotebook(mods);
@@ -72,12 +76,13 @@ public class sqlImporter {
     }
 
     /**
-     * Import a given mods file into the db
+     * Import or update a given mods file
      *
      * @param notebook
      */
-    public void importNotebook(NotebookMetadata notebook) throws validationException {
+    public void importNotebook(Mods notebook) throws validationException {
         this.notebook = notebook;
+        imageProcessor imageProcessor = new imageProcessor(notebook);
 
         if (validateNotebook(notebook)) {
             saveVolume();
@@ -90,8 +95,15 @@ public class sqlImporter {
                     savePage(page, mvzSection.getIdentifier());
                 }
             }
+
+            // verify that the section_identifiers in the db match the mods file. this method needs to be called
+            // after all sections have already been added
+            verifySections();
+
+            // fetch any images that still need to be fetched
+            executorService.submit(imageProcessor);
         } else {
-            throw new validationException("One or more files did not process:\n" + errors.toString());
+            throw new validationException("One or more files did not validate:\n" + errors.toString());
         }
     }
 
@@ -102,6 +114,9 @@ public class sqlImporter {
         //System.out.println("checking into notebook ");
         //System.out.println("\tfilename " + notebook.getFilename());
         ///System.out.println("\tidentifier " + notebook.getIdentifier());
+        if (!notebook.getIdentifier().matches("^.*/v[0-9]+$")) {
+            errors.append(notebook.getFilename() + " has an invalid Volume Identifier\n");
+        }
         if (notebook.getIdentifier() == null) {
             errors.append(notebook.getFilename() + " has no Volume Identifier\n");
         }
@@ -132,10 +147,15 @@ public class sqlImporter {
     private void saveSection(mvzSection section) {
         PreparedStatement stmt = null;
         try {
-            String sql = "REPLACE INTO section " +
+            String sql = "INSERT INTO section " +
                     "(volume_id, section_identifier, type, title, geographic, dateCreated, sectionNumberAsString,family_name,given_name) " +
                     "VALUES ((Select volume_id from volume where filename = ?)," +
-                    "?,?,?,?,?,?,?,?)";
+                    "?,?,?,?,?,?,?,?) " +
+                    "ON DUPLICATE KEY UPDATE " +
+                    "volume_id = VALUES(volume_id), type = VALUES(type), title = VALUES(title), " +
+                    "geographic = VALUES(geographic), dateCreated = VALUES(dateCreated), sectionNumberAsString = VALUES(sectionNumberAsString), " +
+                    "family_name = VALUES(family_name), given_name = VALUES(given_name)";
+
             stmt = conn.prepareStatement(sql);
             System.out.println(notebook.getFilename());
             stmt.setString(1, notebook.getFilename());
@@ -152,16 +172,69 @@ public class sqlImporter {
             stmt.setString(9, section.getNameText());
 
             stmt.execute();
-
-            // Cleanup pages that don't match sections
-            String delete = "delete from page where section_id not in (select section_id from section)";
-            PreparedStatement deleteStmt = conn.prepareStatement(delete);
-            deleteStmt.execute();
-
         } catch (Exception e) {
             throw new ServerErrorException(e);
         } finally {
             db.close(stmt, null);
+        }
+    }
+
+    /**
+     * the method verifies that the sections in that db match the
+     * this method needs to be called after any new sections have already been inserted into the db
+     * @param
+     */
+    private void verifySections() {
+        PreparedStatement stmt = null;
+        ResultSet rs = null;
+        List<String> sections = new ArrayList<>();
+        try {
+            String sql = "SELECT section_identifier FROM section WHERE volume_id = (SELECT volume_id FROM volume WHERE volume_identifier = ?)";
+            stmt = conn.prepareStatement(sql);
+
+            stmt.setString(1, notebook.getIdentifier());
+
+            rs = stmt.executeQuery();
+
+            while (rs.next()) {
+                sections.add(rs.getString("section_identifier"));
+            }
+
+            // now that we have the sections from the db, we need to compare them to the mods file sections
+            LinkedList<sectionMetadata> notebookSectionsMetadata = notebook.getSections();
+            for (sectionMetadata sm: notebookSectionsMetadata) {
+                // remove the section_identifier from the sections list if we find it in the current mods file
+                if (sections.contains(sm.getIdentifier())) {
+                    sections.remove(sm.getIdentifier());
+                } else {
+                    // since this method is called after adding any new sections to the db, we'll throw an exception
+                    // if we find that the xml file contains a section not found in the db
+                    throw new ServerErrorException("section exists in xml file: " + notebook.getFilename() + " that was not found in the db");
+                }
+            }
+
+            if (sections.size() > 0) {
+                // the sections list is now a list of sections that are found in the db, but not in the current mods file
+                sql = "DELETE FROM section WHERE section_identifier IN (";
+                for (String s: sections) {
+                    sql += "?, ";
+                }
+                sql = sql.substring(0, sql.lastIndexOf(","));
+                sql += ")";
+
+                stmt = conn.prepareStatement(sql);
+
+                int i = 1;
+                for (String s: sections) {
+                    stmt.setString(i, s);
+                }
+                stmt.execute();
+            }
+
+        } catch (SQLException e) {
+            throw new ServerErrorException(e);
+        } finally {
+            db.close(stmt, rs);
         }
     }
 
@@ -170,12 +243,13 @@ public class sqlImporter {
         String sql = null;
         try {
             sql = "INSERT INTO page (section_id, page_number, page_identifier, type) VALUES ((SELECT section_id " +
-                    "FROM section WHERE section_identifier = ?),?,?,?)";
+                "FROM section WHERE section_identifier = ?),?,?,?) " +
+                "ON DUPLICATE KEY UPDATE " +
+                "section_id = VALUES(section_id), page_number = VALUES(page_number), type = VALUES(type)";
             stmt = conn.prepareStatement(sql);
 
             stmt.setString(1, section_identifier);
             stmt.setInt(2, page.getPageNumberAsInt());
-            // is this correct?
             stmt.setString(3, page.getFullPath());
             // TODO insert type
             stmt.setString(4, null);
@@ -193,8 +267,11 @@ public class sqlImporter {
         PreparedStatement stmt = null;
         String sql = null;
         try {
-            sql = "REPLACE INTO volume (volume_identifier, type, title, startDate, endDate, family_name, given_name, filename) VALUES (" +
-                    "?,?,?,?,?,?,?,?)";
+            sql = "INSERT INTO volume (volume_identifier, type, title, startDate, endDate, family_name, given_name, filename) VALUES (" +
+                "?,?,?,?,?,?,?,?) " +
+                "ON DUPLICATE KEY UPDATE " +
+                "type = VALUES(type), title = VALUES(title), startDate = VALUES(startDate), endDate = VALUES(endDate), " +
+                "family_name = VALUES(family_name), given_name = VALUES(given_name), filename = VALUES(filename)";
             stmt = conn.prepareStatement(sql);
 
             stmt.setString(1, notebook.getIdentifier());
@@ -209,11 +286,6 @@ public class sqlImporter {
             stmt.setString(8, notebook.getFilename());
 
             stmt.execute();
-
-            // Cleanup sections that don't match volumes
-            String delete = "DELETE FROM section where volume_id not in (select volume_id from volume)";
-            PreparedStatement deleteStmt = conn.prepareStatement(delete);
-            deleteStmt.execute();
 
         } catch (Exception e) {
             System.out.println(sql);
@@ -225,181 +297,33 @@ public class sqlImporter {
     }
 
     /**
-     * given a list of mods files, update the stored mods file
-     *
-     * @param files
+     * remove any notebooks in the list
+     * @param files list of files to be deleted
      */
-    public void updateNotebooks(List<String> files) throws validationException {
-        for (String file : files) {
-            System.out.println(file);
+    public void removeNotebooksInList(List<String> files) {
+        PreparedStatement stmt = null;
+        try {
+            String sql = "DELETE FROM volume WHERE filename IN (";
 
-            // Create mods object to hold MODS data
-            Mods mods = new modsFactory(file).getMods();
-
-            try {
-                updateNotebook(mods);
-            } catch (validationException e) {
-                // do nothing, i think i want to catch
-                //e.printStackTrace();
+            for (String file : files) {
+                sql += "?, ";
             }
-        }
-        if (!errors.toString().equals("")) {
-            throw new validationException(errors.toString());
-        }
+            sql = sql.substring(0, sql.lastIndexOf(","));
+            sql += ")";
 
-    }
+            stmt = conn.prepareStatement(sql);
 
-
-    private void updateNotebook(NotebookMetadata notebook) throws validationException {
-        this.notebook = notebook;
-
-
-        if (validateNotebook(notebook)) {
-            updateVolume();
-
-            for (sectionMetadata section : notebook.getSections()) {
-                mvzSection mvzSection = (mvzSection) section;
-                updateSection(mvzSection);
-
-                for (pageMetadata page : mvzSection.getPages()) {
-                    updatePage(page, mvzSection.getIdentifier());
-                }
+            int i = 1;
+            for (String file: files) {
+                stmt.setString(i, file);
+                i++;
             }
-        } else {
-            throw new validationException("One or more files did not process:\n" + errors.toString());
-        }
-    }
-
-    private void updateVolume() {
-        PreparedStatement stmt = null;
-        try {
-            String sql = "UPDATE volume SET volume_identifier = ?, type = ?, title = ?, startDate = ?, endDate = ?," +
-                    " family_name = ?, given_name = ? WHERE filename = ?";
-            stmt = conn.prepareStatement(sql);
-
-            stmt.setString(1, notebook.getIdentifier());
-            // TODO insert type
-            stmt.setString(2, null);
-            stmt.setString(3, notebook.getTitle());
-
-            stmt.setInt(4, Integer.parseInt(notebook.getDateStartText()));
-            stmt.setInt(5, Integer.parseInt(notebook.getDateEndText()));
-            stmt.setString(6, notebook.getFamilyNameText());
-            stmt.setString(7, notebook.getNameText());
-            stmt.setString(8, notebook.getFilename());
-
-            stmt.execute();
-        } catch (Exception e) {
-            throw new ServerErrorException(e);
-        } finally {
-            db.close(stmt, null);
-        }
-    }
-
-    private void updateSection(mvzSection section) {
-        PreparedStatement stmt = null;
-        try {
-            String sql = "UPDATE section SET section_identifier = ?, type = ?, title = ?, geographic = ?," +
-                    " dateCreated = ? WHERE volume_id = (Select volume_id from volume where filename = ?)" +
-                    " AND sectionNumberAsString = ? ";
-            stmt = conn.prepareStatement(sql);
-
-            stmt.setString(1, section.getIdentifier());
-            // TODO insert type
-            stmt.setString(2, null);
-            stmt.setString(3, section.getTitle());
-            stmt.setString(4, section.getGeographic());
-
-            stmt.setInt(5, Integer.parseInt(section.getDateCreated()));
-            stmt.setString(6, notebook.getFilename());
-            stmt.setString(7, section.getSectionNumberAsString());
-
-            stmt.execute();
-        } catch (Exception e) {
-            throw new ServerErrorException(e);
-        } finally {
-            db.close(stmt, null);
-        }
-    }
-
-
-    private void updatePage(pageMetadata page, String section_identifier) {
-        PreparedStatement stmt = null;
-        String sql = null;
-        try {
-            sql = "UPDATE page SET page_identifier = ?, type = ? WHERE section_id = (SELECT section_id " +
-                    "FROM section WHERE section_identifier = ?) AND page_number = ?";
-            stmt = conn.prepareStatement(sql);
-
-            // is this correct?
-            stmt.setString(1, page.getFullPath());
-            // TODO insert type
-            stmt.setString(2, null);
-            stmt.setString(3, section_identifier);
-            stmt.setInt(4, page.getPageNumberAsInt());
 
             stmt.execute();
         } catch (SQLException e) {
-            System.out.println(sql + page.getFullPath() + ";null;" + section_identifier + ";" + page.getPageNumberAsInt());
             throw new ServerErrorException(e);
         } finally {
             db.close(stmt, null);
-        }
-    }
-
-    /**
-     * given a list of mods files, delete them from the db
-     *
-     * @param files
-     */
-    public void removeNotebooks(List<String> files) {
-        for (String file : files) {
-            // Create mods object to hold MODS data
-            Mods mods = new modsFactory(file).getMods();
-
-            removeNotebook(mods);
-        }
-    }
-
-    private void removeNotebook(Mods mods) {
-        PreparedStatement stmt = null;
-        try {
-            String sql = "DELETE FROM volume WHERE filename = ?";
-            stmt = conn.prepareStatement(sql);
-
-            stmt.setString(1, mods.getFilename());
-            stmt.execute();
-        } catch (SQLException e) {
-            throw new ServerErrorException(e);
-        } finally {
-            db.close(stmt, null);
-        }
-    }
-
-    /**
-     * check if a notebook exists so we know if we need to import or update
-     *
-     * @param filename
-     *
-     * @return
-     */
-    private boolean notebookExists(String filename) {
-        PreparedStatement stmt = null;
-        ResultSet rs = null;
-        try {
-            String sql = "SELECT count(*) as count FROM volume WHERE filename = ?";
-
-            stmt = conn.prepareStatement(sql);
-            stmt.setString(1, filename);
-
-            rs = stmt.executeQuery();
-            rs.next();
-
-            return (rs.getInt("count") > 0);
-        } catch (SQLException e) {
-            throw new ServerErrorException(e);
-        } finally {
-            db.close(stmt, rs);
         }
     }
 
@@ -492,25 +416,13 @@ public class sqlImporter {
         String[] filepath = f.getAbsolutePath().split("/");
         String filename = filepath[filepath.length - 1];
 
-       /*
-       // THE UPDATE SECTION DOESN'T WORK PROPERLY WHEN NEW SECTION METADATA NEEDS TO BE ADDED
-       if (notebookExists(filename)) {
-            try {
-                System.out.println("Updating: " + f.getAbsolutePath());
-                updateNotebook(mods);
-            } catch (Exception e) {
-                System.out.println("ERROR UPDATING " + e);
-                e.printStackTrace();
-            }
-        } else {  */
-            try {
-                System.out.println("Importing: " + f.getAbsolutePath());
-                importNotebook(mods);
-            } catch (Exception e) {
-                System.out.println("ERROR IMPORTING " + e);
-                e.printStackTrace();
-            }
-        //}
+        try {
+            System.out.println("Importing: " + f.getAbsolutePath());
+            importNotebook(mods);
+        } catch (Exception e) {
+            System.out.println("ERROR IMPORTING " + e);
+            e.printStackTrace();
+        }
         return filename;
     }
 }

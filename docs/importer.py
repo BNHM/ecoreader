@@ -29,13 +29,14 @@ def main():
 
     # if there is 1+ files, then call the java class to import
     if modFiles:
-        check_call(["cd", "../"])
+        # check_call(["cd", "../"])
 
-        bTime = time.ctime()
-        check_call(["ant"])
-        if not (time.ctime(os.path.getmtime("out/production/ecoreader")) > bTime):
-            print "Ant build failed. Didn't update mods files"
-            sys.exit()
+        # I don't think this is necessary, so I'm commenting it out
+        # bTime = time.ctime()
+        # check_call(["ant"])
+        # if not (time.ctime(os.path.getmtime("out/production/ecoreader")) > bTime):
+        #     print "Ant build failed. Didn't update mods files"
+        #     sys.exit()
 
         # call sqlImporter w/mods_files to be updated
         args = ["java", "-cp", "lib/*:out/production/ecoreader", "renderer.sqlImporter"]
