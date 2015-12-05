@@ -1,7 +1,7 @@
 ## basic structure of Mysql database to start with
-create table `volume` (
+create table `volume`   (
 `volume_id` int(11) auto_increment,
-`volume_identifier` varchar (256),
+`volume_identifier` varchar (255),
 `type` varchar(256),
 `title` varchar(256),
 `startDate` smallint,
@@ -11,13 +11,13 @@ create table `volume` (
 `updated` TIMESTAMP DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
 `filename` varchar(256),
  UNIQUE KEY `volume_volume_idx` (`volume_id`),
- UNIQUE KEY `volume_identifier_idx` (`volume_identifier`)
-);
+    UNIQUE KEY `volume_identifier_idx` (`volume_identifier`)
+) ENGINE = INNODB;
 
 create table `section` (
 `section_id` int(11) auto_increment,
  `volume_id` int(11),
-  section_identifier varchar(256),
+  section_identifier varchar(255),
   type varchar(256),
   title varchar(256),
   geographic varchar(256),
@@ -26,15 +26,15 @@ create table `section` (
   UNIQUE KEY `section_section_idx` (`section_id`),
     UNIQUE KEY `section_identifier_idx` (`section_identifier`),
   CONSTRAINT `FK_section_volume_id` FOREIGN KEY (`volume_id`) REFERENCES `volume` (`volume_id`) ON DELETE CASCADE
-);
+) ENGINE = INNODB;
 
-create table page (
+create table page   (
   page_id int(11) auto_increment,
   section_id int(11),
   page_number int,
-  page_identifier varchar(256),
+  page_identifier varchar(255),
   type varchar(256),
   UNIQUE KEY `page_page_idx` (`page_id`),
   UNIQUE KEY `page_identifier_idx` (`page_identifier`),
   CONSTRAINT `FK_page_section_id` FOREIGN KEY (`section_id`) REFERENCES `section` (`section_id`) ON DELETE CASCADE
-);
+) ENGINE = INNODB;

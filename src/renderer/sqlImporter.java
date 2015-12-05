@@ -187,7 +187,7 @@ public class sqlImporter {
     private void verifySections() {
         PreparedStatement stmt = null;
         ResultSet rs = null;
-        List<String> sections = new ArrayList<>();
+        List<String> sections = new ArrayList<String>();
         try {
             String sql = "SELECT section_identifier FROM section WHERE volume_id = (SELECT volume_id FROM volume WHERE volume_identifier = ?)";
             stmt = conn.prepareStatement(sql);
