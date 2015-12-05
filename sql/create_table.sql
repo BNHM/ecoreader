@@ -10,9 +10,8 @@ create table `volume` (
 `given_name` varchar(256),
 `updated` TIMESTAMP DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
 `filename` varchar(256),
-UNIQUE KEY `volume_volume_idx` (`volume_id`),
-## TODO should this be unique?
-UNIQUE KEY `volume_filename` (`filename`)
+ UNIQUE KEY `volume_volume_idx` (`volume_id`),
+ UNIQUE KEY `volume_identifier_idx` (`volume_identifier`)
 );
 
 create table `section` (
@@ -25,6 +24,7 @@ create table `section` (
   dateCreated smallint,
   sectionNumberAsString varchar(16),
   UNIQUE KEY `section_section_idx` (`section_id`),
+    UNIQUE KEY `section_identifier_idx` (`section_identifier`),
   CONSTRAINT `FK_section_volume_id` FOREIGN KEY (`volume_id`) REFERENCES `volume` (`volume_id`) ON DELETE CASCADE
 );
 
@@ -35,5 +35,6 @@ create table page (
   page_identifier varchar(256),
   type varchar(256),
   UNIQUE KEY `page_page_idx` (`page_id`),
+  UNIQUE KEY `page_identifier_idx` (`page_identifier`),
   CONSTRAINT `FK_page_section_id` FOREIGN KEY (`section_id`) REFERENCES `section` (`section_id`) ON DELETE CASCADE
 );
