@@ -85,9 +85,10 @@ public class sqlImporter {
      * @param notebook
      */
     public void importNotebook(Mods notebook) throws validationException {
+        errors = new StringBuilder();
+
         this.notebook = notebook;
         imageProcessor imageProcessor = new imageProcessor(notebook);
-
         if (validateNotebook(notebook)) {
             saveVolume();
 
@@ -107,7 +108,8 @@ public class sqlImporter {
             // fetch any images that still need to be fetched
             executorService.submit(imageProcessor);
         } else {
-            throw new validationException("One or more files did not validate:\n" + errors.toString());
+            System.out.println ("FAILED LOADING: " + notebook.getFilename());
+            //throw new validationException("One or more files did not validate:\n" + notebook.getFilename());
         }
     }
 
@@ -421,6 +423,7 @@ public class sqlImporter {
         String filename = filepath[filepath.length - 1];
 
         try {
+            System.out.println();
             System.out.println("Importing: " + f.getAbsolutePath());
             importNotebook(mods);
         } catch (Exception e) {
