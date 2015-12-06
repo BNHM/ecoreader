@@ -1,9 +1,13 @@
-package renderer;
+package run;
 
 import modsDigester.Mods;
 import modsDigester.modsFactory;
 import modsDigester.mvzSection;
 import imageMediation.imageProcessor;
+import renderer.NotebookMetadata;
+import renderer.pageMetadata;
+import renderer.sectionMetadata;
+import renderer.validationException;
 import utils.ServerErrorException;
 import utils.database;
 

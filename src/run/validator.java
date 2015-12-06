@@ -1,7 +1,5 @@
 package run;
 
-import renderer.sqlImporter;
-
 import java.io.File;
 import java.util.ArrayList;
 

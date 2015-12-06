@@ -5,7 +5,6 @@ import modsDigester.Mods;
 import modsDigester.mvzTaccPage;
 import modsDigester.mvzSection;
 import modsDigester.modsFactory;
-import renderer.sqlImporter;
 
 import java.io.File;
 import java.util.ArrayList;

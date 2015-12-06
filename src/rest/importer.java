@@ -3,7 +3,7 @@ package rest;
 import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;
 import org.json.simple.JSONValue;
-import renderer.sqlImporter;
+import run.sqlImporter;
 import renderer.validationException;
 import utils.ServerErrorException;
 import utils.SettingsManager;
