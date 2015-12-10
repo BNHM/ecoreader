@@ -25,9 +25,11 @@ public class validator {
             // to avoid race conditions with another process that deletes
             // directories.
             //System.out.println("validating " + directoryPath);
-            filesAsStrings.add(directoryPath);
+            System.out.println("validating " + directoryPath);
+            filesAsStrings.add("file:///" + directoryPath);
         }
         // tell it to ignore sections as second argument
         System.out.println(sqlImporter.validateNotebooks(filesAsStrings, true));
+        System.out.println("finished");
     }
 }
