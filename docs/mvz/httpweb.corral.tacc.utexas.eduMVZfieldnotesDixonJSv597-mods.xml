@@ -22,7 +22,7 @@
         <mods:namePart type="date">1884-1985</mods:namePart>
         <mods:displayForm>Dixon, Joseph S.,  (Joseph Scattergood), 1884-1952</mods:displayForm>
     </mods:name>
-    <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/DixonJS_v597</mods:identifier>
+    <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/DixonJS/v597</mods:identifier>
     <mods:relatedItem type="constituent">
         <mods:titleInfo>
             <mods:title>Section 0: General Index</mods:title>
@@ -49,7 +49,7 @@
         <mods:physicalDescription>
             <mods:extent>1 pages</mods:extent>
         </mods:physicalDescription>
-        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/DixonJS_v597_s0</mods:identifier>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/DixonJS/v597_s0</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
         <mods:titleInfo>
@@ -80,7 +80,7 @@
         <mods:physicalDescription>
             <mods:extent>30 pages</mods:extent>
         </mods:physicalDescription>
-        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/DixonJS_v597_s1</mods:identifier>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/DixonJS/v597_s1</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
         <mods:titleInfo>
@@ -114,7 +114,7 @@
         <mods:physicalDescription>
             <mods:extent>35 pages</mods:extent>
         </mods:physicalDescription>
-        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/DixonJS_v597_s2</mods:identifier>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/DixonJS/v597_s2</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
         <mods:titleInfo>
@@ -154,7 +154,7 @@
         <mods:physicalDescription>
             <mods:extent>109 pages</mods:extent>
         </mods:physicalDescription>
-        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/DixonJS_v597_s3</mods:identifier>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/DixonJS/v597_s3</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
         <mods:titleInfo>
@@ -185,7 +185,7 @@
         <mods:physicalDescription>
             <mods:extent>46 pages</mods:extent>
         </mods:physicalDescription>
-        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/DixonJS_v597_s4</mods:identifier>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/DixonJS/v597_s4</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
         <mods:titleInfo>
@@ -213,6 +213,6 @@
         <mods:physicalDescription>
             <mods:extent>46 pages</mods:extent>
         </mods:physicalDescription>
-        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/DixonJS_v597_s5</mods:identifier>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/DixonJS/v597_s5</mods:identifier>
     </mods:relatedItem>
 </mods:mods>

@@ -21,7 +21,7 @@
         <mods:namePart type="given">John</mods:namePart>
         <mods:displayForm>Davis, John</mods:displayForm>
     </mods:name>
-    <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/DavisJ_v642</mods:identifier>
+    <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/DavisJ/v642</mods:identifier>
     <mods:relatedItem type="constituent">
         <mods:titleInfo>
             <mods:title>Section 1: Davis, J. Miscellaneous, Calif., Jan 11-June 20, 1940, Catalogue nos. 19-77</mods:title>
@@ -44,7 +44,7 @@
             <mods:namePart type="given">John</mods:namePart>
             <mods:displayForm>Davis, John</mods:displayForm>
         </mods:name>
-        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/DavisJ_v642_s1</mods:identifier>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/DavisJ/v642_s1</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
         <mods:titleInfo>
@@ -68,7 +68,7 @@
             <mods:namePart type="given">John</mods:namePart>
             <mods:displayForm>Davis, John</mods:displayForm>
         </mods:name>
-        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/DavisJ_v642_s2</mods:identifier>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/DavisJ/v642_s2</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
         <mods:titleInfo>
@@ -92,7 +92,7 @@
             <mods:namePart type="given">John</mods:namePart>
             <mods:displayForm>Davis, John</mods:displayForm>
         </mods:name>
-        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/DavisJ_v642_s3</mods:identifier>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/DavisJ/v642_s3</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
         <mods:titleInfo>
@@ -116,7 +116,7 @@
             <mods:namePart type="given">John</mods:namePart>
             <mods:displayForm>Davis, John</mods:displayForm>
         </mods:name>
-        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/DavisJ_v642_s4</mods:identifier>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/DavisJ/v642_s4</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
         <mods:titleInfo>
@@ -140,7 +140,7 @@
             <mods:namePart type="given">John</mods:namePart>
             <mods:displayForm>Davis, John</mods:displayForm>
         </mods:name>
-        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/DavisJ_v642_s5</mods:identifier>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/DavisJ/v642_s5</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
         <mods:titleInfo>
@@ -164,6 +164,6 @@
             <mods:namePart type="given">John</mods:namePart>
             <mods:displayForm>Davis, John</mods:displayForm>
         </mods:name>
-        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/DavisJ_v642_s6</mods:identifier>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/DavisJ/v642_s6</mods:identifier>
     </mods:relatedItem>
 </mods:mods>

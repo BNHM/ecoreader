@@ -21,7 +21,7 @@
         <mods:namePart type="given">William W.</mods:namePart>
         <mods:displayForm>Dunmire, William W.</mods:displayForm>
     </mods:name>
-    <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/DunmireWW_v648</mods:identifier>
+    <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/DunmireWW/v648</mods:identifier>
     <mods:relatedItem type="constituent">
         <mods:titleInfo>
             <mods:title>Section 1: March-May 1954, Nepal, Catalogue nos. 30-107, Journal, Species Accounts: Birds, Mammals</mods:title>
@@ -44,6 +44,6 @@
             <mods:namePart type="given">William W.</mods:namePart>
             <mods:displayForm>Dunmire, William W.</mods:displayForm>
         </mods:name>
-        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/DunmireWW_v648_s1</mods:identifier>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/DunmireWW/v648_s1</mods:identifier>
     </mods:relatedItem>
 </mods:mods>

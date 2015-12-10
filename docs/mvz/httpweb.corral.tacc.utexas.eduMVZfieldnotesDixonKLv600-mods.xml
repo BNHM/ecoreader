@@ -22,7 +22,7 @@
         <mods:namePart type="date">1921-</mods:namePart>
         <mods:displayForm>Dixon, Keith L.,  (Keith Lee), 1921-</mods:displayForm>
     </mods:name>
-    <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/DixonKL_v600</mods:identifier>
+    <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/DixonKL/v600</mods:identifier>
     <mods:relatedItem type="constituent">
         <mods:titleInfo>
             <mods:title>Section 0: General Index</mods:title>
@@ -46,7 +46,7 @@
             <mods:namePart type="date">1921-</mods:namePart>
             <mods:displayForm>Dixon, Keith L.,  (Keith Lee), 1921-</mods:displayForm>
         </mods:name>
-        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/DixonKL_v600_s0</mods:identifier>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/DixonKL/v600_s0</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
         <mods:titleInfo>
@@ -71,7 +71,7 @@
             <mods:namePart type="date">1921-</mods:namePart>
             <mods:displayForm>Dixon, Keith L.,  (Keith Lee), 1921-</mods:displayForm>
         </mods:name>
-        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/DixonKL_v600_s1</mods:identifier>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/DixonKL/v600_s1</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
         <mods:titleInfo>
@@ -96,7 +96,7 @@
             <mods:namePart type="date">1921-</mods:namePart>
             <mods:displayForm>Dixon, Keith L.,  (Keith Lee), 1921-</mods:displayForm>
         </mods:name>
-        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/DixonKL_v600_s2</mods:identifier>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/DixonKL/v600_s2</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
         <mods:titleInfo>
@@ -121,7 +121,7 @@
             <mods:namePart type="date">1921-</mods:namePart>
             <mods:displayForm>Dixon, Keith L.,  (Keith Lee), 1921-</mods:displayForm>
         </mods:name>
-        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/DixonKL_v600_s3</mods:identifier>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/DixonKL/v600_s3</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
         <mods:titleInfo>
@@ -146,7 +146,7 @@
             <mods:namePart type="date">1921-</mods:namePart>
             <mods:displayForm>Dixon, Keith L.,  (Keith Lee), 1921-</mods:displayForm>
         </mods:name>
-        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/DixonKL_v600_s4</mods:identifier>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/DixonKL/v600_s4</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
         <mods:titleInfo>
@@ -171,6 +171,6 @@
             <mods:namePart type="date">1921-</mods:namePart>
             <mods:displayForm>Dixon, Keith L.,  (Keith Lee), 1921-</mods:displayForm>
         </mods:name>
-        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/DixonKL_v600_s5</mods:identifier>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/DixonKL/v600_s5</mods:identifier>
     </mods:relatedItem>
 </mods:mods>

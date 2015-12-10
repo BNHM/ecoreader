@@ -44,6 +44,9 @@
             <mods:namePart type="given">Paul T.</mods:namePart>
             <mods:displayForm>Wilson, Paul T.</mods:displayForm>
         </mods:name>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Nevada, Nye County</mods:geographic>
+        </mods:subject>
         <mods:physicalDescription>
             <mods:extent>39 pages</mods:extent>
         </mods:physicalDescription>

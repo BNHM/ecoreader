@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <mods:mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <mods:titleInfo>
-        <mods:title>Field Notes: Johnson N.K. 1967-1971</mods:title>
+        <mods:title>Field Notes: Johnson N.K. 1967-1971, v3314</mods:title>
     </mods:titleInfo>
     <mods:language>
         <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
@@ -47,81 +47,6 @@
             <mods:displayForm>Johnson, Ned K., 1932-2003</mods:displayForm>
         </mods:name>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/JohnsonNK/v3314_s1</mods:identifier>
-    </mods:relatedItem>
-    <mods:relatedItem type="constituent">
-        <mods:titleInfo>
-            <mods:title>Section 10: Johnson, N.K. 1970 Journal Peru</mods:title>
-        </mods:titleInfo>
-        <mods:language>
-            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
-            <mods:languageTerm type="text">English</mods:languageTerm>
-        </mods:language>
-        <mods:originInfo>
-            <mods:dateCreated>1970-08-02/1970-09-04</mods:dateCreated>
-            <mods:dateCreated point="start">1970</mods:dateCreated>
-            <mods:dateCreated point="end">1970</mods:dateCreated>
-        </mods:originInfo>
-        <mods:name type="personal" authority="LCHS">
-            <mods:role>
-                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
-                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
-            </mods:role>
-            <mods:namePart type="family">Johnson</mods:namePart>
-            <mods:namePart type="given">Ned K.</mods:namePart>
-            <mods:namePart type="date">1932-2003</mods:namePart>
-            <mods:displayForm>Johnson, Ned K., 1932-2003</mods:displayForm>
-        </mods:name>
-        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/JohnsonNK/v3314_s10</mods:identifier>
-    </mods:relatedItem>
-    <mods:relatedItem type="constituent">
-        <mods:titleInfo>
-            <mods:title>Section 11: Johnson, N.K. 1971 Catalogue #3223-#3387 California, Nevada, Idaho, Montana</mods:title>
-        </mods:titleInfo>
-        <mods:language>
-            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
-            <mods:languageTerm type="text">English</mods:languageTerm>
-        </mods:language>
-        <mods:originInfo>
-            <mods:dateCreated>1971-03-24/1971-07-11</mods:dateCreated>
-            <mods:dateCreated point="start">1971</mods:dateCreated>
-            <mods:dateCreated point="end">1971</mods:dateCreated>
-        </mods:originInfo>
-        <mods:name type="personal" authority="LCHS">
-            <mods:role>
-                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
-                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
-            </mods:role>
-            <mods:namePart type="family">Johnson</mods:namePart>
-            <mods:namePart type="given">Ned K.</mods:namePart>
-            <mods:namePart type="date">1932-2003</mods:namePart>
-            <mods:displayForm>Johnson, Ned K., 1932-2003</mods:displayForm>
-        </mods:name>
-        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/JohnsonNK/v3314_s11</mods:identifier>
-    </mods:relatedItem>
-    <mods:relatedItem type="constituent">
-        <mods:titleInfo>
-            <mods:title>Section 12: Johnson, N.K. 1971 Journal Nevada to Montana, California</mods:title>
-        </mods:titleInfo>
-        <mods:language>
-            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
-            <mods:languageTerm type="text">English</mods:languageTerm>
-        </mods:language>
-        <mods:originInfo>
-            <mods:dateCreated>1971-05-17/1971-09-12</mods:dateCreated>
-            <mods:dateCreated point="start">1971</mods:dateCreated>
-            <mods:dateCreated point="end">1971</mods:dateCreated>
-        </mods:originInfo>
-        <mods:name type="personal" authority="LCHS">
-            <mods:role>
-                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
-                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
-            </mods:role>
-            <mods:namePart type="family">Johnson</mods:namePart>
-            <mods:namePart type="given">Ned K.</mods:namePart>
-            <mods:namePart type="date">1932-2003</mods:namePart>
-            <mods:displayForm>Johnson, Ned K., 1932-2003</mods:displayForm>
-        </mods:name>
-        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/JohnsonNK/v3314_s12</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
         <mods:titleInfo>
@@ -322,5 +247,80 @@
             <mods:displayForm>Johnson, Ned K., 1932-2003</mods:displayForm>
         </mods:name>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/JohnsonNK/v3314_s9</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 10: Johnson, N.K. 1970 Journal Peru</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1970-08-02/1970-09-04</mods:dateCreated>
+            <mods:dateCreated point="start">1970</mods:dateCreated>
+            <mods:dateCreated point="end">1970</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Johnson</mods:namePart>
+            <mods:namePart type="given">Ned K.</mods:namePart>
+            <mods:namePart type="date">1932-2003</mods:namePart>
+            <mods:displayForm>Johnson, Ned K., 1932-2003</mods:displayForm>
+        </mods:name>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/JohnsonNK/v3314_s10</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 11: Johnson, N.K. 1971 Catalogue #3223-#3387 California, Nevada, Idaho, Montana</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1971-03-24/1971-07-11</mods:dateCreated>
+            <mods:dateCreated point="start">1971</mods:dateCreated>
+            <mods:dateCreated point="end">1971</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Johnson</mods:namePart>
+            <mods:namePart type="given">Ned K.</mods:namePart>
+            <mods:namePart type="date">1932-2003</mods:namePart>
+            <mods:displayForm>Johnson, Ned K., 1932-2003</mods:displayForm>
+        </mods:name>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/JohnsonNK/v3314_s11</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 12: Johnson, N.K. 1971 Journal Nevada to Montana, California</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1971-05-17/1971-09-12</mods:dateCreated>
+            <mods:dateCreated point="start">1971</mods:dateCreated>
+            <mods:dateCreated point="end">1971</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Johnson</mods:namePart>
+            <mods:namePart type="given">Ned K.</mods:namePart>
+            <mods:namePart type="date">1932-2003</mods:namePart>
+            <mods:displayForm>Johnson, Ned K., 1932-2003</mods:displayForm>
+        </mods:name>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/JohnsonNK/v3314_s12</mods:identifier>
     </mods:relatedItem>
 </mods:mods>

@@ -98,6 +98,9 @@
             <mods:namePart type="given">Halstead G.</mods:namePart>
             <mods:displayForm>White, Halstead G.</mods:displayForm>
         </mods:name>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Monterey County</mods:geographic>
+        </mods:subject>
         <mods:physicalDescription>
             <mods:extent>91 pages</mods:extent>
         </mods:physicalDescription>
@@ -152,6 +155,12 @@
             <mods:namePart type="given">Halstead G.</mods:namePart>
             <mods:displayForm>White, Halstead G.</mods:displayForm>
         </mods:name>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Modoc County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Nevada, Humboldt County</mods:geographic>
+        </mods:subject>
         <mods:physicalDescription>
             <mods:extent>77 pages</mods:extent>
         </mods:physicalDescription>
@@ -179,6 +188,9 @@
             <mods:namePart type="given">Halstead G.</mods:namePart>
             <mods:displayForm>White, Halstead G.</mods:displayForm>
         </mods:name>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, San Joaquin County</mods:geographic>
+        </mods:subject>
         <mods:physicalDescription>
             <mods:extent>3 pages</mods:extent>
         </mods:physicalDescription>

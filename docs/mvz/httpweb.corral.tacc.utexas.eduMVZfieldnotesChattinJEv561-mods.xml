@@ -21,7 +21,7 @@
         <mods:namePart type="given">John E.</mods:namePart>
         <mods:displayForm>Chattin, John E.</mods:displayForm>
     </mods:name>
-    <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/ChattinJE_v561</mods:identifier>
+    <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/ChattinJE/v561</mods:identifier>
     <mods:relatedItem type="constituent">
         <mods:titleInfo>
             <mods:title>Section 1: Southern California counties, Arizona, San Francisco Bay region</mods:title>
@@ -44,6 +44,6 @@
             <mods:namePart type="given">John E.</mods:namePart>
             <mods:displayForm>Chattin, John E.</mods:displayForm>
         </mods:name>
-        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/ChattinJE_v561_s1</mods:identifier>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/ChattinJE/v561_s1</mods:identifier>
     </mods:relatedItem>
 </mods:mods>

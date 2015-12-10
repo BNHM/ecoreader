@@ -75,56 +75,6 @@
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
         <mods:titleInfo>
-            <mods:title>Section 10: O.P. Pearson 1992 Argentina Journal</mods:title>
-        </mods:titleInfo>
-        <mods:language>
-            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
-            <mods:languageTerm type="text">English</mods:languageTerm>
-        </mods:language>
-        <mods:originInfo>
-            <mods:dateCreated>1992-10-24/1992-12-16</mods:dateCreated>
-            <mods:dateCreated point="start">1992</mods:dateCreated>
-            <mods:dateCreated point="end">1992</mods:dateCreated>
-        </mods:originInfo>
-        <mods:name type="personal" authority="LCHS">
-            <mods:role>
-                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
-                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
-            </mods:role>
-            <mods:namePart type="family">Pearson</mods:namePart>
-            <mods:namePart type="given">Oliver P.</mods:namePart>
-            <mods:namePart type="date">1915-2003</mods:namePart>
-            <mods:displayForm>Pearson, Oliver P.,  (Oliver Payne), 1915-2003</mods:displayForm>
-        </mods:name>
-        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/PearsonOP/v1530_s10</mods:identifier>
-    </mods:relatedItem>
-    <mods:relatedItem type="constituent">
-        <mods:titleInfo>
-            <mods:title>Section 11: O.P. Pearson 1992 Argentina Index</mods:title>
-        </mods:titleInfo>
-        <mods:language>
-            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
-            <mods:languageTerm type="text">English</mods:languageTerm>
-        </mods:language>
-        <mods:originInfo>
-            <mods:dateCreated>1992-10-24/1992-12-16</mods:dateCreated>
-            <mods:dateCreated point="start">1992</mods:dateCreated>
-            <mods:dateCreated point="end">1992</mods:dateCreated>
-        </mods:originInfo>
-        <mods:name type="personal" authority="LCHS">
-            <mods:role>
-                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
-                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
-            </mods:role>
-            <mods:namePart type="family">Pearson</mods:namePart>
-            <mods:namePart type="given">Oliver P.</mods:namePart>
-            <mods:namePart type="date">1915-2003</mods:namePart>
-            <mods:displayForm>Pearson, Oliver P.,  (Oliver Payne), 1915-2003</mods:displayForm>
-        </mods:name>
-        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/PearsonOP/v1530_s11</mods:identifier>
-    </mods:relatedItem>
-    <mods:relatedItem type="constituent">
-        <mods:titleInfo>
             <mods:title>Section 2: O.P. Pearson 1990 Argentina</mods:title>
         </mods:titleInfo>
         <mods:language>
@@ -322,5 +272,55 @@
             <mods:displayForm>Pearson, Oliver P.,  (Oliver Payne), 1915-2003</mods:displayForm>
         </mods:name>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/PearsonOP/v1530_s9</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 10: O.P. Pearson 1992 Argentina Journal</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1992-10-24/1992-12-16</mods:dateCreated>
+            <mods:dateCreated point="start">1992</mods:dateCreated>
+            <mods:dateCreated point="end">1992</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Pearson</mods:namePart>
+            <mods:namePart type="given">Oliver P.</mods:namePart>
+            <mods:namePart type="date">1915-2003</mods:namePart>
+            <mods:displayForm>Pearson, Oliver P.,  (Oliver Payne), 1915-2003</mods:displayForm>
+        </mods:name>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/PearsonOP/v1530_s10</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 11: O.P. Pearson 1992 Argentina Index</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1992-10-24/1992-12-16</mods:dateCreated>
+            <mods:dateCreated point="start">1992</mods:dateCreated>
+            <mods:dateCreated point="end">1992</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Pearson</mods:namePart>
+            <mods:namePart type="given">Oliver P.</mods:namePart>
+            <mods:namePart type="date">1915-2003</mods:namePart>
+            <mods:displayForm>Pearson, Oliver P.,  (Oliver Payne), 1915-2003</mods:displayForm>
+        </mods:name>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/PearsonOP/v1530_s11</mods:identifier>
     </mods:relatedItem>
 </mods:mods>

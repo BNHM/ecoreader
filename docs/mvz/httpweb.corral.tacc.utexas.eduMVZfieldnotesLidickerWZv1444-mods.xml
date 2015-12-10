@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <mods:mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <mods:titleInfo>
-        <mods:title>Field Notes: Lidicker W.Z. 1982-1991</mods:title>
+        <mods:title>Field Notes: Lidicker W.Z. 1982-1991, v1444</mods:title>
     </mods:titleInfo>
     <mods:language>
         <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
@@ -72,81 +72,6 @@
             <mods:displayForm>Lidicker, William Zander, 1932-</mods:displayForm>
         </mods:name>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/LidickerWZ/v1444_s1</mods:identifier>
-    </mods:relatedItem>
-    <mods:relatedItem type="constituent">
-        <mods:titleInfo>
-            <mods:title>Section 10: Florida, South Carolina, Norway, Kentucky, Missouri, Nebraska, South Dakota, Wyoming, Idaho, Oregon, Bermuda. Calif: Alameda, Contra Costa, Solano, Sacramento, Sutter Cos.</mods:title>
-        </mods:titleInfo>
-        <mods:language>
-            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
-            <mods:languageTerm type="text">English</mods:languageTerm>
-        </mods:language>
-        <mods:originInfo>
-            <mods:dateCreated>1990-01-02/1990-12-28</mods:dateCreated>
-            <mods:dateCreated point="start">1990</mods:dateCreated>
-            <mods:dateCreated point="end">1990</mods:dateCreated>
-        </mods:originInfo>
-        <mods:name type="personal" authority="LCHS">
-            <mods:role>
-                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
-                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
-            </mods:role>
-            <mods:namePart type="family">Lidicker</mods:namePart>
-            <mods:namePart type="given">William Zander</mods:namePart>
-            <mods:namePart type="date">1932-</mods:namePart>
-            <mods:displayForm>Lidicker, William Zander, 1932-</mods:displayForm>
-        </mods:name>
-        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/LidickerWZ/v1444_s10</mods:identifier>
-    </mods:relatedItem>
-    <mods:relatedItem type="constituent">
-        <mods:titleInfo>
-            <mods:title>Section 11: Catalogue #4114-4123 Calif: San Joaquin, San Mateo Cos. Wyo: Park Co.</mods:title>
-        </mods:titleInfo>
-        <mods:language>
-            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
-            <mods:languageTerm type="text">English</mods:languageTerm>
-        </mods:language>
-        <mods:originInfo>
-            <mods:dateCreated>1991-11-14/1991-09-05</mods:dateCreated>
-            <mods:dateCreated point="start">1991</mods:dateCreated>
-            <mods:dateCreated point="end">1991</mods:dateCreated>
-        </mods:originInfo>
-        <mods:name type="personal" authority="LCHS">
-            <mods:role>
-                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
-                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
-            </mods:role>
-            <mods:namePart type="family">Lidicker</mods:namePart>
-            <mods:namePart type="given">William Zander</mods:namePart>
-            <mods:namePart type="date">1932-</mods:namePart>
-            <mods:displayForm>Lidicker, William Zander, 1932-</mods:displayForm>
-        </mods:name>
-        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/LidickerWZ/v1444_s11</mods:identifier>
-    </mods:relatedItem>
-    <mods:relatedItem type="constituent">
-        <mods:titleInfo>
-            <mods:title>Section 12: Calif: Marin, Santa Cruz, Alameda, Contra Costa, San Joaquin, Solano, Sutter, Colusa, Lake, Mendocino, Humboldt, Del Norte, Glenn Cos. New York: Tompkins Co. Kansas, Hawaii, New England.</mods:title>
-        </mods:titleInfo>
-        <mods:language>
-            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
-            <mods:languageTerm type="text">English</mods:languageTerm>
-        </mods:language>
-        <mods:originInfo>
-            <mods:dateCreated>1990-12-28/1991-12-28</mods:dateCreated>
-            <mods:dateCreated point="start">1990</mods:dateCreated>
-            <mods:dateCreated point="end">1991</mods:dateCreated>
-        </mods:originInfo>
-        <mods:name type="personal" authority="LCHS">
-            <mods:role>
-                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
-                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
-            </mods:role>
-            <mods:namePart type="family">Lidicker</mods:namePart>
-            <mods:namePart type="given">William Zander</mods:namePart>
-            <mods:namePart type="date">1932-</mods:namePart>
-            <mods:displayForm>Lidicker, William Zander, 1932-</mods:displayForm>
-        </mods:name>
-        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/LidickerWZ/v1444_s12</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
         <mods:titleInfo>
@@ -347,5 +272,80 @@
             <mods:displayForm>Lidicker, William Zander, 1932-</mods:displayForm>
         </mods:name>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/LidickerWZ/v1444_s9</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 10: Florida, South Carolina, Norway, Kentucky, Missouri, Nebraska, South Dakota, Wyoming, Idaho, Oregon, Bermuda. Calif: Alameda, Contra Costa, Solano, Sacramento, Sutter Cos.</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1990-01-02/1990-12-28</mods:dateCreated>
+            <mods:dateCreated point="start">1990</mods:dateCreated>
+            <mods:dateCreated point="end">1990</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Lidicker</mods:namePart>
+            <mods:namePart type="given">William Zander</mods:namePart>
+            <mods:namePart type="date">1932-</mods:namePart>
+            <mods:displayForm>Lidicker, William Zander, 1932-</mods:displayForm>
+        </mods:name>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/LidickerWZ/v1444_s10</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 11: Catalogue #4114-4123 Calif: San Joaquin, San Mateo Cos. Wyo: Park Co.</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1991-11-14/1991-09-05</mods:dateCreated>
+            <mods:dateCreated point="start">1991</mods:dateCreated>
+            <mods:dateCreated point="end">1991</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Lidicker</mods:namePart>
+            <mods:namePart type="given">William Zander</mods:namePart>
+            <mods:namePart type="date">1932-</mods:namePart>
+            <mods:displayForm>Lidicker, William Zander, 1932-</mods:displayForm>
+        </mods:name>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/LidickerWZ/v1444_s11</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 12: Calif: Marin, Santa Cruz, Alameda, Contra Costa, San Joaquin, Solano, Sutter, Colusa, Lake, Mendocino, Humboldt, Del Norte, Glenn Cos. New York: Tompkins Co. Kansas, Hawaii, New England.</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1990-12-28/1991-12-28</mods:dateCreated>
+            <mods:dateCreated point="start">1990</mods:dateCreated>
+            <mods:dateCreated point="end">1991</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Lidicker</mods:namePart>
+            <mods:namePart type="given">William Zander</mods:namePart>
+            <mods:namePart type="date">1932-</mods:namePart>
+            <mods:displayForm>Lidicker, William Zander, 1932-</mods:displayForm>
+        </mods:name>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/LidickerWZ/v1444_s12</mods:identifier>
     </mods:relatedItem>
 </mods:mods>

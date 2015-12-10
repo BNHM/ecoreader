@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <mods:mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <mods:titleInfo>
-        <mods:title>Field Notes: Stern N.B. 1910-12, Stone G.E. 1913</mods:title>
+        <mods:title>Field Notes: Stern N.B. 1910-12, Stone G.E. 1913, v1660</mods:title>
     </mods:titleInfo>
     <mods:language>
         <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
@@ -24,7 +24,7 @@
     <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/SternNB/v1660</mods:identifier>
     <mods:relatedItem type="constituent">
         <mods:titleInfo>
-            <mods:title>Warner Mts., in Modoc and Lassen Cos., Calif. 1910 Stern, N.B.</mods:title>
+            <mods:title>Section 1: Warner Mts., in Modoc and Lassen Cos., Calif. 1910 Stern, N.B.</mods:title>
         </mods:titleInfo>
         <mods:language>
             <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
@@ -51,7 +51,7 @@
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
         <mods:titleInfo>
-            <mods:title>Mount Whitney region, California 1911 Stern, N.B.</mods:title>
+            <mods:title>Section 2: Mount Whitney region, California 1911 Stern, N.B.</mods:title>
         </mods:titleInfo>
         <mods:language>
             <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
@@ -78,7 +78,7 @@
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
         <mods:titleInfo>
-            <mods:title>Owens Valley, Inyo and Mono Cos., Calif. 1912 Stern, N.B.</mods:title>
+            <mods:title>Section 3: Owens Valley, Inyo and Mono Cos., Calif. 1912 Stern, N.B.</mods:title>
         </mods:titleInfo>
         <mods:language>
             <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
@@ -105,7 +105,7 @@
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
         <mods:titleInfo>
-            <mods:title>North Coast Counties, Calif., in Tehama and Mendocino Cos. 1913 Stone, G.E.</mods:title>
+            <mods:title>Section 4: North Coast Counties, Calif., in Tehama and Mendocino Cos. 1913 Stone, G.E.</mods:title>
         </mods:titleInfo>
         <mods:language>
             <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>

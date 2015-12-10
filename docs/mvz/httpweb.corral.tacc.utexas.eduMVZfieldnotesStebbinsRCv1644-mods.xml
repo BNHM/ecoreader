@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <mods:mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <mods:titleInfo>
-        <mods:title>Field Notes: Stebbins R.C. 1966-67, Part, (also J.R. Neri 1967)</mods:title>
+        <mods:title>Field Notes: Stebbins R.C. 1966-67, Part, (also J.R. Neri 1967), v1644</mods:title>
     </mods:titleInfo>
     <mods:language>
         <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
@@ -24,7 +24,7 @@
     <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/StebbinsRC/v1644</mods:identifier>
     <mods:relatedItem type="constituent">
         <mods:titleInfo>
-            <mods:title>1966-67 (part) catalogue #11340-11360, 11591-11680</mods:title>
+            <mods:title>Section 1: 1966-67 (part) catalogue #11340-11360, 11591-11680</mods:title>
         </mods:titleInfo>
         <mods:language>
             <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
@@ -51,7 +51,7 @@
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
         <mods:titleInfo>
-            <mods:title>1966-67 (part) Journal Oregon California Colorado</mods:title>
+            <mods:title>Section 2: 1966-67 (part) Journal Oregon California Colorado</mods:title>
         </mods:titleInfo>
         <mods:language>
             <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
@@ -78,7 +78,7 @@
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
         <mods:titleInfo>
-            <mods:title>1966-67 (part) Species Accounts</mods:title>
+            <mods:title>Section 3: 1966-67 (part) Species Accounts</mods:title>
         </mods:titleInfo>
         <mods:language>
             <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>

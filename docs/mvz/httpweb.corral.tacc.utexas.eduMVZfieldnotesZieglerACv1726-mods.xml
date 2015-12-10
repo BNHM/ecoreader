@@ -104,8 +104,8 @@
         </mods:language>
         <mods:originInfo>
             <mods:dateCreated>1959-08-08/1958-04-29</mods:dateCreated>
-            <mods:dateCreated point="start">1959</mods:dateCreated>
-            <mods:dateCreated point="end">1958</mods:dateCreated>
+            <mods:dateCreated point="start">1958</mods:dateCreated>
+            <mods:dateCreated point="end">1959</mods:dateCreated>
         </mods:originInfo>
         <mods:name type="personal" authority="LCHS">
             <mods:role>

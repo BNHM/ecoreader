@@ -21,7 +21,7 @@
         <mods:namePart type="given">David M.</mods:namePart>
         <mods:displayForm>Darda, David M.</mods:displayForm>
     </mods:name>
-    <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/DardaDM_v641</mods:identifier>
+    <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/DardaDM/v641</mods:identifier>
     <mods:relatedItem type="constituent">
         <mods:titleInfo>
             <mods:title>Section 1: Journal: 1980-83, David M. Darda</mods:title>
@@ -44,7 +44,7 @@
             <mods:namePart type="given">David M.</mods:namePart>
             <mods:displayForm>Darda, David M.</mods:displayForm>
         </mods:name>
-        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/DardaDM_v641_s1</mods:identifier>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/DardaDM/v641_s1</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
         <mods:titleInfo>
@@ -68,6 +68,6 @@
             <mods:namePart type="given">David M.</mods:namePart>
             <mods:displayForm>Darda, David M.</mods:displayForm>
         </mods:name>
-        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/DardaDM_v641_s2</mods:identifier>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/DardaDM/v641_s2</mods:identifier>
     </mods:relatedItem>
 </mods:mods>

@@ -21,7 +21,7 @@
         <mods:namePart type="given">John</mods:namePart>
         <mods:displayForm>Davis, John</mods:displayForm>
     </mods:name>
-    <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/DavisJ_v644</mods:identifier>
+    <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/DavisJ/v644</mods:identifier>
     <mods:relatedItem type="constituent">
         <mods:titleInfo>
             <mods:title>Section 1: Davis, J. April 30-May 13, 1946, West-central California (San Bernardino and Los Angeles counties to Contra Costa County)</mods:title>
@@ -44,7 +44,7 @@
             <mods:namePart type="given">John</mods:namePart>
             <mods:displayForm>Davis, John</mods:displayForm>
         </mods:name>
-        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/DavisJ_v644_s1</mods:identifier>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/DavisJ/v644_s1</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
         <mods:titleInfo>
@@ -68,7 +68,7 @@
             <mods:namePart type="given">John</mods:namePart>
             <mods:displayForm>Davis, John</mods:displayForm>
         </mods:name>
-        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/DavisJ_v644_s2</mods:identifier>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/DavisJ/v644_s2</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
         <mods:titleInfo>
@@ -92,7 +92,7 @@
             <mods:namePart type="given">John</mods:namePart>
             <mods:displayForm>Davis, John</mods:displayForm>
         </mods:name>
-        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/DavisJ_v644_s3</mods:identifier>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/DavisJ/v644_s3</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
         <mods:titleInfo>
@@ -116,6 +116,6 @@
             <mods:namePart type="given">John</mods:namePart>
             <mods:displayForm>Davis, John</mods:displayForm>
         </mods:name>
-        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/DavisJ_v644_s4</mods:identifier>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/DavisJ/v644_s4</mods:identifier>
     </mods:relatedItem>
 </mods:mods>

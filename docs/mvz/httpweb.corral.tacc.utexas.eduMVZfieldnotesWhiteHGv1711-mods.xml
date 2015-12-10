@@ -44,6 +44,12 @@
             <mods:namePart type="given">Halstead G.</mods:namePart>
             <mods:displayForm>White, Halstead G.</mods:displayForm>
         </mods:name>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Fresno County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Kern County</mods:geographic>
+        </mods:subject>
         <mods:physicalDescription>
             <mods:extent>155 pages</mods:extent>
         </mods:physicalDescription>
@@ -71,6 +77,12 @@
             <mods:namePart type="given">Halstead G.</mods:namePart>
             <mods:displayForm>White, Halstead G.</mods:displayForm>
         </mods:name>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Monterey County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, San Luis Obispo County</mods:geographic>
+        </mods:subject>
         <mods:physicalDescription>
             <mods:extent>100 pages</mods:extent>
         </mods:physicalDescription>
@@ -98,6 +110,9 @@
             <mods:namePart type="given">Halstead G.</mods:namePart>
             <mods:displayForm>White, Halstead G.</mods:displayForm>
         </mods:name>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Monterey County</mods:geographic>
+        </mods:subject>
         <mods:physicalDescription>
             <mods:extent>90 pages</mods:extent>
         </mods:physicalDescription>

@@ -21,7 +21,7 @@
         <mods:namePart type="given">Howard L.</mods:namePart>
         <mods:displayForm>Cogswell, Howard L.</mods:displayForm>
     </mods:name>
-    <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/CogswellHL_v570</mods:identifier>
+    <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/CogswellHL/v570</mods:identifier>
     <mods:relatedItem type="constituent">
         <mods:titleInfo>
             <mods:title>Section 1: Cogswell, H.L. Catalog</mods:title>
@@ -44,7 +44,7 @@
             <mods:namePart type="given">Howard L.</mods:namePart>
             <mods:displayForm>Cogswell, Howard L.</mods:displayForm>
         </mods:name>
-        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/CogswellHL_v570_s1</mods:identifier>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/CogswellHL/v570_s1</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
         <mods:titleInfo>
@@ -68,7 +68,7 @@
             <mods:namePart type="given">Howard L.</mods:namePart>
             <mods:displayForm>Cogswell, Howard L.</mods:displayForm>
         </mods:name>
-        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/CogswellHL_v570_s2</mods:identifier>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/CogswellHL/v570_s2</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
         <mods:titleInfo>
@@ -92,6 +92,6 @@
             <mods:namePart type="given">Howard L.</mods:namePart>
             <mods:displayForm>Cogswell, Howard L.</mods:displayForm>
         </mods:name>
-        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/CogswellHL_v570_s3</mods:identifier>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/CogswellHL/v570_s3</mods:identifier>
     </mods:relatedItem>
 </mods:mods>

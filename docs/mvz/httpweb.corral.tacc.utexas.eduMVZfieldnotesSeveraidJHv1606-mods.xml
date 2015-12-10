@@ -48,30 +48,6 @@
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
         <mods:titleInfo>
-            <mods:title>Section 10: Photographic Catalogue 1946-1947</mods:title>
-        </mods:titleInfo>
-        <mods:language>
-            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
-            <mods:languageTerm type="text">English</mods:languageTerm>
-        </mods:language>
-        <mods:originInfo>
-            <mods:dateCreated>1946-06-27/1947-12-28</mods:dateCreated>
-            <mods:dateCreated point="start">1946</mods:dateCreated>
-            <mods:dateCreated point="end">1947</mods:dateCreated>
-        </mods:originInfo>
-        <mods:name type="personal" authority="LCHS">
-            <mods:role>
-                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
-                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
-            </mods:role>
-            <mods:namePart type="family">Severaid</mods:namePart>
-            <mods:namePart type="given">Joye Harold</mods:namePart>
-            <mods:displayForm>Severaid, Joye Harold</mods:displayForm>
-        </mods:name>
-        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/SeveraidJH/v1606_s10</mods:identifier>
-    </mods:relatedItem>
-    <mods:relatedItem type="constituent">
-        <mods:titleInfo>
             <mods:title>Section 2: Journal 1946</mods:title>
         </mods:titleInfo>
         <mods:language>
@@ -261,5 +237,29 @@
             <mods:displayForm>Severaid, Joye Harold</mods:displayForm>
         </mods:name>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/SeveraidJH/v1606_s9</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 10: Photographic Catalogue 1946-1947</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1946-06-27/1947-12-28</mods:dateCreated>
+            <mods:dateCreated point="start">1946</mods:dateCreated>
+            <mods:dateCreated point="end">1947</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Severaid</mods:namePart>
+            <mods:namePart type="given">Joye Harold</mods:namePart>
+            <mods:displayForm>Severaid, Joye Harold</mods:displayForm>
+        </mods:name>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/SeveraidJH/v1606_s10</mods:identifier>
     </mods:relatedItem>
 </mods:mods>

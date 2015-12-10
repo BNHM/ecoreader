@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <mods:mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <mods:titleInfo>
-        <mods:title>Field Notes: Shaffer B. and Paul Elias 1976-1977</mods:title>
+        <mods:title>Field Notes: Shaffer B. and Paul Elias 1976-1977, v1609</mods:title>
     </mods:titleInfo>
     <mods:language>
         <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
@@ -24,7 +24,7 @@
     <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/ShafferHB/v1609</mods:identifier>
     <mods:relatedItem type="constituent">
         <mods:titleInfo>
-            <mods:title>Mexico: Mexico, Veracruz, Puebla, Oaxaca.</mods:title>
+            <mods:title>Section 1: Mexico: Mexico, Veracruz, Puebla, Oaxaca.</mods:title>
         </mods:titleInfo>
         <mods:language>
             <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
@@ -57,7 +57,7 @@
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
         <mods:titleInfo>
-            <mods:title>Mexico: Mexico, Puebla, Veracruz.</mods:title>
+            <mods:title>Section 2: Mexico: Mexico, Puebla, Veracruz.</mods:title>
         </mods:titleInfo>
         <mods:language>
             <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
@@ -90,7 +90,7 @@
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
         <mods:titleInfo>
-            <mods:title>Costa Rica: Prov. San Jose, Limon, Heredia, Alajuela, Puntarenas.</mods:title>
+            <mods:title>Section 3: Costa Rica: Prov. San Jose, Limon, Heredia, Alajuela, Puntarenas.</mods:title>
         </mods:titleInfo>
         <mods:language>
             <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
@@ -123,7 +123,7 @@
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
         <mods:titleInfo>
-            <mods:title>Costa Rica: San Jose, Limon, Puntarenas.</mods:title>
+            <mods:title>Section 4: Costa Rica: San Jose, Limon, Puntarenas.</mods:title>
         </mods:titleInfo>
         <mods:language>
             <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
@@ -156,7 +156,7 @@
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
         <mods:titleInfo>
-            <mods:title>Mexico: Chihuahua, Mexico, Oaxaca. Guatemala: Huehuetenango, San Marcos. #918-1462</mods:title>
+            <mods:title>Section 5: Mexico: Chihuahua, Mexico, Oaxaca. Guatemala: Huehuetenango, San Marcos. #918-1462</mods:title>
         </mods:titleInfo>
         <mods:language>
             <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
@@ -189,7 +189,7 @@
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
         <mods:titleInfo>
-            <mods:title>Mexico: Puebla. Guatemala: Huehuetenango.</mods:title>
+            <mods:title>Section 6: Mexico: Puebla. Guatemala: Huehuetenango.</mods:title>
         </mods:titleInfo>
         <mods:language>
             <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>

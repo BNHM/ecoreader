@@ -21,7 +21,7 @@
         <mods:namePart type="given">Lawrence V.</mods:namePart>
         <mods:displayForm>Compton, Lawrence V.</mods:displayForm>
     </mods:name>
-    <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/ComptonLV_v571</mods:identifier>
+    <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/ComptonLV/v571</mods:identifier>
     <mods:relatedItem type="constituent">
         <mods:titleInfo>
             <mods:title>Section 1: Specimen Register: Nevada Field Notes 1933, 1924 L.V. Compton</mods:title>
@@ -65,7 +65,7 @@
         <mods:physicalDescription>
             <mods:extent>11 pages</mods:extent>
         </mods:physicalDescription>
-        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/ComptonLV_v571_s1</mods:identifier>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/ComptonLV/v571_s1</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
         <mods:titleInfo>
@@ -101,7 +101,7 @@
         <mods:physicalDescription>
             <mods:extent>9 pages</mods:extent>
         </mods:physicalDescription>
-        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/ComptonLV_v571_s2</mods:identifier>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/ComptonLV/v571_s2</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
         <mods:titleInfo>
@@ -140,7 +140,7 @@
         <mods:physicalDescription>
             <mods:extent>29 pages</mods:extent>
         </mods:physicalDescription>
-        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/ComptonLV_v571_s3</mods:identifier>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/ComptonLV/v571_s3</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
         <mods:titleInfo>
@@ -167,6 +167,6 @@
         <mods:physicalDescription>
             <mods:extent>162 pages</mods:extent>
         </mods:physicalDescription>
-        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/ComptonLV_v571_s4</mods:identifier>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/ComptonLV/v571_s4</mods:identifier>
     </mods:relatedItem>
 </mods:mods>

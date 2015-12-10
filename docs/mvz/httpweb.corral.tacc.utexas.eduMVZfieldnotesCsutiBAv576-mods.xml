@@ -21,7 +21,7 @@
         <mods:namePart type="given">Blair A.</mods:namePart>
         <mods:displayForm>Csuti, Blair A.</mods:displayForm>
     </mods:name>
-    <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/CsutiBA_v576</mods:identifier>
+    <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/CsutiBA/v576</mods:identifier>
     <mods:relatedItem type="constituent">
         <mods:titleInfo>
             <mods:title>Section 1: Catalogue: California, Arizona, Nevada, Utah 1969-78</mods:title>
@@ -44,7 +44,7 @@
             <mods:namePart type="given">Blair A.</mods:namePart>
             <mods:displayForm>Csuti, Blair A.</mods:displayForm>
         </mods:name>
-        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/CsutiBA_v576_s1</mods:identifier>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/CsutiBA/v576_s1</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
         <mods:titleInfo>
@@ -68,7 +68,7 @@
             <mods:namePart type="given">Blair A.</mods:namePart>
             <mods:displayForm>Csuti, Blair A.</mods:displayForm>
         </mods:name>
-        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/CsutiBA_v576_s2</mods:identifier>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/CsutiBA/v576_s2</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
         <mods:titleInfo>
@@ -92,6 +92,6 @@
             <mods:namePart type="given">Blair A.</mods:namePart>
             <mods:displayForm>Csuti, Blair A.</mods:displayForm>
         </mods:name>
-        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/CsutiBA_v576_s3</mods:identifier>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/CsutiBA/v576_s3</mods:identifier>
     </mods:relatedItem>
 </mods:mods>

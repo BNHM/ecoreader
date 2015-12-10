@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <mods:mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <mods:titleInfo>
-        <mods:title>Field Notes: Ribble D.O. 1988 (PT.), Journal, Grid Data (also E.K. Steinberg 1988, K. Klein 1988)</mods:title>
+        <mods:title>Field Notes: Ribble D.O. 1988 (PT.), Journal, Grid Data (also E.K. Steinberg 1988, K. Klein 1988), v1554</mods:title>
     </mods:titleInfo>
     <mods:language>
         <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
@@ -24,7 +24,7 @@
     <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/RibbleDO/v1554</mods:identifier>
     <mods:relatedItem type="constituent">
         <mods:titleInfo>
-            <mods:title>Hasting Reservation, Monterey Co., Calif. Journal 1988 (Pt.)</mods:title>
+            <mods:title>Section 1: Hasting Reservation, Monterey Co., Calif. Journal 1988 (Pt.)</mods:title>
         </mods:titleInfo>
         <mods:language>
             <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
@@ -67,7 +67,7 @@
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
         <mods:titleInfo>
-            <mods:title>Hasting Reservation Monterey Co., Calif. Grid Data 1988 (Pt.)</mods:title>
+            <mods:title>Section 2: Hasting Reservation Monterey Co., Calif. Grid Data 1988 (Pt.)</mods:title>
         </mods:titleInfo>
         <mods:language>
             <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>

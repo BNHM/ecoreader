@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <mods:mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <mods:titleInfo>
-        <mods:title>Field Notes: Stebbins R.C. 1973, (also D. Thatcher 1973, D.A. Mullen 1974)</mods:title>
+        <mods:title>Field Notes: Stebbins R.C. 1973, (also D. Thatcher 1973, D.A. Mullen 1974), v1649</mods:title>
     </mods:titleInfo>
     <mods:language>
         <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
@@ -24,7 +24,7 @@
     <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/StebbinsRC/v1649</mods:identifier>
     <mods:relatedItem type="constituent">
         <mods:titleInfo>
-            <mods:title>R.C. Stebbins 1973 Catalogue #11801-11872</mods:title>
+            <mods:title>Section 1: R.C. Stebbins 1973 Catalogue #11801-11872</mods:title>
         </mods:titleInfo>
         <mods:language>
             <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
@@ -48,7 +48,7 @@
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
         <mods:titleInfo>
-            <mods:title>R.C. Stebbins 1973 Journal California (incl. notes by D. Thatcher) Washington Oregon</mods:title>
+            <mods:title>Section 2: R.C. Stebbins 1973 Journal California (incl. notes by D. Thatcher) Washington Oregon</mods:title>
         </mods:titleInfo>
         <mods:language>
             <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
@@ -72,7 +72,7 @@
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
         <mods:titleInfo>
-            <mods:title>R.C. Stebbins 1973 Species Accounts (incl. notes by students and others)</mods:title>
+            <mods:title>Section 3: R.C. Stebbins 1973 Species Accounts (incl. notes by students and others)</mods:title>
         </mods:titleInfo>
         <mods:language>
             <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>

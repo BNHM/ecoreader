@@ -24,7 +24,7 @@
     <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/PearsonOP/v1524</mods:identifier>
     <mods:relatedItem type="constituent">
         <mods:titleInfo>
-            <mods:title>Pearson, O.P. 1981 Catalogue #6496-6576 Journal, Species Account: Argentina</mods:title>
+            <mods:title>Section 1: Pearson, O.P. 1981 Catalogue #6496-6576 Journal, Species Account: Argentina</mods:title>
         </mods:titleInfo>
         <mods:language>
             <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
@@ -48,7 +48,7 @@
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
         <mods:titleInfo>
-            <mods:title>Pearson, O.P. 1981 Catalogue #6577-6766 Argentina</mods:title>
+            <mods:title>Section 2: Pearson, O.P. 1981 Catalogue #6577-6766 Argentina</mods:title>
         </mods:titleInfo>
         <mods:language>
             <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
@@ -72,7 +72,7 @@
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
         <mods:titleInfo>
-            <mods:title>Pearson, O.P. 1981 Journal, Species Account: Argentina</mods:title>
+            <mods:title>Section 3: Pearson, O.P. 1981 Journal, Species Account: Argentina</mods:title>
         </mods:titleInfo>
         <mods:language>
             <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
@@ -96,7 +96,7 @@
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
         <mods:titleInfo>
-            <mods:title>Pearson, O.P. 1982 Index (1976-1981), Catalogue #6767-6866: Argentina</mods:title>
+            <mods:title>Section 4: Pearson, O.P. 1982 Index (1976-1981), Catalogue #6767-6866: Argentina</mods:title>
         </mods:titleInfo>
         <mods:language>
             <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
@@ -120,7 +120,7 @@
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
         <mods:titleInfo>
-            <mods:title>Pearson, O.P. 1982 Journal, Species Account</mods:title>
+            <mods:title>Section 5: Pearson, O.P. 1982 Journal, Species Account</mods:title>
         </mods:titleInfo>
         <mods:language>
             <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
@@ -144,7 +144,7 @@
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
         <mods:titleInfo>
-            <mods:title>Pearson, A.K. 1971-1974 Catalogue #800-991 Journal: Peru</mods:title>
+            <mods:title>Section 6: Pearson, A.K. 1971-1974 Catalogue #800-991 Journal: Peru</mods:title>
         </mods:titleInfo>
         <mods:language>
             <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>

@@ -71,57 +71,16 @@
             <mods:namePart type="date">1880-1958</mods:namePart>
             <mods:displayForm>Wythe, Margaret W.,  (Margaret Wilhelmina), 1880-1958</mods:displayForm>
         </mods:name>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Alameda County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Marin County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, San Francisco County</mods:geographic>
+        </mods:subject>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/WytheMW/v1722_s1</mods:identifier>
-    </mods:relatedItem>
-    <mods:relatedItem type="constituent">
-        <mods:titleInfo>
-            <mods:title>Section 10: Vicinity of Philo, Mendocino Co., Calif. 1930</mods:title>
-        </mods:titleInfo>
-        <mods:language>
-            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
-            <mods:languageTerm type="text">English</mods:languageTerm>
-        </mods:language>
-        <mods:originInfo>
-            <mods:dateCreated>1930-05-29/1930-06-03</mods:dateCreated>
-            <mods:dateCreated point="start">1930</mods:dateCreated>
-            <mods:dateCreated point="end">1930</mods:dateCreated>
-        </mods:originInfo>
-        <mods:name type="personal" authority="LCHS">
-            <mods:role>
-                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
-                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
-            </mods:role>
-            <mods:namePart type="family">Wythe</mods:namePart>
-            <mods:namePart type="given">Margaret W.</mods:namePart>
-            <mods:namePart type="date">1880-1958</mods:namePart>
-            <mods:displayForm>Wythe, Margaret W.,  (Margaret Wilhelmina), 1880-1958</mods:displayForm>
-        </mods:name>
-        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/WytheMW/v1722_s10</mods:identifier>
-    </mods:relatedItem>
-    <mods:relatedItem type="constituent">
-        <mods:titleInfo>
-            <mods:title>Section 11: Santa Cruz Co., Alameda Co., Calif. 1932</mods:title>
-        </mods:titleInfo>
-        <mods:language>
-            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
-            <mods:languageTerm type="text">English</mods:languageTerm>
-        </mods:language>
-        <mods:originInfo>
-            <mods:dateCreated>1932-04-29/1932-04-30</mods:dateCreated>
-            <mods:dateCreated point="start">1932</mods:dateCreated>
-            <mods:dateCreated point="end">1932</mods:dateCreated>
-        </mods:originInfo>
-        <mods:name type="personal" authority="LCHS">
-            <mods:role>
-                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
-                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
-            </mods:role>
-            <mods:namePart type="family">Wythe</mods:namePart>
-            <mods:namePart type="given">Margaret W.</mods:namePart>
-            <mods:namePart type="date">1880-1958</mods:namePart>
-            <mods:displayForm>Wythe, Margaret W.,  (Margaret Wilhelmina), 1880-1958</mods:displayForm>
-        </mods:name>
-        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/WytheMW/v1722_s11</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
         <mods:titleInfo>
@@ -146,6 +105,9 @@
             <mods:namePart type="date">1880-1958</mods:namePart>
             <mods:displayForm>Wythe, Margaret W.,  (Margaret Wilhelmina), 1880-1958</mods:displayForm>
         </mods:name>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, El Dorado County</mods:geographic>
+        </mods:subject>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/WytheMW/v1722_s2</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -171,6 +133,15 @@
             <mods:namePart type="date">1880-1958</mods:namePart>
             <mods:displayForm>Wythe, Margaret W.,  (Margaret Wilhelmina), 1880-1958</mods:displayForm>
         </mods:name>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Alameda County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, San Francisco County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Santa Clara County</mods:geographic>
+        </mods:subject>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/WytheMW/v1722_s3</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -196,6 +167,9 @@
             <mods:namePart type="date">1880-1958</mods:namePart>
             <mods:displayForm>Wythe, Margaret W.,  (Margaret Wilhelmina), 1880-1958</mods:displayForm>
         </mods:name>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Marin County</mods:geographic>
+        </mods:subject>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/WytheMW/v1722_s4</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -221,6 +195,12 @@
             <mods:namePart type="date">1880-1958</mods:namePart>
             <mods:displayForm>Wythe, Margaret W.,  (Margaret Wilhelmina), 1880-1958</mods:displayForm>
         </mods:name>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Alameda County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Marin County</mods:geographic>
+        </mods:subject>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/WytheMW/v1722_s5</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -246,6 +226,9 @@
             <mods:namePart type="date">1880-1958</mods:namePart>
             <mods:displayForm>Wythe, Margaret W.,  (Margaret Wilhelmina), 1880-1958</mods:displayForm>
         </mods:name>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Monterey County</mods:geographic>
+        </mods:subject>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/WytheMW/v1722_s6</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -271,6 +254,9 @@
             <mods:namePart type="date">1880-1958</mods:namePart>
             <mods:displayForm>Wythe, Margaret W.,  (Margaret Wilhelmina), 1880-1958</mods:displayForm>
         </mods:name>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Alameda County</mods:geographic>
+        </mods:subject>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/WytheMW/v1722_s7</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -296,6 +282,9 @@
             <mods:namePart type="date">1880-1958</mods:namePart>
             <mods:displayForm>Wythe, Margaret W.,  (Margaret Wilhelmina), 1880-1958</mods:displayForm>
         </mods:name>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Sonoma County</mods:geographic>
+        </mods:subject>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/WytheMW/v1722_s8</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -321,6 +310,68 @@
             <mods:namePart type="date">1880-1958</mods:namePart>
             <mods:displayForm>Wythe, Margaret W.,  (Margaret Wilhelmina), 1880-1958</mods:displayForm>
         </mods:name>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Alameda County</mods:geographic>
+        </mods:subject>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/WytheMW/v1722_s9</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 10: Vicinity of Philo, Mendocino Co., Calif. 1930</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1930-05-29/1930-06-03</mods:dateCreated>
+            <mods:dateCreated point="start">1930</mods:dateCreated>
+            <mods:dateCreated point="end">1930</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Wythe</mods:namePart>
+            <mods:namePart type="given">Margaret W.</mods:namePart>
+            <mods:namePart type="date">1880-1958</mods:namePart>
+            <mods:displayForm>Wythe, Margaret W.,  (Margaret Wilhelmina), 1880-1958</mods:displayForm>
+        </mods:name>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Mendocino County</mods:geographic>
+        </mods:subject>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/WytheMW/v1722_s10</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 11: Santa Cruz Co., Alameda Co., Calif. 1932</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1932-04-29/1932-04-30</mods:dateCreated>
+            <mods:dateCreated point="start">1932</mods:dateCreated>
+            <mods:dateCreated point="end">1932</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Wythe</mods:namePart>
+            <mods:namePart type="given">Margaret W.</mods:namePart>
+            <mods:namePart type="date">1880-1958</mods:namePart>
+            <mods:displayForm>Wythe, Margaret W.,  (Margaret Wilhelmina), 1880-1958</mods:displayForm>
+        </mods:name>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Alameda County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Santa Cruz County</mods:geographic>
+        </mods:subject>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/WytheMW/v1722_s11</mods:identifier>
     </mods:relatedItem>
 </mods:mods>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <mods:mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <mods:titleInfo>
-        <mods:title>Field Notes: Stebbins R.C. 1959-62, (also J. LaPointe 1961, T.I. McIntyre 1961, T. Rodgers 1959-60, A. Culbertson 1954, B. Gates 1959, C.W. Brown 1962)</mods:title>
+        <mods:title>Field Notes: Stebbins R.C. 1959-62, (also J. LaPointe 1961, T.I. McIntyre 1961, T. Rodgers 1959-60, A. Culbertson 1954, B. Gates 1959, C.W. Brown 1962), v1640</mods:title>
     </mods:titleInfo>
     <mods:language>
         <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
@@ -24,7 +24,7 @@
     <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/StebbinsRC/v1640</mods:identifier>
     <mods:relatedItem type="constituent">
         <mods:titleInfo>
-            <mods:title>Stebbins, R.C. Aug 12 1959-Apr 1961 AZ, NM, CA Cos. Catalog nos. 8865-9114 Journal</mods:title>
+            <mods:title>Section 1: Stebbins, R.C. Aug 12 1959-Apr 1961 AZ, NM, CA Cos. Catalog nos. 8865-9114 Journal</mods:title>
         </mods:titleInfo>
         <mods:language>
             <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
@@ -71,7 +71,7 @@
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
         <mods:titleInfo>
-            <mods:title>Stebbins, R.C. Apr 26-Sep 1 1961 S CA Cos. and AZ. Catalog nos. 9115-9439 Journal</mods:title>
+            <mods:title>Section 2: Stebbins, R.C. Apr 26-Sep 1 1961 S CA Cos. and AZ. Catalog nos. 9115-9439 Journal</mods:title>
         </mods:titleInfo>
         <mods:language>
             <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
@@ -116,7 +116,7 @@
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
         <mods:titleInfo>
-            <mods:title>Stebbins, R.C. Aug 28 1961-Mar 11 1962 N CA Cos. Catalog nos. 9440-9708 Journal</mods:title>
+            <mods:title>Section 3: Stebbins, R.C. Aug 28 1961-Mar 11 1962 N CA Cos. Catalog nos. 9440-9708 Journal</mods:title>
         </mods:titleInfo>
         <mods:language>
             <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
@@ -143,7 +143,7 @@
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
         <mods:titleInfo>
-            <mods:title>Stebbins, R.C. Mar 18-Dec 1 1962 AZ (SW Res. Station), S CA, Catalog nos. 9709-10160</mods:title>
+            <mods:title>Section 4: Stebbins, R.C. Mar 18-Dec 1 1962 AZ (SW Res. Station), S CA, Catalog nos. 9709-10160</mods:title>
         </mods:titleInfo>
         <mods:language>
             <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
@@ -180,7 +180,7 @@
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
         <mods:titleInfo>
-            <mods:title>Stebbins, R.C. Species Accounts Amphibians Reptiles Birds</mods:title>
+            <mods:title>Section 5: Stebbins, R.C. Species Accounts Amphibians Reptiles Birds</mods:title>
         </mods:titleInfo>
         <mods:language>
             <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>

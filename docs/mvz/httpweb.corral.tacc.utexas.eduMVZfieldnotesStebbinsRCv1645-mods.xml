@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <mods:mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <mods:titleInfo>
-        <mods:title>Field Notes: Stebbins R.C. 1968, (also J.A. Endler 1968)</mods:title>
+        <mods:title>Field Notes: Stebbins R.C. 1968, (also J.A. Endler 1968), v1645</mods:title>
     </mods:titleInfo>
     <mods:language>
         <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
@@ -24,7 +24,7 @@
     <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/StebbinsRC/v1645</mods:identifier>
     <mods:relatedItem type="constituent">
         <mods:titleInfo>
-            <mods:title>1968 Catalog #11681-11743 California Mexico: Baja Misc. Localities</mods:title>
+            <mods:title>Section 1: 1968 Catalog #11681-11743 California Mexico: Baja Misc. Localities</mods:title>
         </mods:titleInfo>
         <mods:language>
             <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
@@ -51,7 +51,7 @@
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
         <mods:titleInfo>
-            <mods:title>1968 Journal (incl. notes by J.A. Endler) California Mexico: Baja</mods:title>
+            <mods:title>Section 2: 1968 Journal (incl. notes by J.A. Endler) California Mexico: Baja</mods:title>
         </mods:titleInfo>
         <mods:language>
             <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
@@ -88,7 +88,7 @@
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
         <mods:titleInfo>
-            <mods:title>1968 Species Account (incl. notes by J.A. Endler K. Rademaker, and A. Johnson)</mods:title>
+            <mods:title>Section 3: 1968 Species Account (incl. notes by J.A. Endler K. Rademaker, and A. Johnson)</mods:title>
         </mods:titleInfo>
         <mods:language>
             <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>

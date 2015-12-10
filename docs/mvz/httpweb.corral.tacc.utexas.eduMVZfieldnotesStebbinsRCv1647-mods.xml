@@ -24,7 +24,7 @@
     <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/StebbinsRC/v1647</mods:identifier>
     <mods:relatedItem type="constituent">
         <mods:titleInfo>
-            <mods:title>R.C. Stebbins 1970 Catalogue #11768-11777</mods:title>
+            <mods:title>Section 1: R.C. Stebbins 1970 Catalogue #11768-11777</mods:title>
         </mods:titleInfo>
         <mods:language>
             <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
@@ -48,7 +48,7 @@
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
         <mods:titleInfo>
-            <mods:title>R.C. Stebbins, 1970 Journal Cifornia (incl. notes by D.A. Mullen) Arizona</mods:title>
+            <mods:title>Section 2: R.C. Stebbins, 1970 Journal Cifornia (incl. notes by D.A. Mullen) Arizona</mods:title>
         </mods:titleInfo>
         <mods:language>
             <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
@@ -81,7 +81,7 @@
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
         <mods:titleInfo>
-            <mods:title>R.C. Stebbins 1970 Species Accounts (incl. notes by students and others)</mods:title>
+            <mods:title>Section 3: R.C. Stebbins 1970 Species Accounts (incl. notes by students and others)</mods:title>
         </mods:titleInfo>
         <mods:language>
             <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
@@ -114,7 +114,7 @@
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
         <mods:titleInfo>
-            <mods:title>R.C. Stebbins 1971 Catalogue #11778-11798</mods:title>
+            <mods:title>Section 4: R.C. Stebbins 1971 Catalogue #11778-11798</mods:title>
         </mods:titleInfo>
         <mods:language>
             <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
@@ -138,7 +138,7 @@
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
         <mods:titleInfo>
-            <mods:title>R.C. Stebbins 1971 Journal California Oregon</mods:title>
+            <mods:title>Section 5: R.C. Stebbins 1971 Journal California Oregon</mods:title>
         </mods:titleInfo>
         <mods:language>
             <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
@@ -162,7 +162,7 @@
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
         <mods:titleInfo>
-            <mods:title>R.C. Stebbins 1971 Species Accounts (incl. notes by students and others)</mods:title>
+            <mods:title>Section 6: R.C. Stebbins 1971 Species Accounts (incl. notes by students and others)</mods:title>
         </mods:titleInfo>
         <mods:language>
             <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>

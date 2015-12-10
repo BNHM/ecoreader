@@ -77,7 +77,7 @@
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
         <mods:titleInfo>
-            <mods:title>Section 2: S.B.  Benson 1947 Species Accounts</mods:title>
+            <mods:title>Section 2: S.B. Benson 1947 Species Accounts</mods:title>
         </mods:titleInfo>
         <mods:language>
             <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
