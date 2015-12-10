@@ -3,11 +3,8 @@
 <div id="validation" class="section">
     <div class="row" id="query">
         <p>
-            BETA Version! Search and read scanned historical field notebooks from the Museum of Vertebrate Zoology.
             <br>
-            This service replaces the MVZ Archival Field Notebooks Query Page.  We are actively updating data,
-            and should be complete November 1st.  Meanwhile, a more limited selection of archives are searchable
-             here.  For any inquiries or issues contact <b>mvzarchives@berkeley.edu</b>.
+           Search the Museum of Vertebrate Zoology Field Notebook collection.  For any inquiries or issues contact <b>mvzarchives@berkeley.edu</b>.
         </p>
 
 
