@@ -3,7 +3,6 @@
 <div id="validation" class="section">
     <div class="row" id="query">
         <p>
-            <br>
            Search the Museum of Vertebrate Zoology Field Notebook collection.  For any inquiries or issues contact <b>mvzarchives@berkeley.edu</b>.
         </p>
 

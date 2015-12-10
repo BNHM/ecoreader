@@ -73,8 +73,10 @@ public class importer {
 //                    System.out.println("the modified url being sent: " + toImport.get(0));
 //                }
 
-                sqlImporter.importNotebooks(toImport);
-                sqlImporter.removeNotebooksInList(removed);
+                if (toImport.size() > 0)
+                    sqlImporter.importNotebooks(toImport);
+                if (removed.size() > 0)
+                    sqlImporter.removeNotebooksInList(removed);
             } catch (validationException e) {
                 throw new ServerErrorException(e);
             }
