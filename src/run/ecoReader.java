@@ -133,7 +133,7 @@ public class ecoReader {
 
             // DEBUG
             sql.append(" LIMIT 10");
-            System.out.println(sql.toString() + "volume_id = "+ volume_id + ",familyName=" + familyName  + ",givenName=" + givenName);
+            //System.out.println(sql.toString() + "volume_id = "+ volume_id + ",familyName=" + familyName  + ",givenName=" + givenName);
 
             stmt = conn.prepareStatement(sql.toString());
             int curr = 1;
@@ -208,7 +208,7 @@ public class ecoReader {
                         "THEN 'TRUE' ELSE 'FALSE' END AS isScanned " +
                         "FROM section WHERE volume_id = ? ORDER BY section_identifier";
                 // DEBUG
-                System.out.println(sql + ",volume_id="+ vol_id);
+               // System.out.println(sql + ",volume_id="+ vol_id);
 
                 stmt = conn.prepareStatement(sql);
                 stmt.setInt(1, vol_id);

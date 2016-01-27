@@ -53,13 +53,19 @@ function populateVolumes() {
             html += list_group_tpl.replace("{list}", list);
         });
 
-        $("#results").html(html).show();
-        $(".view_section").click(function() {
-            showSection(this.dataset.id);
-        });
-        $(".read_section").click(function() {
-            readSection(this.dataset.id);
-        });
+
+        if (!html) {
+            $("#results").html("</b>No results to show for your search!</b>").show();
+        } else {
+            $("#results").html(html).show();
+            $(".view_section").click(function() {
+                showSection(this.dataset.id);
+            });
+            $(".read_section").click(function() {
+                readSection(this.dataset.id);
+            });
+        }
+
     }).fail(function(jqXHR,textStatus) {
         if (textStatus == "timeout") {
 	        showMessage ("Timed out waiting for response! Try again later or reduce the number of graphs you are querying. If the problem persists, contact the System Administrator.");
