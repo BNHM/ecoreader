@@ -131,6 +131,9 @@ public class ecoReader {
             // author in most cases, we only want to get distinct volumes
             sql.append("\nGROUP BY v.volume_id");
 
+            sql.append("\nORDER BY v.startDate");
+
+
             // DEBUG
             sql.append(" LIMIT 100");
             //System.out.println(sql.toString() + "volume_id = "+ volume_id + ",familyName=" + familyName  + ",givenName=" + givenName);
