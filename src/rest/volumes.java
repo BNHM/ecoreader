@@ -52,7 +52,8 @@ public class volumes {
         String familyName = "";
         String givenName = "";
         if (author !=null && !author.trim().equals("")) {
-            String[] names = author.split(",");
+            // Limit the split to just two elements-- useful in cases where given name has a comma in it
+            String[] names = author.split(",",2);
             familyName = names[0].trim();
             givenName = names[1].trim();
         } else {
