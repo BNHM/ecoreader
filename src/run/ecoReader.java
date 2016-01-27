@@ -132,7 +132,7 @@ public class ecoReader {
             sql.append("\nGROUP BY v.volume_id");
 
             // DEBUG
-            sql.append(" LIMIT 10");
+            sql.append(" LIMIT 100");
             //System.out.println(sql.toString() + "volume_id = "+ volume_id + ",familyName=" + familyName  + ",givenName=" + givenName);
 
             stmt = conn.prepareStatement(sql.toString());
