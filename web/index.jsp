@@ -1,15 +1,18 @@
 <%@ include file="header-home.jsp" %>
 
-<div id="validation" class="section">
-    <div class="row" id="query">
-        <p>
-           Search the Museum of Vertebrate Zoology Field Notebook collection.  For any inquiries or issues contact <b>mvzarchives@berkeley.edu</b>.
-        </p>
+	<div id="site_content">
+	  <div id="content">
+		<div class="content_item">
 
+            <div id="validation" class="section">
+                <div class="row" id="query">
+                   <!-- <h1>Welcome to the EcoReader</h1>
+      	            <p>This portal provides access to digitized field notes from the Museum of Vertebrate Zoology Archives. Field notes that have not been scanned are also listed for reference. We will continue to add more volumes as they are cataloged. Please contact the Archives at mvzarchives@berkeley.edu.com for more information.</p>
+      	            -->
 
         <div class="form-horizontal my-form">
           <div class="form-group form-group-sm" id="author_row">
-            <label for="author" class="col-md-2 control-label">Author Name</label>
+            <label for="author" class="control-label col-md-2" style="font-size: 14px">Author Name</label>
             <div class="col-md-3" id="author_combobox">
               <select class="combobox form-control" width=20 id="authors">
                         <option value=''>Loading authors ...</option>
@@ -55,7 +58,11 @@
         <div class="row" id="results">
         </div>
 
-</div>
+</div><!--close the validation div-->
+
+</div><!--close content_container-->
+	</div><!--close site_content-->
+  </div><!--close main-->
 
 
 <script>
