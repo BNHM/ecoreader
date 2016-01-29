@@ -205,6 +205,9 @@ ul#menu li.current a, ul#menu li:hover a
 author drop-down box to show. We need to find some way to make this go all
 the way down to the footer*/
   height:600px;
+  /* also add a scrollbar here, which is a bit of hack, not sure if this
+  is the best way to go about things */
+  overflow-y: auto;
   margin-bottom: 10px;
   float: left;}
 
