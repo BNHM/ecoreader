@@ -46,6 +46,12 @@
             <mods:namePart type="date">1912-1996</mods:namePart>
             <mods:displayForm>Johnson, David H.,  (David Horn), 1912-1996</mods:displayForm>
         </mods:name>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Humboldt County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Lake County</mods:geographic>
+        </mods:subject>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/JohnsonDH/v1375_s1</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -96,6 +102,9 @@
             <mods:namePart type="date">1912-1996</mods:namePart>
             <mods:displayForm>Johnson, David H.,  (David Horn), 1912-1996</mods:displayForm>
         </mods:name>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, San Bernardino County</mods:geographic>
+        </mods:subject>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/JohnsonDH/v1375_s3</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -146,6 +155,9 @@
             <mods:namePart type="date">1912-1996</mods:namePart>
             <mods:displayForm>Johnson, David H.,  (David Horn), 1912-1996</mods:displayForm>
         </mods:name>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, San Bernardino County</mods:geographic>
+        </mods:subject>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/JohnsonDH/v1375_s5</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">

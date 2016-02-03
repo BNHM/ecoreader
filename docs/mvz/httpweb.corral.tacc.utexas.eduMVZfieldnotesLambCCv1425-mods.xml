@@ -46,6 +46,12 @@
             <mods:namePart type="date">1883-</mods:namePart>
             <mods:displayForm>Lamb, Chester Converse, 1883-</mods:displayForm>
         </mods:name>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Nevada, Lander County </mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Nevada, Nye County</mods:geographic>
+        </mods:subject>
         <mods:physicalDescription>
             <mods:extent>126 pages</mods:extent>
         </mods:physicalDescription>
@@ -74,6 +80,9 @@
             <mods:namePart type="date">1883-</mods:namePart>
             <mods:displayForm>Lamb, Chester Converse, 1883-</mods:displayForm>
         </mods:name>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Alameda County</mods:geographic>
+        </mods:subject>
         <mods:physicalDescription>
             <mods:extent>4 pages</mods:extent>
         </mods:physicalDescription>
@@ -102,6 +111,9 @@
             <mods:namePart type="date">1883-</mods:namePart>
             <mods:displayForm>Lamb, Chester Converse, 1883-</mods:displayForm>
         </mods:name>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Nevada, White Pine County</mods:geographic>
+        </mods:subject>
         <mods:physicalDescription>
             <mods:extent>72 pages</mods:extent>
         </mods:physicalDescription>

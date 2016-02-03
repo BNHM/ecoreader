@@ -44,6 +44,12 @@
             <mods:namePart type="given">Kenneth J.</mods:namePart>
             <mods:displayForm>Kingsley, Kenneth J.</mods:displayForm>
         </mods:name>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Inyo County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Nevada, Nye County</mods:geographic>
+        </mods:subject>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/KingsleyKJ/v1390_s1</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">

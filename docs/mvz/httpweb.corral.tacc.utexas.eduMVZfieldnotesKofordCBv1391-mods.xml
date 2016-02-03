@@ -44,6 +44,12 @@
             <mods:namePart type="given">Carl B.</mods:namePart>
             <mods:displayForm>Koford, Carl B., 1915-1979</mods:displayForm>
         </mods:name>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Imperial County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, San Bernardino County</mods:geographic>
+        </mods:subject>
         <mods:physicalDescription>
             <mods:extent>37 pages</mods:extent>
         </mods:physicalDescription>

@@ -22,36 +22,6 @@
         <mods:namePart type="date">1932-2003</mods:namePart>
         <mods:displayForm>Johnson, Ned K., 1932-2003</mods:displayForm>
     </mods:name>
-    <mods:subject authority="arctos">
-        <mods:geographic>North America, United States, California, Alpine County</mods:geographic>
-    </mods:subject>
-    <mods:subject authority="arctos">
-        <mods:geographic>North America, United States, Nevada, Carson City</mods:geographic>
-    </mods:subject>
-    <mods:subject authority="arctos">
-        <mods:geographic>North America, United States, Nevada, Churchill County</mods:geographic>
-    </mods:subject>
-    <mods:subject authority="arctos">
-        <mods:geographic>North America, United States, Nevada, Clark County</mods:geographic>
-    </mods:subject>
-    <mods:subject authority="arctos">
-        <mods:geographic>North America, United States, Nevada, Douglas County</mods:geographic>
-    </mods:subject>
-    <mods:subject authority="arctos">
-        <mods:geographic>North America, United States, Nevada, Esmeralda County</mods:geographic>
-    </mods:subject>
-    <mods:subject authority="arctos">
-        <mods:geographic>North America, United States, Nevada, Lyon County</mods:geographic>
-    </mods:subject>
-    <mods:subject authority="arctos">
-        <mods:geographic>North America, United States, Nevada, Nye County</mods:geographic>
-    </mods:subject>
-    <mods:subject authority="arctos">
-        <mods:geographic>North America, United States, Nevada, Pershing County</mods:geographic>
-    </mods:subject>
-    <mods:subject authority="arctos">
-        <mods:geographic>North America, United States, Nevada, Washoe County</mods:geographic>
-    </mods:subject>
     <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/JohnsonNK/v4017</mods:identifier>
     <mods:relatedItem type="constituent">
         <mods:titleInfo>

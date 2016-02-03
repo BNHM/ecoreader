@@ -158,6 +158,18 @@
             <mods:namePart type="date">1879-1967</mods:namePart>
             <mods:displayForm>Kellogg, Louise, 1879-1967</mods:displayForm>
         </mods:name>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Imperial County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Riverside County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, San Bernardino County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Solano County</mods:geographic>
+        </mods:subject>
         <mods:physicalDescription>
             <mods:extent>36 pages</mods:extent>
         </mods:physicalDescription>

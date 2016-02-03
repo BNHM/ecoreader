@@ -46,6 +46,9 @@
             <mods:namePart type="date">1883-</mods:namePart>
             <mods:displayForm>Lamb, Chester Converse, 1883-</mods:displayForm>
         </mods:name>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Alameda County</mods:geographic>
+        </mods:subject>
         <mods:physicalDescription>
             <mods:extent>3 pages</mods:extent>
         </mods:physicalDescription>
