@@ -14,8 +14,9 @@ import java.sql.SQLException;
 import java.util.Iterator;
 
 /**
- * natureReader class contains the nuts and bolt functions to parse XML files for Field Notebooks
- * in various formats.  Currently, MODS is the only supported format but the system is
+ * Base functions for parsing input files.
+ * This class is typically called from other classes which create this as an object for further processing.
+ *  Currently, MODS is the only supported input format but the system is
  * designed to be extensible to any other formats (MARC, Dublin Core, etc).
  * <p/>
  * This class is the primary entry point to the application when testing in the development

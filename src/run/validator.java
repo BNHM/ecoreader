@@ -4,7 +4,8 @@ import java.io.File;
 import java.util.ArrayList;
 
 /**
- * Validate MODS files.  accepts a directory path as an argument, or
+ * Validate MODS files.
+ * Accepts a directory path as an argument, or
  * if the argument is a file it validates just that file.
  */
 public class validator {

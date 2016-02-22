@@ -11,7 +11,7 @@ import java.util.ArrayList;
 import java.util.Iterator;
 
 /**
- * This class is the mechanism for building images at various resolutions for use in the
+ * Build images at various resolutions for use in the
  * ecoReader library.  We don't want to run this so files get put into the repo as there will
  * be many images.
  */
