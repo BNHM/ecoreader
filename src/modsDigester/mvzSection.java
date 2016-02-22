@@ -140,7 +140,7 @@ public class mvzSection implements sectionMetadata {
                     String filename = file.attr("href");
                     if (filename.contains("tif") || filename.contains("TIF")) {
                         addPage(new mvzTaccPage(identifier, filename));
-                        System.out.print("+");
+                        //System.out.print("+");
                     }
                 }
             } else {
@@ -153,7 +153,7 @@ public class mvzSection implements sectionMetadata {
                 }
             }
         } catch (IOException e) {
-            System.out.print("-");
+            //System.out.print("-");
    //         System.out.println("   404:" + urlString);
         }
 
