@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<mods:mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mods:titleInfo>
+        <mods:title>Field Notes: Bell D.A. 1988, v637</mods:title>
+    </mods:titleInfo>
+    <mods:language>
+        <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+        <mods:languageTerm type="text">English</mods:languageTerm>
+    </mods:language>
+    <mods:originInfo>
+        <mods:dateCreated>1988-02-26/1989-01-09</mods:dateCreated>
+        <mods:dateCreated point="start">1988</mods:dateCreated>
+        <mods:dateCreated point="end">1989</mods:dateCreated>
+    </mods:originInfo>
+    <mods:name type="personal" authority="local">
+        <mods:role>
+            <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+            <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+        </mods:role>
+        <mods:namePart type="family">Bell</mods:namePart>
+        <mods:namePart type="given">Douglas A.</mods:namePart>
+        <mods:displayForm>Bell, Douglas A.</mods:displayForm>
+    </mods:name>
+    <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/BellDA/v637</mods:identifier>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 0: General Index</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1988-02-26/1989-01-09</mods:dateCreated>
+            <mods:dateCreated point="start">1988</mods:dateCreated>
+            <mods:dateCreated point="end">1989</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="local">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Bell</mods:namePart>
+            <mods:namePart type="given">Douglas A.</mods:namePart>
+            <mods:displayForm>Bell, Douglas A.</mods:displayForm>
+        </mods:name>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/BellDA/v637_s0</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 1: California: Ventura, Santa Barbara, San Luis Obispo, Monterey, San Francisco, Marin, Mendocino, Humboldt, San Mateo Cos. Oregon: Coos, Clatsop. Washington: Thurston, Grays Harbor, Clallam, San Juan Cos. Canada: British Columbia.</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1988-03-05/1988-07-29</mods:dateCreated>
+            <mods:dateCreated point="start">1988</mods:dateCreated>
+            <mods:dateCreated point="end">1988</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="local">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Bell</mods:namePart>
+            <mods:namePart type="given">Douglas A.</mods:namePart>
+            <mods:displayForm>Bell, Douglas A.</mods:displayForm>
+        </mods:name>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/BellDA/v637_s1</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 2: D.A. Bell, 1988, Journal: List of Localities, California</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1988-02-26/1989-01-09</mods:dateCreated>
+            <mods:dateCreated point="start">1988</mods:dateCreated>
+            <mods:dateCreated point="end">1989</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="local">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Bell</mods:namePart>
+            <mods:namePart type="given">Douglas A.</mods:namePart>
+            <mods:displayForm>Bell, Douglas A.</mods:displayForm>
+        </mods:name>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/BellDA/v637_s2</mods:identifier>
+    </mods:relatedItem>
+</mods:mods>

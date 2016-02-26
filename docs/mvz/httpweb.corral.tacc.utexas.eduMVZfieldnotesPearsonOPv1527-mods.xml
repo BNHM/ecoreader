@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<mods:mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mods:titleInfo>
+        <mods:title>Field Notes: Pearson O.P. 1985, Argentina, v1527</mods:title>
+    </mods:titleInfo>
+    <mods:language>
+        <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+        <mods:languageTerm type="text">English</mods:languageTerm>
+    </mods:language>
+    <mods:originInfo>
+        <mods:dateCreated>1984-10-01/1985-12-31</mods:dateCreated>
+        <mods:dateCreated point="start">1984</mods:dateCreated>
+        <mods:dateCreated point="end">1985</mods:dateCreated>
+    </mods:originInfo>
+    <mods:name type="personal" authority="LCHS">
+        <mods:role>
+            <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+            <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+        </mods:role>
+        <mods:namePart type="family">Pearson</mods:namePart>
+        <mods:namePart type="given">Oliver P.</mods:namePart>
+        <mods:namePart type="date">1915-2003</mods:namePart>
+        <mods:displayForm>Pearson, Oliver P.,  (Oliver Payne), 1915-2003</mods:displayForm>
+    </mods:name>
+    <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/PearsonOP/v1527</mods:identifier>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 1: O.P. Pearson 1985 (spring) Catalogue #7231-7274 Argentina</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1985-04-14/1985-05-19</mods:dateCreated>
+            <mods:dateCreated point="start">1985</mods:dateCreated>
+            <mods:dateCreated point="end">1985</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Pearson</mods:namePart>
+            <mods:namePart type="given">Oliver P.</mods:namePart>
+            <mods:namePart type="date">1915-2003</mods:namePart>
+            <mods:displayForm>Pearson, Oliver P.,  (Oliver Payne), 1915-2003</mods:displayForm>
+        </mods:name>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/PearsonOP/v1527_s1</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 2: O.P. Pearson 1985 (spring) Journal: Argentina</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1985-04-12/1985-05-21</mods:dateCreated>
+            <mods:dateCreated point="start">1985</mods:dateCreated>
+            <mods:dateCreated point="end">1985</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Pearson</mods:namePart>
+            <mods:namePart type="given">Oliver P.</mods:namePart>
+            <mods:namePart type="date">1915-2003</mods:namePart>
+            <mods:displayForm>Pearson, Oliver P.,  (Oliver Payne), 1915-2003</mods:displayForm>
+        </mods:name>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/PearsonOP/v1527_s2</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 3: O.P. Pearson 1985 (spring) Species Accounts: Argentina</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1985-04-21/1985-05-12</mods:dateCreated>
+            <mods:dateCreated point="start">1985</mods:dateCreated>
+            <mods:dateCreated point="end">1985</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Pearson</mods:namePart>
+            <mods:namePart type="given">Oliver P.</mods:namePart>
+            <mods:namePart type="date">1915-2003</mods:namePart>
+            <mods:displayForm>Pearson, Oliver P.,  (Oliver Payne), 1915-2003</mods:displayForm>
+        </mods:name>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/PearsonOP/v1527_s3</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 4: O.P. Pearson 1985 (fall) Catalogue #7275-7336 (Index p. 135): Argentina</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1985-10-28/1985-12-14</mods:dateCreated>
+            <mods:dateCreated point="start">1985</mods:dateCreated>
+            <mods:dateCreated point="end">1985</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Pearson</mods:namePart>
+            <mods:namePart type="given">Oliver P.</mods:namePart>
+            <mods:namePart type="date">1915-2003</mods:namePart>
+            <mods:displayForm>Pearson, Oliver P.,  (Oliver Payne), 1915-2003</mods:displayForm>
+        </mods:name>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/PearsonOP/v1527_s4</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 5: O.P. Pearson 1985 (fall) Journal: Argentina</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1985-10-17/1985-12-16</mods:dateCreated>
+            <mods:dateCreated point="start">1985</mods:dateCreated>
+            <mods:dateCreated point="end">1985</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Pearson</mods:namePart>
+            <mods:namePart type="given">Oliver P.</mods:namePart>
+            <mods:namePart type="date">1915-2003</mods:namePart>
+            <mods:displayForm>Pearson, Oliver P.,  (Oliver Payne), 1915-2003</mods:displayForm>
+        </mods:name>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/PearsonOP/v1527_s5</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 6: O.P. Pearson 1985 (fall) Species Accounts: Argentina</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1985-10-20/1985-12-11</mods:dateCreated>
+            <mods:dateCreated point="start">1985</mods:dateCreated>
+            <mods:dateCreated point="end">1985</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Pearson</mods:namePart>
+            <mods:namePart type="given">Oliver P.</mods:namePart>
+            <mods:namePart type="date">1915-2003</mods:namePart>
+            <mods:displayForm>Pearson, Oliver P.,  (Oliver Payne), 1915-2003</mods:displayForm>
+        </mods:name>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/PearsonOP/v1527_s6</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 7: O.P. Pearson October 1984-December 1985 Index: Argentina</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1984-10-01/1985-12-31</mods:dateCreated>
+            <mods:dateCreated point="start">1984</mods:dateCreated>
+            <mods:dateCreated point="end">1985</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Pearson</mods:namePart>
+            <mods:namePart type="given">Oliver P.</mods:namePart>
+            <mods:namePart type="date">1915-2003</mods:namePart>
+            <mods:displayForm>Pearson, Oliver P.,  (Oliver Payne), 1915-2003</mods:displayForm>
+        </mods:name>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/PearsonOP/v1527_s7</mods:identifier>
+    </mods:relatedItem>
+</mods:mods>

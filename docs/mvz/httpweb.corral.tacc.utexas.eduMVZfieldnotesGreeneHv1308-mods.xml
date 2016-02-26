@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<mods:mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mods:titleInfo>
+        <mods:title>Field Notes: Greene H. 1991-98, v1308</mods:title>
+    </mods:titleInfo>
+    <mods:language>
+        <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+        <mods:languageTerm type="text">English</mods:languageTerm>
+    </mods:language>
+    <mods:originInfo>
+        <mods:dateCreated>1991-03-25/1998-08-17</mods:dateCreated>
+        <mods:dateCreated point="start">1991</mods:dateCreated>
+        <mods:dateCreated point="end">1998</mods:dateCreated>
+    </mods:originInfo>
+    <mods:name type="personal" authority="LCHS">
+        <mods:role>
+            <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+            <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+        </mods:role>
+        <mods:namePart type="family">Greene</mods:namePart>
+        <mods:namePart type="given">Harry W.</mods:namePart>
+        <mods:namePart type="date">1945-</mods:namePart>
+        <mods:displayForm>Greene, Harry W., 1945-</mods:displayForm>
+    </mods:name>
+    <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GreeneH/v1308</mods:identifier>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 1: Catalogue #2147-3130</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1991-03-27/1997-06-18</mods:dateCreated>
+            <mods:dateCreated point="start">1991</mods:dateCreated>
+            <mods:dateCreated point="end">1997</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Greene</mods:namePart>
+            <mods:namePart type="given">Harry W.</mods:namePart>
+            <mods:namePart type="date">1945-</mods:namePart>
+            <mods:displayForm>Greene, Harry W., 1945-</mods:displayForm>
+        </mods:name>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GreeneH/v1308_s1</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 2: Arizona: Pima, Cochise Cos., California: Contra Costa, Siskiyou Cos., Costa Rica: Santa Rosa Nat. Park, La Selva B.S., New Mexico:Hidalgo Co.</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1991-03-25/1991-09-30</mods:dateCreated>
+            <mods:dateCreated point="start">1991</mods:dateCreated>
+            <mods:dateCreated point="end">1991</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Greene</mods:namePart>
+            <mods:namePart type="given">Harry W.</mods:namePart>
+            <mods:namePart type="date">1945-</mods:namePart>
+            <mods:displayForm>Greene, Harry W., 1945-</mods:displayForm>
+        </mods:name>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GreeneH/v1308_s2</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 3: Arizona: Cochise, Pima Cos., Calif: San Bernadino Co.</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1992-01-11/1992-10-11</mods:dateCreated>
+            <mods:dateCreated point="start">1992</mods:dateCreated>
+            <mods:dateCreated point="end">1992</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Greene</mods:namePart>
+            <mods:namePart type="given">Harry W.</mods:namePart>
+            <mods:namePart type="date">1945-</mods:namePart>
+            <mods:displayForm>Greene, Harry W., 1945-</mods:displayForm>
+        </mods:name>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GreeneH/v1308_s3</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 4: Arizona: Cochise Co.</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1993-07-24/1993-08-08</mods:dateCreated>
+            <mods:dateCreated point="start">1993</mods:dateCreated>
+            <mods:dateCreated point="end">1993</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Greene</mods:namePart>
+            <mods:namePart type="given">Harry W.</mods:namePart>
+            <mods:namePart type="date">1945-</mods:namePart>
+            <mods:displayForm>Greene, Harry W., 1945-</mods:displayForm>
+        </mods:name>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GreeneH/v1308_s4</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 5: Calif: Contra Costa, San Joaquin Cos., one color photo Hypsiglena torquata, Temperature/humidity tables</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1994-04-30/1995-05-26</mods:dateCreated>
+            <mods:dateCreated point="start">1994</mods:dateCreated>
+            <mods:dateCreated point="end">1995</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Greene</mods:namePart>
+            <mods:namePart type="given">Harry W.</mods:namePart>
+            <mods:namePart type="date">1945-</mods:namePart>
+            <mods:displayForm>Greene, Harry W., 1945-</mods:displayForm>
+        </mods:name>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GreeneH/v1308_s5</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 6: Hong Kong, Vietnam: Tam Dao</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1997-05-27/1997-06-19</mods:dateCreated>
+            <mods:dateCreated point="start">1997</mods:dateCreated>
+            <mods:dateCreated point="end">1997</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Greene</mods:namePart>
+            <mods:namePart type="given">Harry W.</mods:namePart>
+            <mods:namePart type="date">1945-</mods:namePart>
+            <mods:displayForm>Greene, Harry W., 1945-</mods:displayForm>
+        </mods:name>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GreeneH/v1308_s6</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 7: Arizona: Cochise Co.</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1998-07-28/1998-08-17</mods:dateCreated>
+            <mods:dateCreated point="start">1998</mods:dateCreated>
+            <mods:dateCreated point="end">1998</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Greene</mods:namePart>
+            <mods:namePart type="given">Harry W.</mods:namePart>
+            <mods:namePart type="date">1945-</mods:namePart>
+            <mods:displayForm>Greene, Harry W., 1945-</mods:displayForm>
+        </mods:name>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GreeneH/v1308_s7</mods:identifier>
+    </mods:relatedItem>
+</mods:mods>

@@ -1,12 +1,11 @@
 package run;
 
-import renderer.sqlImporter;
-
 import java.io.File;
 import java.util.ArrayList;
 
 /**
- * Validate MODS files.  accepts a directory path as an argument, or
+ * Validate MODS files.
+ * Accepts a directory path as an argument, or
  * if the argument is a file it validates just that file.
  */
 public class validator {
@@ -26,10 +25,12 @@ public class validator {
             // Checking dir.isDirectory() above would not be sufficient
             // to avoid race conditions with another process that deletes
             // directories.
+            //System.out.println("validating " + directoryPath);
             System.out.println("validating " + directoryPath);
-            filesAsStrings.add(directoryPath);
+            filesAsStrings.add("file:///" + directoryPath);
         }
         // tell it to ignore sections as second argument
         System.out.println(sqlImporter.validateNotebooks(filesAsStrings, true));
+        System.out.println("finished");
     }
 }

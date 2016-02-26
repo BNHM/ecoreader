@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<mods:mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mods:titleInfo>
+        <mods:title>Field Notes: White H.G. 1918-19, v1711</mods:title>
+    </mods:titleInfo>
+    <mods:language>
+        <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+        <mods:languageTerm type="text">English</mods:languageTerm>
+    </mods:language>
+    <mods:originInfo>
+        <mods:dateCreated>1918-04-15/1919-02-20</mods:dateCreated>
+        <mods:dateCreated point="start">1918</mods:dateCreated>
+        <mods:dateCreated point="end">1919</mods:dateCreated>
+    </mods:originInfo>
+    <mods:name type="personal" authority="local">
+        <mods:role>
+            <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+            <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+        </mods:role>
+        <mods:namePart type="family">White</mods:namePart>
+        <mods:namePart type="given">Halstead G.</mods:namePart>
+        <mods:displayForm>White, Halstead G.</mods:displayForm>
+    </mods:name>
+    <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/WhiteHG/v1711</mods:identifier>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 1: San Joaquin Valley- Fresno &amp; Kern Cos., Calif. 1918</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1918-04-15/1918-07-24</mods:dateCreated>
+            <mods:dateCreated point="start">1918</mods:dateCreated>
+            <mods:dateCreated point="end">1918</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="local">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">White</mods:namePart>
+            <mods:namePart type="given">Halstead G.</mods:namePart>
+            <mods:displayForm>White, Halstead G.</mods:displayForm>
+        </mods:name>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Fresno County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Kern County</mods:geographic>
+        </mods:subject>
+        <mods:physicalDescription>
+            <mods:extent>155 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/WhiteHG/v1711_s1</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 2: San Luis Obispo and Monterey Cos., Calif. 1918</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1918-09-18/1918-12-10</mods:dateCreated>
+            <mods:dateCreated point="start">1918</mods:dateCreated>
+            <mods:dateCreated point="end">1918</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="local">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">White</mods:namePart>
+            <mods:namePart type="given">Halstead G.</mods:namePart>
+            <mods:displayForm>White, Halstead G.</mods:displayForm>
+        </mods:name>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Monterey County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, San Luis Obispo County</mods:geographic>
+        </mods:subject>
+        <mods:physicalDescription>
+            <mods:extent>100 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/WhiteHG/v1711_s2</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 3: vicinity Seaside, Monterey Co., Calif.</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1918-12-11/1919-02-20</mods:dateCreated>
+            <mods:dateCreated point="start">1918</mods:dateCreated>
+            <mods:dateCreated point="end">1919</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="local">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">White</mods:namePart>
+            <mods:namePart type="given">Halstead G.</mods:namePart>
+            <mods:displayForm>White, Halstead G.</mods:displayForm>
+        </mods:name>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Monterey County</mods:geographic>
+        </mods:subject>
+        <mods:physicalDescription>
+            <mods:extent>90 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/WhiteHG/v1711_s3</mods:identifier>
+    </mods:relatedItem>
+</mods:mods>

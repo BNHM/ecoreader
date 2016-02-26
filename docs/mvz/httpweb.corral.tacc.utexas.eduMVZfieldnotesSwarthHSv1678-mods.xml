@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<mods:mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mods:titleInfo>
+        <mods:title>Field Notes: Swarth H.S. 1908, v1678</mods:title>
+    </mods:titleInfo>
+    <mods:language>
+        <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+        <mods:languageTerm type="text">English</mods:languageTerm>
+    </mods:language>
+    <mods:originInfo>
+        <mods:dateCreated>1908-05-18/1908-10-09</mods:dateCreated>
+        <mods:dateCreated point="start">1908</mods:dateCreated>
+        <mods:dateCreated point="end">1908</mods:dateCreated>
+    </mods:originInfo>
+    <mods:name type="personal" authority="LCHS">
+        <mods:role>
+            <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+            <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+        </mods:role>
+        <mods:namePart type="family">Swarth</mods:namePart>
+        <mods:namePart type="given">Harry S.</mods:namePart>
+        <mods:namePart type="date">1878-1935</mods:namePart>
+        <mods:displayForm>Swarth, Harry S., 1878-1935</mods:displayForm>
+    </mods:name>
+    <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/SwarthHS/v1678</mods:identifier>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 0: General Index</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1908-05-18/1908-10-09</mods:dateCreated>
+            <mods:dateCreated point="start">1908</mods:dateCreated>
+            <mods:dateCreated point="end">1908</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Swarth</mods:namePart>
+            <mods:namePart type="given">Harry S.</mods:namePart>
+            <mods:namePart type="date">1878-1935</mods:namePart>
+            <mods:displayForm>Swarth, Harry S., 1878-1935</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>1 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/SwarthHS/v1678_s0</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 1: San Jacinto area, southern California 1908</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1908-05-18/1908-09-05</mods:dateCreated>
+            <mods:dateCreated point="start">1908</mods:dateCreated>
+            <mods:dateCreated point="end">1908</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Swarth</mods:namePart>
+            <mods:namePart type="given">Harry S.</mods:namePart>
+            <mods:namePart type="date">1878-1935</mods:namePart>
+            <mods:displayForm>Swarth, Harry S., 1878-1935</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>115 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/SwarthHS/v1678_s1</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 2: Riverside area, southern California 1908</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1908-09-06/1908-09-08</mods:dateCreated>
+            <mods:dateCreated point="start">1908</mods:dateCreated>
+            <mods:dateCreated point="end">1908</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Swarth</mods:namePart>
+            <mods:namePart type="given">Harry S.</mods:namePart>
+            <mods:namePart type="date">1878-1935</mods:namePart>
+            <mods:displayForm>Swarth, Harry S., 1878-1935</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>7 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/SwarthHS/v1678_s2</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 3: Santa Ana Mts. area, southern California 1908</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1908-09-09/1908-09-23</mods:dateCreated>
+            <mods:dateCreated point="start">1908</mods:dateCreated>
+            <mods:dateCreated point="end">1908</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Swarth</mods:namePart>
+            <mods:namePart type="given">Harry S.</mods:namePart>
+            <mods:namePart type="date">1878-1935</mods:namePart>
+            <mods:displayForm>Swarth, Harry S., 1878-1935</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>20 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/SwarthHS/v1678_s3</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 4: Jurupa Mts. area, southern California 1908</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1908-09-24/1908-10-09</mods:dateCreated>
+            <mods:dateCreated point="start">1908</mods:dateCreated>
+            <mods:dateCreated point="end">1908</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Swarth</mods:namePart>
+            <mods:namePart type="given">Harry S.</mods:namePart>
+            <mods:namePart type="date">1878-1935</mods:namePart>
+            <mods:displayForm>Swarth, Harry S., 1878-1935</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>19 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/SwarthHS/v1678_s4</mods:identifier>
+    </mods:relatedItem>
+</mods:mods>

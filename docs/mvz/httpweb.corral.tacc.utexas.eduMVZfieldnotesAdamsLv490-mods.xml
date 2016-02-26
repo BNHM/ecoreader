@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<mods:mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mods:titleInfo>
+        <mods:title>Field Notes: Adams L. 1944-46, v490</mods:title>
+    </mods:titleInfo>
+    <mods:language>
+        <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+        <mods:languageTerm type="text">English</mods:languageTerm>
+    </mods:language>
+    <mods:originInfo>
+        <mods:dateCreated>1944-06-02/1946-01-23</mods:dateCreated>
+        <mods:dateCreated point="start">1944</mods:dateCreated>
+        <mods:dateCreated point="end">1946</mods:dateCreated>
+    </mods:originInfo>
+    <mods:name type="personal" authority="ingest">
+        <mods:role>
+            <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+            <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+        </mods:role>
+        <mods:namePart type="family">Adams</mods:namePart>
+        <mods:namePart type="given">Lowell</mods:namePart>
+        <mods:namePart type="date">1913-</mods:namePart>
+        <mods:displayForm>Adams, Lowell, 1913-</mods:displayForm>
+    </mods:name>
+    <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/AdamsL/v490</mods:identifier>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 1: Guadalcanal June-Nov. 1944</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1944-06-02/1945-07-25</mods:dateCreated>
+            <mods:dateCreated point="start">1944</mods:dateCreated>
+            <mods:dateCreated point="end">1945</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="ingest">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Adams</mods:namePart>
+            <mods:namePart type="given">Lowell</mods:namePart>
+            <mods:namePart type="date">1913-</mods:namePart>
+            <mods:displayForm>Adams, Lowell, 1913-</mods:displayForm>
+        </mods:name>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/AdamsL/v490_s1.jpg</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 2: Joshua Tree Nat. Mon., Jan. 1946, Catalog nos. 99-110</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1946-01-21/1946-01-23</mods:dateCreated>
+            <mods:dateCreated point="start">1946</mods:dateCreated>
+            <mods:dateCreated point="end">1946</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="ingest">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Adams</mods:namePart>
+            <mods:namePart type="given">Lowell</mods:namePart>
+            <mods:namePart type="date">1913-</mods:namePart>
+            <mods:displayForm>Adams, Lowell, 1913-</mods:displayForm>
+        </mods:name>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/AdamsL/v490_s2.jpg</mods:identifier>
+    </mods:relatedItem>
+</mods:mods>

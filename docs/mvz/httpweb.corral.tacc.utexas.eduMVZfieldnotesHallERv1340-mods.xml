@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<mods:mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mods:titleInfo>
+        <mods:title>Field Notes: Hall E.R. 1928-41, Nevada Part 3 Species Accounts, v1340</mods:title>
+    </mods:titleInfo>
+    <mods:language>
+        <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+        <mods:languageTerm type="text">English</mods:languageTerm>
+    </mods:language>
+    <mods:originInfo>
+        <mods:dateCreated>1928-05-21/1936-04-12</mods:dateCreated>
+        <mods:dateCreated point="start">1928</mods:dateCreated>
+        <mods:dateCreated point="end">1936</mods:dateCreated>
+    </mods:originInfo>
+    <mods:name type="personal" authority="ingest">
+        <mods:role>
+            <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+            <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+        </mods:role>
+        <mods:namePart type="family">Hall</mods:namePart>
+        <mods:namePart type="given">E. Raymond</mods:namePart>
+        <mods:namePart type="date">1902-1986</mods:namePart>
+        <mods:displayForm>Hall, E. Raymond (Eugene Raymond), 1902-1986</mods:displayForm>
+    </mods:name>
+    <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/HallER/v1340</mods:identifier>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 1: Hall, E.R. 1928-41 Nevada Species Accounts-Reptiles and Amphibians</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1928-05-21/1935-07-16</mods:dateCreated>
+            <mods:dateCreated point="start">1928</mods:dateCreated>
+            <mods:dateCreated point="end">1935</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="ingest">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Hall</mods:namePart>
+            <mods:namePart type="given">E. Raymond</mods:namePart>
+            <mods:namePart type="date">1902-1986</mods:namePart>
+            <mods:displayForm>Hall, E. Raymond (Eugene Raymond), 1902-1986</mods:displayForm>
+        </mods:name>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Nevada, Churchill County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Nevada, Clark County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Nevada, Elko County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Nevada, Lander County </mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Nevada, Lincoln County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Nevada, Mineral County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Nevada, Nye County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Nevada, Washoe County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Nevada, White Pine County</mods:geographic>
+        </mods:subject>
+        <mods:physicalDescription>
+            <mods:extent>32 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/HallER/v1340_s1</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 2: Hall, E.R. 1928-1941 Nevada Species Accounts: Birds</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1932-05-13/1936-04-12</mods:dateCreated>
+            <mods:dateCreated point="start">1932</mods:dateCreated>
+            <mods:dateCreated point="end">1936</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="ingest">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Hall</mods:namePart>
+            <mods:namePart type="given">E. Raymond</mods:namePart>
+            <mods:namePart type="date">1902-1986</mods:namePart>
+            <mods:displayForm>Hall, E. Raymond (Eugene Raymond), 1902-1986</mods:displayForm>
+        </mods:name>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Nevada, Churchill County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Nevada, Clark County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Nevada, Elko County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Nevada, Lander County </mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Nevada, Lincoln County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Nevada, Mineral County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Nevada, Nye County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Nevada, Pershing County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Nevada, Washoe County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Nevada, White Pine County</mods:geographic>
+        </mods:subject>
+        <mods:physicalDescription>
+            <mods:extent>141 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/HallER/v1340_s2</mods:identifier>
+    </mods:relatedItem>
+</mods:mods>

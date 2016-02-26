@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<mods:mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mods:titleInfo>
+        <mods:title>Field Notes: Fox W. 1943-53, v678</mods:title>
+    </mods:titleInfo>
+    <mods:language>
+        <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+        <mods:languageTerm type="text">English</mods:languageTerm>
+    </mods:language>
+    <mods:originInfo>
+        <mods:dateCreated>1943-10-19/1950-11-21</mods:dateCreated>
+        <mods:dateCreated point="start">1943</mods:dateCreated>
+        <mods:dateCreated point="end">1950</mods:dateCreated>
+    </mods:originInfo>
+    <mods:name type="personal" authority="ingest">
+        <mods:role>
+            <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+            <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+        </mods:role>
+        <mods:namePart type="family">Fox</mods:namePart>
+        <mods:namePart type="given">Wade</mods:namePart>
+        <mods:namePart type="date">1920-1964</mods:namePart>
+        <mods:displayForm>Fox, Wade, Jr.,  (Fox, Rufus Wade, Jr.), 1920-1964</mods:displayForm>
+    </mods:name>
+    <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/FoxW/v678</mods:identifier>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 0: Contents</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1943-10-19/1953-12-02</mods:dateCreated>
+            <mods:dateCreated point="start">1943</mods:dateCreated>
+            <mods:dateCreated point="end">1953</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="ingest">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Fox</mods:namePart>
+            <mods:namePart type="given">Wade</mods:namePart>
+            <mods:namePart type="date">1920-1964</mods:namePart>
+            <mods:displayForm>Fox, Wade, Jr.,  (Fox, Rufus Wade, Jr.), 1920-1964</mods:displayForm>
+        </mods:name>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/FoxW/v678_s0</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 1: 1943-1950 Catalogue: nos. 1-2764 California (13 counties), Nevada, Mass, North Carolina (2 counties), Arkansas, Texas</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1943-11-21/1950-04-05</mods:dateCreated>
+            <mods:dateCreated point="start">1943</mods:dateCreated>
+            <mods:dateCreated point="end">1950</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="ingest">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Fox</mods:namePart>
+            <mods:namePart type="given">Wade</mods:namePart>
+            <mods:namePart type="date">1920-1964</mods:namePart>
+            <mods:displayForm>Fox, Wade, Jr.,  (Fox, Rufus Wade, Jr.), 1920-1964</mods:displayForm>
+        </mods:name>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/FoxW/v678_s1</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 2: 1943-1947 California: Los Angeles, Alameda, Solano, Tuolumne, Eldorado, Merced, San Francisco, Marin, Monterey, San Mateo, Contra Costa, Napa Cos. Mass: Barnstable Co. North Carolina: Semiford Co.</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1943-10-19/1947-04-20</mods:dateCreated>
+            <mods:dateCreated point="start">1943</mods:dateCreated>
+            <mods:dateCreated point="end">1947</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="ingest">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Fox</mods:namePart>
+            <mods:namePart type="given">Wade</mods:namePart>
+            <mods:namePart type="date">1920-1964</mods:namePart>
+            <mods:displayForm>Fox, Wade, Jr.,  (Fox, Rufus Wade, Jr.), 1920-1964</mods:displayForm>
+        </mods:name>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/FoxW/v678_s2</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 3: 1943-1947 California: San Benito, Contra Costa, Marin Cos. Mass: Barnstable Co.</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1946-06-27/1945-08-21</mods:dateCreated>
+            <mods:dateCreated point="start">1946</mods:dateCreated>
+            <mods:dateCreated point="end">1945</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="ingest">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Fox</mods:namePart>
+            <mods:namePart type="given">Wade</mods:namePart>
+            <mods:namePart type="date">1920-1964</mods:namePart>
+            <mods:displayForm>Fox, Wade, Jr.,  (Fox, Rufus Wade, Jr.), 1920-1964</mods:displayForm>
+        </mods:name>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/FoxW/v678_s3</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 4: California: Los Angeles, Alameda, Imperial, Marin, San Francisco, San Mateo, Contra Costa, Colusa, Mendocino, Humboldt, Lake Cos.</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1953-06-01/1950-11-21</mods:dateCreated>
+            <mods:dateCreated point="start">1953</mods:dateCreated>
+            <mods:dateCreated point="end">1950</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="ingest">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Fox</mods:namePart>
+            <mods:namePart type="given">Wade</mods:namePart>
+            <mods:namePart type="date">1920-1964</mods:namePart>
+            <mods:displayForm>Fox, Wade, Jr.,  (Fox, Rufus Wade, Jr.), 1920-1964</mods:displayForm>
+        </mods:name>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/FoxW/v678_s4</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 5: California: Alameda, Los Angeles, Contra Costa Cos.</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1944-03-25/1944-01-26</mods:dateCreated>
+            <mods:dateCreated point="start">1944</mods:dateCreated>
+            <mods:dateCreated point="end">1944</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="ingest">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Fox</mods:namePart>
+            <mods:namePart type="given">Wade</mods:namePart>
+            <mods:namePart type="date">1920-1964</mods:namePart>
+            <mods:displayForm>Fox, Wade, Jr.,  (Fox, Rufus Wade, Jr.), 1920-1964</mods:displayForm>
+        </mods:name>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/FoxW/v678_s5</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 6: California: Alameda Co.</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1943-11-10/1944-01-15</mods:dateCreated>
+            <mods:dateCreated point="start">1943</mods:dateCreated>
+            <mods:dateCreated point="end">1944</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="ingest">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Fox</mods:namePart>
+            <mods:namePart type="given">Wade</mods:namePart>
+            <mods:namePart type="date">1920-1964</mods:namePart>
+            <mods:displayForm>Fox, Wade, Jr.,  (Fox, Rufus Wade, Jr.), 1920-1964</mods:displayForm>
+        </mods:name>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/FoxW/v678_s6</mods:identifier>
+    </mods:relatedItem>
+</mods:mods>

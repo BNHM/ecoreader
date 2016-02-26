@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<mods:mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mods:titleInfo>
+        <mods:title>Field Notes: Davis W.B. 1933-35, v646</mods:title>
+    </mods:titleInfo>
+    <mods:language>
+        <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+        <mods:languageTerm type="text">English</mods:languageTerm>
+    </mods:language>
+    <mods:originInfo>
+        <mods:dateCreated>1933-05-16/1935-01-10</mods:dateCreated>
+        <mods:dateCreated point="start">1933</mods:dateCreated>
+        <mods:dateCreated point="end">1935</mods:dateCreated>
+    </mods:originInfo>
+    <mods:name type="personal" authority="local">
+        <mods:role>
+            <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+            <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+        </mods:role>
+        <mods:namePart type="family">Davis</mods:namePart>
+        <mods:namePart type="given">William B.</mods:namePart>
+        <mods:displayForm>Davis, William B.</mods:displayForm>
+    </mods:name>
+    <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/DavisWB/v646</mods:identifier>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 0: General Index</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1933-05-16/1935-01-10</mods:dateCreated>
+            <mods:dateCreated point="start">1933</mods:dateCreated>
+            <mods:dateCreated point="end">1935</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="local">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Davis</mods:namePart>
+            <mods:namePart type="given">William B.</mods:namePart>
+            <mods:displayForm>Davis, William B.</mods:displayForm>
+        </mods:name>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/DavisWB/v646_s0</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 1: Davis, W.B., Nevada: Nye, Esmerelda Cos., 1933</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1933-05-16/1933-06-14</mods:dateCreated>
+            <mods:dateCreated point="start">1933</mods:dateCreated>
+            <mods:dateCreated point="end">1933</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="local">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Davis</mods:namePart>
+            <mods:namePart type="given">William B.</mods:namePart>
+            <mods:displayForm>Davis, William B.</mods:displayForm>
+        </mods:name>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/DavisWB/v646_s1</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 2: Nevada: Nye Co., 1933, W.B. Davis</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1933-06-14/1933-08-13</mods:dateCreated>
+            <mods:dateCreated point="start">1933</mods:dateCreated>
+            <mods:dateCreated point="end">1933</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="local">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Davis</mods:namePart>
+            <mods:namePart type="given">William B.</mods:namePart>
+            <mods:displayForm>Davis, William B.</mods:displayForm>
+        </mods:name>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/DavisWB/v646_s2</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 3: Idaho, 1934, W.B. Davis</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1934-05-26/1934-08-06</mods:dateCreated>
+            <mods:dateCreated point="start">1934</mods:dateCreated>
+            <mods:dateCreated point="end">1934</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="local">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Davis</mods:namePart>
+            <mods:namePart type="given">William B.</mods:namePart>
+            <mods:displayForm>Davis, William B.</mods:displayForm>
+        </mods:name>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/DavisWB/v646_s3</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 4: California - central counties and Butte Co., Nov. 1934-Jan. 1935, W.B. Davis</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1934-11-19/1935-01-10</mods:dateCreated>
+            <mods:dateCreated point="start">1934</mods:dateCreated>
+            <mods:dateCreated point="end">1935</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="local">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Davis</mods:namePart>
+            <mods:namePart type="given">William B.</mods:namePart>
+            <mods:displayForm>Davis, William B.</mods:displayForm>
+        </mods:name>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/DavisWB/v646_s4</mods:identifier>
+    </mods:relatedItem>
+</mods:mods>

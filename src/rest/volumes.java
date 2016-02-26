@@ -39,16 +39,29 @@ public class volumes {
 
     @GET
     @Produces(MediaType.APPLICATION_JSON)
-    @Path("/{author}")
-    public Response getVolumesByAuthor(@PathParam("author") String author,
+    //@Path("/{author}")
+    public Response getVolumesByAuthor(@QueryParam("author") String author,
                                        @QueryParam("begin_date") int begin_date,
                                        @QueryParam("end_date") int end_date,
                                        @QueryParam("section_title") String section_title,
                                        @QueryParam("volume_id") int volume_id,
                                        @DefaultValue("false") @QueryParam("scanned_only") boolean scanned_only) {
         ecoReader er = new ecoReader();
-        String names[] = author.split(",");
-        String json = er.getVolumes(names[0].trim(), names[1].trim(), section_title, scanned_only, volume_id, begin_date, end_date);
+
+        // parse (or not) author name
+        String familyName = "";
+        String givenName = "";
+        if (author !=null && !author.trim().equals("")) {
+            // Limit the split to just two elements-- useful in cases where given name has a comma in it
+            String[] names = author.split(",",2);
+            familyName = names[0].trim();
+            givenName = names[1].trim();
+        } else {
+            familyName = null;
+            givenName = null;
+        }
+
+        String json = er.getVolumes(familyName, givenName, section_title, scanned_only, volume_id, begin_date, end_date);
 
         try {
             rb = Response.ok(json);

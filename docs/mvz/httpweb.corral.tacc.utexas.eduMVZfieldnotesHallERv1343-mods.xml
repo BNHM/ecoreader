@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<mods:mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mods:titleInfo>
+        <mods:title>Field Notes: Hall E.R., H.H. Hall, W.J. Hall, R. Alcantar 1941-43, v1343</mods:title>
+    </mods:titleInfo>
+    <mods:language>
+        <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+        <mods:languageTerm type="text">English</mods:languageTerm>
+    </mods:language>
+    <mods:originInfo>
+        <mods:dateCreated>1941-07-08/1943-05-02</mods:dateCreated>
+        <mods:dateCreated point="start">1941</mods:dateCreated>
+        <mods:dateCreated point="end">1943</mods:dateCreated>
+    </mods:originInfo>
+    <mods:name type="personal" authority="LCHS">
+        <mods:role>
+            <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+            <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+        </mods:role>
+        <mods:namePart type="family">Hall</mods:namePart>
+        <mods:namePart type="given">E. Raymond</mods:namePart>
+        <mods:namePart type="date">1902-1986</mods:namePart>
+        <mods:displayForm>Hall, E. Raymond,  (Eugene Raymond), 1902-1986</mods:displayForm>
+    </mods:name>
+    <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/HallER/v1343</mods:identifier>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 1: Hall, E.R. Miscellaneous, Local 1942-43</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1942-07-04/1943-01-17</mods:dateCreated>
+            <mods:dateCreated point="start">1942</mods:dateCreated>
+            <mods:dateCreated point="end">1943</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Hall</mods:namePart>
+            <mods:namePart type="given">E. Raymond</mods:namePart>
+            <mods:namePart type="date">1902-1986</mods:namePart>
+            <mods:displayForm>Hall, E. Raymond,  (Eugene Raymond), 1902-1986</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>4 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/HallER/v1343_s1</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 2: Hall, E.R. Mexico-Michoacan March-April, 1943</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1943-03-05/1943-05-02</mods:dateCreated>
+            <mods:dateCreated point="start">1943</mods:dateCreated>
+            <mods:dateCreated point="end">1943</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Hall</mods:namePart>
+            <mods:namePart type="given">E. Raymond</mods:namePart>
+            <mods:namePart type="date">1902-1986</mods:namePart>
+            <mods:displayForm>Hall, E. Raymond,  (Eugene Raymond), 1902-1986</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>45 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/HallER/v1343_s2</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 3: Hall, H.H. Calif.-Nevada, 1941</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1941-07-08/1941-07-22</mods:dateCreated>
+            <mods:dateCreated point="start">1941</mods:dateCreated>
+            <mods:dateCreated point="end">1941</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="local">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Hall</mods:namePart>
+            <mods:namePart type="given">Hubert H.</mods:namePart>
+            <mods:displayForm>Hall, Hubert H.</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>13 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/HallER/v1343_s3</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 4: Hall, H.H. Michoacan, Mexico March-April 1943</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1943-03-05/1943-04-20</mods:dateCreated>
+            <mods:dateCreated point="start">1943</mods:dateCreated>
+            <mods:dateCreated point="end">1943</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="local">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Hall</mods:namePart>
+            <mods:namePart type="given">Hubert H.</mods:namePart>
+            <mods:displayForm>Hall, Hubert H.</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>19 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/HallER/v1343_s4</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 5: Hall, W.J. Calif.-Nevada, 1941</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1941-07-08/1941-07-22</mods:dateCreated>
+            <mods:dateCreated point="start">1941</mods:dateCreated>
+            <mods:dateCreated point="end">1941</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="local">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Hall</mods:namePart>
+            <mods:namePart type="given">William J.</mods:namePart>
+            <mods:displayForm>Hall, William J.</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>17 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/HallER/v1343_s5</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 6: Hall, W.J. Michoacan, Mexico March-April, 1943</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1943-03-05/1943-04-18</mods:dateCreated>
+            <mods:dateCreated point="start">1943</mods:dateCreated>
+            <mods:dateCreated point="end">1943</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="local">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Hall</mods:namePart>
+            <mods:namePart type="given">William J.</mods:namePart>
+            <mods:displayForm>Hall, William J.</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>19 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/HallER/v1343_s6</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 7: R. Alcantar B. 1943 March-April, Michoacan, Mexico</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">spa</mods:languageTerm>
+            <mods:languageTerm type="text">Spanish</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1943-03-06/1943-03-22</mods:dateCreated>
+            <mods:dateCreated point="start">1943</mods:dateCreated>
+            <mods:dateCreated point="end">1943</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="local">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Alcantar B.</mods:namePart>
+            <mods:namePart type="given">Roberto</mods:namePart>
+            <mods:displayForm>Alcantar B., Roberto</mods:displayForm>
+        </mods:name>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/HallER/v1343_s6</mods:identifier>
+    </mods:relatedItem>
+</mods:mods>

@@ -5,14 +5,13 @@ import modsDigester.Mods;
 import modsDigester.mvzTaccPage;
 import modsDigester.mvzSection;
 import modsDigester.modsFactory;
-import renderer.sqlImporter;
 
 import java.io.File;
 import java.util.ArrayList;
 import java.util.Iterator;
 
 /**
- * This class is the mechanism for building images at various resolutions for use in the
+ * Build images at various resolutions for use in the
  * ecoReader library.  We don't want to run this so files get put into the repo as there will
  * be many images.
  */
@@ -33,22 +32,26 @@ public class processImages {
         ArrayList<String> filesAsStrings = new ArrayList<String>();
         if (dir.isDirectory()) {
             for (File child : dir.listFiles()) {
-                writeImagesForAllSections(child.getAbsolutePath());
+                // Create mods object to hold MODS data
+                Mods mods = new modsFactory("file:///" + child.getAbsolutePath()).getMods(false);
+
+                writeImagesForAllSections(mods);
             }
         } else {
-            writeImagesForAllSections(directoryPath);
+            // Create mods object to hold MODS data
+            Mods mods = new modsFactory("file:///" + directoryPath).getMods(false);
+
+            writeImagesForAllSections(mods);
         }
 
 
     }
 
-    private static void writeImagesForAllSections(String xmlFile) {
-        // Create mods object to hold MODS data
-        Mods mods = new modsFactory("file:///" + xmlFile).getMods(false);
+    public static void writeImagesForAllSections(Mods mods) {
 
         // Loop through each section for this XML file
         Iterator sectionsIt = mods.getSections().iterator();
-        System.out.println("processing " + xmlFile + "\n");
+        System.out.println("processing images for " + mods.getFilename() + "\n");
 
         while (sectionsIt.hasNext()) {
 

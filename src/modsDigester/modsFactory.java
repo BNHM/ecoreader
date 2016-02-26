@@ -24,11 +24,13 @@ public class modsFactory {
     /**
      * Default to NOT looking locally, which makes a BIG assumption that image files are
      * somehow copied over to local server
+     *
      * @return
      */
     public Mods getMods() {
         return getMods(false);
     }
+
     /**
      * Create the Mods object
      *
@@ -67,7 +69,7 @@ public class modsFactory {
         digester.addSetNext("mods/name/namePart", "setName");
         digester.addCallMethod("mods/name/namePart", "setValue", 0);
 
-         // Date Created
+        // Date Created
         digester.addObjectCreate("mods/originInfo/dateCreated", Term.class);
         digester.addSetProperties("mods/originInfo/dateCreated");
         digester.addSetNext("mods/originInfo/dateCreated", "setDateStart");
@@ -93,6 +95,13 @@ public class modsFactory {
             digester.addCallMethod("mods/relatedItem/titleInfo/title", "addTitle", 0);
             digester.addCallMethod("mods/relatedItem/originInfo/dateCreated", "addDateCreated", 0);
             digester.addCallMethod("mods/relatedItem/subject/geographic", "addGeographic", 0);
+
+            // Name  (only extract family name here)
+            digester.addObjectCreate("mods/relatedItem/name/namePart", Term.class);
+            digester.addSetProperties("mods/relatedItem/name/namePart");
+            digester.addSetNext("mods/relatedItem/name/namePart", "setFamilyName");
+            digester.addSetNext("mods/relatedItem/name/namePart", "setName");
+            digester.addCallMethod("mods/relatedItem/name/namePart", "setValue", 0);
         }
 
         try {

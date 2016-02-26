@@ -17,6 +17,8 @@ public class mvzSection implements sectionMetadata {
     private String identifier;
     private String geographic;
     private String dateCreated;
+    private final LinkedList<Term> nameList = new LinkedList<Term>();
+    private final LinkedList<Term> familyNameList = new LinkedList<Term>();
     private final LinkedList<pageMetadata> pages = new LinkedList<pageMetadata>();
 
 
@@ -60,6 +62,30 @@ public class mvzSection implements sectionMetadata {
         return identifier;
     }
 
+    public String getNameText() {
+        return modsUtils.getTermValue(nameList, "type", "given");
+    }
+
+    public LinkedList<Term> getNameList() {
+        return nameList;
+    }
+
+    public void setName(Term term) {
+        nameList.addLast(term);
+    }
+
+    public String getFamilyNameText() {
+        return modsUtils.getTermValue(familyNameList, "type", "family");
+    }
+
+    public LinkedList<Term> getFamilyNameList() {
+        return familyNameList;
+    }
+
+    public void setFamilyName(Term term) {
+        familyNameList.addLast(term);
+    }
+
     /**
      * Look for cached sampled image files locally
      *
@@ -79,7 +105,7 @@ public class mvzSection implements sectionMetadata {
      */
     public void addIdentifier(String identifier) {
         // Strip .jpg off of name... this is not required but is in the identifier
-        identifier = identifier.replace(".jpg","");
+        identifier = identifier.replace(".jpg", "");
 
         this.identifier = identifier;
         // Add pages when fetching the identifier, the assumption
@@ -109,19 +135,17 @@ public class mvzSection implements sectionMetadata {
         Document doc = null;
         try {
             if (urlString.contains("http")) {
-
-                doc = Jsoup.connect(urlString).timeout(10000).get();
+                doc = Jsoup.connect(urlString).timeout(60000).get();
                 for (Element file : doc.select("td a")) {
                     String filename = file.attr("href");
                     if (filename.contains("tif") || filename.contains("TIF")) {
                         addPage(new mvzTaccPage(identifier, filename));
+                        System.out.print("+");
                     }
                 }
             } else {
                 File f = new File(urlString);
-                System.out.println("Looking for files at " + f.getAbsolutePath());
                 ArrayList<File> files = new ArrayList<File>(java.util.Arrays.asList(f.listFiles()));
-                System.out.println("here");
                 java.util.Iterator filesIt = files.iterator();
                 while (filesIt.hasNext()) {
                     File file = ((File) filesIt.next());
@@ -129,7 +153,8 @@ public class mvzSection implements sectionMetadata {
                 }
             }
         } catch (IOException e) {
-            System.out.println("   404:" + urlString);
+            System.out.print("-");
+   //         System.out.println("   404:" + urlString);
         }
 
     }

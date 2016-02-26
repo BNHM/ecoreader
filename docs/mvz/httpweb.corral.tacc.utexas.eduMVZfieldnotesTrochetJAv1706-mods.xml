@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<mods:mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mods:titleInfo>
+        <mods:title>Field Notes: Trochet J.A. 1991-1992, v1706</mods:title>
+    </mods:titleInfo>
+    <mods:language>
+        <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+        <mods:languageTerm type="text">English</mods:languageTerm>
+    </mods:language>
+    <mods:originInfo>
+        <mods:dateCreated>1991-06-09/1992-07-29</mods:dateCreated>
+        <mods:dateCreated point="start">1991</mods:dateCreated>
+        <mods:dateCreated point="end">1992</mods:dateCreated>
+    </mods:originInfo>
+    <mods:name type="personal" authority="local">
+        <mods:role>
+            <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+            <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+        </mods:role>
+        <mods:namePart type="family">Trochet</mods:namePart>
+        <mods:namePart type="given">John A.</mods:namePart>
+        <mods:displayForm>Trochet, John A.</mods:displayForm>
+    </mods:name>
+    <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/TrochetJA/v1706</mods:identifier>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 0: General Index</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1991-06-13/1992-05-25</mods:dateCreated>
+            <mods:dateCreated point="start">1991</mods:dateCreated>
+            <mods:dateCreated point="end">1992</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="local">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Trochet</mods:namePart>
+            <mods:namePart type="given">John A.</mods:namePart>
+            <mods:displayForm>Trochet, John A.</mods:displayForm>
+        </mods:name>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/TrochetJA/v1706_s0</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 1: Utah: Uinta Co. Colorado: Fremont Co. New Mexico: McKinley, Mora, Eddy, San Juan Cos. Calif: Kern, Shasta, San Bernardino, Sacramento Cos. Texas: Kennedy, Presidio Cos. Arizona: Navajo Co.</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1991-06-13/1991-08-14</mods:dateCreated>
+            <mods:dateCreated point="start">1991</mods:dateCreated>
+            <mods:dateCreated point="end">1991</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="local">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Trochet</mods:namePart>
+            <mods:namePart type="given">John A.</mods:namePart>
+            <mods:displayForm>Trochet, John A.</mods:displayForm>
+        </mods:name>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/TrochetJA/v1706_s1</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 2: Nevada: Elko, White Pine Cos. Utah: Uinta, Washington Cos. Colorado: Gunnison, Fremont Cos. New Mexico: San Miguel, Mora, McKinley, San Juan, Eddy, Grant Cos. Calif: Kern, San Bernadino Cos. Arizona: Maricopa, Cochise Cos.</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1991-06-09/1991-08-07</mods:dateCreated>
+            <mods:dateCreated point="start">1991</mods:dateCreated>
+            <mods:dateCreated point="end">1991</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="local">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Trochet</mods:namePart>
+            <mods:namePart type="given">John A.</mods:namePart>
+            <mods:displayForm>Trochet, John A.</mods:displayForm>
+        </mods:name>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/TrochetJA/v1706_s2</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 3: Calif: Shasta, San Bernadino, Los Angeles Cos. Arizona: Maricopa, Navajo Cos. Texas: Hidalgo, Cameron, Kenedy, Travis, Kinney, Jeff Davis, Presidio, Randall, Armstrong Cos. New Mexico: Hidalgo, Eddy, Socorro Cos. Oregon: Harney Co. Nevada: Elko Co.</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1992-03-25/1992-07-29</mods:dateCreated>
+            <mods:dateCreated point="start">1992</mods:dateCreated>
+            <mods:dateCreated point="end">1992</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="local">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Trochet</mods:namePart>
+            <mods:namePart type="given">John A.</mods:namePart>
+            <mods:displayForm>Trochet, John A.</mods:displayForm>
+        </mods:name>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/TrochetJA/v1706_s3</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 4: Calif: Kern Co. New Mexico: Eddy, Mora, McKinley Cos. Utah: Uinta Co. Texas: Hidalgo, Camera, Kenedy, Presidio Cos.</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1991-07-10/1992-05-25</mods:dateCreated>
+            <mods:dateCreated point="start">1991</mods:dateCreated>
+            <mods:dateCreated point="end">1992</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="local">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Trochet</mods:namePart>
+            <mods:namePart type="given">John A.</mods:namePart>
+            <mods:displayForm>Trochet, John A.</mods:displayForm>
+        </mods:name>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/TrochetJA/v1706_s4</mods:identifier>
+    </mods:relatedItem>
+</mods:mods>

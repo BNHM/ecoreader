@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<mods:mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mods:titleInfo>
+        <mods:title>Field Notes: Lynch J.F. 1973-74, v1464</mods:title>
+    </mods:titleInfo>
+    <mods:language>
+        <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+        <mods:languageTerm type="text">English</mods:languageTerm>
+    </mods:language>
+    <mods:originInfo>
+        <mods:dateCreated>1973-07-06/1974-02-10</mods:dateCreated>
+        <mods:dateCreated point="start">1973</mods:dateCreated>
+        <mods:dateCreated point="end">1974</mods:dateCreated>
+    </mods:originInfo>
+    <mods:name type="personal" authority="LCHS">
+        <mods:role>
+            <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+            <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+        </mods:role>
+        <mods:namePart type="family">Lynch</mods:namePart>
+        <mods:namePart type="given">James F.</mods:namePart>
+        <mods:namePart type="date">1942-</mods:namePart>
+        <mods:displayForm>Lynch, James F., 1942-</mods:displayForm>
+    </mods:name>
+    <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/LynchJF/v1464</mods:identifier>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 1: 1973 Catalogue #G6000-G7201 Guatemala</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1973-07-08/1973-07-17</mods:dateCreated>
+            <mods:dateCreated point="start">1973</mods:dateCreated>
+            <mods:dateCreated point="end">1973</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Lynch</mods:namePart>
+            <mods:namePart type="given">James F.</mods:namePart>
+            <mods:namePart type="date">1942-</mods:namePart>
+            <mods:displayForm>Lynch, James F., 1942-</mods:displayForm>
+        </mods:name>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/LynchJF/v1464_s1</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 2: 1973 Journal: Guatemala</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1973-07-06/1973-07-17</mods:dateCreated>
+            <mods:dateCreated point="start">1973</mods:dateCreated>
+            <mods:dateCreated point="end">1973</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Lynch</mods:namePart>
+            <mods:namePart type="given">James F.</mods:namePart>
+            <mods:namePart type="date">1942-</mods:namePart>
+            <mods:displayForm>Lynch, James F., 1942-</mods:displayForm>
+        </mods:name>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/LynchJF/v1464_s2</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 3: 1974 Catalogue #M1451-M2013, G7204-G7821, H1-H45, Mexico, Guatemala, Honduras</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1974-01-15/1974-02-09</mods:dateCreated>
+            <mods:dateCreated point="start">1974</mods:dateCreated>
+            <mods:dateCreated point="end">1974</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Lynch</mods:namePart>
+            <mods:namePart type="given">James F.</mods:namePart>
+            <mods:namePart type="date">1942-</mods:namePart>
+            <mods:displayForm>Lynch, James F., 1942-</mods:displayForm>
+        </mods:name>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/LynchJF/v1464_s3</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 4: 1974 Journal: Mexico, Guatemala, Honduras</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1974-01-14/1974-02-10</mods:dateCreated>
+            <mods:dateCreated point="start">1974</mods:dateCreated>
+            <mods:dateCreated point="end">1974</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Lynch</mods:namePart>
+            <mods:namePart type="given">James F.</mods:namePart>
+            <mods:namePart type="date">1942-</mods:namePart>
+            <mods:displayForm>Lynch, James F., 1942-</mods:displayForm>
+        </mods:name>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/LynchJF/v1464_s4</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 5: 1974 Species Account: Mexico</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1974-01-15/1974-01-24</mods:dateCreated>
+            <mods:dateCreated point="start">1974</mods:dateCreated>
+            <mods:dateCreated point="end">1974</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Lynch</mods:namePart>
+            <mods:namePart type="given">James F.</mods:namePart>
+            <mods:namePart type="date">1942-</mods:namePart>
+            <mods:displayForm>Lynch, James F., 1942-</mods:displayForm>
+        </mods:name>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/LynchJF/v1464_s5</mods:identifier>
+    </mods:relatedItem>
+</mods:mods>

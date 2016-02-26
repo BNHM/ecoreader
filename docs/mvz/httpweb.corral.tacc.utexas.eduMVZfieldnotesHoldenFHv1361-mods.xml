@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<mods:mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mods:titleInfo>
+        <mods:title>Field Notes: Holden F.H. 1912-16, Holliger C.D. 1912-15, v1361</mods:title>
+    </mods:titleInfo>
+    <mods:language>
+        <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+        <mods:languageTerm type="text">English</mods:languageTerm>
+    </mods:language>
+    <mods:originInfo>
+        <mods:dateCreated>1912-03-27/1916-08-15</mods:dateCreated>
+        <mods:dateCreated point="start">1912</mods:dateCreated>
+        <mods:dateCreated point="end">1916</mods:dateCreated>
+    </mods:originInfo>
+    <mods:name type="personal" authority="local">
+        <mods:role>
+            <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+            <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+        </mods:role>
+        <mods:namePart type="family">Holden</mods:namePart>
+        <mods:namePart type="given">F. Harvey</mods:namePart>
+        <mods:displayForm>Holden, F. Harvey</mods:displayForm>
+    </mods:name>
+    <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/HoldenFH/v1361</mods:identifier>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 0: General Index</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1912-03-27/1916-08-15</mods:dateCreated>
+            <mods:dateCreated point="start">1912</mods:dateCreated>
+            <mods:dateCreated point="end">1916</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="local">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Holden</mods:namePart>
+            <mods:namePart type="given">F. Harvey</mods:namePart>
+            <mods:displayForm>Holden, F. Harvey</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>1 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/HoldenFH/v1361_s0</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 1: Holden, F.H. Sacramento Valley (Amador, Sutter, &amp; San Joaquin Cos.) 1912</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1912-03-27/1912-04-17</mods:dateCreated>
+            <mods:dateCreated point="start">1912</mods:dateCreated>
+            <mods:dateCreated point="end">1912</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="local">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Holden</mods:namePart>
+            <mods:namePart type="given">F. Harvey</mods:namePart>
+            <mods:displayForm>Holden, F. Harvey</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>47 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/HoldenFH/v1361_s1</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 2: Holden, F.H. Berkeley and vicinity, Calif. Lab., Mus. Vert. Zool. 1912-1913</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1912-06-20/1913-09-15</mods:dateCreated>
+            <mods:dateCreated point="start">1912</mods:dateCreated>
+            <mods:dateCreated point="end">1913</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="local">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Holden</mods:namePart>
+            <mods:namePart type="given">F. Harvey</mods:namePart>
+            <mods:displayForm>Holden, F. Harvey</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>7 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/HoldenFH/v1361_s2</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 3: Holden, F.H. Cisco, Placer Co., Calif. 1913</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1913-09-30/1913-10-15</mods:dateCreated>
+            <mods:dateCreated point="start">1913</mods:dateCreated>
+            <mods:dateCreated point="end">1913</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="local">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Holden</mods:namePart>
+            <mods:namePart type="given">F. Harvey</mods:namePart>
+            <mods:displayForm>Holden, F. Harvey</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>20 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/HoldenFH/v1361_s3</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 4: Holden, F.H. Berkeley and vicinity, Calif. Laboratory, Mus. Vert. Zool. 1913-1916</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1913-10-23/1916-08-15</mods:dateCreated>
+            <mods:dateCreated point="start">1913</mods:dateCreated>
+            <mods:dateCreated point="end">1916</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="local">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Holden</mods:namePart>
+            <mods:namePart type="given">F. Harvey</mods:namePart>
+            <mods:displayForm>Holden, F. Harvey</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>50 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/HoldenFH/v1361_s4</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 5: Holliger, C.D. Owens Valley, Inyo Co., Calif. 1912</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1912-05-31/1912-07-14</mods:dateCreated>
+            <mods:dateCreated point="start">1912</mods:dateCreated>
+            <mods:dateCreated point="end">1912</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Holliger</mods:namePart>
+            <mods:namePart type="given">Charles Daniel</mods:namePart>
+            <mods:namePart type="date">1883-</mods:namePart>
+            <mods:displayForm>Holliger, Charles Daniel, 1883-</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>50 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/HoldenFH/v1361_s5</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 6: C.D. Holliger Yosemite Section, Calif. 1914-1915</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1914-12-18/1915-01-02</mods:dateCreated>
+            <mods:dateCreated point="start">1914</mods:dateCreated>
+            <mods:dateCreated point="end">1915</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Holliger</mods:namePart>
+            <mods:namePart type="given">Charles Daniel</mods:namePart>
+            <mods:namePart type="date">1883-</mods:namePart>
+            <mods:displayForm>Holliger, Charles Daniel, 1883-</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>21 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/HoldenFH/v1361_s6</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 7: Holliger, C.D. Yosemite Section, California 1915</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1915-05-15/1915-07-28</mods:dateCreated>
+            <mods:dateCreated point="start">1915</mods:dateCreated>
+            <mods:dateCreated point="end">1915</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Holliger</mods:namePart>
+            <mods:namePart type="given">Charles Daniel</mods:namePart>
+            <mods:namePart type="date">1883-</mods:namePart>
+            <mods:displayForm>Holliger, Charles Daniel, 1883-</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>83 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/HoldenFH/v1361_s7</mods:identifier>
+    </mods:relatedItem>
+</mods:mods>

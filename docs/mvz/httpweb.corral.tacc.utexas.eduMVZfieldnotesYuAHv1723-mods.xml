@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<mods:mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mods:titleInfo>
+        <mods:title>Field Notes: Yu A.H. 1980-1991, Catalogue, v1723</mods:title>
+    </mods:titleInfo>
+    <mods:language>
+        <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+        <mods:languageTerm type="text">English</mods:languageTerm>
+    </mods:language>
+    <mods:originInfo>
+        <mods:dateCreated>1980-12-01/1991-05-20</mods:dateCreated>
+        <mods:dateCreated point="start">1980</mods:dateCreated>
+        <mods:dateCreated point="end">1991</mods:dateCreated>
+    </mods:originInfo>
+    <mods:name type="personal" authority="local">
+        <mods:role>
+            <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+            <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+        </mods:role>
+        <mods:namePart type="family">Yu</mods:namePart>
+        <mods:namePart type="given">Alex H.</mods:namePart>
+        <mods:displayForm>Yu, Alex H.</mods:displayForm>
+    </mods:name>
+    <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/YuAH/v1723</mods:identifier>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 0: General Index</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1980-12-01/1990-05-20</mods:dateCreated>
+            <mods:dateCreated point="start">1980</mods:dateCreated>
+            <mods:dateCreated point="end">1990</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="local">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Yu</mods:namePart>
+            <mods:namePart type="given">Alex H.</mods:namePart>
+            <mods:displayForm>Yu, Alex H.</mods:displayForm>
+        </mods:name>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/YuAH/v1723_s0</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 1: Catalogue #B1-B29 Taiwan: Taipei, Nantou, Chiayi, Tainan,Nanto, Cos.</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1980-12-01/1986-07-18</mods:dateCreated>
+            <mods:dateCreated point="start">1980</mods:dateCreated>
+            <mods:dateCreated point="end">1986</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="local">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Yu</mods:namePart>
+            <mods:namePart type="given">Alex H.</mods:namePart>
+            <mods:displayForm>Yu, Alex H.</mods:displayForm>
+        </mods:name>
+        <mods:subject authority="arctos">
+            <mods:geographic>Asia, Taiwan, Chiayi County, Taiwan</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>Asia, Taiwan, Green Island</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>Asia, Taiwan, Nantou</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>Asia, Taiwan, Tainan County, Taiwan</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>Asia, Taiwan, Taipei County, Taiwan</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>Asia, Taiwan, Taiwan</mods:geographic>
+        </mods:subject>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/YuAH/v1723_s1</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 2: Catalogue #1-22 Hastings Natural History Reserve, California</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1986-08-23/1987-05-29</mods:dateCreated>
+            <mods:dateCreated point="start">1986</mods:dateCreated>
+            <mods:dateCreated point="end">1987</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="local">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Yu</mods:namePart>
+            <mods:namePart type="given">Alex H.</mods:namePart>
+            <mods:displayForm>Yu, Alex H.</mods:displayForm>
+        </mods:name>
+        <mods:subject authority="arctos">
+            <mods:geographic>Asia, Taiwan, Yilan County, Taiwan</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Monterey County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Nevada County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Plumas County</mods:geographic>
+        </mods:subject>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/YuAH/v1723_s2</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 3: Catalogue #23-1416 Taiwan: Chiayi, Taichung, Hualien, Taipei, Nantau, Kaohsiung Cos.</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1987-06-20/1990-07-11</mods:dateCreated>
+            <mods:dateCreated point="start">1987</mods:dateCreated>
+            <mods:dateCreated point="end">1990</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="local">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Yu</mods:namePart>
+            <mods:namePart type="given">Alex H.</mods:namePart>
+            <mods:displayForm>Yu, Alex H.</mods:displayForm>
+        </mods:name>
+        <mods:subject authority="arctos">
+            <mods:geographic>Asia, Taiwan, Chiayi County, Taiwan</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>Asia, Taiwan, Kaohsiung County, Taiwan</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>Asia, Taiwan, Nantou</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>Asia, Taiwan, Taichung County, Taiwan</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>Asia, Taiwan, Taipei County, Taiwan</mods:geographic>
+        </mods:subject>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/YuAH/v1723_s3</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 4: Catalogue #1417-1418 California</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1990-07-11/1991-05-20</mods:dateCreated>
+            <mods:dateCreated point="start">1990</mods:dateCreated>
+            <mods:dateCreated point="end">1991</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="local">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Yu</mods:namePart>
+            <mods:namePart type="given">Alex H.</mods:namePart>
+            <mods:displayForm>Yu, Alex H.</mods:displayForm>
+        </mods:name>
+        <mods:subject authority="arctos">
+            <mods:geographic>Asia, Taiwan, Taichung County, Taiwan</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Contra Costa County</mods:geographic>
+        </mods:subject>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/YuAH/v1723_s4</mods:identifier>
+    </mods:relatedItem>
+</mods:mods>

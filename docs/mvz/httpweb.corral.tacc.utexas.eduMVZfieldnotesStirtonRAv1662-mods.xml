@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<mods:mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mods:titleInfo>
+        <mods:title>Field Notes: Stirton R.A. 1941-42, El Salvador, C.A., 1946 Columbia, S.A., v1662</mods:title>
+    </mods:titleInfo>
+    <mods:language>
+        <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+        <mods:languageTerm type="text">English</mods:languageTerm>
+    </mods:language>
+    <mods:originInfo>
+        <mods:dateCreated>1941-11-01/1946-06-26</mods:dateCreated>
+        <mods:dateCreated point="start">1941</mods:dateCreated>
+        <mods:dateCreated point="end">1946</mods:dateCreated>
+    </mods:originInfo>
+    <mods:name type="personal" authority="LCHS">
+        <mods:role>
+            <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+            <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+        </mods:role>
+        <mods:namePart type="family">Stirton</mods:namePart>
+        <mods:namePart type="given">R. A.</mods:namePart>
+        <mods:namePart type="date">1901-1966</mods:namePart>
+        <mods:displayForm>Stirton, R. A.,  (Ruben Arthur), 1901-1966</mods:displayForm>
+    </mods:name>
+    <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/StirtonRA/v1662</mods:identifier>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 0: Contents</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1941-11-06/1946-06-26</mods:dateCreated>
+            <mods:dateCreated point="start">1941</mods:dateCreated>
+            <mods:dateCreated point="end">1946</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Stirton</mods:namePart>
+            <mods:namePart type="given">R. A.</mods:namePart>
+            <mods:namePart type="date">1901-1966</mods:namePart>
+            <mods:displayForm>Stirton, R. A.,  (Ruben Arthur), 1901-1966</mods:displayForm>
+        </mods:name>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/StirtonRA/v1662_s0</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 1: El Salvador, C.A.</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1941-11-30/1942-05-11</mods:dateCreated>
+            <mods:dateCreated point="start">1941</mods:dateCreated>
+            <mods:dateCreated point="end">1942</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Stirton</mods:namePart>
+            <mods:namePart type="given">R. A.</mods:namePart>
+            <mods:namePart type="date">1901-1966</mods:namePart>
+            <mods:displayForm>Stirton, R. A.,  (Ruben Arthur), 1901-1966</mods:displayForm>
+        </mods:name>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/StirtonRA/v1662_s1</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 2: El Salvador, C.A. Geographical Species List</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1941-11-01/1942-05-31</mods:dateCreated>
+            <mods:dateCreated point="start">1941</mods:dateCreated>
+            <mods:dateCreated point="end">1942</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Stirton</mods:namePart>
+            <mods:namePart type="given">R. A.</mods:namePart>
+            <mods:namePart type="date">1901-1966</mods:namePart>
+            <mods:displayForm>Stirton, R. A.,  (Ruben Arthur), 1901-1966</mods:displayForm>
+        </mods:name>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/StirtonRA/v1662_s2</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 3: El Salvador, C.A. Journal</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1941-11-06/1942-05-28</mods:dateCreated>
+            <mods:dateCreated point="start">1941</mods:dateCreated>
+            <mods:dateCreated point="end">1942</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Stirton</mods:namePart>
+            <mods:namePart type="given">R. A.</mods:namePart>
+            <mods:namePart type="date">1901-1966</mods:namePart>
+            <mods:displayForm>Stirton, R. A.,  (Ruben Arthur), 1901-1966</mods:displayForm>
+        </mods:name>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/StirtonRA/v1662_s3</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 4: Colombia, S.A. Catalogue</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1946-05-28/1946-06-26</mods:dateCreated>
+            <mods:dateCreated point="start">1946</mods:dateCreated>
+            <mods:dateCreated point="end">1946</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Stirton</mods:namePart>
+            <mods:namePart type="given">R. A.</mods:namePart>
+            <mods:namePart type="date">1901-1966</mods:namePart>
+            <mods:displayForm>Stirton, R. A.,  (Ruben Arthur), 1901-1966</mods:displayForm>
+        </mods:name>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/StirtonRA/v1662_s4</mods:identifier>
+    </mods:relatedItem>
+</mods:mods>

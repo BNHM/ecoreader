@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<mods:mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mods:titleInfo>
+        <mods:title>Field Notes: Clarke F.C. 1912, v565</mods:title>
+    </mods:titleInfo>
+    <mods:language>
+        <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+        <mods:languageTerm type="text">English</mods:languageTerm>
+    </mods:language>
+    <mods:originInfo>
+        <mods:dateCreated>1912-06-25/1912-09-26</mods:dateCreated>
+        <mods:dateCreated point="start">1912</mods:dateCreated>
+        <mods:dateCreated point="end">1912</mods:dateCreated>
+    </mods:originInfo>
+    <mods:name type="personal" authority="local">
+        <mods:role>
+            <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+            <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+        </mods:role>
+        <mods:namePart type="family">Clarke</mods:namePart>
+        <mods:namePart type="given">Frank C.</mods:namePart>
+        <mods:namePart type="date">1887-1958</mods:namePart>
+        <mods:displayForm>Clarke, Frank C., 1887-1958</mods:displayForm>
+    </mods:name>
+    <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/ClarkeFC/v565</mods:identifier>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 0: General Index</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1912-06-25/1912-09-26</mods:dateCreated>
+            <mods:dateCreated point="start">1912</mods:dateCreated>
+            <mods:dateCreated point="end">1912</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="local">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Clarke</mods:namePart>
+            <mods:namePart type="given">Frank C.</mods:namePart>
+            <mods:namePart type="date">1887-1958</mods:namePart>
+            <mods:displayForm>Clarke, Frank C., 1887-1958</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>1 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/ClarkeFC/v565_s0</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 1: Fresno Co., California 1912</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1912-06-25/1912-07-24</mods:dateCreated>
+            <mods:dateCreated point="start">1912</mods:dateCreated>
+            <mods:dateCreated point="end">1912</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="local">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Clarke</mods:namePart>
+            <mods:namePart type="given">Frank C.</mods:namePart>
+            <mods:namePart type="date">1887-1958</mods:namePart>
+            <mods:displayForm>Clarke, Frank C., 1887-1958</mods:displayForm>
+        </mods:name>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Fresno County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Tulare County</mods:geographic>
+        </mods:subject>
+        <mods:physicalDescription>
+            <mods:extent>67 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/ClarkeFC/v565_s1</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 2: Monterey, Santa Cruz, Santa Clara Cos., California 1912</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1912-07-31/1912-08-06</mods:dateCreated>
+            <mods:dateCreated point="start">1912</mods:dateCreated>
+            <mods:dateCreated point="end">1912</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="local">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Clarke</mods:namePart>
+            <mods:namePart type="given">Frank C.</mods:namePart>
+            <mods:namePart type="date">1887-1958</mods:namePart>
+            <mods:displayForm>Clarke, Frank C., 1887-1958</mods:displayForm>
+        </mods:name>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Monterey County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Santa Clara County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Santa Cruz County</mods:geographic>
+        </mods:subject>
+        <mods:physicalDescription>
+            <mods:extent>19 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/ClarkeFC/v565_s2</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 3: Napa and Lake Cos., California 1912</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1912-08-12/1912-08-19</mods:dateCreated>
+            <mods:dateCreated point="start">1912</mods:dateCreated>
+            <mods:dateCreated point="end">1912</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="local">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Clarke</mods:namePart>
+            <mods:namePart type="given">Frank C.</mods:namePart>
+            <mods:namePart type="date">1887-1958</mods:namePart>
+            <mods:displayForm>Clarke, Frank C., 1887-1958</mods:displayForm>
+        </mods:name>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Lake County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Napa County</mods:geographic>
+        </mods:subject>
+        <mods:physicalDescription>
+            <mods:extent>32 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/ClarkeFC/v565_s3</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 4: Los Angeles, San Diego, Orange, Imperial, San Bernardino, Santa Barbara and San Luis Obispo Cos., California 1912</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1912-08-29/1912-09-26</mods:dateCreated>
+            <mods:dateCreated point="start">1912</mods:dateCreated>
+            <mods:dateCreated point="end">1912</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="local">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Clarke</mods:namePart>
+            <mods:namePart type="given">Frank C.</mods:namePart>
+            <mods:namePart type="date">1887-1958</mods:namePart>
+            <mods:displayForm>Clarke, Frank C., 1887-1958</mods:displayForm>
+        </mods:name>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Imperial County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Los Angeles County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Orange County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, San Bernardino County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, San Diego County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, San Luis Obispo County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Santa Barbara County</mods:geographic>
+        </mods:subject>
+        <mods:physicalDescription>
+            <mods:extent>87 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/ClarkeFC/v565_s4</mods:identifier>
+    </mods:relatedItem>
+</mods:mods>

@@ -1,18 +1,18 @@
 <%@ include file="header-home.jsp" %>
 
-<div id="validation" class="section">
-    <div class="row" id="query">
-        <p>
-            BETA Version! Search and read scanned historical field notebooks from the Museum of Vertebrate Zoology.
-            <br>
-            This service replaces the MVZ Archival Field Notebooks Query Page.  We are actively updating data,
-            and should be complete November 1st.  Meanwhile, a more limited selection of archives are searchable
-             here.  For any inquiries or issues contact <b>mvzarchives@berkeley.edu</b>.
-        </p>
+	<div id="site_content">
+	  <div id="content">
+		<div class="content_item">
+
+            <div id="validation" class="section">
+                <div class="row" id="query">
+                   <!-- <h1>Welcome to the EcoReader</h1>
+      	            <p>This portal provides access to digitized field notes from the Museum of Vertebrate Zoology Archives. Field notes that have not been scanned are also listed for reference. We will continue to add more volumes as they are cataloged. Please contact the Archives at mvzarchives@berkeley.edu.com for more information.</p>
+      	            -->
 
         <div class="form-horizontal my-form">
           <div class="form-group form-group-sm" id="author_row">
-            <label for="author" class="col-md-2 control-label">Author Name</label>
+            <label for="author" class="control-label col-md-2" style="font-size: 14px">Author Name</label>
             <div class="col-md-3" id="author_combobox">
               <select class="combobox form-control" width=20 id="authors">
                         <option value=''>Loading authors ...</option>
@@ -22,10 +22,13 @@
             <button class="btn btn-default btn-sm" type="button" onclick="toggleQuery();">+</button>
           </div>
           <div class="col-md-1"><input type="button" value="Submit" class="btn btn-default btn-sm btn-block"></div>
+          <div class="col-md-1"><input type="button" value="Reset" class="btn btn-default btn-sm btn-block"></div>
+
           </div>
         </div>
 
         <form class="form-inline my-form" >
+
         <div class="toggle-content" id="query_toggle">
           <div class="form-group form-group-sm">
             <label for="begin_date" class="control-label">Year Between</label>
@@ -55,14 +58,21 @@
         <div class="row" id="results">
         </div>
 
-</div>
+</div><!--close the validation div-->
+
+</div><!--close content_container-->
+	</div><!--close site_content-->
+  </div><!--close main-->
 
 
 <script>
     $(document).ready(function() {
         populateAuthors();
-        $("input[type=button]").click(function() {
+        $('input[type=button][value="Submit"]').click(function() {
              populateVolumes();
+        });
+        $('input[type=button][value="Reset"]').click(function() {
+            location.reload();
         });
     });
 </script>

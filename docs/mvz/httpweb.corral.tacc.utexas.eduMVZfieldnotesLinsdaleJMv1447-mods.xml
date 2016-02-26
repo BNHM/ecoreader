@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<mods:mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mods:titleInfo>
+        <mods:title>Field Notes: Linsdale J.M. 1927-28, v1447</mods:title>
+    </mods:titleInfo>
+    <mods:language>
+        <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+        <mods:languageTerm type="text">English</mods:languageTerm>
+    </mods:language>
+    <mods:originInfo>
+        <mods:dateCreated>1927-12-18/1928-07-26</mods:dateCreated>
+        <mods:dateCreated point="start">1927</mods:dateCreated>
+        <mods:dateCreated point="end">1928</mods:dateCreated>
+    </mods:originInfo>
+    <mods:name type="personal" authority="ingest">
+        <mods:role>
+            <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+            <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+        </mods:role>
+        <mods:namePart type="family">Linsdale</mods:namePart>
+        <mods:namePart type="given">Jean M.</mods:namePart>
+        <mods:namePart type="date">1902-1969</mods:namePart>
+        <mods:displayForm>Linsdale, Jean M. (Jean Myron), 1902-1969</mods:displayForm>
+    </mods:name>
+    <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/LinsdaleJM/v1447</mods:identifier>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 0: General index</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1927-12-18/1928-07-26</mods:dateCreated>
+            <mods:dateCreated point="start">1927</mods:dateCreated>
+            <mods:dateCreated point="end">1928</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="ingest">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Linsdale</mods:namePart>
+            <mods:namePart type="given">Jean M.</mods:namePart>
+            <mods:namePart type="date">1902-1969</mods:namePart>
+            <mods:displayForm>Linsdale, Jean M. (Jean Myron), 1902-1969</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>1 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/LinsdaleJM/v1447_s0</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 1: Lassen section, in Tehama Co., Calif. 1927-1928</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1927-12-18/1928-01-02</mods:dateCreated>
+            <mods:dateCreated point="start">1927</mods:dateCreated>
+            <mods:dateCreated point="end">1928</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="ingest">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Linsdale</mods:namePart>
+            <mods:namePart type="given">Jean M.</mods:namePart>
+            <mods:namePart type="date">1902-1969</mods:namePart>
+            <mods:displayForm>Linsdale, Jean M. (Jean Myron), 1902-1969</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>43 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/LinsdaleJM/v1447_s1</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 2: Lassen section, in Tehama Co., Calif. April-May 1928</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1928-04-05/1928-05-01</mods:dateCreated>
+            <mods:dateCreated point="start">1928</mods:dateCreated>
+            <mods:dateCreated point="end">1928</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="ingest">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Linsdale</mods:namePart>
+            <mods:namePart type="given">Jean M.</mods:namePart>
+            <mods:namePart type="date">1902-1969</mods:namePart>
+            <mods:displayForm>Linsdale, Jean M. (Jean Myron), 1902-1969</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>92 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/LinsdaleJM/v1447_s2</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 3: Lassen section, in Tehama &amp; Lassen cos., Calif. July 1928</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1928-07-10/1928-07-26</mods:dateCreated>
+            <mods:dateCreated point="start">1928</mods:dateCreated>
+            <mods:dateCreated point="end">1928</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="ingest">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Linsdale</mods:namePart>
+            <mods:namePart type="given">Jean M.</mods:namePart>
+            <mods:namePart type="date">1902-1969</mods:namePart>
+            <mods:displayForm>Linsdale, Jean M. (Jean Myron), 1902-1969</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>64 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/LinsdaleJM/v1447_s3</mods:identifier>
+    </mods:relatedItem>
+</mods:mods>

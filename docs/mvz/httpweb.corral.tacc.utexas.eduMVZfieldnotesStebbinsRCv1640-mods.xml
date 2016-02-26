@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<mods:mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mods:titleInfo>
+        <mods:title>Field Notes: Stebbins R.C. 1959-62, (also J. LaPointe 1961, T.I. McIntyre 1961, T. Rodgers 1959-60, A. Culbertson 1954, B. Gates 1959, C.W. Brown 1962), v1640</mods:title>
+    </mods:titleInfo>
+    <mods:language>
+        <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+        <mods:languageTerm type="text">English</mods:languageTerm>
+    </mods:language>
+    <mods:originInfo>
+        <mods:dateCreated>1959-08-12/1962-12-01</mods:dateCreated>
+        <mods:dateCreated point="start">1959</mods:dateCreated>
+        <mods:dateCreated point="end">1962</mods:dateCreated>
+    </mods:originInfo>
+    <mods:name type="personal" authority="ingest">
+        <mods:role>
+            <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+            <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+        </mods:role>
+        <mods:namePart type="family">Stebbins</mods:namePart>
+        <mods:namePart type="given">Robert C.</mods:namePart>
+        <mods:displayForm>Stebbins, Robert C.,  (Robert Cyril), 1915-2013</mods:displayForm>
+    </mods:name>
+    <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/StebbinsRC/v1640</mods:identifier>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 1: Stebbins, R.C. Aug 12 1959-Apr 1961 AZ, NM, CA Cos. Catalog nos. 8865-9114 Journal</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1959-08-12/1961-05-01</mods:dateCreated>
+            <mods:dateCreated point="start">1959</mods:dateCreated>
+            <mods:dateCreated point="end">1961</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Culbertson</mods:namePart>
+            <mods:namePart type="given">A.E.</mods:namePart>
+            <mods:namePart type="date">1881-1971</mods:namePart>
+            <mods:displayForm>Culbertson, A.E.,  (Alexander Edward), 1881-1971</mods:displayForm>
+        </mods:name>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Rodgers</mods:namePart>
+            <mods:namePart type="given">Thomas Lathan</mods:namePart>
+            <mods:namePart type="date">1909-</mods:namePart>
+            <mods:displayForm>Rodgers, Thomas Lathan, 1909-</mods:displayForm>
+        </mods:name>
+        <mods:name type="personal" authority="ingest">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Stebbins</mods:namePart>
+            <mods:namePart type="given">Robert C.</mods:namePart>
+            <mods:displayForm>Stebbins, Robert C.,  (Robert Cyril), 1915-2013</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>57 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/StebbinsRC/v1640_s1</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 2: Stebbins, R.C. Apr 26-Sep 1 1961 S CA Cos. and AZ. Catalog nos. 9115-9439 Journal</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1961-04-26/1961-09-01</mods:dateCreated>
+            <mods:dateCreated point="start">1961</mods:dateCreated>
+            <mods:dateCreated point="end">1961</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="local">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">La Pointe</mods:namePart>
+            <mods:namePart type="given">Joseph</mods:namePart>
+            <mods:displayForm>La Pointe, Joseph</mods:displayForm>
+        </mods:name>
+        <mods:name type="personal" authority="local">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">McIntyre</mods:namePart>
+            <mods:namePart type="given">Thomas J.</mods:namePart>
+            <mods:displayForm>McIntyre, Thomas J.</mods:displayForm>
+        </mods:name>
+        <mods:name type="personal" authority="ingest">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Stebbins</mods:namePart>
+            <mods:namePart type="given">Robert C.</mods:namePart>
+            <mods:displayForm>Stebbins, Robert C.,  (Robert Cyril), 1915-2013</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>71 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/StebbinsRC/v1640_s2</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 3: Stebbins, R.C. Aug 28 1961-Mar 11 1962 N CA Cos. Catalog nos. 9440-9708 Journal</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1961-08-28/1962-03-11</mods:dateCreated>
+            <mods:dateCreated point="start">1961</mods:dateCreated>
+            <mods:dateCreated point="end">1962</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="ingest">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Stebbins</mods:namePart>
+            <mods:namePart type="given">Robert C.</mods:namePart>
+            <mods:displayForm>Stebbins, Robert C.,  (Robert Cyril), 1915-2013</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>27 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/StebbinsRC/v1640_s3</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 4: Stebbins, R.C. Mar 18-Dec 1 1962 AZ (SW Res. Station), S CA, Catalog nos. 9709-10160</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1962-03-18/1962-12-01</mods:dateCreated>
+            <mods:dateCreated point="start">1962</mods:dateCreated>
+            <mods:dateCreated point="end">1962</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="LCHS">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Brown</mods:namePart>
+            <mods:namePart type="given">Charles W.</mods:namePart>
+            <mods:namePart type="date">1930-</mods:namePart>
+            <mods:displayForm>Brown, Charles W.,  (Charles William), 1930-</mods:displayForm>
+        </mods:name>
+        <mods:name type="personal" authority="ingest">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Stebbins</mods:namePart>
+            <mods:namePart type="given">Robert C.</mods:namePart>
+            <mods:displayForm>Stebbins, Robert C.,  (Robert Cyril), 1915-2013</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>49 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/StebbinsRC/v1640_s4</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 5: Stebbins, R.C. Species Accounts Amphibians Reptiles Birds</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1959-08-12/1962-12-01</mods:dateCreated>
+            <mods:dateCreated point="start">1959</mods:dateCreated>
+            <mods:dateCreated point="end">1962</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="ingest">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Stebbins</mods:namePart>
+            <mods:namePart type="given">Robert C.</mods:namePart>
+            <mods:displayForm>Stebbins, Robert C.,  (Robert Cyril), 1915-2013</mods:displayForm>
+        </mods:name>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/StebbinsRC/v1640_s5</mods:identifier>
+    </mods:relatedItem>
+</mods:mods>

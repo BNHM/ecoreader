@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<mods:mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mods:titleInfo>
+        <mods:title>Field Notes: Aldrich E.C. 1935, v491</mods:title>
+    </mods:titleInfo>
+    <mods:language>
+        <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+        <mods:languageTerm type="text">English</mods:languageTerm>
+    </mods:language>
+    <mods:originInfo>
+        <mods:dateCreated>1935-05-11/1935-06-09</mods:dateCreated>
+        <mods:dateCreated point="start">1935</mods:dateCreated>
+        <mods:dateCreated point="end">1935</mods:dateCreated>
+    </mods:originInfo>
+    <mods:name type="personal" authority="local">
+        <mods:role>
+            <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+            <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+        </mods:role>
+        <mods:namePart type="family">Aldrich</mods:namePart>
+        <mods:namePart type="given">Elmer Clare</mods:namePart>
+        <mods:namePart type="date">1914-2010</mods:namePart>
+        <mods:displayForm>Aldrich, Elmer Clare, 1914-2010</mods:displayForm>
+    </mods:name>
+    <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/AldrichE/v491</mods:identifier>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 1: Idaho- May 11 to June 9, 1935; Catalog of specimens #1-84, General account and itinerary</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1935-05-11/1935-06-09</mods:dateCreated>
+            <mods:dateCreated point="start">1935</mods:dateCreated>
+            <mods:dateCreated point="end">1935</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="local">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Aldrich</mods:namePart>
+            <mods:namePart type="given">Elmer Clare</mods:namePart>
+            <mods:namePart type="date">1914-2010</mods:namePart>
+            <mods:displayForm>Aldrich, Elmer Clare, 1914-2010</mods:displayForm>
+        </mods:name>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/AldrichE/v491_s1.jpg</mods:identifier>
+    </mods:relatedItem>
+</mods:mods>

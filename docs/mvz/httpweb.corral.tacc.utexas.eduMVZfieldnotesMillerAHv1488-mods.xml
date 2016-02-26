@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<mods:mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mods:titleInfo>
+        <mods:title>Field Notes: Miller A.H. 1944-46, v1488</mods:title>
+    </mods:titleInfo>
+    <mods:language>
+        <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+        <mods:languageTerm type="text">English</mods:languageTerm>
+    </mods:language>
+    <mods:originInfo>
+        <mods:dateCreated>1944-02-26/1946-09-09</mods:dateCreated>
+        <mods:dateCreated point="start">1944</mods:dateCreated>
+        <mods:dateCreated point="end">1946</mods:dateCreated>
+    </mods:originInfo>
+    <mods:name type="personal" authority="ingest">
+        <mods:role>
+            <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+            <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+        </mods:role>
+        <mods:namePart type="family">Miller</mods:namePart>
+        <mods:namePart type="given">Alden H.</mods:namePart>
+        <mods:namePart type="date">1906-1965</mods:namePart>
+        <mods:displayForm>Miller, Alden H. (Alden Holmes), 1906-1965</mods:displayForm>
+    </mods:name>
+    <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/MillerAH/v1488</mods:identifier>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 1: Local and Miscellaneous Feb.-May 1944</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1944-02-26/1944-05-21</mods:dateCreated>
+            <mods:dateCreated point="start">1944</mods:dateCreated>
+            <mods:dateCreated point="end">1944</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="ingest">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Miller</mods:namePart>
+            <mods:namePart type="given">Alden H.</mods:namePart>
+            <mods:namePart type="date">1906-1965</mods:namePart>
+            <mods:displayForm>Miller, Alden H. (Alden Holmes), 1906-1965</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>5 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/MillerAH/v1488_s1</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 2: San Benito and Fresno Counties Aug. 1944</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1944-08-06/1944-08-13</mods:dateCreated>
+            <mods:dateCreated point="start">1944</mods:dateCreated>
+            <mods:dateCreated point="end">1944</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="ingest">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Miller</mods:namePart>
+            <mods:namePart type="given">Alden H.</mods:namePart>
+            <mods:namePart type="date">1906-1965</mods:namePart>
+            <mods:displayForm>Miller, Alden H. (Alden Holmes), 1906-1965</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>25 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/MillerAH/v1488_s2</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 3: Sonoma Co. and Miscellaneous Sept. 1944</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1944-09-02/1944-09-28</mods:dateCreated>
+            <mods:dateCreated point="start">1944</mods:dateCreated>
+            <mods:dateCreated point="end">1944</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="ingest">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Miller</mods:namePart>
+            <mods:namePart type="given">Alden H.</mods:namePart>
+            <mods:namePart type="date">1906-1965</mods:namePart>
+            <mods:displayForm>Miller, Alden H. (Alden Holmes), 1906-1965</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>4 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/MillerAH/v1488_s3</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 4: Columbia, South America Jan. 4-Feb. 27, 1945</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1945-01-04/1945-02-27</mods:dateCreated>
+            <mods:dateCreated point="start">1945</mods:dateCreated>
+            <mods:dateCreated point="end">1945</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="ingest">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Miller</mods:namePart>
+            <mods:namePart type="given">Alden H.</mods:namePart>
+            <mods:namePart type="date">1906-1965</mods:namePart>
+            <mods:displayForm>Miller, Alden H. (Alden Holmes), 1906-1965</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>15 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/MillerAH/v1488_s4</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 5: Riverside and San Bernardino Counties May 1945</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1945-05-12/1945-05-21</mods:dateCreated>
+            <mods:dateCreated point="start">1945</mods:dateCreated>
+            <mods:dateCreated point="end">1945</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="ingest">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Miller</mods:namePart>
+            <mods:namePart type="given">Alden H.</mods:namePart>
+            <mods:namePart type="date">1906-1965</mods:namePart>
+            <mods:displayForm>Miller, Alden H. (Alden Holmes), 1906-1965</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>37 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/MillerAH/v1488_s5</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 6: El Dorado Co., Calif. July 1945</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1945-07-16/1945-07-22</mods:dateCreated>
+            <mods:dateCreated point="start">1945</mods:dateCreated>
+            <mods:dateCreated point="end">1945</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="ingest">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Miller</mods:namePart>
+            <mods:namePart type="given">Alden H.</mods:namePart>
+            <mods:namePart type="date">1906-1965</mods:namePart>
+            <mods:displayForm>Miller, Alden H. (Alden Holmes), 1906-1965</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>3 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/MillerAH/v1488_s6</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 7: Riverside Co. Calif. Oct. 1945</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1946-05-24/1946-06-14</mods:dateCreated>
+            <mods:dateCreated point="start">1946</mods:dateCreated>
+            <mods:dateCreated point="end">1946</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="ingest">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Miller</mods:namePart>
+            <mods:namePart type="given">Alden H.</mods:namePart>
+            <mods:namePart type="date">1906-1965</mods:namePart>
+            <mods:displayForm>Miller, Alden H. (Alden Holmes), 1906-1965</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>65 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/MillerAH/v1488_s7</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 8: Local and Miscellaneous Nov. 1945-Mar. 1946</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1945-11-11/1946-06-14</mods:dateCreated>
+            <mods:dateCreated point="start">1945</mods:dateCreated>
+            <mods:dateCreated point="end">1946</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="ingest">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Miller</mods:namePart>
+            <mods:namePart type="given">Alden H.</mods:namePart>
+            <mods:namePart type="date">1906-1965</mods:namePart>
+            <mods:displayForm>Miller, Alden H. (Alden Holmes), 1906-1965</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>13 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/MillerAH/v1488_s8</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 9: Northwestern Calif. May-June 1946</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1946-05-24/1946-06-13</mods:dateCreated>
+            <mods:dateCreated point="start">1946</mods:dateCreated>
+            <mods:dateCreated point="end">1946</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="ingest">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Miller</mods:namePart>
+            <mods:namePart type="given">Alden H.</mods:namePart>
+            <mods:namePart type="date">1906-1965</mods:namePart>
+            <mods:displayForm>Miller, Alden H. (Alden Holmes), 1906-1965</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>39 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/MillerAH/v1488_s9</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 10: Riverside and San Bernardino Counties July 1946</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1946-07-12/1946-07-16</mods:dateCreated>
+            <mods:dateCreated point="start">1946</mods:dateCreated>
+            <mods:dateCreated point="end">1946</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="ingest">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Miller</mods:namePart>
+            <mods:namePart type="given">Alden H.</mods:namePart>
+            <mods:namePart type="date">1906-1965</mods:namePart>
+            <mods:displayForm>Miller, Alden H. (Alden Holmes), 1906-1965</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>15 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/MillerAH/v1488_s10</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 11: Local and Miscellaneous July-Nov. 1946</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1946-07-28/1946-09-09</mods:dateCreated>
+            <mods:dateCreated point="start">1946</mods:dateCreated>
+            <mods:dateCreated point="end">1946</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="ingest">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Miller</mods:namePart>
+            <mods:namePart type="given">Alden H.</mods:namePart>
+            <mods:namePart type="date">1906-1965</mods:namePart>
+            <mods:displayForm>Miller, Alden H. (Alden Holmes), 1906-1965</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>11 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/MillerAH/v1488_s11</mods:identifier>
+    </mods:relatedItem>
+</mods:mods>

@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<mods:mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mods:titleInfo>
+        <mods:title>Field Notes: Linsdale J.M. 1936-37, v1457</mods:title>
+    </mods:titleInfo>
+    <mods:language>
+        <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+        <mods:languageTerm type="text">English</mods:languageTerm>
+    </mods:language>
+    <mods:originInfo>
+        <mods:dateCreated>1936-07-09/1937-05-25</mods:dateCreated>
+        <mods:dateCreated point="start">1936</mods:dateCreated>
+        <mods:dateCreated point="end">1937</mods:dateCreated>
+    </mods:originInfo>
+    <mods:name type="personal" authority="ingest">
+        <mods:role>
+            <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+            <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+        </mods:role>
+        <mods:namePart type="family">Linsdale</mods:namePart>
+        <mods:namePart type="given">Jean M.</mods:namePart>
+        <mods:namePart type="date">1902-1969</mods:namePart>
+        <mods:displayForm>Linsdale, Jean M. (Jean Myron), 1902-1969</mods:displayForm>
+    </mods:name>
+    <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/LinsdaleJM/v1457</mods:identifier>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 0: General Index</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1936-07-09/1937-05-25</mods:dateCreated>
+            <mods:dateCreated point="start">1936</mods:dateCreated>
+            <mods:dateCreated point="end">1937</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="ingest">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Linsdale</mods:namePart>
+            <mods:namePart type="given">Jean M.</mods:namePart>
+            <mods:namePart type="date">1902-1969</mods:namePart>
+            <mods:displayForm>Linsdale, Jean M. (Jean Myron), 1902-1969</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>1 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/LinsdaleJM/v1457_s0</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 1: Linsdale, J.M. San Benito Co., California July 1936</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1936-07-09/1936-07-13</mods:dateCreated>
+            <mods:dateCreated point="start">1936</mods:dateCreated>
+            <mods:dateCreated point="end">1936</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="ingest">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Linsdale</mods:namePart>
+            <mods:namePart type="given">Jean M.</mods:namePart>
+            <mods:namePart type="date">1902-1969</mods:namePart>
+            <mods:displayForm>Linsdale, Jean M. (Jean Myron), 1902-1969</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>15 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/LinsdaleJM/v1457_s1</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 2: Linsdale, J.M. chiefly Sacramento Valley cos., Calif. Oct.-Dec. 1936</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1936-10-19/1936-12-05</mods:dateCreated>
+            <mods:dateCreated point="start">1936</mods:dateCreated>
+            <mods:dateCreated point="end">1936</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="ingest">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Linsdale</mods:namePart>
+            <mods:namePart type="given">Jean M.</mods:namePart>
+            <mods:namePart type="date">1902-1969</mods:namePart>
+            <mods:displayForm>Linsdale, Jean M. (Jean Myron), 1902-1969</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>55 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/LinsdaleJM/v1457_s2</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 3: Linsdale, J.M. Riverside and Imperial cos., Calif. April-May 1937</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1937-04-21/1937-05-25</mods:dateCreated>
+            <mods:dateCreated point="start">1937</mods:dateCreated>
+            <mods:dateCreated point="end">1937</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="ingest">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Linsdale</mods:namePart>
+            <mods:namePart type="given">Jean M.</mods:namePart>
+            <mods:namePart type="date">1902-1969</mods:namePart>
+            <mods:displayForm>Linsdale, Jean M. (Jean Myron), 1902-1969</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>26 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/LinsdaleJM/v1457_s3</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 4: Linsdale, J.M. Species accounts: Sacramento Valley cos., Riverside and Imperial cos., Calif. Nov. 8, 1936-May 25, 1937</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1936-11-08/1937-05-25</mods:dateCreated>
+            <mods:dateCreated point="start">1936</mods:dateCreated>
+            <mods:dateCreated point="end">1937</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="ingest">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Linsdale</mods:namePart>
+            <mods:namePart type="given">Jean M.</mods:namePart>
+            <mods:namePart type="date">1902-1969</mods:namePart>
+            <mods:displayForm>Linsdale, Jean M. (Jean Myron), 1902-1969</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>212 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/LinsdaleJM/v1457_s4</mods:identifier>
+    </mods:relatedItem>
+</mods:mods>

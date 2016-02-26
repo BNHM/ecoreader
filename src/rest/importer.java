@@ -3,7 +3,7 @@ package rest;
 import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;
 import org.json.simple.JSONValue;
-import renderer.sqlImporter;
+import run.sqlImporter;
 import renderer.validationException;
 import utils.ServerErrorException;
 import utils.SettingsManager;
@@ -38,16 +38,15 @@ public class importer {
         // there may be multiple commits so update the mods files for each commit individually
         for (Object c : commits) {
             JSONObject commit = (JSONObject) c;
-            List<String> added = new ArrayList<String>();
+            List<String> toImport = new ArrayList<String>();
             List<String> removed = new ArrayList<String>();
-            List<String> modified = new ArrayList<String>();
             String sha = (String) commit.get("id");
 
             for (Object f : (JSONArray) commit.get("added")) {
                 String file = (String) f;
 
                 if (file.startsWith(mods_dir) && file.endsWith("xml")) {
-                    added.add(repo_url + sha + "/" + file);
+                    toImport.add(repo_url + sha + "/" + file);
                 }
             }
 
@@ -55,7 +54,7 @@ public class importer {
                 String file = (String) f;
 
                 if (file.startsWith(mods_dir) && file.endsWith("xml")) {
-                    modified.add(repo_url + sha + "/" + file);
+                    toImport.add(repo_url + sha + "/" + file);
                 }
             }
 
@@ -70,11 +69,14 @@ public class importer {
             // import, update, and remove the appropriate notebooks
             try {
                 // for testing
-                System.out.println("the modified url being sent: " + modified.get(0));
+//                if (toImport.size() > 0) {
+//                    System.out.println("the modified url being sent: " + toImport.get(0));
+//                }
 
-                sqlImporter.importNotebooks(added);
-                sqlImporter.updateNotebooks(modified);
-                sqlImporter.removeNotebooks(removed);
+                if (toImport.size() > 0)
+                    sqlImporter.importNotebooks(toImport);
+                if (removed.size() > 0)
+                    sqlImporter.removeNotebooksInList(removed);
             } catch (validationException e) {
                 throw new ServerErrorException(e);
             }

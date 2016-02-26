@@ -1,0 +1,365 @@
+html
+{ height: 100%;}
+
+*
+{ margin: 0;
+  padding: 0;}
+
+body
+{ font: normal 85% Arial, Helvetica, sans-serif;
+  color: #000;
+  background: #FFF url(../img/background.jpg) repeat;
+}
+
+p
+{ padding: 0 0 10px 0;
+  line-height: 1.7em;
+  font-size: 100% }
+
+img
+{ border: 0;}
+
+#title
+{ font: normal 200% Arial, Helvetica, sans-serif;
+    letter-spacing: 2px;
+    text-shadow: none;
+    text-color: #FFFFFF;
+    color: #ffffff;
+    text-decoration: none;
+    padding: 20px;
+}
+
+h1, h2, h3, h4, h5, h6 
+{ font: normal 175% Arial, Helvetica, sans-serif;
+  color: #00708C;
+  #text-shadow: 0px 0px #FFF;
+  letter-spacing: 1px;
+  margin: 0 0 10px 0;}
+
+h2
+{ font: normal 165% Arial, Helvetica, sans-serif;}
+
+h3
+{ font: normal 130% Arial, Helvetica, sans-serif;
+}
+
+h4, h5, h6
+{ margin: 0;
+  padding: 0 0 0px 0;
+  font: normal 150% Arial, Helvetica, sans-serif;
+  line-height: 1.5em;}
+
+h5, h6
+{ font: normal 95% Arial, Helvetica, sans-serif;
+  color: #888;
+  padding-bottom: 15px;}
+
+a
+{ color: #000;
+  font-weight: bold;
+  background: transparent;
+  outline: none;
+  text-decoration: underline;}
+
+a:hover
+{ text-decoration: none;}
+
+ul
+{ margin: 2px 0 22px 30px;
+  line-height: 1.7em;
+  font-style: normal;
+  font-size: 100%;}
+
+ol
+{ margin: 8px 0 22px 20px;}
+
+ol li {
+    margin: 0 0 11px 0;
+}
+
+#header, #banner, #menubar, #site_content, #footer, #content_blue{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#main {
+    margin-left: auto;
+    margin-right: auto;
+    min-height:100%;
+    margin-bottom: -54px;
+    position: relative;
+}
+
+#header {
+    height: 200px;
+    width: 960px;
+    background: transparent url(../img/header.jpg) no-repeat;
+}
+
+#menubar
+{ height:200px;
+  width: 960px;
+      margin-left: 0px;
+      margin-right: 0px;
+  }
+  
+#welcome
+{ width: 360px;
+  height: 70px;
+  padding-top: 10px;
+  float: left;
+  text-align: left;
+  margin: 0 auto;}  
+   
+#welcome h1 a
+{ font: normal 150% Arial, Helvetica, sans-serif;
+  letter-spacing: 2px;
+  text-shadow: none;
+  text-color: #FFFFFF;
+  color: #ffffff;
+  text-decoration: none;
+  }
+  
+#menu_items
+{ float: right;
+  height: 175px;
+  margin-right: 20px;
+  padding-top: 150px;
+  width: 580px;}
+  
+ul#menu
+{ margin:0;
+  float: right;}
+
+ul#menu li
+{ padding: 0 0 0 0px;
+  list-style: none;
+  margin: 2px 0 0 0;
+  display: inline;
+  background: transparent;}
+
+ul#menu li a
+{ float: left;
+  font: bold 120% Arial, Helvetica, sans-serif;
+  text-align: center;
+  color: #FFF;
+  text-decoration: none;
+  text-shadow: none;
+  margin: 6px 0 0 10px;
+  padding: 10px 15px 10px 15px;
+  background: transparent; } 
+  
+ul#menu li.current a, ul#menu li:hover a
+{ color: #FFF;
+  background: #02C7FC;
+  background: -moz-linear-gradient(#02C7FC, #00708C);
+  background: -o-linear-gradient(#02C7FC, #00708C);
+  background: -webkit-linear-gradient(#02C7FC, #00708C);
+  border-radius: 7px 7px 7px 7px;
+  -moz-border-radius: 7px 7px 7px 7px;
+  -webkit-border: 7px 7px 7px 7px;
+  -webkit-box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;
+  -moz-box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;
+  box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;  }
+
+#site_content
+{ width: 940px;
+  overflow: hidden;
+  margin: 0 auto;
+  padding: 0 0 20px 20px;
+  background: transparent url(../img/transparent_light.png) repeat;}
+
+.sidebar_container
+{ float: right;
+  margin: 20px 20px 0 20px;
+  width: 220px;
+  padding-left: 15px;
+  background: #02C7FC;}
+
+.sidebar
+{ float: left;
+  width: 220px;
+  padding: 0;
+  margin-top: 10px;
+  margin-bottom: 10px;}
+
+.sidebar_item
+{ font: normal 100% Arial, Helvetica, sans-serif;
+  width: 215px;}
+
+.sidebar h2
+{ font: normal 140% Arial, Helvetica, sans-serif;
+  color: #FFF;
+  text-shadow: 0px 1px 0px #00708C;}  
+ 
+.sidebar h3
+{ color: #FFF;
+  text-shadow: 0px 1px 0px #00708C;}  
+
+.sidebar p
+{ color: #FFF;}  
+
+#content
+{ width: 960px;
+/*THe HEIGHT is a hack here just to give enough room for the
+author drop-down box to show. We need to find some way to make this go all
+the way down to the footer*/
+  height:600px;
+  /* also add a scrollbar here, which is a bit of hack, not sure if this
+  is the best way to go about things */
+  overflow-y: auto;
+  margin-bottom: 10px;
+  float: left;}
+
+.content_item
+{ width: 960px;
+  margin-top: 10px;
+  margin-bottom: 10px;}
+  
+.content_container
+{ width: 310px;
+  padding: 5px;
+  margin-right: 10px;
+  float: left;}
+  
+.content_images_text
+{ float: left;
+  width: 665px;
+  margin-bottom: 10px;}  
+  
+.content_image
+{ width: 300px;
+  height: 150px;
+  margin-right: 10px;
+  float: left;}
+  
+.image_text
+{ width: 350px;
+  float: right;}  
+  
+
+#footer {
+      text-align: center;
+      padding: 6px 10px;
+      height: 30px;
+      position: relative;
+      color: gray;
+}
+
+#clearfooter {
+      height: 60px;
+      clear: both;
+}
+
+#footer a, #footer a:hover
+{ text-decoration: none;
+  padding-bottom: 20px;}
+
+#footer a:hover
+{ text-decoration: underline;}
+
+
+  
+ .readmore
+{ font: bold 110% Arial, Helvetica, sans-serif;
+  height: 15px;
+  margin-left: 95px;
+  width: 90px;
+  padding: 5px 5px 10px 7px;
+  background: #02C7FC;
+  background: -moz-linear-gradient(#02C7FC, #00708C);
+  background: -o-linear-gradient(#02C7FC, #00708C);
+  background: -webkit-linear-gradient(#02C7FC, #00708C);
+  border-radius: 7px 7px 7px 7px;
+  -moz-border-radius: 7px 7px 7px 7px;
+  -webkit-border: 7px 7px 7px 7px;
+  -webkit-box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;
+  -moz-box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;
+  box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;}
+  
+ .readmore a
+{ color: #1D1D1D;}
+ 
+ .button_small
+{ font: normal 110% Arial, Helvetica, sans-serif;
+  height: 15px;
+  width: 90px;
+  padding: 5px 5px 10px 7px;
+  background: #02C7FC;
+  background: -moz-linear-gradient(#02C7FC, #00708C);
+  background: -o-linear-gradient(#02C7FC, #00708C);
+  background: -webkit-linear-gradient(#02C7FC, #00708C);
+  border-radius: 7px 7px 7px 7px;
+  -moz-border-radius: 7px 7px 7px 7px;
+  -webkit-border: 7px 7px 7px 7px;
+  -webkit-box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;
+  -moz-box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;
+  box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;}
+  
+.button_small a
+{ color: #FFF;
+  padding-left: 5px;}
+
+.form_settings
+{ margin: 15px 0 0 0;}
+
+.form_settings p
+{ padding: 0 0 4px 0;}
+
+.form_settings span
+{ float: left; 
+  width: 280px; 
+  text-align: left;}
+  
+.form_settings input, .form_settings textarea
+{ padding: 2px; 
+  width: 299px; 
+  font: 100% arial; 
+  border: 1px solid #BBB; 
+  background: #FFF; 
+  color: #47433F;}
+  
+.form_settings input[type="checkbox"]
+{ padding: 2px 0; 
+  width: 15px; 
+  font: 100% arial; 
+  border: 0; 
+  background: #FFF; 
+  color: #47433F;
+  margin: 28px 0;}
+
+.form_settings .submit
+{ font: bold 100% arial; 
+  width: 99px; 
+  margin: 0 0 0 206px; 
+  height: 26px;
+  padding: 2px 0 3px 0;
+  cursor: pointer; 
+  background: #02C7FC;
+  background: -moz-linear-gradient(#02C7FC, #00708C);
+  background: -o-linear-gradient(#02C7FC, #00708C);
+  background: -webkit-linear-gradient(#02C7FC, #00708C);
+  border-radius: 7px 7px 7px 7px;
+  -moz-border-radius: 7px 7px 7px 7px;
+  -webkit-border: 7px 7px 7px 7px;
+  -webkit-box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;
+  -moz-box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;
+  box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;
+  color: #FFF;}
+
+
+/*
+*  dd element defines those items that are hidden in a toggle option on validation results
+*/
+dd { margin: 0; padding: 0; display: none }
+
+tr.toggle-content {
+    display:none;
+}
+
+/**
+* A special Div class for toggling content on and off
+**/
+div.toggle-content {
+    display:none;
+    margin: 0px 20px;

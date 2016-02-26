@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<mods:mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mods:titleInfo>
+        <mods:title>Field Notes: Lamb C.C. 1929 (Part 2), v1424</mods:title>
+    </mods:titleInfo>
+    <mods:language>
+        <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+        <mods:languageTerm type="text">English</mods:languageTerm>
+    </mods:language>
+    <mods:originInfo>
+        <mods:dateCreated>1929-05-19/1929-09-14</mods:dateCreated>
+        <mods:dateCreated point="start">1929</mods:dateCreated>
+        <mods:dateCreated point="end">1929</mods:dateCreated>
+    </mods:originInfo>
+    <mods:name type="personal" authority="local">
+        <mods:role>
+            <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+            <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+        </mods:role>
+        <mods:namePart type="family">Lamb</mods:namePart>
+        <mods:namePart type="given">Chester Converse</mods:namePart>
+        <mods:namePart type="date">1883-</mods:namePart>
+        <mods:displayForm>Lamb, Chester Converse, 1883-</mods:displayForm>
+    </mods:name>
+    <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/LambCC/v1424</mods:identifier>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 1: Lower California, Mexico Expedition 10 (continued from volume 1928, part 1)</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1929-05-19/1929-09-14</mods:dateCreated>
+            <mods:dateCreated point="start">1929</mods:dateCreated>
+            <mods:dateCreated point="end">1929</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="local">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Lamb</mods:namePart>
+            <mods:namePart type="given">Chester Converse</mods:namePart>
+            <mods:namePart type="date">1883-</mods:namePart>
+            <mods:displayForm>Lamb, Chester Converse, 1883-</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>174 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/LambCC/v1424_s1</mods:identifier>
+    </mods:relatedItem>
+</mods:mods>

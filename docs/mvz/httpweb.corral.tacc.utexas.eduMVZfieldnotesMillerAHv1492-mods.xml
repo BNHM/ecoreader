@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<mods:mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mods:titleInfo>
+        <mods:title>Field Notes: Miller A.H. 1954-57, v1492</mods:title>
+    </mods:titleInfo>
+    <mods:language>
+        <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+        <mods:languageTerm type="text">English</mods:languageTerm>
+    </mods:language>
+    <mods:originInfo>
+        <mods:dateCreated>1954-06-10/1957-11-03</mods:dateCreated>
+        <mods:dateCreated point="start">1954</mods:dateCreated>
+        <mods:dateCreated point="end">1957</mods:dateCreated>
+    </mods:originInfo>
+    <mods:name type="personal" authority="ingest">
+        <mods:role>
+            <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+            <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+        </mods:role>
+        <mods:namePart type="family">Miller</mods:namePart>
+        <mods:namePart type="given">Alden H.</mods:namePart>
+        <mods:namePart type="date">1906-1965</mods:namePart>
+        <mods:displayForm>Miller, Alden H. (Alden Holmes), 1906-1965</mods:displayForm>
+    </mods:name>
+    <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/MillerAH/v1492</mods:identifier>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 1: Europe, Virginia June-August 1954</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1954-06-10/1954-08-07</mods:dateCreated>
+            <mods:dateCreated point="start">1954</mods:dateCreated>
+            <mods:dateCreated point="end">1954</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="ingest">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Miller</mods:namePart>
+            <mods:namePart type="given">Alden H.</mods:namePart>
+            <mods:namePart type="date">1906-1965</mods:namePart>
+            <mods:displayForm>Miller, Alden H. (Alden Holmes), 1906-1965</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>11 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/MillerAH/v1492_s1</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 2: Miscellaneous Texas Oct. 1954-May 1955</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1954-10-16/1955-05-29</mods:dateCreated>
+            <mods:dateCreated point="start">1954</mods:dateCreated>
+            <mods:dateCreated point="end">1955</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="ingest">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Miller</mods:namePart>
+            <mods:namePart type="given">Alden H.</mods:namePart>
+            <mods:namePart type="date">1906-1965</mods:namePart>
+            <mods:displayForm>Miller, Alden H. (Alden Holmes), 1906-1965</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>6 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/MillerAH/v1492_s2</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 3: Jarbridge Mtn., Elko Co., Nevada June 9-June 28, 1955</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1955-06-09/1955-06-28</mods:dateCreated>
+            <mods:dateCreated point="start">1955</mods:dateCreated>
+            <mods:dateCreated point="end">1955</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="ingest">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Miller</mods:namePart>
+            <mods:namePart type="given">Alden H.</mods:namePart>
+            <mods:namePart type="date">1906-1965</mods:namePart>
+            <mods:displayForm>Miller, Alden H. (Alden Holmes), 1906-1965</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>45 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/MillerAH/v1492_s3</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 4: Miscellaneous, Guadalupe Island June-December 12, 1955</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1955-06-15/1955-12-12</mods:dateCreated>
+            <mods:dateCreated point="start">1955</mods:dateCreated>
+            <mods:dateCreated point="end">1955</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="ingest">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Miller</mods:namePart>
+            <mods:namePart type="given">Alden H.</mods:namePart>
+            <mods:namePart type="date">1906-1965</mods:namePart>
+            <mods:displayForm>Miller, Alden H. (Alden Holmes), 1906-1965</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>8 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/MillerAH/v1492_s4</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 5: Riverside Co., Lake Co., Galapagos Islands Dec. 13, 1955 and Jan.-Feb. 1956</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1955-12-13/1956-02-04</mods:dateCreated>
+            <mods:dateCreated point="start">1955</mods:dateCreated>
+            <mods:dateCreated point="end">1956</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="ingest">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Miller</mods:namePart>
+            <mods:namePart type="given">Alden H.</mods:namePart>
+            <mods:namePart type="date">1906-1965</mods:namePart>
+            <mods:displayForm>Miller, Alden H. (Alden Holmes), 1906-1965</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>2 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/MillerAH/v1492_s5</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 6: Jarbridge, Cottonwood Creek, Elko Co., Nevada May 31-June 11, 1956</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1956-05-31/1956-06-11</mods:dateCreated>
+            <mods:dateCreated point="start">1956</mods:dateCreated>
+            <mods:dateCreated point="end">1956</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="ingest">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Miller</mods:namePart>
+            <mods:namePart type="given">Alden H.</mods:namePart>
+            <mods:namePart type="date">1906-1965</mods:namePart>
+            <mods:displayForm>Miller, Alden H. (Alden Holmes), 1906-1965</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>39 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/MillerAH/v1492_s6</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 7: Pacific Northwest and Miscellaneous Local June 1956-April 1957</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1956-06-17/1957-04-20</mods:dateCreated>
+            <mods:dateCreated point="start">1956</mods:dateCreated>
+            <mods:dateCreated point="end">1957</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="ingest">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Miller</mods:namePart>
+            <mods:namePart type="given">Alden H.</mods:namePart>
+            <mods:namePart type="date">1906-1965</mods:namePart>
+            <mods:displayForm>Miller, Alden H. (Alden Holmes), 1906-1965</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>18 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/MillerAH/v1492_s7</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 8: Chihuahua, Mexico June 12-June 23, 1957</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1957-06-12/1957-06-23</mods:dateCreated>
+            <mods:dateCreated point="start">1957</mods:dateCreated>
+            <mods:dateCreated point="end">1957</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="ingest">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Miller</mods:namePart>
+            <mods:namePart type="given">Alden H.</mods:namePart>
+            <mods:namePart type="date">1906-1965</mods:namePart>
+            <mods:displayForm>Miller, Alden H. (Alden Holmes), 1906-1965</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>44 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/MillerAH/v1492_s8</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 9: California-Miscellaneous Local June-November 3, 1957 (Dec. 31)</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1957-07-28/1957-11-03</mods:dateCreated>
+            <mods:dateCreated point="start">1957</mods:dateCreated>
+            <mods:dateCreated point="end">1957</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="ingest">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Miller</mods:namePart>
+            <mods:namePart type="given">Alden H.</mods:namePart>
+            <mods:namePart type="date">1906-1965</mods:namePart>
+            <mods:displayForm>Miller, Alden H. (Alden Holmes), 1906-1965</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>4 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/MillerAH/v1492_s9</mods:identifier>
+    </mods:relatedItem>
+</mods:mods>

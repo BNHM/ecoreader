@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<mods:mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mods:titleInfo>
+        <mods:title>Field Notes: Storer T.I. 1911-12, v1664</mods:title>
+    </mods:titleInfo>
+    <mods:language>
+        <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+        <mods:languageTerm type="text">English</mods:languageTerm>
+    </mods:language>
+    <mods:originInfo>
+        <mods:dateCreated>1911-06-14/1912-06-20</mods:dateCreated>
+        <mods:dateCreated point="start">1911</mods:dateCreated>
+        <mods:dateCreated point="end">1912</mods:dateCreated>
+    </mods:originInfo>
+    <mods:name type="personal" authority="ingest">
+        <mods:role>
+            <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+            <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+        </mods:role>
+        <mods:namePart type="family">Storer</mods:namePart>
+        <mods:namePart type="given">Tracy I.</mods:namePart>
+        <mods:namePart type="date">1889-1973</mods:namePart>
+        <mods:displayForm>Storer, Tracy I. (Tracy Irwin), 1889-1973</mods:displayForm>
+    </mods:name>
+    <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/StorerTI/v1664</mods:identifier>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 0: General Index</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1911-06-14/1912-06-20</mods:dateCreated>
+            <mods:dateCreated point="start">1911</mods:dateCreated>
+            <mods:dateCreated point="end">1912</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="ingest">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Storer</mods:namePart>
+            <mods:namePart type="given">Tracy I.</mods:namePart>
+            <mods:namePart type="date">1889-1973</mods:namePart>
+            <mods:displayForm>Storer, Tracy I. (Tracy Irwin), 1889-1973</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>1 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/StorerTI/v1664_s0</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 1: Mt. Whitney region, in Kern, Tulare and Inyo Cos., Calif. 1911</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1911-06-14/1911-09-01</mods:dateCreated>
+            <mods:dateCreated point="start">1911</mods:dateCreated>
+            <mods:dateCreated point="end">1911</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="ingest">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Storer</mods:namePart>
+            <mods:namePart type="given">Tracy I.</mods:namePart>
+            <mods:namePart type="date">1889-1973</mods:namePart>
+            <mods:displayForm>Storer, Tracy I. (Tracy Irwin), 1889-1973</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>110 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/StorerTI/v1664_s1</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 2: Sacramento Valley, in Tehama, Butte, Glenn, Yolo, Solano and Contra Costa Cos., Calif. 1912</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>1912-05-20/1912-06-20</mods:dateCreated>
+            <mods:dateCreated point="start">1912</mods:dateCreated>
+            <mods:dateCreated point="end">1912</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="ingest">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Storer</mods:namePart>
+            <mods:namePart type="given">Tracy I.</mods:namePart>
+            <mods:namePart type="date">1889-1973</mods:namePart>
+            <mods:displayForm>Storer, Tracy I. (Tracy Irwin), 1889-1973</mods:displayForm>
+        </mods:name>
+        <mods:physicalDescription>
+            <mods:extent>97 pages</mods:extent>
+        </mods:physicalDescription>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/StorerTI/v1664_s2</mods:identifier>
+    </mods:relatedItem>
+</mods:mods>
