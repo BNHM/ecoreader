@@ -363,3 +363,20 @@ tr.toggle-content {
 div.toggle-content {
     display:none;
     margin: 0px 20px;
+}
+
+/*
+* fancybox section
+*/
+
+a#img_link:hover {
+    cursor: zoom-in;
+}
+
+#img_link {
+    position: absolute;
+    width: 70%;
+    height: 100%;
+    top: 0;
+    left: 15%;
+}
