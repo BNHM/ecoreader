@@ -39,55 +39,8 @@ body {
 
 /* Combinators */
 
-@import "bootstrap-combinator.less";
 
-/*
- * LESS is failing at these for now:
- * https://github.com/less/less.js/issues/2623
- *
- * So until it's fixed, these need escaping.
- * http://lesscss.org/features/#features-overview-feature-escaping
- */
-
-@{hc} .materialblue {
-    .materialblue();
-}
-
-#loader.good @{combinator} .circle {
-    border-color: @material-green;
-}
-#loader.bad @{combinator} .circle {
-    border-color: @material-red;
-}
-
-@{hc} .code {
-    .code();
-}
-
-@{hc} .help-block {
-  .help-block();
-}
-
-@{hc} paper-autogrow-textarea textarea {
-    width:90%;
-}
-
-@{hc} [affirmative] {
-    color:@material-blue!important;
-
-}
-
-@{hc} paper-dialog-scrollable {
-    padding: 1rem !important;
-}
-
-@{hc} .tooltip-container {
-    .tooltip-container();
-}
-
-/***
- * Primary Styles
- ***/
+// Colors
 
 .materialblue {
     background: @material-blue;
@@ -101,9 +54,9 @@ paper-fab.materialblue.paper-fab-0 {
 
 
 .materialgreen, .materialblue:hover, paper-fab.materialblue.paper-fab-0:hover {
-    background: @material-green;
-    color: #fff;
-}
+                                         background: @material-green;
+                                         color: #fff;
+                                     }
 
 .materialindigo {
     background: @material-indigo;
@@ -164,99 +117,63 @@ paper-fab.materialblue.paper-fab-0 {
 
 }
 
-paper-dialog-scrollable {
-    padding: 1rem !important;
-    min-height: 15rem;
-}
-
-
-.tooltip-container {
-    float:left;
-    display:inline-block;
-}
-
 .italic {
     font-style:italic;
 }
+
+.bold {
+    font-weight: 700;
+}
+
 .click {
     cursor:pointer;
 }
-.med-octicon {
-    font-size:24px !important;
-}
 
-.capitalize,
-@{hc} .capitalize {
+
+.capitalize {
     text-transform:capitalize;
 }
 
 
 
-/* Loader */
-
-#loader {
-    position:fixed;
-    top:50%;
-    left:50%;
-}
-
-paper-dropdown.dropdown {
-/* Override Bootstrap */
-    position:absolute;
-}
-
-paper-toggle-button {
-    margin-left:1rem;
-}
-
-paper-icon-button {
-    vertical-align:middle;
-}
 
 .fullwidth {
     width:100%;
 }
 
-#collapse-advanced {
-    margin-top:1rem;
-}
 
 .bs-callout {
-  padding: 20px;
-  margin: 20px 0;
-  border: 1px solid #eee;
-  border-left-width: 5px;
-  border-radius: 3px;
-  width:80%;
+    padding: 20px;
+    margin: 20px 0;
+    border: 1px solid #eee;
+    border-left-width: 5px;
+    border-radius: 3px;
+    width:80%;
 }
 
 .bs-callout-info {
-  border-left-color: @bs-info;
+    border-left-color: @bs-info;
 }
 
 .bs-callout-info h4 {
-  color: @bs-info;
+    color: @bs-info;
 }
 .bs-callout-danger {
-  border-left-color: @bs-danger;
+    border-left-color: @bs-danger;
 }
 .bs-callout-danger h4 {
-  color: @bs-danger;
+    color: @bs-danger;
 }
 .bs-callout-warning {
-  border-left-color: @bs-warning;
+    border-left-color: @bs-warning;
 }
 .bs-callout-warning h4 {
-  color: @bs-warning;
+    color: @bs-warning;
 }
 .bs-callout p:last-child {
-  margin-bottom: 0;
+    margin-bottom: 0;
 }
 
-copyright-statement {
-    position: relative;
-    top: 1rem;
-}
 
 .code {
     padding: 2px 4px;
@@ -269,46 +186,399 @@ copyright-statement {
 
 
 .help-block {
-  display: block;
-  margin-top: 1.25rem;
-  margin-bottom: 10px;
-  .text-muted();
-}
-
-
-paper-toast, paper-spinner {
-    z-index:1000;
-}
-
-#password_security + #login {
-    float:left;
-    min-width:60%;
-}
-
-#login .form-inline .form-group {
-    margin-bottom:15px;
-}
-
-.form-inline .has-feedback div {
-    margin-left:0;
-}
-
-#outdated-warning {
-    position:fixed;
-    top:0;
-    width:50%;
-    margin:0;
-    left:25%;
-}
-
-iron-label {
-    margin-top: .5rem;
     display: block;
+    margin-top: 1.25rem;
+    margin-bottom: 10px;
+    .text-muted();
 }
 
-paper-radio-button #radioContainer, paper-radio-button #radioContainer div {
-    /* Overrides Bootstrap */
-    box-sizing: content-box !important;
+
+///////////////////////
+// Ecoreader Specific
+///////////////////////
+
+body
+{ 
+    // font: normal 85% Arial, Helvetica, sans-serif;
+    color: @theme-text-dark;
+    background: @theme-text-light url(../img/background.jpg) repeat;
+}
+
+p
+{ padding: 0 0 10px 0;
+  line-height: 1.7em;
+  font-size: 100% }
+
+img
+{ border: 0;}
+
+#title
+{ 
+    //font: normal 200% Arial, Helvetica, sans-serif;
+    letter-spacing: 2px;
+    text-shadow: none;
+    text-color: @theme-text-light;
+    color: @theme-text-light;
+    text-decoration: none;
+    padding: 20px;
+}
+
+h1, h2, h3, h4, h5, h6 { 
+    // font: normal 175% Arial, Helvetica, sans-serif;
+    color: @theme-dark;
+    //text-shadow: 0px 0px @theme-text-light;
+    letter-spacing: 1px;
+    margin: 0 0 10px 0;}
+
+// h2
+// { font: normal 165% Arial, Helvetica, sans-serif;}
+
+// h3
+// { font: normal 130% Arial, Helvetica, sans-serif;
+// }
+
+h4, h5, h6 { 
+    margin: 0;
+    padding: 0 0 0px 0;
+    //font: normal 150% Arial, Helvetica, sans-serif;
+    //line-height: 1.5em;
+}
+
+h5, h6 { 
+    //font: normal 95% Arial, Helvetica, sans-serif;
+    color: @theme-text-alt;
+    padding-bottom: 15px;}
+
+a { color: @theme-text-dark;
+    font-weight: bold;
+    background: transparent;
+    outline: none;
+    text-decoration: underline;}
+
+a:hover { 
+    text-decoration: none;}
+
+ul { 
+    margin: 2px 0 22px 30px;
+    line-height: 1.7em;
+    font-style: normal;
+    font-size: 100%;}
+
+ol { 
+    margin: 8px 0 22px 20px;}
+
+ol li {
+    margin: 0 0 11px 0;
+}
+
+#header, #banner, #menubar, #site_content, #footer, #content_blue {
+    .center-block;
+}
+
+#main {
+    .center-block;
+    min-height:100%;
+    margin-bottom: -54px;
+    position: relative;
+}
+
+#header {
+    height: 200px;
+    width: 960px;
+    background: transparent url(../img/header.jpg) no-repeat;
+}
+
+#menubar
+{ height:200px;
+  width: 960px;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+#welcome
+{ width: 360px;
+  height: 70px;
+  padding-top: 10px;
+  float: left;
+  text-align: left;
+  margin: 0 auto;}  
+
+#welcome h1 a
+{ 
+    //font: normal 150% Arial, Helvetica, sans-serif;
+    letter-spacing: 2px;
+    text-shadow: none;
+    text-color: @theme-text-light;
+    color: @theme-text-light;
+    text-decoration: none;
+}
+
+#menu_items
+{ float: right;
+  height: 175px;
+  margin-right: 20px;
+  padding-top: 150px;
+  width: 580px;}
+
+ul#menu
+{ margin:0;
+  float: right;}
+
+ul#menu li
+{ padding: 0 0 0 0px;
+  list-style: none;
+  margin: 2px 0 0 0;
+  display: inline;
+  background: transparent;}
+
+ul#menu li a
+{ float: left;
+  .bold;
+  .text-center;
+  // font: bold 120% Arial, Helvetica, sans-serif;
+  color: @theme-text-light;
+  text-decoration: none;
+  text-shadow: none;
+  margin: 6px 0 0 10px;
+  padding: 10px 15px 10px 15px;
+  background: transparent; } 
+
+ul#menu li.current a, 
+ul#menu li:hover a { 
+    color: #FFF;
+    background: @theme-primary;
+    background: linear-gradient(@theme-primary, @theme-dark);
+    border-radius: 7px;
+    box-shadow: @theme-shadow;  }
+
+#site_content { 
+    width: 940px;
+    overflow: hidden;
+    margin: 0 auto;
+    padding: 0 0 20px 20px;
+    background: transparent url(../img/transparent_light.png) repeat;}
+
+.sidebar_container
+{ float: right;
+  margin: 20px 20px 0 20px;
+  width: 220px;
+  padding-left: 15px;
+  background: @theme-primary;}
+
+.sidebar
+{ float: left;
+  width: 220px;
+  padding: 0;
+  margin-top: 10px;
+  margin-bottom: 10px;}
+
+.sidebar_item
+{ font: normal 100% Arial, Helvetica, sans-serif;
+  width: 215px;}
+
+.sidebar h2
+{ font: normal 140% Arial, Helvetica, sans-serif;
+  color: #FFF;
+  text-shadow: 0px 1px 0px @theme-dark;}  
+
+.sidebar h3
+{ color: #FFF;
+  text-shadow: 0px 1px 0px @theme-dark;}  
+
+.sidebar p
+{ color: #FFF;}  
+
+#content
+{ width: 960px;
+  /* THe HEIGHT is a hack here just to give enough room for the
+author drop-down box to show. We need to find some way to make this go all
+the way down to the footer*/
+  height:600px;
+  /* also add a scrollbar here, which is a bit of hack, not sure if this
+  is the best way to go about things */
+  overflow-y: auto;
+  margin-bottom: 10px;
+  float: left;}
+
+.content_item
+{ width: 960px;
+  margin-top: 10px;
+  margin-bottom: 10px;}
+
+.content_container
+{ width: 310px;
+  padding: 5px;
+  margin-right: 10px;
+  float: left;}
+
+.content_images_text
+{ float: left;
+  width: 665px;
+  margin-bottom: 10px;}  
+
+.content_image
+{ width: 300px;
+  height: 150px;
+  margin-right: 10px;
+  float: left;}
+
+.image_text
+{ width: 350px;
+  float: right;}  
+
+
+#footer {
+    text-align: center;
+    padding: 6px 10px;
+    height: 30px;
+    position: relative;
+    color: gray;
+}
+
+#clearfooter {
+    height: 60px;
+    clear: both;
+}
+
+#footer a, #footer a:hover { 
+               text-decoration: none;
+               padding-bottom: 20px;}
+
+#footer a:hover { 
+    text-decoration: underline;}
+
+
+
+.readmore
+{ //font: bold 110% Arial, Helvetica, sans-serif;
+    .bold;
+    height: 15px;
+    margin-left: 95px;
+    width: 90px;
+    padding: 5px 5px 10px 7px;
+    background: @theme-primary;
+    background: linear-gradient(@theme-primary, @theme-dark);
+    border-radius: 7px;
+    box-shadow: @theme-shadow;
+}
+
+.readmore a
+{ color: #1D1D1D;}
+
+.button_small
+{ //font: normal 110% Arial, Helvetica, sans-serif;
+    height: 15px;
+    width: 90px;
+    padding: 5px 5px 10px 7px;
+    background: @theme-primary;
+    background: -moz-linear-gradient(@theme-primary, @theme-dark);
+    background: -o-linear-gradient(@theme-primary, @theme-dark);
+    background: -webkit-linear-gradient(@theme-primary, @theme-dark);
+    border-radius: 7px;
+    box-shadow: @theme-shadow;
+}
+
+.button_small a
+{ color: #FFF;
+  padding-left: 5px;}
+
+.form_settings
+{ margin: 15px 0 0 0;}
+
+.form_settings p
+{ padding: 0 0 4px 0;}
+
+.form_settings span
+{ float: left; 
+  width: 280px; 
+  text-align: left;}
+
+.form_settings input, .form_settings textarea { 
+    padding: 2px; 
+    width: 299px; 
+    //font: 100% arial; 
+    border: 1px solid @theme-border-color; 
+    background: @theme-text-light; 
+    color: @theme-text-alt;
+}
+
+.form_settings input[type="checkbox"]
+{ padding: 2px 0; 
+  width: 15px; 
+  //font: 100% arial; 
+  border: 0; 
+  background: @theme-text-light; 
+  color: @theme-text-alt;
+  margin: 28px 0;}
+
+.form_settings .submit
+{ //font: bold 100% arial; 
+    width: 99px; 
+    margin: 0 0 0 206px; 
+    height: 26px;
+    padding: 2px 0 3px 0;
+    cursor: pointer; 
+    background: @theme-primary;
+    background: linear-gradient(@theme-primary, @theme-dark);
+    border-radius: 7px;
+    box-shadow: @theme-shadow;
+    color: @theme-text-light;
 }
 
 
+/*
+*  dd element defines those items that are hidden in a toggle option on validation results
+*/
+dd { margin: 0; padding: 0; display: none }
+
+tr.toggle-content {
+    display:none;
+}
+
+/**
+* A special Div class for toggling content on and off
+**/
+div.toggle-content {
+    display:none;
+    margin: 0px 20px;
+}
+
+
+// Alerts
+
+.alert-container {
+  position: absolute;
+  left: 0;
+  right: 0;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.alert {
+  position: relative;
+  z-index: 999999;
+  width: 400px;
+  height: 150px;
+  overflow:auto;
+  left: 0;
+  right: 0;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 8px 35px 8px 14px;
+  margin-bottom: 5px;
+  text-shadow: 0 1px 0 rgba(255, 255, 255, 0.5);
+  background-color: #fcf8e3;
+  border: 1px solid #fbeed5;
+  border-radius: 4px;
+}
+.alert-success {
+  background-color: @theme-success-light;
+  border-color: @theme-success;
+  color: @theme-success;
+}
+
+.alert-error {
+  background-color: @theme-danger-light;
+  border-color: @theme-danger;
+  color: @theme-danger;
+}
