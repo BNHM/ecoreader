@@ -41,21 +41,21 @@ module.exports = (grunt) ->
       options:
         mangle:
           except:['jQuery']
-      vulcanize:
-        options:
-          sourceMap:true
-          sourceMapName:"js/maps/app.js.map"
-        files:
-          "js/app.min.js":["app-prerelease.js"]
-      combine:
-        options:
-          sourceMap:true
-          sourceMapName:"js/maps/combined.map"
-          sourceMapIncludeSources:true
-          sourceMapIn:"js/maps/ecoreader.js.map"
-        files:
-          "js/combined.min.js":["js/ecoreader.js","js/admin.js","bower_components/purl/purl.js","bower_components/xmlToJSON/lib/xmlToJSON.js","bower_components/jquery-cookie/jquery.cookie.js"]
-          "js/app.min.js":["js/ecoreader.js","js/admin.js"]
+      # vulcanize:
+      #   options:
+      #     sourceMap:true
+      #     sourceMapName:"js/maps/app.js.map"
+      #   files:
+      #     "js/app.min.js":["app-prerelease.js"]
+      # combine:
+      #   options:
+      #     sourceMap:true
+      #     sourceMapName:"js/maps/combined.map"
+      #     sourceMapIncludeSources:true
+      #     sourceMapIn:"js/maps/ecoreader.js.map"
+      #   files:
+      #     "js/combined.min.js":["js/ecoreader.js","js/admin.js","bower_components/purl/purl.js","bower_components/xmlToJSON/lib/xmlToJSON.js","bower_components/jquery-cookie/jquery.cookie.js"]
+      #     "js/app.min.js":["js/ecoreader.js","js/admin.js"]
       dist:
         options:
           sourceMap:true
@@ -111,16 +111,16 @@ module.exports = (grunt) ->
       target:
         files:
           "css/ecoreader.min.css":["css/ecoreader.css"]
-          "css/dropzone.min.css":["css/shadow-dropzone.css"]
-    coffee:
-      compile:
-        options:
-          bare: true
-          join: true
-          sourceMapDir: "js/maps"
-          sourceMap: true
-        files:
-          "js/ecoreader.js":["coffee/*.coffee"]
+          # "css/dropzone.min.css":["css/shadow-dropzone.css"]
+    # coffee:
+    #   compile:
+    #     options:
+    #       bare: true
+    #       join: true
+    #       sourceMapDir: "js/maps"
+    #       sourceMap: true
+    #     files:
+    #       "js/ecoreader.js":["coffee/*.coffee"]
     watch:
       scripts:
         files: ["coffee/*.coffee"]
@@ -149,8 +149,8 @@ module.exports = (grunt) ->
     grunt.task.run("updateNPM","updateBower","minify")
   ## Deploy
   grunt.registerTask "qbuild","Compile then watch", ->
-    grunt.task.run("compile","minifyBulk", "css", "watch")
+    grunt.task.run("minifyBulk", "css", "watch")
 
   grunt.registerTask "build","Compile and update, then watch", ->
     # ,"vulcanize"
-    grunt.task.run("updateNPM","updateBower","compile", "css","minify","watch")
+    grunt.task.run("updateNPM","updateBower","css","minify","watch")
