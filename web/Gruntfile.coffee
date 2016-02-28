@@ -34,7 +34,7 @@ module.exports = (grunt) ->
           require('autoprefixer')({browsers: 'last 2 versions'})
           ]
       dist:
-        src: "css/main.css"
+        src: "css/ecoreader-alt.css"
       drop:
         src: "css/shadow-dropzone.css"
     uglify:
@@ -102,7 +102,7 @@ module.exports = (grunt) ->
         outputSourceFiles: true
         banner: "/*** Compiled from LESS source ***/\n\n"
       files:
-        dest: "css/main.css"
+        dest: "css/ecoreader-alt.css"
         src: ["less/main.less"]
     cssmin:
       options:
@@ -110,7 +110,7 @@ module.exports = (grunt) ->
         advanced: false
       target:
         files:
-          "css/main.min.css":["css/main.css"]
+          "css/ecoreader.min.css":["css/ecoreader-alt.css"]
           "css/dropzone.min.css":["css/shadow-dropzone.css"]
     coffee:
       compile:
@@ -149,8 +149,8 @@ module.exports = (grunt) ->
     grunt.task.run("updateNPM","updateBower","minify")
   ## Deploy
   grunt.registerTask "qbuild","Compile then watch", ->
-    grunt.task.run("compile","minify","watch")
+    grunt.task.run("compile","minifyBulk", "css", "watch")
 
   grunt.registerTask "build","Compile and update, then watch", ->
     # ,"vulcanize"
-    grunt.task.run("updateNPM","updateBower","compile","minify","watch")
+    grunt.task.run("updateNPM","updateBower","compile", "css","minify","watch")
