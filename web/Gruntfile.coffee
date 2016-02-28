@@ -34,7 +34,7 @@ module.exports = (grunt) ->
           require('autoprefixer')({browsers: 'last 2 versions'})
           ]
       dist:
-        src: "css/ecoreader-alt.css"
+        src: "css/ecoreader.css"
       drop:
         src: "css/shadow-dropzone.css"
     uglify:
@@ -102,7 +102,7 @@ module.exports = (grunt) ->
         outputSourceFiles: true
         banner: "/*** Compiled from LESS source ***/\n\n"
       files:
-        dest: "css/ecoreader-alt.css"
+        dest: "css/ecoreader.css"
         src: ["less/main.less"]
     cssmin:
       options:
@@ -110,7 +110,7 @@ module.exports = (grunt) ->
         advanced: false
       target:
         files:
-          "css/ecoreader.min.css":["css/ecoreader-alt.css"]
+          "css/ecoreader.min.css":["css/ecoreader.css"]
           "css/dropzone.min.css":["css/shadow-dropzone.css"]
     coffee:
       compile:
