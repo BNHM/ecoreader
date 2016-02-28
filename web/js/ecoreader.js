@@ -105,6 +105,7 @@ function readSection(section_id, index) {
                  index = upcoming.index;
                 }
                 this.href = this.group[index].big;
+                this.title = "page: " + index;
             },
             beforeShow: function() {
                 $("#content").css({'overflow-x':'hidden'});
@@ -116,6 +117,12 @@ function readSection(section_id, index) {
 
         });
 }
+function jumpTo() {
+    if ((event.target != $("#pageJump")[0] || event.keyCode == 13) && $("#pageJump").val()) {
+        $.fancybox.jumpto(gotoPage($('#pageJump').val()));
+    }
+}
+
 function showSectionFancybox(section_id, galIndex, data) {
     $.fancybox.open(data, {
         padding     : [15, 190, 15, 15],
@@ -142,15 +149,18 @@ function showSectionFancybox(section_id, galIndex, data) {
             }
             sessionStorage.setItem('pageIndex', galIndex);
             this.href = this.group[galIndex].href;
+            this.title = "page: " + galIndex;
         },
         beforeShow: function(){
             // if these are not big, we offer navigation options
             var sidebar = $('<div class="fancybox-sidebar"><div class="fancybox-sidebar-container"></div></div>');
             this.skin.append(sidebar);
 
-            var html = "<div class='fancybox-img-download'><p><a href='" +this.big + "' download='image.png'>Download Image</a></p>";
+            var html = "<div class='fancybox-img-download'><p><a href='" + this.big + "' download='image.png'>Download Image</a></p>";
             if (this.group.length > 1) {
                 html += "<div class='fancybox-page-nav'>" +
+                "<div class='fancybox-page-jump btn btn-default' onClick=\"jumpTo();\">" +
+                "<label>Go To Page:</label><input class='text' id='pageJump' onkeypress='if(event.keyCode==13) {jumpTo();}'/></div>" +
                 "<a href='#' class='btn btn-default' onClick='$.fancybox.jumpto(gotoPage(0));' style='float:left'>|<</a>" +
                 "<a href='#' class='btn btn-default' onClick='$.fancybox.jumpto(prevPage());' style='float:left'><</a>" +
                 "<a href='#' class='btn btn-default' onClick='$.fancybox.jumpto(nextPage());' style='float:left'>></a>" +
