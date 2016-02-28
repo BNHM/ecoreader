@@ -31,7 +31,7 @@ module.exports = (grunt) ->
     postcss:
       options:
         processors: [
-          require('autoprefixer')({browsers: 'last 1 version'})
+          require('autoprefixer')({browsers: 'last 2 versions'})
           ]
       dist:
         src: "css/main.css"
