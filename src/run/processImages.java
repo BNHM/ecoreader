@@ -58,7 +58,7 @@ public class processImages {
             mvzSection section = (mvzSection) sectionsIt.next();
             System.out.println("\t" + section.getTitle());
             Iterator pagesIt = section.getPages().iterator();
-            // Loop through) pages
+            // Loop through pages
             while (pagesIt.hasNext()) {
                 mvzTaccPage page = (mvzTaccPage) pagesIt.next();
                 System.out.println("\t\t" + page.getFullPath() + ";" + page.getImageFileInputName());
