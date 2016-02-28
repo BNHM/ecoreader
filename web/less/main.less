@@ -71,9 +71,6 @@ paper-fab.materialblue.paper-fab-0 {
 
 .fadebg {
     transition:all .2s ease-out;
-    -webkit-transition:all .2s ease-out;
-    -moz-transition:all .2s ease-out;
-    -o-transition:all .2s ease-out;
 }
 
 .materialcyan {
@@ -198,10 +195,10 @@ paper-fab.materialblue.paper-fab-0 {
 ///////////////////////
 
 body
-{ 
+{
     // font: normal 85% Arial, Helvetica, sans-serif;
     color: @theme-text-dark;
-    background: @theme-text-light url(../img/background.jpg) repeat;
+    background: @theme-text-light url('http://ecoreader.berkeley.edu/img/background.jpg') repeat;
 }
 
 p
@@ -212,18 +209,17 @@ p
 img
 { border: 0;}
 
-#title
-{ 
-    //font: normal 200% Arial, Helvetica, sans-serif;
+div#title
+{
+    font-size: 4rem;
     letter-spacing: 2px;
-    text-shadow: none;
-    text-color: @theme-text-light;
+    text-shadow: @theme-shadow;
     color: @theme-text-light;
     text-decoration: none;
     padding: 20px;
 }
 
-h1, h2, h3, h4, h5, h6 { 
+h1, h2, h3, h4, h5, h6 {
     // font: normal 175% Arial, Helvetica, sans-serif;
     color: @theme-dark;
     //text-shadow: 0px 0px @theme-text-light;
@@ -237,14 +233,14 @@ h1, h2, h3, h4, h5, h6 {
 // { font: normal 130% Arial, Helvetica, sans-serif;
 // }
 
-h4, h5, h6 { 
+h4, h5, h6 {
     margin: 0;
     padding: 0 0 0px 0;
     //font: normal 150% Arial, Helvetica, sans-serif;
     //line-height: 1.5em;
 }
 
-h5, h6 { 
+h5, h6 {
     //font: normal 95% Arial, Helvetica, sans-serif;
     color: @theme-text-alt;
     padding-bottom: 15px;}
@@ -255,16 +251,28 @@ a { color: @theme-text-dark;
     outline: none;
     text-decoration: underline;}
 
-a:hover { 
+a:hover {
     text-decoration: none;}
 
-ul { 
-    margin: 2px 0 22px 30px;
+
+@left-margin: 30px;
+
+ul {
+    margin: 2px 0 22px @left-margin;
     line-height: 1.7em;
     font-style: normal;
-    font-size: 100%;}
+    font-size: 100%;
+}
 
-ol { 
+ul.list-group h4 {
+    text-indent: -@left-margin; // Counters the 30px margin 
+}
+
+.list-group-item:hover {
+    background: @theme-border-color + #222222; // A bit lighter
+}
+
+ol {
     margin: 8px 0 22px 20px;}
 
 ol li {
@@ -283,14 +291,21 @@ ol li {
 }
 
 #header {
-    height: 200px;
-    width: 960px;
-    background: transparent url(../img/header.jpg) no-repeat;
+    @media(min-device-width: 960px) {
+        height: 200px;
+        width: 960px;
+    }
+    @media(max-device-width: 959px) {
+        width: 100%;
+
+    }
+    margin-top: -1rem;
+    background: transparent url('http://ecoreader.berkeley.edu/img/header.jpg') center center no-repeat;
 }
 
 #menubar
 { height:200px;
-  width: 960px;
+  width: 100%;
   margin-left: 0px;
   margin-right: 0px;
 }
@@ -301,10 +316,10 @@ ol li {
   padding-top: 10px;
   float: left;
   text-align: left;
-  margin: 0 auto;}  
+  margin: 0 auto;}
 
 #welcome h1 a
-{ 
+{
     //font: normal 150% Arial, Helvetica, sans-serif;
     letter-spacing: 2px;
     text-shadow: none;
@@ -338,25 +353,33 @@ ul#menu li a
   // font: bold 120% Arial, Helvetica, sans-serif;
   color: @theme-text-light;
   text-decoration: none;
-  text-shadow: none;
+  text-shadow: @theme-shadow; // Legibility
   margin: 6px 0 0 10px;
   padding: 10px 15px 10px 15px;
-  background: transparent; } 
+  background: transparent;
+}
 
-ul#menu li.current a, 
-ul#menu li:hover a { 
+ul#menu li.current a,
+ul#menu li:hover a {
     color: #FFF;
     background: @theme-primary;
     background: linear-gradient(@theme-primary, @theme-dark);
+    text-shadow: none;
     border-radius: 7px;
-    box-shadow: @theme-shadow;  }
+    box-shadow: @theme-shadow;
+}
 
-#site_content { 
-    width: 940px;
+#site_content {
+    @media(min-device-width: 960px) {
+        width: 960px;
+    }
+    @media(max-device-width: 959px) {
+        width: 100%;
+        
+    }
     overflow: hidden;
     margin: 0 auto;
-    padding: 0 0 20px 20px;
-    background: transparent url(../img/transparent_light.png) repeat;}
+    background: transparent url('http://ecoreader.berkeley.edu/img/transparent_light.png') repeat;}
 
 .sidebar_container
 { float: right;
@@ -379,31 +402,27 @@ ul#menu li:hover a {
 .sidebar h2
 { font: normal 140% Arial, Helvetica, sans-serif;
   color: #FFF;
-  text-shadow: 0px 1px 0px @theme-dark;}  
+  text-shadow: 0px 1px 0px @theme-dark;}
 
 .sidebar h3
 { color: #FFF;
-  text-shadow: 0px 1px 0px @theme-dark;}  
+  text-shadow: 0px 1px 0px @theme-dark;}
 
 .sidebar p
-{ color: #FFF;}  
+{ color: #FFF;}
 
-#content
-{ width: 960px;
-  /* THe HEIGHT is a hack here just to give enough room for the
-author drop-down box to show. We need to find some way to make this go all
-the way down to the footer*/
-  height:600px;
-  /* also add a scrollbar here, which is a bit of hack, not sure if this
-  is the best way to go about things */
-  overflow-y: auto;
-  margin-bottom: 10px;
-  float: left;}
+#content {
+    width: 100%;
+    min-height:600px;
+    margin-bottom: 10px;
+    float: left;
+}
 
-.content_item
-{ width: 960px;
-  margin-top: 10px;
-  margin-bottom: 10px;}
+.content_item { 
+    width: 94%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
 
 .content_container
 { width: 310px;
@@ -414,7 +433,7 @@ the way down to the footer*/
 .content_images_text
 { float: left;
   width: 665px;
-  margin-bottom: 10px;}  
+  margin-bottom: 10px;}
 
 .content_image
 { width: 300px;
@@ -424,7 +443,7 @@ the way down to the footer*/
 
 .image_text
 { width: 350px;
-  float: right;}  
+  float: right;}
 
 
 #footer {
@@ -440,11 +459,11 @@ the way down to the footer*/
     clear: both;
 }
 
-#footer a, #footer a:hover { 
+#footer a, #footer a:hover {
                text-decoration: none;
                padding-bottom: 20px;}
 
-#footer a:hover { 
+#footer a:hover {
     text-decoration: underline;}
 
 
@@ -471,9 +490,7 @@ the way down to the footer*/
     width: 90px;
     padding: 5px 5px 10px 7px;
     background: @theme-primary;
-    background: -moz-linear-gradient(@theme-primary, @theme-dark);
-    background: -o-linear-gradient(@theme-primary, @theme-dark);
-    background: -webkit-linear-gradient(@theme-primary, @theme-dark);
+    background: linear-gradient(@theme-primary, @theme-dark);
     border-radius: 7px;
     box-shadow: @theme-shadow;
 }
@@ -489,35 +506,35 @@ the way down to the footer*/
 { padding: 0 0 4px 0;}
 
 .form_settings span
-{ float: left; 
-  width: 280px; 
+{ float: left;
+  width: 280px;
   text-align: left;}
 
-.form_settings input, .form_settings textarea { 
-    padding: 2px; 
-    width: 299px; 
-    //font: 100% arial; 
-    border: 1px solid @theme-border-color; 
-    background: @theme-text-light; 
+.form_settings input, .form_settings textarea {
+    padding: 2px;
+    width: 299px;
+    //font: 100% arial;
+    border: 1px solid @theme-border-color;
+    background: @theme-text-light;
     color: @theme-text-alt;
 }
 
 .form_settings input[type="checkbox"]
-{ padding: 2px 0; 
-  width: 15px; 
-  //font: 100% arial; 
-  border: 0; 
-  background: @theme-text-light; 
+{ padding: 2px 0;
+  width: 15px;
+  //font: 100% arial;
+  border: 0;
+  background: @theme-text-light;
   color: @theme-text-alt;
   margin: 28px 0;}
 
 .form_settings .submit
-{ //font: bold 100% arial; 
-    width: 99px; 
-    margin: 0 0 0 206px; 
+{ //font: bold 100% arial;
+    width: 99px;
+    margin: 0 0 0 206px;
     height: 26px;
     padding: 2px 0 3px 0;
-    cursor: pointer; 
+    cursor: pointer;
     background: @theme-primary;
     background: linear-gradient(@theme-primary, @theme-dark);
     border-radius: 7px;
@@ -525,6 +542,9 @@ the way down to the footer*/
     color: @theme-text-light;
 }
 
+#validation {
+    .container-fluid;
+}
 
 /*
 *  dd element defines those items that are hidden in a toggle option on validation results

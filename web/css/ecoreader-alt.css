@@ -6435,7 +6435,9 @@ button.close {
 .panel-body:before,
 .panel-body:after,
 .modal-footer:before,
-.modal-footer:after {
+.modal-footer:after,
+#validation:before,
+#validation:after {
   content: " ";
   display: table;
 }
@@ -6453,7 +6455,8 @@ button.close {
 .navbar-collapse:after,
 .pager:after,
 .panel-body:after,
-.modal-footer:after {
+.modal-footer:after,
+#validation:after {
   clear: both;
 }
 .center-block {
@@ -6822,9 +6825,6 @@ paper-fab.materialblue.paper-fab-0:hover {
 }
 .fadebg {
   transition: all 0.2s ease-out;
-  -webkit-transition: all 0.2s ease-out;
-  -moz-transition: all 0.2s ease-out;
-  -o-transition: all 0.2s ease-out;
 }
 .materialcyan {
   background: #00bcd4;
@@ -6914,7 +6914,7 @@ paper-button[affirmative] {
 }
 body {
   color: #000;
-  background: #fff url(../img/background.jpg) repeat;
+  background: #fff url('http://ecoreader.berkeley.edu/img/background.jpg') repeat;
 }
 p {
   padding: 0 0 10px 0;
@@ -6924,10 +6924,10 @@ p {
 img {
   border: 0;
 }
-#title {
+div#title {
+  font-size: 4rem;
   letter-spacing: 2px;
-  text-shadow: none;
-  text-color: #fff;
+  text-shadow: rgba(0, 0, 0, 0.5) 1px 1px 5px;
   color: #fff;
   text-decoration: none;
   padding: 20px;
@@ -6969,6 +6969,12 @@ ul {
   font-style: normal;
   font-size: 100%;
 }
+ul.list-group h4 {
+  text-indent: -30px;
+}
+.list-group-item:hover {
+  background: #dddddd;
+}
 ol {
   margin: 8px 0 22px 20px;
 }
@@ -6994,13 +7000,23 @@ ol li {
   position: relative;
 }
 #header {
-  height: 200px;
-  width: 960px;
-  background: transparent url(../img/header.jpg) no-repeat;
+  margin-top: -1rem;
+  background: transparent url('http://ecoreader.berkeley.edu/img/header.jpg') center center no-repeat;
+}
+@media (min-device-width: 960px) {
+  #header {
+    height: 200px;
+    width: 960px;
+  }
+}
+@media (max-device-width: 959px) {
+  #header {
+    width: 100%;
+  }
 }
 #menubar {
   height: 200px;
-  width: 960px;
+  width: 100%;
   margin-left: 0px;
   margin-right: 0px;
 }
@@ -7043,7 +7059,7 @@ ul#menu li a {
   text-align: center;
   color: #fff;
   text-decoration: none;
-  text-shadow: none;
+  text-shadow: rgba(0, 0, 0, 0.5) 1px 1px 5px;
   margin: 6px 0 0 10px;
   padding: 10px 15px 10px 15px;
   background: transparent;
@@ -7053,15 +7069,24 @@ ul#menu li:hover a {
   color: #FFF;
   background: #02C7FC;
   background: linear-gradient(#02C7FC, #00708C);
+  text-shadow: none;
   border-radius: 7px;
-  box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;
+  box-shadow: rgba(0, 0, 0, 0.5) 1px 1px 5px;
 }
 #site_content {
-  width: 940px;
   overflow: hidden;
   margin: 0 auto;
-  padding: 0 0 20px 20px;
-  background: transparent url(../img/transparent_light.png) repeat;
+  background: transparent url('http://ecoreader.berkeley.edu/img/transparent_light.png') repeat;
+}
+@media (min-device-width: 960px) {
+  #site_content {
+    width: 960px;
+  }
+}
+@media (max-device-width: 959px) {
+  #site_content {
+    width: 100%;
+  }
 }
 .sidebar_container {
   float: right;
@@ -7094,19 +7119,13 @@ ul#menu li:hover a {
   color: #FFF;
 }
 #content {
-  width: 960px;
-  /* THe HEIGHT is a hack here just to give enough room for the
-author drop-down box to show. We need to find some way to make this go all
-the way down to the footer*/
-  height: 600px;
-  /* also add a scrollbar here, which is a bit of hack, not sure if this
-  is the best way to go about things */
-  overflow-y: auto;
+  width: 100%;
+  min-height: 600px;
   margin-bottom: 10px;
   float: left;
 }
 .content_item {
-  width: 960px;
+  width: 94%;
   margin-top: 10px;
   margin-bottom: 10px;
 }
@@ -7159,7 +7178,7 @@ the way down to the footer*/
   background: #02C7FC;
   background: linear-gradient(#02C7FC, #00708C);
   border-radius: 7px;
-  box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;
+  box-shadow: rgba(0, 0, 0, 0.5) 1px 1px 5px;
 }
 .readmore a {
   color: #1D1D1D;
@@ -7169,9 +7188,9 @@ the way down to the footer*/
   width: 90px;
   padding: 5px 5px 10px 7px;
   background: #02C7FC;
-  background: -webkit-linear-gradient(#02C7FC, #00708C);
+  background: linear-gradient(#02C7FC, #00708C);
   border-radius: 7px;
-  box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;
+  box-shadow: rgba(0, 0, 0, 0.5) 1px 1px 5px;
 }
 .button_small a {
   color: #FFF;
@@ -7213,8 +7232,26 @@ the way down to the footer*/
   background: #02C7FC;
   background: linear-gradient(#02C7FC, #00708C);
   border-radius: 7px;
-  box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;
+  box-shadow: rgba(0, 0, 0, 0.5) 1px 1px 5px;
   color: #fff;
+}
+#validation {
+  margin-right: auto;
+  margin-left: auto;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+#validation > .navbar-header,
+#validation > .navbar-collapse {
+  margin-right: -15px;
+  margin-left: -15px;
+}
+@media (min-width: 768px) {
+  #validation > .navbar-header,
+  #validation > .navbar-collapse {
+    margin-right: 0;
+    margin-left: 0;
+  }
 }
 /*
 *  dd element defines those items that are hidden in a toggle option on validation results
