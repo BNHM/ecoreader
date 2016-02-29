@@ -7305,9 +7305,6 @@ div.toggle-content {
   border-color: #b94a48;
   color: #b94a48;
 }
-/*
- * fancybox section
- */
 a#img_link:hover {
   cursor: -webkit-zoom-in;
   cursor: zoom-in;
@@ -7318,4 +7315,45 @@ a#img_link:hover {
   height: 100%;
   top: 0;
   left: 15%;
+}
+.fancybox-sidebar {
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 190px;
+  padding: 15px;
+}
+.fancybox-sidebar-container {
+  position: relative;
+  height: 100%;
+}
+.fancybox-page-nav {
+  position: absolute;
+  width: 100%;
+  bottom: 0;
+}
+#fancybox-thumbs.bottom {
+  max-height: 106px;
+}
+.fancybox-nav {
+  width: 15%;
+}
+.fancybox-img-download > a {
+  display: inline-block;
+  padding-right: 8px;
+}
+.fancybox-img-download > p {
+  margin-bottom: 3px;
+}
+.fancybox-page-jump {
+  margin-bottom: 4px;
+}
+.fancybox-page-jump > input {
+  width: 4ch;
+  text-align: center;
+  margin-left: 6px;
+}
+.fancybox-page-jump > label:hover {
+  cursor: hand;
+  cursor: pointer;
 }
