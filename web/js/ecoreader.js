@@ -157,16 +157,18 @@ function showSectionFancybox(section_id, galIndex, data) {
             this.skin.append(sidebar);
 
             var html = "<div class='fancybox-img-download'><p><a href='" + this.big + "' download='image.png'>Download Image</a></p>";
+            html += "<div class='fancybox-page-nav'>" +
+            "<div><img src='img/zoomin.png'><label> click in center of image to enlarge</label></div>";
             if (this.group.length > 1) {
-                html += "<div class='fancybox-page-nav'>" +
-                "<div class='fancybox-page-jump btn btn-default' onClick=\"jumpTo();\">" +
+                html += "<div class='fancybox-page-jump btn btn-default' onClick=\"jumpTo();\">" +
                 "<label>Go To Page:</label><input class='text' id='pageJump' onkeypress='if(event.keyCode==13) {jumpTo();}'/></div>" +
                 "<a href='#' class='btn btn-default' onClick='$.fancybox.jumpto(gotoPage(0));' style='float:left'>|<</a>" +
                 "<a href='#' class='btn btn-default' onClick='$.fancybox.jumpto(prevPage());' style='float:left'><</a>" +
                 "<a href='#' class='btn btn-default' onClick='$.fancybox.jumpto(nextPage());' style='float:left'>></a>" +
                 "<a href='#' class='btn btn-default' style='float:left;' " +
-                "onClick='$.fancybox.jumpto(gotoPage($.fancybox.group.length - 1));'>>|</a></div>";
-            }
+                "onClick='$.fancybox.jumpto(gotoPage($.fancybox.group.length - 1));'>>|</a>";
+            } 
+            html += "</div>";
 
             $(".fancybox-tmp .fancybox-sidebar-container").html(html);
             $(".fancybox-img-download a#1200").attr("href", this.big);
