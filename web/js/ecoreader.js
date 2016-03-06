@@ -178,7 +178,13 @@ function showSectionFancybox(section_id, galIndex, data) {
         },
         afterShow: function() {
 
-            $("<a id='img_link' href='#'></a>").insertAfter(".fancybox-prev");
+            if ($(".fancybox-prev").length == 0) {
+                $("<a id='img_link' href='#'></a>").insertAfter(".fancybox-inner");
+                $("#img_link").css("width", "100%").css("left", "0");
+
+            } else {
+                $("<a id='img_link' href='#'></a>").insertAfter(".fancybox-prev");
+            }
 
             $("#img_link").click( {href: this.big} ,function(event) {
                 (function(index) {
