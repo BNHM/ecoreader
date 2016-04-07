@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<mods:mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mods:titleInfo>
+        <mods:title>Field Notes: Rovito S. 2004-06, v4224</mods:title>
+    </mods:titleInfo>
+    <mods:language>
+        <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+        <mods:languageTerm type="text">English</mods:languageTerm>
+    </mods:language>
+    <mods:originInfo>
+        <mods:dateCreated>2004/2006</mods:dateCreated>
+        <mods:dateCreated point="start">2004</mods:dateCreated>
+        <mods:dateCreated point="end">2006</mods:dateCreated>
+    </mods:originInfo>
+    <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/RovitoS/v4224</mods:identifier>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 1: Catalogue #1-20</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>2004-06-03/2004-11-13</mods:dateCreated>
+            <mods:dateCreated point="start">2004</mods:dateCreated>
+            <mods:dateCreated point="end">2004</mods:dateCreated>
+        </mods:originInfo>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/RovitoS/v4224_s1</mods:identifier>
+    </mods:relatedItem>
+</mods:mods>

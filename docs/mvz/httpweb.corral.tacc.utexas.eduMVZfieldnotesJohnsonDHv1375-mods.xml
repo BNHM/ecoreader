@@ -77,6 +77,24 @@
             <mods:namePart type="date">1912-1996</mods:namePart>
             <mods:displayForm>Johnson, David H.,  (David Horn), 1912-1996</mods:displayForm>
         </mods:name>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Alaska, Kodiak Archipelago, Kodiak Island</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Alpine County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Contra Costa County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Mariposa County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Mendocino County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Yolo County</mods:geographic>
+        </mods:subject>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/JohnsonDH/v1375_s2</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -130,6 +148,69 @@
             <mods:namePart type="date">1912-1996</mods:namePart>
             <mods:displayForm>Johnson, David H.,  (David Horn), 1912-1996</mods:displayForm>
         </mods:name>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Arizona, Maricopa County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Alameda County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Contra Costa County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Fresno County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Glenn County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Modoc County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Riverside County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, San Bernardino County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Siskiyou County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Tulare County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Colorado, Rio Blanco County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Georgia, Talbot County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Massachusetts, Middlesex County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Montana, Powell County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Montana, Ravalli County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Nevada, Clark County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Nevada, Lincoln County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, New Mexico, Chaves County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Oklahoma, Blaine County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Texas, Archer County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Texas, Brewster County</mods:geographic>
+        </mods:subject>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/JohnsonDH/v1375_s4</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -183,6 +264,69 @@
             <mods:namePart type="date">1912-1996</mods:namePart>
             <mods:displayForm>Johnson, David H.,  (David Horn), 1912-1996</mods:displayForm>
         </mods:name>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Alameda County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Alpine County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Calaveras County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Contra Costa County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Kings County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Mono County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, San Bernardino County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Santa Barbara County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Siskiyou County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Tuolumne County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Iowa, Allamakee County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Montana, Flathead County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Montana, Wheatland County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, New Mexico, Chaves County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Oregon, Jackson County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Washington, Clallam County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Washington, Cowlitz County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Washington, Okanogan County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Washington, San Juan County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Washington, Skagit County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Washington, Stevens County</mods:geographic>
+        </mods:subject>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/JohnsonDH/v1375_s6</mods:identifier>
     </mods:relatedItem>
 </mods:mods>

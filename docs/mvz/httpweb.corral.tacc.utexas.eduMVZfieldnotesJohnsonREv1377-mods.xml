@@ -46,6 +46,9 @@
             <mods:namePart type="date">1936-</mods:namePart>
             <mods:displayForm>Johnson, Richard E.,  (Richard Evan), 1936-</mods:displayForm>
         </mods:name>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Montana, Lincoln County </mods:geographic>
+        </mods:subject>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/JohnsonRE/v1377_s1</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -71,6 +74,9 @@
             <mods:namePart type="date">1936-</mods:namePart>
             <mods:displayForm>Johnson, Richard E.,  (Richard Evan), 1936-</mods:displayForm>
         </mods:name>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Montana, Lincoln County </mods:geographic>
+        </mods:subject>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/JohnsonRE/v1377_s2</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -96,6 +102,21 @@
             <mods:namePart type="date">1936-</mods:namePart>
             <mods:displayForm>Johnson, Richard E.,  (Richard Evan), 1936-</mods:displayForm>
         </mods:name>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Alameda County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Contra Costa County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Los Angeles County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Marin County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Santa Barbara County</mods:geographic>
+        </mods:subject>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/JohnsonRE/v1377_s3</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -121,6 +142,21 @@
             <mods:namePart type="date">1936-</mods:namePart>
             <mods:displayForm>Johnson, Richard E.,  (Richard Evan), 1936-</mods:displayForm>
         </mods:name>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Alameda County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Contra Costa County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Marin County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Santa Barbara County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Ventura County</mods:geographic>
+        </mods:subject>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/JohnsonRE/v1377_s4</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -146,6 +182,81 @@
             <mods:namePart type="date">1936-</mods:namePart>
             <mods:displayForm>Johnson, Richard E.,  (Richard Evan), 1936-</mods:displayForm>
         </mods:name>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Contra Costa County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Modoc County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Nevada County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Placer County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Sierra County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Siskiyou County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Colorado, Larimer County </mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Idaho, Bonner County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Idaho, Boundary County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Idaho, Idaho County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Montana, Broadwater County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Montana, Cascade County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Montana, Granite County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Montana, Jefferson County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Montana, Judith Basin County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Montana, Lincoln County </mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Montana, Silver Bow County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Oregon, Baker County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Oregon, Grant County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Oregon, Harney County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Oregon, Klamath County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Oregon, Union County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Oregon, Wallowa County </mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Washington, Okanogan County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Wyoming, Albany County</mods:geographic>
+        </mods:subject>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/JohnsonRE/v1377_s5</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -171,6 +282,87 @@
             <mods:namePart type="date">1936-</mods:namePart>
             <mods:displayForm>Johnson, Richard E.,  (Richard Evan), 1936-</mods:displayForm>
         </mods:name>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Butte County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Modoc County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Nevada County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Placer County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Sierra County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Siskiyou County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Idaho, Bonner County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Idaho, Boundary County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Idaho, Idaho County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Montana, Broadwater County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Montana, Carbon County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Montana, Flathead County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Montana, Granite County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Montana, Jefferson County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Montana, Judith Basin County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Montana, Lincoln County </mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Montana, Missoula County </mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Montana, Sanders County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Montana, Silver Bow County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Oregon, Baker County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Oregon, Douglas County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Oregon, Grant County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Oregon, Harney County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Oregon, Klamath County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Oregon, Union County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Oregon, Wallowa County </mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Washington, Okanogan County</mods:geographic>
+        </mods:subject>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/JohnsonRE/v1377_s6</mods:identifier>
     </mods:relatedItem>
 </mods:mods>

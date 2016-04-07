@@ -46,6 +46,12 @@
             <mods:namePart type="date">1912-1996</mods:namePart>
             <mods:displayForm>Johnson, David H.,  (David Horn), 1912-1996</mods:displayForm>
         </mods:name>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, Mexico, Sonora</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Arizona, Yuma County</mods:geographic>
+        </mods:subject>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/JohnsonDH/v1374_s1</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -133,6 +139,42 @@
             <mods:namePart type="date">1912-1996</mods:namePart>
             <mods:displayForm>Johnson, David H.,  (David Horn), 1912-1996</mods:displayForm>
         </mods:name>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Lassen County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Modoc County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Idaho, Owyhee County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Nevada, Churchill County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Nevada, Elko County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Nevada, Humboldt County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Nevada, Washoe County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Nevada, White Pine County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Oregon, Grant County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Oregon, Harney County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Oregon, Malheur County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Utah, Millard County</mods:geographic>
+        </mods:subject>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/JohnsonDH/v1374_s4</mods:identifier>
     </mods:relatedItem>
 </mods:mods>

@@ -71,6 +71,18 @@
             <mods:namePart type="date">1932-2003</mods:namePart>
             <mods:displayForm>Johnson, Ned K., 1932-2003</mods:displayForm>
         </mods:name>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Lassen County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Nevada County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Placer County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Sierra County</mods:geographic>
+        </mods:subject>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/JohnsonNK/v3395_s1</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -96,6 +108,21 @@
             <mods:namePart type="date">1932-2003</mods:namePart>
             <mods:displayForm>Johnson, Ned K., 1932-2003</mods:displayForm>
         </mods:name>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Lassen County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Nevada County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Placer County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Sierra County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Nevada, Washoe County</mods:geographic>
+        </mods:subject>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/JohnsonNK/v3395_s2</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -121,6 +148,18 @@
             <mods:namePart type="date">1932-2003</mods:namePart>
             <mods:displayForm>Johnson, Ned K., 1932-2003</mods:displayForm>
         </mods:name>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Lassen County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Nevada County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Placer County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Sierra County</mods:geographic>
+        </mods:subject>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/JohnsonNK/v3395_s3</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -146,6 +185,12 @@
             <mods:namePart type="date">1932-2003</mods:namePart>
             <mods:displayForm>Johnson, Ned K., 1932-2003</mods:displayForm>
         </mods:name>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Placer County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Nevada, Washoe County</mods:geographic>
+        </mods:subject>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/JohnsonNK/v3395_s4</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -171,6 +216,12 @@
             <mods:namePart type="date">1932-2003</mods:namePart>
             <mods:displayForm>Johnson, Ned K., 1932-2003</mods:displayForm>
         </mods:name>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Placer County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Nevada, Washoe County</mods:geographic>
+        </mods:subject>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/JohnsonNK/v3395_s5</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -196,6 +247,12 @@
             <mods:namePart type="date">1932-2003</mods:namePart>
             <mods:displayForm>Johnson, Ned K., 1932-2003</mods:displayForm>
         </mods:name>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Placer County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Nevada, Washoe County</mods:geographic>
+        </mods:subject>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/JohnsonNK/v3395_s6</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -221,6 +278,9 @@
             <mods:namePart type="date">1932-2003</mods:namePart>
             <mods:displayForm>Johnson, Ned K., 1932-2003</mods:displayForm>
         </mods:name>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, Mexico, Chihuahua</mods:geographic>
+        </mods:subject>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/JohnsonNK/v3395_s7</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -246,6 +306,9 @@
             <mods:namePart type="date">1932-2003</mods:namePart>
             <mods:displayForm>Johnson, Ned K., 1932-2003</mods:displayForm>
         </mods:name>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, Mexico, Chihuahua</mods:geographic>
+        </mods:subject>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/JohnsonNK/v3395_s8</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -271,6 +334,9 @@
             <mods:namePart type="date">1932-2003</mods:namePart>
             <mods:displayForm>Johnson, Ned K., 1932-2003</mods:displayForm>
         </mods:name>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, Mexico, Chihuahua</mods:geographic>
+        </mods:subject>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/JohnsonNK/v3395_s9</mods:identifier>
     </mods:relatedItem>
 </mods:mods>
