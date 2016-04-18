@@ -354,14 +354,14 @@ the way down to the footer*/
 dd { margin: 0; padding: 0; display: none }
 
 tr.toggle-content {
-    display:none;
+    display:visible;
 }
 
 /**
 * A special Div class for toggling content on and off
 **/
 div.toggle-content {
-    display:none;
+    display:visible;
     margin: 0px 20px;
 }
 

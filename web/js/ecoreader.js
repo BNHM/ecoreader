@@ -1,32 +1,37 @@
 function populateAuthors() {
-    theUrl = "rest/authors/list";
-    var jqxhr = $.getJSON( theUrl, function(data) {
-        var listItems = "";
-        listItems+= "<option value=''>Select an author ...</option>";
-        $.each(data.authors,function(index,author) {
-            listItems+= "<option value='" + author  + "'>" + author + "</option>";
-        });
-        $("#authors").html(listItems);
-        $(".combobox").combobox();
 
-    }).fail(function(jqXHR,textStatus) {
-        if (textStatus == "timeout") {
-	        showMessage ("Timed out waiting for response! Try again later or reduce the number of graphs you are querying. If the problem persists, contact the System Administrator.");
-        } else {
-	        showMessage ("Error completing request!");
+    $.ajax({
+        url: "rest/authors/list",
+        async: false,
+        success: function(data) {
+            var listItems = "";
+            listItems+= "<option value=''>Select an author ...</option>";
+            $.each(data.authors,function(index,author) {
+                listItems+= "<option value='" + author  + "'>" + author + "</option>";
+            });
+            $("#authors").html(listItems);
+            $(".combobox").combobox();
+        },
+        fail: function(jqXHR,textStatus) {
+            if (textStatus == "timeout") {
+	            showMessage ("Timed out waiting for response! Try again later or reduce the number of graphs you are querying. If the problem persists, contact the System Administrator.");
+            } else {
+	            showMessage ("Error completing request!");
+            }
         }
     });
 }
 
 function populateVolumes() {
-    theUrl = "rest/volumes/";
+    theUrl = "rest/volumes/?author=" + $("#authors").val() +"&"+  $("form").serialize();
     /*if ($("#authors").val().length <= 0) {
         $("#author_combobox").addClass("has-error");
         return;
     } else {
         $("#author_combobox").removeClass("has-error");
     }  */
-    $.getJSON( theUrl +"?author=" + $("#authors").val() +"&"+  $("form").serialize(), function(data) {
+    alert(theUrl);
+    $.getJSON( theUrl , function(data) {
     //$.getJSON( theUrl + "?" + $("form").serialize(), function(data) {
         var list_group_tpl = "<ul class='list-group'>{list}</ul>";
         var list_heading_tpl = "<h4 class='list-group-heading'>{vol_title}</h4>";

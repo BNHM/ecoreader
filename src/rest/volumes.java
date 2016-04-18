@@ -2,7 +2,9 @@ package rest;
 
 import run.ecoReader;
 
+import java.io.UnsupportedEncodingException;
 import java.net.MalformedURLException;
+import java.net.URLDecoder;
 import javax.ws.rs.*;
 import javax.ws.rs.core.MediaType;
 import javax.ws.rs.core.Response;
@@ -51,11 +53,20 @@ public class volumes {
         // parse (or not) author name
         String familyName = "";
         String givenName = "";
+        try {
+            author = URLDecoder.decode(author,"UTF-8");
+        } catch (UnsupportedEncodingException e) {
+            e.printStackTrace();
+        }
         if (author !=null && !author.trim().equals("")) {
             // Limit the split to just two elements-- useful in cases where given name has a comma in it
             String[] names = author.split(",",2);
+
             familyName = names[0].trim();
-            givenName = names[1].trim();
+            if (names.length > 1)
+                givenName = names[1].trim();
+            else
+                givenName = null;
         } else {
             familyName = null;
             givenName = null;
