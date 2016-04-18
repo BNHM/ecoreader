@@ -30,7 +30,6 @@ function populateVolumes() {
     } else {
         $("#author_combobox").removeClass("has-error");
     }  */
-    alert(theUrl);
     $.getJSON( theUrl , function(data) {
     //$.getJSON( theUrl + "?" + $("form").serialize(), function(data) {
         var list_group_tpl = "<ul class='list-group'>{list}</ul>";
