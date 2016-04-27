@@ -12,13 +12,14 @@
         <mods:dateCreated point="start">1943</mods:dateCreated>
         <mods:dateCreated point="end">1950</mods:dateCreated>
     </mods:originInfo>
-    <mods:name type="personal" authority="ingest">
+    <mods:name type="personal" authority="LCHS">
         <mods:role>
             <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
             <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
         </mods:role>
         <mods:namePart type="family">Fox</mods:namePart>
         <mods:namePart type="given">Wade</mods:namePart>
+        <mods:namePart type="termsOfAddress">Jr.</mods:namePart>
         <mods:namePart type="date">1920-1964</mods:namePart>
         <mods:displayForm>Fox, Wade, Jr.,  (Fox, Rufus Wade, Jr.), 1920-1964</mods:displayForm>
     </mods:name>
@@ -36,13 +37,14 @@
             <mods:dateCreated point="start">1943</mods:dateCreated>
             <mods:dateCreated point="end">1953</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="LCHS">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
             </mods:role>
             <mods:namePart type="family">Fox</mods:namePart>
             <mods:namePart type="given">Wade</mods:namePart>
+            <mods:namePart type="termsOfAddress">Jr.</mods:namePart>
             <mods:namePart type="date">1920-1964</mods:namePart>
             <mods:displayForm>Fox, Wade, Jr.,  (Fox, Rufus Wade, Jr.), 1920-1964</mods:displayForm>
         </mods:name>
@@ -61,13 +63,14 @@
             <mods:dateCreated point="start">1943</mods:dateCreated>
             <mods:dateCreated point="end">1950</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="LCHS">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
             </mods:role>
             <mods:namePart type="family">Fox</mods:namePart>
             <mods:namePart type="given">Wade</mods:namePart>
+            <mods:namePart type="termsOfAddress">Jr.</mods:namePart>
             <mods:namePart type="date">1920-1964</mods:namePart>
             <mods:displayForm>Fox, Wade, Jr.,  (Fox, Rufus Wade, Jr.), 1920-1964</mods:displayForm>
         </mods:name>
@@ -86,13 +89,14 @@
             <mods:dateCreated point="start">1943</mods:dateCreated>
             <mods:dateCreated point="end">1947</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="LCHS">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
             </mods:role>
             <mods:namePart type="family">Fox</mods:namePart>
             <mods:namePart type="given">Wade</mods:namePart>
+            <mods:namePart type="termsOfAddress">Jr.</mods:namePart>
             <mods:namePart type="date">1920-1964</mods:namePart>
             <mods:displayForm>Fox, Wade, Jr.,  (Fox, Rufus Wade, Jr.), 1920-1964</mods:displayForm>
         </mods:name>
@@ -111,13 +115,14 @@
             <mods:dateCreated point="start">1946</mods:dateCreated>
             <mods:dateCreated point="end">1945</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="LCHS">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
             </mods:role>
             <mods:namePart type="family">Fox</mods:namePart>
             <mods:namePart type="given">Wade</mods:namePart>
+            <mods:namePart type="termsOfAddress">Jr.</mods:namePart>
             <mods:namePart type="date">1920-1964</mods:namePart>
             <mods:displayForm>Fox, Wade, Jr.,  (Fox, Rufus Wade, Jr.), 1920-1964</mods:displayForm>
         </mods:name>
@@ -136,13 +141,14 @@
             <mods:dateCreated point="start">1953</mods:dateCreated>
             <mods:dateCreated point="end">1950</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="LCHS">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
             </mods:role>
             <mods:namePart type="family">Fox</mods:namePart>
             <mods:namePart type="given">Wade</mods:namePart>
+            <mods:namePart type="termsOfAddress">Jr.</mods:namePart>
             <mods:namePart type="date">1920-1964</mods:namePart>
             <mods:displayForm>Fox, Wade, Jr.,  (Fox, Rufus Wade, Jr.), 1920-1964</mods:displayForm>
         </mods:name>
@@ -161,13 +167,14 @@
             <mods:dateCreated point="start">1944</mods:dateCreated>
             <mods:dateCreated point="end">1944</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="LCHS">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
             </mods:role>
             <mods:namePart type="family">Fox</mods:namePart>
             <mods:namePart type="given">Wade</mods:namePart>
+            <mods:namePart type="termsOfAddress">Jr.</mods:namePart>
             <mods:namePart type="date">1920-1964</mods:namePart>
             <mods:displayForm>Fox, Wade, Jr.,  (Fox, Rufus Wade, Jr.), 1920-1964</mods:displayForm>
         </mods:name>
@@ -186,13 +193,14 @@
             <mods:dateCreated point="start">1943</mods:dateCreated>
             <mods:dateCreated point="end">1944</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="LCHS">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
             </mods:role>
             <mods:namePart type="family">Fox</mods:namePart>
             <mods:namePart type="given">Wade</mods:namePart>
+            <mods:namePart type="termsOfAddress">Jr.</mods:namePart>
             <mods:namePart type="date">1920-1964</mods:namePart>
             <mods:displayForm>Fox, Wade, Jr.,  (Fox, Rufus Wade, Jr.), 1920-1964</mods:displayForm>
         </mods:name>

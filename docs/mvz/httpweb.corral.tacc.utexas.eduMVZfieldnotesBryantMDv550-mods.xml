@@ -12,13 +12,14 @@
         <mods:dateCreated point="start">1939</mods:dateCreated>
         <mods:dateCreated point="end">1945</mods:dateCreated>
     </mods:originInfo>
-    <mods:name type="personal" authority="ingest">
+    <mods:name type="personal" authority="LCHS">
         <mods:role>
             <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
             <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
         </mods:role>
         <mods:namePart type="family">Bryant</mods:namePart>
         <mods:namePart type="given">Monroe D.</mods:namePart>
+        <mods:namePart type="date">1907-</mods:namePart>
         <mods:displayForm>Bryant, Monroe D.,  (Monroe David), 1907-</mods:displayForm>
     </mods:name>
     <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/BryantMD/v550</mods:identifier>
@@ -35,13 +36,14 @@
             <mods:dateCreated point="start">1939</mods:dateCreated>
             <mods:dateCreated point="end">1939</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="LCHS">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
             </mods:role>
             <mods:namePart type="family">Bryant</mods:namePart>
             <mods:namePart type="given">Monroe D.</mods:namePart>
+            <mods:namePart type="date">1907-</mods:namePart>
             <mods:displayForm>Bryant, Monroe D.,  (Monroe David), 1907-</mods:displayForm>
         </mods:name>
         <mods:subject authority="arctos">
@@ -74,13 +76,14 @@
             <mods:dateCreated point="start">1940</mods:dateCreated>
             <mods:dateCreated point="end">1941</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="LCHS">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
             </mods:role>
             <mods:namePart type="family">Bryant</mods:namePart>
             <mods:namePart type="given">Monroe D.</mods:namePart>
+            <mods:namePart type="date">1907-</mods:namePart>
             <mods:displayForm>Bryant, Monroe D.,  (Monroe David), 1907-</mods:displayForm>
         </mods:name>
         <mods:physicalDescription>
@@ -101,13 +104,14 @@
             <mods:dateCreated point="start">1945</mods:dateCreated>
             <mods:dateCreated point="end">1945</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="LCHS">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
             </mods:role>
             <mods:namePart type="family">Bryant</mods:namePart>
             <mods:namePart type="given">Monroe D.</mods:namePart>
+            <mods:namePart type="date">1907-</mods:namePart>
             <mods:displayForm>Bryant, Monroe D.,  (Monroe David), 1907-</mods:displayForm>
         </mods:name>
         <mods:subject authority="arctos">

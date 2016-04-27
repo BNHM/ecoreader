@@ -36,15 +36,15 @@
             <mods:dateCreated point="start">1907</mods:dateCreated>
             <mods:dateCreated point="end">1911</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="LCHS">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
             </mods:role>
             <mods:namePart type="family">Alexander</mods:namePart>
             <mods:namePart type="given">Annie Montague</mods:namePart>
-            <mods:namePart type="date">1867-1951</mods:namePart>
-            <mods:displayForm>Alexander, Annie Montague, 1867-1951</mods:displayForm>
+            <mods:namePart type="date">1867-1950</mods:namePart>
+            <mods:displayForm>Alexander, Annie Montague, 1867-1950</mods:displayForm>
         </mods:name>
         <mods:physicalDescription>
             <mods:extent>1 pages</mods:extent>
@@ -64,15 +64,15 @@
             <mods:dateCreated point="start">1907</mods:dateCreated>
             <mods:dateCreated point="end">1907</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="LCHS">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
             </mods:role>
             <mods:namePart type="family">Alexander</mods:namePart>
             <mods:namePart type="given">Annie Montague</mods:namePart>
-            <mods:namePart type="date">1867-1952</mods:namePart>
-            <mods:displayForm>Alexander, Annie Montague, 1867-1952</mods:displayForm>
+            <mods:namePart type="date">1867-1950</mods:namePart>
+            <mods:displayForm>Alexander, Annie Montague, 1867-1950</mods:displayForm>
         </mods:name>
         <mods:physicalDescription>
             <mods:extent>13 pages</mods:extent>
@@ -92,15 +92,15 @@
             <mods:dateCreated point="start">1908</mods:dateCreated>
             <mods:dateCreated point="end">1908</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="LCHS">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
             </mods:role>
             <mods:namePart type="family">Alexander</mods:namePart>
             <mods:namePart type="given">Annie Montague</mods:namePart>
-            <mods:namePart type="date">1867-1953</mods:namePart>
-            <mods:displayForm>Alexander, Annie Montague, 1867-1953</mods:displayForm>
+            <mods:namePart type="date">1867-1950</mods:namePart>
+            <mods:displayForm>Alexander, Annie Montague, 1867-1950</mods:displayForm>
         </mods:name>
         <mods:physicalDescription>
             <mods:extent>46 pages</mods:extent>
@@ -120,15 +120,15 @@
             <mods:dateCreated point="start">1910</mods:dateCreated>
             <mods:dateCreated point="end">1910</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="LCHS">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
             </mods:role>
             <mods:namePart type="family">Alexander</mods:namePart>
             <mods:namePart type="given">Annie Montague</mods:namePart>
-            <mods:namePart type="date">1867-1954</mods:namePart>
-            <mods:displayForm>Alexander, Annie Montague, 1867-1954</mods:displayForm>
+            <mods:namePart type="date">1867-1950</mods:namePart>
+            <mods:displayForm>Alexander, Annie Montague, 1867-1950</mods:displayForm>
         </mods:name>
         <mods:physicalDescription>
             <mods:extent>30 pages</mods:extent>
@@ -148,15 +148,15 @@
             <mods:dateCreated point="start">1910</mods:dateCreated>
             <mods:dateCreated point="end">1910</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="LCHS">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
             </mods:role>
             <mods:namePart type="family">Alexander</mods:namePart>
             <mods:namePart type="given">Annie Montague</mods:namePart>
-            <mods:namePart type="date">1867-1955</mods:namePart>
-            <mods:displayForm>Alexander, Annie Montague, 1867-1955</mods:displayForm>
+            <mods:namePart type="date">1867-1950</mods:namePart>
+            <mods:displayForm>Alexander, Annie Montague, 1867-1950</mods:displayForm>
         </mods:name>
         <mods:physicalDescription>
             <mods:extent>39 pages</mods:extent>
@@ -176,15 +176,15 @@
             <mods:dateCreated point="start">1910</mods:dateCreated>
             <mods:dateCreated point="end">1910</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="LCHS">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
             </mods:role>
             <mods:namePart type="family">Alexander</mods:namePart>
             <mods:namePart type="given">Annie Montague</mods:namePart>
-            <mods:namePart type="date">1867-1956</mods:namePart>
-            <mods:displayForm>Alexander, Annie Montague, 1867-1956</mods:displayForm>
+            <mods:namePart type="date">1867-1950</mods:namePart>
+            <mods:displayForm>Alexander, Annie Montague, 1867-1950</mods:displayForm>
         </mods:name>
         <mods:physicalDescription>
             <mods:extent>14 pages</mods:extent>
@@ -204,15 +204,15 @@
             <mods:dateCreated point="start">1910</mods:dateCreated>
             <mods:dateCreated point="end">1910</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="LCHS">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
             </mods:role>
             <mods:namePart type="family">Alexander</mods:namePart>
             <mods:namePart type="given">Annie Montague</mods:namePart>
-            <mods:namePart type="date">1867-1957</mods:namePart>
-            <mods:displayForm>Alexander, Annie Montague, 1867-1957</mods:displayForm>
+            <mods:namePart type="date">1867-1950</mods:namePart>
+            <mods:displayForm>Alexander, Annie Montague, 1867-1950</mods:displayForm>
         </mods:name>
         <mods:physicalDescription>
             <mods:extent>5 pages</mods:extent>
@@ -232,15 +232,15 @@
             <mods:dateCreated point="start">1911</mods:dateCreated>
             <mods:dateCreated point="end">1911</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="LCHS">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
             </mods:role>
             <mods:namePart type="family">Alexander</mods:namePart>
             <mods:namePart type="given">Annie Montague</mods:namePart>
-            <mods:namePart type="date">1867-1958</mods:namePart>
-            <mods:displayForm>Alexander, Annie Montague, 1867-1958</mods:displayForm>
+            <mods:namePart type="date">1867-1950</mods:namePart>
+            <mods:displayForm>Alexander, Annie Montague, 1867-1950</mods:displayForm>
         </mods:name>
         <mods:physicalDescription>
             <mods:extent>61 pages</mods:extent>

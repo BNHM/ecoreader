@@ -12,14 +12,14 @@
         <mods:dateCreated point="start">1939</mods:dateCreated>
         <mods:dateCreated point="end">1949</mods:dateCreated>
     </mods:originInfo>
-    <mods:name type="personal" authority="ingest">
+    <mods:name type="personal" authority="LCHS">
         <mods:role>
             <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
             <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
         </mods:role>
         <mods:namePart type="family">Koford</mods:namePart>
         <mods:namePart type="given">Carl B.</mods:namePart>
-        <mods:displayForm>Koford, Carl B., 1915-1979</mods:displayForm>
+        <mods:displayForm>Koford, Carl B.</mods:displayForm>
     </mods:name>
     <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/KofordCB/v1392</mods:identifier>
     <mods:relatedItem type="constituent">
@@ -35,14 +35,14 @@
             <mods:dateCreated point="start">1939</mods:dateCreated>
             <mods:dateCreated point="end">1949</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="LCHS">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
             </mods:role>
             <mods:namePart type="family">Koford</mods:namePart>
             <mods:namePart type="given">Carl B.</mods:namePart>
-            <mods:displayForm>Koford, Carl B., 1915-1979</mods:displayForm>
+            <mods:displayForm>Koford, Carl B.</mods:displayForm>
         </mods:name>
         <mods:physicalDescription>
             <mods:extent>11 pages</mods:extent>
@@ -62,14 +62,14 @@
             <mods:dateCreated point="start">1939</mods:dateCreated>
             <mods:dateCreated point="end">1939</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="LCHS">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
             </mods:role>
             <mods:namePart type="family">Koford</mods:namePart>
             <mods:namePart type="given">Carl B.</mods:namePart>
-            <mods:displayForm>Koford, Carl B., 1915-1979</mods:displayForm>
+            <mods:displayForm>Koford, Carl B.</mods:displayForm>
         </mods:name>
         <mods:physicalDescription>
             <mods:extent>69 pages</mods:extent>
@@ -89,14 +89,14 @@
             <mods:dateCreated point="start">1940</mods:dateCreated>
             <mods:dateCreated point="end">1940</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="LCHS">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
             </mods:role>
             <mods:namePart type="family">Koford</mods:namePart>
             <mods:namePart type="given">Carl B.</mods:namePart>
-            <mods:displayForm>Koford, Carl B., 1915-1979</mods:displayForm>
+            <mods:displayForm>Koford, Carl B.</mods:displayForm>
         </mods:name>
         <mods:physicalDescription>
             <mods:extent>47 pages</mods:extent>
@@ -116,14 +116,14 @@
             <mods:dateCreated point="start">1941</mods:dateCreated>
             <mods:dateCreated point="end">1946</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="LCHS">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
             </mods:role>
             <mods:namePart type="family">Koford</mods:namePart>
             <mods:namePart type="given">Carl B.</mods:namePart>
-            <mods:displayForm>Koford, Carl B., 1915-1979</mods:displayForm>
+            <mods:displayForm>Koford, Carl B.</mods:displayForm>
         </mods:name>
         <mods:physicalDescription>
             <mods:extent>53 pages</mods:extent>
@@ -143,14 +143,14 @@
             <mods:dateCreated point="start">1946</mods:dateCreated>
             <mods:dateCreated point="end">1946</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="LCHS">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
             </mods:role>
             <mods:namePart type="family">Koford</mods:namePart>
             <mods:namePart type="given">Carl B.</mods:namePart>
-            <mods:displayForm>Koford, Carl B., 1915-1979</mods:displayForm>
+            <mods:displayForm>Koford, Carl B.</mods:displayForm>
         </mods:name>
         <mods:physicalDescription>
             <mods:extent>17 pages</mods:extent>
@@ -170,14 +170,14 @@
             <mods:dateCreated point="start">1947</mods:dateCreated>
             <mods:dateCreated point="end">1949</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="LCHS">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
             </mods:role>
             <mods:namePart type="family">Koford</mods:namePart>
             <mods:namePart type="given">Carl B.</mods:namePart>
-            <mods:displayForm>Koford, Carl B., 1915-1979</mods:displayForm>
+            <mods:displayForm>Koford, Carl B.</mods:displayForm>
         </mods:name>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/KofordCB/v1392_s6</mods:identifier>
     </mods:relatedItem>

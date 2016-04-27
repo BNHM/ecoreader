@@ -146,13 +146,14 @@
             <mods:dateCreated point="start">1953</mods:dateCreated>
             <mods:dateCreated point="end">1953</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="LCHS">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
             </mods:role>
             <mods:namePart type="family">Stirton</mods:namePart>
-            <mods:namePart type="given">R.A.</mods:namePart>
+            <mods:namePart type="given">R. A.</mods:namePart>
+            <mods:namePart type="date">1901-1966</mods:namePart>
             <mods:displayForm>Stirton, R. A.,  (Ruben Arthur), 1901-1966</mods:displayForm>
         </mods:name>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/BockCE/v1740_s6</mods:identifier>
@@ -170,13 +171,14 @@
             <mods:dateCreated point="start">1958</mods:dateCreated>
             <mods:dateCreated point="end">1958</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="LCHS">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
             </mods:role>
             <mods:namePart type="family">Stirton</mods:namePart>
-            <mods:namePart type="given">R.A.</mods:namePart>
+            <mods:namePart type="given">R. A.</mods:namePart>
+            <mods:namePart type="date">1901-1966</mods:namePart>
             <mods:displayForm>Stirton, R. A.,  (Ruben Arthur), 1901-1966</mods:displayForm>
         </mods:name>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/BockCE/v1740_s7</mods:identifier>

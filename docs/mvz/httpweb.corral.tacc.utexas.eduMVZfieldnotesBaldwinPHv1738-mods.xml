@@ -59,13 +59,13 @@
             <mods:dateCreated point="start">1934</mods:dateCreated>
             <mods:dateCreated point="end">1939</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="local">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
             </mods:role>
             <mods:namePart type="family">Dale</mods:namePart>
-            <mods:namePart type="given">Fred H.</mods:namePart>
+            <mods:namePart type="given">Frederick H.</mods:namePart>
             <mods:displayForm>Dale, Frederick H.</mods:displayForm>
         </mods:name>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/BaldwinPH/v1738_s2</mods:identifier>
@@ -83,14 +83,14 @@
             <mods:dateCreated point="start">1936</mods:dateCreated>
             <mods:dateCreated point="end">1936</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="local">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
             </mods:role>
             <mods:namePart type="family">Donohoe</mods:namePart>
-            <mods:namePart type="given">J.A.</mods:namePart>
-            <mods:displayForm>Donohoe, J.A.</mods:displayForm>
+            <mods:namePart type="given">J. A.</mods:namePart>
+            <mods:displayForm>Donohoe, J. A.</mods:displayForm>
         </mods:name>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/BaldwinPH/v1738_s3</mods:identifier>
     </mods:relatedItem>
@@ -107,14 +107,14 @@
             <mods:dateCreated point="start">1933</mods:dateCreated>
             <mods:dateCreated point="end">1934</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="local">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
             </mods:role>
             <mods:namePart type="family">Koerper</mods:namePart>
-            <mods:namePart type="given">Carl</mods:namePart>
-            <mods:displayForm>Koerper, Carl</mods:displayForm>
+            <mods:namePart type="given">Carl W.</mods:namePart>
+            <mods:displayForm>Koerper, Carl W.</mods:displayForm>
         </mods:name>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/BaldwinPH/v1738_s4</mods:identifier>
     </mods:relatedItem>
@@ -131,13 +131,14 @@
             <mods:dateCreated point="start">1936</mods:dateCreated>
             <mods:dateCreated point="end">1936</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="LCHS">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
             </mods:role>
             <mods:namePart type="family">Pequegnat</mods:namePart>
             <mods:namePart type="given">Willis E.</mods:namePart>
+            <mods:namePart type="date">1914-</mods:namePart>
             <mods:displayForm>Pequegnat, Willis E., 1914-</mods:displayForm>
         </mods:name>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/BaldwinPH/v1738_s5</mods:identifier>
@@ -179,14 +180,14 @@
             <mods:dateCreated point="start">1938</mods:dateCreated>
             <mods:dateCreated point="end">1938</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="local">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
             </mods:role>
             <mods:namePart type="family">Vestal</mods:namePart>
-            <mods:namePart type="given">Elden H.</mods:namePart>
-            <mods:displayForm>Vestal, Elden H.</mods:displayForm>
+            <mods:namePart type="given">E. H.</mods:namePart>
+            <mods:displayForm>Vestal, E. H.</mods:displayForm>
         </mods:name>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/BaldwinPH/v1738_s7</mods:identifier>
     </mods:relatedItem>

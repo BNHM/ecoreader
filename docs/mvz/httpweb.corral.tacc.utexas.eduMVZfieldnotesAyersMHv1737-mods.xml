@@ -50,14 +50,14 @@
             <mods:dateCreated point="start">1974</mods:dateCreated>
             <mods:dateCreated point="end">1974</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="local">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
             </mods:role>
             <mods:namePart type="family">Fabbri</mods:namePart>
-            <mods:namePart type="given">M.J.</mods:namePart>
-            <mods:displayForm>Fabbri, M.J.</mods:displayForm>
+            <mods:namePart type="given">M. J.</mods:namePart>
+            <mods:displayForm>Fabbri, M. J.</mods:displayForm>
         </mods:name>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/AyersMH/v1737_s2</mods:identifier>
     </mods:relatedItem>

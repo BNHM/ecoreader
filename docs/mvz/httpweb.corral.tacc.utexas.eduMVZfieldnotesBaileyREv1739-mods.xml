@@ -83,14 +83,14 @@
             <mods:dateCreated point="start">1948</mods:dateCreated>
             <mods:dateCreated point="end">1948</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="local">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
             </mods:role>
             <mods:namePart type="family">Bowers</mods:namePart>
-            <mods:namePart type="given">James B.</mods:namePart>
-            <mods:displayForm>Bowers, James B.</mods:displayForm>
+            <mods:namePart type="given">James Basil</mods:namePart>
+            <mods:displayForm>Bowers, James Basil</mods:displayForm>
         </mods:name>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/BaileyRE/v1739_s2</mods:identifier>
     </mods:relatedItem>
@@ -107,14 +107,14 @@
             <mods:dateCreated point="start">1947</mods:dateCreated>
             <mods:dateCreated point="end">1947</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="local">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
             </mods:role>
             <mods:namePart type="family">Dehnel</mods:namePart>
-            <mods:namePart type="given">Paul A.</mods:namePart>
-            <mods:displayForm>Dehnel, Paul A.</mods:displayForm>
+            <mods:namePart type="given">Paul</mods:namePart>
+            <mods:displayForm>Dehnel, Paul</mods:displayForm>
         </mods:name>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/BaileyRE/v1739_s3</mods:identifier>
     </mods:relatedItem>
@@ -131,14 +131,14 @@
             <mods:dateCreated point="start">1942</mods:dateCreated>
             <mods:dateCreated point="end">1942</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="local">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
             </mods:role>
             <mods:namePart type="family">Dougherty</mods:namePart>
-            <mods:namePart type="given">Ellsworth C.</mods:namePart>
-            <mods:displayForm>Dougherty, Ellsworth C.</mods:displayForm>
+            <mods:namePart type="given">E. C.</mods:namePart>
+            <mods:displayForm>Dougherty, E. C.</mods:displayForm>
         </mods:name>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/BaileyRE/v1739_s4</mods:identifier>
     </mods:relatedItem>
@@ -179,14 +179,16 @@
             <mods:dateCreated point="start">1946</mods:dateCreated>
             <mods:dateCreated point="end">1946</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="LCHS">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
             </mods:role>
             <mods:namePart type="family">Fox</mods:namePart>
             <mods:namePart type="given">Wade</mods:namePart>
-            <mods:displayForm>Fox, Wade, 1920-1964</mods:displayForm>
+            <mods:namePart type="termsOfAddress">Jr.</mods:namePart>
+            <mods:namePart type="date">1920-1964</mods:namePart>
+            <mods:displayForm>Fox, Wade, Jr.,  (Fox, Rufus Wade, Jr.), 1920-1964</mods:displayForm>
         </mods:name>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/BaileyRE/v1739_s6</mods:identifier>
     </mods:relatedItem>
@@ -203,13 +205,14 @@
             <mods:dateCreated point="start">1945</mods:dateCreated>
             <mods:dateCreated point="end">1945</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="LCHS">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
             </mods:role>
             <mods:namePart type="family">Genelly</mods:namePart>
             <mods:namePart type="given">Richard Emmett</mods:namePart>
+            <mods:namePart type="date">1916-</mods:namePart>
             <mods:displayForm>Genelly, Richard Emmett, 1916-</mods:displayForm>
         </mods:name>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/BaileyRE/v1739_s7</mods:identifier>

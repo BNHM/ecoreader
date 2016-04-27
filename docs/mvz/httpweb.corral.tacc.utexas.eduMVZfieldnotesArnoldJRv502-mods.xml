@@ -12,15 +12,14 @@
         <mods:dateCreated point="start">1933</mods:dateCreated>
         <mods:dateCreated point="end">1933</mods:dateCreated>
     </mods:originInfo>
-    <mods:name type="personal" authority="ingest">
+    <mods:name type="personal" authority="local">
         <mods:role>
             <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
             <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
         </mods:role>
         <mods:namePart type="family">Arnold</mods:namePart>
         <mods:namePart type="given">John R.</mods:namePart>
-        <mods:namePart type="date">1921-2011</mods:namePart>
-        <mods:displayForm>Arnold, John R., 1921-2011</mods:displayForm>
+        <mods:displayForm>Arnold, John R.</mods:displayForm>
     </mods:name>
     <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/ArnoldJR/v502</mods:identifier>
     <mods:relatedItem type="constituent">
@@ -36,15 +35,14 @@
             <mods:dateCreated point="start">1933</mods:dateCreated>
             <mods:dateCreated point="end">1933</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="local">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
             </mods:role>
             <mods:namePart type="family">Arnold</mods:namePart>
             <mods:namePart type="given">John R.</mods:namePart>
-            <mods:namePart type="date">1921-2011</mods:namePart>
-            <mods:displayForm>Arnold, John R., 1921-2011</mods:displayForm>
+            <mods:displayForm>Arnold, John R.</mods:displayForm>
         </mods:name>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, Nevada, Nye County</mods:geographic>

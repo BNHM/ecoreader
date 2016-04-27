@@ -12,12 +12,12 @@
         <mods:dateCreated point="start">1960</mods:dateCreated>
         <mods:dateCreated point="end">1963</mods:dateCreated>
     </mods:originInfo>
-    <mods:name type="personal" authority="ingest">
+    <mods:name type="personal" authority="local">
         <mods:role>
             <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
             <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
         </mods:role>
-        <mods:namePart type="family">DeBenedictis,</mods:namePart>
+        <mods:namePart type="family">DeBenedictis</mods:namePart>
         <mods:namePart type="given">Paul A.</mods:namePart>
         <mods:displayForm>DeBenedictis, Paul A.</mods:displayForm>
     </mods:name>
@@ -35,12 +35,12 @@
             <mods:dateCreated point="start">1960</mods:dateCreated>
             <mods:dateCreated point="end">1963</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="local">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
             </mods:role>
-            <mods:namePart type="family">DeBenedictis,</mods:namePart>
+            <mods:namePart type="family">DeBenedictis</mods:namePart>
             <mods:namePart type="given">Paul A.</mods:namePart>
             <mods:displayForm>DeBenedictis, Paul A.</mods:displayForm>
         </mods:name>
@@ -59,12 +59,12 @@
             <mods:dateCreated point="start">1960</mods:dateCreated>
             <mods:dateCreated point="end">1960</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="local">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
             </mods:role>
-            <mods:namePart type="family">DeBenedictis,</mods:namePart>
+            <mods:namePart type="family">DeBenedictis</mods:namePart>
             <mods:namePart type="given">Paul A.</mods:namePart>
             <mods:displayForm>DeBenedictis, Paul A.</mods:displayForm>
         </mods:name>
@@ -83,12 +83,12 @@
             <mods:dateCreated point="start">1960</mods:dateCreated>
             <mods:dateCreated point="end">1963</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="local">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
             </mods:role>
-            <mods:namePart type="family">DeBenedictis,</mods:namePart>
+            <mods:namePart type="family">DeBenedictis</mods:namePart>
             <mods:namePart type="given">Paul A.</mods:namePart>
             <mods:displayForm>DeBenedictis, Paul A.</mods:displayForm>
         </mods:name>

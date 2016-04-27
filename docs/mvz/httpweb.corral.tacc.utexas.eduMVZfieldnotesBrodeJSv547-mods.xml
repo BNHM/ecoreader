@@ -12,14 +12,13 @@
         <mods:dateCreated point="start">1934</mods:dateCreated>
         <mods:dateCreated point="end">1934</mods:dateCreated>
     </mods:originInfo>
-    <mods:name type="personal" authority="ingest">
+    <mods:name type="personal" authority="local">
         <mods:role>
             <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
             <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
         </mods:role>
         <mods:namePart type="family">Brode</mods:namePart>
         <mods:namePart type="given">J. Stanley</mods:namePart>
-        <mods:namePart type="date">1886-1968</mods:namePart>
         <mods:displayForm>Brode, J. Stanley</mods:displayForm>
     </mods:name>
     <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/BrodeJS/v547</mods:identifier>
@@ -36,14 +35,13 @@
             <mods:dateCreated point="start">1934</mods:dateCreated>
             <mods:dateCreated point="end">1934</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="local">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
             </mods:role>
             <mods:namePart type="family">Brode</mods:namePart>
             <mods:namePart type="given">J. Stanley</mods:namePart>
-            <mods:namePart type="date">1886-1968</mods:namePart>
             <mods:displayForm>Brode, J. Stanley</mods:displayForm>
         </mods:name>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/BrodeJS/v547_s1</mods:identifier>
@@ -61,14 +59,13 @@
             <mods:dateCreated point="start">1934</mods:dateCreated>
             <mods:dateCreated point="end">1934</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="local">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
             </mods:role>
             <mods:namePart type="family">Brode</mods:namePart>
             <mods:namePart type="given">J. Stanley</mods:namePart>
-            <mods:namePart type="date">1886-1968</mods:namePart>
             <mods:displayForm>Brode, J. Stanley</mods:displayForm>
         </mods:name>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/BrodeJS/v547_s2</mods:identifier>

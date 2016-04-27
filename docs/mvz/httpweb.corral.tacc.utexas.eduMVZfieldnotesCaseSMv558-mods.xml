@@ -12,13 +12,13 @@
         <mods:dateCreated point="start">1972</mods:dateCreated>
         <mods:dateCreated point="end">1975</mods:dateCreated>
     </mods:originInfo>
-    <mods:name type="personal" authority="ingest">
+    <mods:name type="personal" authority="local">
         <mods:role>
             <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
             <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
         </mods:role>
         <mods:namePart type="family">Case</mods:namePart>
-        <mods:namePart type="given">Susan M</mods:namePart>
+        <mods:namePart type="given">Susan M.</mods:namePart>
         <mods:displayForm>Case, Susan M.</mods:displayForm>
     </mods:name>
     <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/CaseSM/v558</mods:identifier>
@@ -35,13 +35,13 @@
             <mods:dateCreated point="start">1972</mods:dateCreated>
             <mods:dateCreated point="end">1976</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="local">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
             </mods:role>
             <mods:namePart type="family">Case</mods:namePart>
-            <mods:namePart type="given">Susan M</mods:namePart>
+            <mods:namePart type="given">Susan M.</mods:namePart>
             <mods:displayForm>Case, Susan M.</mods:displayForm>
         </mods:name>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/CaseSM/v558_s1</mods:identifier>
@@ -59,13 +59,13 @@
             <mods:dateCreated point="start">1972</mods:dateCreated>
             <mods:dateCreated point="end">1975</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="local">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
             </mods:role>
             <mods:namePart type="family">Case</mods:namePart>
-            <mods:namePart type="given">Susan M</mods:namePart>
+            <mods:namePart type="given">Susan M.</mods:namePart>
             <mods:displayForm>Case, Susan M.</mods:displayForm>
         </mods:name>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/CaseSM/v558_s2</mods:identifier>
@@ -83,13 +83,13 @@
             <mods:dateCreated point="start">1972</mods:dateCreated>
             <mods:dateCreated point="end">1975</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="local">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
             </mods:role>
             <mods:namePart type="family">Case</mods:namePart>
-            <mods:namePart type="given">Susan M</mods:namePart>
+            <mods:namePart type="given">Susan M.</mods:namePart>
             <mods:displayForm>Case, Susan M.</mods:displayForm>
         </mods:name>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/CaseSM/v558_s3</mods:identifier>

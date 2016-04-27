@@ -12,7 +12,7 @@
         <mods:dateCreated point="start">1942</mods:dateCreated>
         <mods:dateCreated point="end">1946</mods:dateCreated>
     </mods:originInfo>
-    <mods:name type="personal" authority="ingest">
+    <mods:name type="personal" authority="LCHS">
         <mods:role>
             <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
             <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
@@ -20,7 +20,7 @@
         <mods:namePart type="family">Pitelka</mods:namePart>
         <mods:namePart type="given">Frank A.</mods:namePart>
         <mods:namePart type="date">1916-2003</mods:namePart>
-        <mods:displayForm>Pitelka, Frank A. (Frank Alois), 1916-2003</mods:displayForm>
+        <mods:displayForm>Pitelka, Frank A.,  (Frank Alois), 1916-2003</mods:displayForm>
     </mods:name>
     <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/PitelkaFA/v1535</mods:identifier>
     <mods:relatedItem type="constituent">
@@ -36,7 +36,7 @@
             <mods:dateCreated point="start">1942</mods:dateCreated>
             <mods:dateCreated point="end">1946</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="LCHS">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
@@ -44,7 +44,7 @@
             <mods:namePart type="family">Pitelka</mods:namePart>
             <mods:namePart type="given">Frank A.</mods:namePart>
             <mods:namePart type="date">1916-2003</mods:namePart>
-            <mods:displayForm>Pitelka, Frank A. (Frank Alois), 1916-2003</mods:displayForm>
+            <mods:displayForm>Pitelka, Frank A.,  (Frank Alois), 1916-2003</mods:displayForm>
         </mods:name>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/PitelkaFA/v1535_s0</mods:identifier>
     </mods:relatedItem>
@@ -61,7 +61,7 @@
             <mods:dateCreated point="start">1942</mods:dateCreated>
             <mods:dateCreated point="end">1946</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="LCHS">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
@@ -69,7 +69,7 @@
             <mods:namePart type="family">Pitelka</mods:namePart>
             <mods:namePart type="given">Frank A.</mods:namePart>
             <mods:namePart type="date">1916-2003</mods:namePart>
-            <mods:displayForm>Pitelka, Frank A. (Frank Alois), 1916-2003</mods:displayForm>
+            <mods:displayForm>Pitelka, Frank A.,  (Frank Alois), 1916-2003</mods:displayForm>
         </mods:name>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/PitelkaFA/v1535_s1</mods:identifier>
     </mods:relatedItem>

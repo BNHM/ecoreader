@@ -46,6 +46,15 @@
             <mods:namePart type="date">1883-</mods:namePart>
             <mods:displayForm>Lamb, Chester Converse, 1883-</mods:displayForm>
         </mods:name>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, Gulf of California, Mexico, Baja California, Gulf of California Islands, Isla San Martin</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, Mexico, Baja California</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, Mexico, Baja California, Isla Cedros</mods:geographic>
+        </mods:subject>
         <mods:physicalDescription>
             <mods:extent>39 pages</mods:extent>
         </mods:physicalDescription>
@@ -74,6 +83,12 @@
             <mods:namePart type="date">1883-</mods:namePart>
             <mods:displayForm>Lamb, Chester Converse, 1883-</mods:displayForm>
         </mods:name>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Alameda County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Los Angeles County</mods:geographic>
+        </mods:subject>
         <mods:physicalDescription>
             <mods:extent>12 pages</mods:extent>
         </mods:physicalDescription>
@@ -102,6 +117,9 @@
             <mods:namePart type="date">1883-</mods:namePart>
             <mods:displayForm>Lamb, Chester Converse, 1883-</mods:displayForm>
         </mods:name>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, Mexico, Baja California</mods:geographic>
+        </mods:subject>
         <mods:physicalDescription>
             <mods:extent>47 pages</mods:extent>
         </mods:physicalDescription>
@@ -130,6 +148,9 @@
             <mods:namePart type="date">1883-</mods:namePart>
             <mods:displayForm>Lamb, Chester Converse, 1883-</mods:displayForm>
         </mods:name>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, Mexico, Baja California</mods:geographic>
+        </mods:subject>
         <mods:physicalDescription>
             <mods:extent>81 pages</mods:extent>
         </mods:physicalDescription>

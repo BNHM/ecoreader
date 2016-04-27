@@ -12,7 +12,7 @@
         <mods:dateCreated point="start">1933</mods:dateCreated>
         <mods:dateCreated point="end">1933</mods:dateCreated>
     </mods:originInfo>
-    <mods:name type="personal" authority="ingest">
+    <mods:name type="personal" authority="LCHS">
         <mods:role>
             <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
             <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
@@ -20,7 +20,7 @@
         <mods:namePart type="family">Gilmore</mods:namePart>
         <mods:namePart type="given">Raymond M.</mods:namePart>
         <mods:namePart type="date">1907-1983</mods:namePart>
-        <mods:displayForm>Gilmore, Raymond M., (Raymond Maurice), 1907-1983</mods:displayForm>
+        <mods:displayForm>Gilmore, Raymond M.,  (Raymond Maurice), 1907-1983</mods:displayForm>
     </mods:name>
     <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GilmoreRM/v1300</mods:identifier>
     <mods:relatedItem type="constituent">
@@ -36,7 +36,7 @@
             <mods:dateCreated point="start">1933</mods:dateCreated>
             <mods:dateCreated point="end">1933</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="LCHS">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
@@ -44,7 +44,7 @@
             <mods:namePart type="family">Gilmore</mods:namePart>
             <mods:namePart type="given">Raymond M.</mods:namePart>
             <mods:namePart type="date">1907-1983</mods:namePart>
-            <mods:displayForm>Gilmore, Raymond M., (Raymond Maurice), 1907-1983</mods:displayForm>
+            <mods:displayForm>Gilmore, Raymond M.,  (Raymond Maurice), 1907-1983</mods:displayForm>
         </mods:name>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GilmoreRM/v1300_s0</mods:identifier>
     </mods:relatedItem>
@@ -61,7 +61,7 @@
             <mods:dateCreated point="start">1933</mods:dateCreated>
             <mods:dateCreated point="end">1933</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="LCHS">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
@@ -69,7 +69,7 @@
             <mods:namePart type="family">Gilmore</mods:namePart>
             <mods:namePart type="given">Raymond M.</mods:namePart>
             <mods:namePart type="date">1907-1983</mods:namePart>
-            <mods:displayForm>Gilmore, Raymond M., (Raymond Maurice), 1907-1983</mods:displayForm>
+            <mods:displayForm>Gilmore, Raymond M.,  (Raymond Maurice), 1907-1983</mods:displayForm>
         </mods:name>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GilmoreRM/v1300_s1</mods:identifier>
     </mods:relatedItem>
@@ -86,7 +86,7 @@
             <mods:dateCreated point="start">1933</mods:dateCreated>
             <mods:dateCreated point="end">1933</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="LCHS">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
@@ -94,7 +94,7 @@
             <mods:namePart type="family">Gilmore</mods:namePart>
             <mods:namePart type="given">Raymond M.</mods:namePart>
             <mods:namePart type="date">1907-1983</mods:namePart>
-            <mods:displayForm>Gilmore, Raymond M., (Raymond Maurice), 1907-1983</mods:displayForm>
+            <mods:displayForm>Gilmore, Raymond M.,  (Raymond Maurice), 1907-1983</mods:displayForm>
         </mods:name>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GilmoreRM/v1300_s2</mods:identifier>
     </mods:relatedItem>
@@ -111,7 +111,7 @@
             <mods:dateCreated point="start">1933</mods:dateCreated>
             <mods:dateCreated point="end">1933</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="LCHS">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
@@ -119,7 +119,7 @@
             <mods:namePart type="family">Gilmore</mods:namePart>
             <mods:namePart type="given">Raymond M.</mods:namePart>
             <mods:namePart type="date">1907-1983</mods:namePart>
-            <mods:displayForm>Gilmore, Raymond M., (Raymond Maurice), 1907-1983</mods:displayForm>
+            <mods:displayForm>Gilmore, Raymond M.,  (Raymond Maurice), 1907-1983</mods:displayForm>
         </mods:name>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GilmoreRM/v1300_s3</mods:identifier>
     </mods:relatedItem>
@@ -136,7 +136,7 @@
             <mods:dateCreated point="start">1933</mods:dateCreated>
             <mods:dateCreated point="end">1933</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="LCHS">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
@@ -144,7 +144,7 @@
             <mods:namePart type="family">Gilmore</mods:namePart>
             <mods:namePart type="given">Raymond M.</mods:namePart>
             <mods:namePart type="date">1907-1983</mods:namePart>
-            <mods:displayForm>Gilmore, Raymond M., (Raymond Maurice), 1907-1983</mods:displayForm>
+            <mods:displayForm>Gilmore, Raymond M.,  (Raymond Maurice), 1907-1983</mods:displayForm>
         </mods:name>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GilmoreRM/v1300_s4</mods:identifier>
     </mods:relatedItem>
@@ -161,7 +161,7 @@
             <mods:dateCreated point="start">1933</mods:dateCreated>
             <mods:dateCreated point="end">1933</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="LCHS">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
@@ -169,7 +169,7 @@
             <mods:namePart type="family">Gilmore</mods:namePart>
             <mods:namePart type="given">Raymond M.</mods:namePart>
             <mods:namePart type="date">1907-1983</mods:namePart>
-            <mods:displayForm>Gilmore, Raymond M., (Raymond Maurice), 1907-1983</mods:displayForm>
+            <mods:displayForm>Gilmore, Raymond M.,  (Raymond Maurice), 1907-1983</mods:displayForm>
         </mods:name>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GilmoreRM/v1300_s5</mods:identifier>
     </mods:relatedItem>
@@ -186,7 +186,7 @@
             <mods:dateCreated point="start">1933</mods:dateCreated>
             <mods:dateCreated point="end">1933</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="LCHS">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
@@ -194,7 +194,7 @@
             <mods:namePart type="family">Gilmore</mods:namePart>
             <mods:namePart type="given">Raymond M.</mods:namePart>
             <mods:namePart type="date">1907-1983</mods:namePart>
-            <mods:displayForm>Gilmore, Raymond M., (Raymond Maurice), 1907-1983</mods:displayForm>
+            <mods:displayForm>Gilmore, Raymond M.,  (Raymond Maurice), 1907-1983</mods:displayForm>
         </mods:name>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GilmoreRM/v1300_s6</mods:identifier>
     </mods:relatedItem>

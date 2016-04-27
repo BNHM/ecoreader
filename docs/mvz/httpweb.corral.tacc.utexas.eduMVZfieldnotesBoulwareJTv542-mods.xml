@@ -12,13 +12,14 @@
         <mods:dateCreated point="start">1941</mods:dateCreated>
         <mods:dateCreated point="end">1942</mods:dateCreated>
     </mods:originInfo>
-    <mods:name type="personal" authority="ingest">
+    <mods:name type="personal" authority="LCHS">
         <mods:role>
             <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
             <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
         </mods:role>
         <mods:namePart type="family">Boulware</mods:namePart>
         <mods:namePart type="given">Jean T.</mods:namePart>
+        <mods:namePart type="date">1920-</mods:namePart>
         <mods:displayForm>Boulware, Jean T.,  (Jean Thresher), 1920-</mods:displayForm>
     </mods:name>
     <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/BoulwareJT/v542</mods:identifier>
@@ -35,13 +36,14 @@
             <mods:dateCreated point="start">1941</mods:dateCreated>
             <mods:dateCreated point="end">1941</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="LCHS">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
             </mods:role>
             <mods:namePart type="family">Boulware</mods:namePart>
             <mods:namePart type="given">Jean T.</mods:namePart>
+            <mods:namePart type="date">1920-</mods:namePart>
             <mods:displayForm>Boulware, Jean T.,  (Jean Thresher), 1920-</mods:displayForm>
         </mods:name>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/BoulwareJT/v542_s1</mods:identifier>
@@ -59,13 +61,14 @@
             <mods:dateCreated point="start">1942</mods:dateCreated>
             <mods:dateCreated point="end">1942</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="LCHS">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
             </mods:role>
             <mods:namePart type="family">Boulware</mods:namePart>
             <mods:namePart type="given">Jean T.</mods:namePart>
+            <mods:namePart type="date">1920-</mods:namePart>
             <mods:displayForm>Boulware, Jean T.,  (Jean Thresher), 1920-</mods:displayForm>
         </mods:name>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/BoulwareJT/v542_s2</mods:identifier>

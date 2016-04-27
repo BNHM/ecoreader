@@ -107,7 +107,7 @@
             <mods:dateCreated point="start">1913</mods:dateCreated>
             <mods:dateCreated point="end">1913</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="LCHS">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
@@ -115,7 +115,7 @@
             <mods:namePart type="family">Grinnell</mods:namePart>
             <mods:namePart type="given">Hilda W.</mods:namePart>
             <mods:namePart type="date">1883-1963</mods:namePart>
-            <mods:displayForm>Grinnell, Hilda W. (Hilda Wood), 1883-1963</mods:displayForm>
+            <mods:displayForm>Grinnell, Hilda W.,  (Hilda Wood), 1883-1963</mods:displayForm>
         </mods:name>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GreenJE/v1309_s3</mods:identifier>
     </mods:relatedItem>
@@ -132,7 +132,7 @@
             <mods:dateCreated point="start">1915</mods:dateCreated>
             <mods:dateCreated point="end">1915</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="LCHS">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
@@ -140,7 +140,7 @@
             <mods:namePart type="family">Grinnell</mods:namePart>
             <mods:namePart type="given">Hilda W.</mods:namePart>
             <mods:namePart type="date">1883-1963</mods:namePart>
-            <mods:displayForm>Grinnell, Hilda W. (Hilda Wood), 1883-1963</mods:displayForm>
+            <mods:displayForm>Grinnell, Hilda W.,  (Hilda Wood), 1883-1963</mods:displayForm>
         </mods:name>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GreenJE/v1309_s4</mods:identifier>
     </mods:relatedItem>
@@ -157,7 +157,7 @@
             <mods:dateCreated point="start">1925</mods:dateCreated>
             <mods:dateCreated point="end">1925</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="LCHS">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
@@ -165,7 +165,7 @@
             <mods:namePart type="family">Grinnell</mods:namePart>
             <mods:namePart type="given">Hilda W.</mods:namePart>
             <mods:namePart type="date">1883-1963</mods:namePart>
-            <mods:displayForm>Grinnell, Hilda W. (Hilda Wood), 1883-1963</mods:displayForm>
+            <mods:displayForm>Grinnell, Hilda W.,  (Hilda Wood), 1883-1963</mods:displayForm>
         </mods:name>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GreenJE/v1309_s5</mods:identifier>
     </mods:relatedItem>

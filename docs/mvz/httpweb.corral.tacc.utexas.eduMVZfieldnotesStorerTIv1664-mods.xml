@@ -12,13 +12,13 @@
         <mods:dateCreated point="start">1911</mods:dateCreated>
         <mods:dateCreated point="end">1912</mods:dateCreated>
     </mods:originInfo>
-    <mods:name type="personal" authority="ingest">
+    <mods:name type="personal" authority="LCHS">
         <mods:role>
             <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
             <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
         </mods:role>
         <mods:namePart type="family">Storer</mods:namePart>
-        <mods:namePart type="given">Tracy I.</mods:namePart>
+        <mods:namePart type="given">Tracy I. (Tracy Irwin)</mods:namePart>
         <mods:namePart type="date">1889-1973</mods:namePart>
         <mods:displayForm>Storer, Tracy I. (Tracy Irwin), 1889-1973</mods:displayForm>
     </mods:name>
@@ -36,13 +36,13 @@
             <mods:dateCreated point="start">1911</mods:dateCreated>
             <mods:dateCreated point="end">1912</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="LCHS">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
             </mods:role>
             <mods:namePart type="family">Storer</mods:namePart>
-            <mods:namePart type="given">Tracy I.</mods:namePart>
+            <mods:namePart type="given">Tracy I. (Tracy Irwin)</mods:namePart>
             <mods:namePart type="date">1889-1973</mods:namePart>
             <mods:displayForm>Storer, Tracy I. (Tracy Irwin), 1889-1973</mods:displayForm>
         </mods:name>
@@ -64,13 +64,13 @@
             <mods:dateCreated point="start">1911</mods:dateCreated>
             <mods:dateCreated point="end">1911</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="LCHS">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
             </mods:role>
             <mods:namePart type="family">Storer</mods:namePart>
-            <mods:namePart type="given">Tracy I.</mods:namePart>
+            <mods:namePart type="given">Tracy I. (Tracy Irwin)</mods:namePart>
             <mods:namePart type="date">1889-1973</mods:namePart>
             <mods:displayForm>Storer, Tracy I. (Tracy Irwin), 1889-1973</mods:displayForm>
         </mods:name>
@@ -92,13 +92,13 @@
             <mods:dateCreated point="start">1912</mods:dateCreated>
             <mods:dateCreated point="end">1912</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="LCHS">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
             </mods:role>
             <mods:namePart type="family">Storer</mods:namePart>
-            <mods:namePart type="given">Tracy I.</mods:namePart>
+            <mods:namePart type="given">Tracy I. (Tracy Irwin)</mods:namePart>
             <mods:namePart type="date">1889-1973</mods:namePart>
             <mods:displayForm>Storer, Tracy I. (Tracy Irwin), 1889-1973</mods:displayForm>
         </mods:name>

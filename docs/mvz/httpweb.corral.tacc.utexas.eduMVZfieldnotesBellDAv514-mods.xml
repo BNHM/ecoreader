@@ -12,14 +12,13 @@
         <mods:dateCreated point="start">1988</mods:dateCreated>
         <mods:dateCreated point="end">1989</mods:dateCreated>
     </mods:originInfo>
-    <mods:name type="personal" authority="ingest">
+    <mods:name type="personal" authority="local">
         <mods:role>
             <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
             <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
         </mods:role>
         <mods:namePart type="family">Bell</mods:namePart>
         <mods:namePart type="given">Douglas A.</mods:namePart>
-        <mods:namePart type="date">1905-2005</mods:namePart>
         <mods:displayForm>Bell, Douglas A.</mods:displayForm>
     </mods:name>
     <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/BellDA/v514</mods:identifier>
@@ -36,14 +35,13 @@
             <mods:dateCreated point="start">1988</mods:dateCreated>
             <mods:dateCreated point="end">1989</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="local">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
             </mods:role>
             <mods:namePart type="family">Bell</mods:namePart>
             <mods:namePart type="given">Douglas A.</mods:namePart>
-            <mods:namePart type="date">1905-2005</mods:namePart>
             <mods:displayForm>Bell, Douglas A.</mods:displayForm>
         </mods:name>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/BellDA/v514_s1</mods:identifier>

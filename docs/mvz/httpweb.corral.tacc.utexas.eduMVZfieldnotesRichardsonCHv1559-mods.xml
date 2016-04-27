@@ -12,7 +12,7 @@
         <mods:dateCreated point="start">1909</mods:dateCreated>
         <mods:dateCreated point="end">1911</mods:dateCreated>
     </mods:originInfo>
-    <mods:name type="personal" authority="ingest">
+    <mods:name type="personal" authority="local">
         <mods:role>
             <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
             <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
@@ -20,7 +20,7 @@
         <mods:namePart type="family">Richardson</mods:namePart>
         <mods:namePart type="given">Charles H.</mods:namePart>
         <mods:namePart type="date">1887-</mods:namePart>
-        <mods:displayForm>Richardson, Charles H., 1887</mods:displayForm>
+        <mods:displayForm>Richardson, Charles H., 1887-</mods:displayForm>
     </mods:name>
     <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/RichardsonCH/v1559</mods:identifier>
     <mods:relatedItem type="constituent">
@@ -36,7 +36,7 @@
             <mods:dateCreated point="start">1909</mods:dateCreated>
             <mods:dateCreated point="end">1911</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="local">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
@@ -44,7 +44,7 @@
             <mods:namePart type="family">Richardson</mods:namePart>
             <mods:namePart type="given">Charles H.</mods:namePart>
             <mods:namePart type="date">1887-</mods:namePart>
-            <mods:displayForm>Richardson, Charles H., 1887</mods:displayForm>
+            <mods:displayForm>Richardson, Charles H., 1887-</mods:displayForm>
         </mods:name>
         <mods:physicalDescription>
             <mods:extent>1 pages</mods:extent>
@@ -64,7 +64,7 @@
             <mods:dateCreated point="start">1909</mods:dateCreated>
             <mods:dateCreated point="end">1909</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="local">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
@@ -72,7 +72,7 @@
             <mods:namePart type="family">Richardson</mods:namePart>
             <mods:namePart type="given">Charles H.</mods:namePart>
             <mods:namePart type="date">1887-</mods:namePart>
-            <mods:displayForm>Richardson, Charles H., 1887</mods:displayForm>
+            <mods:displayForm>Richardson, Charles H., 1887-</mods:displayForm>
         </mods:name>
         <mods:physicalDescription>
             <mods:extent>256 pages</mods:extent>
@@ -92,7 +92,7 @@
             <mods:dateCreated point="start">1911</mods:dateCreated>
             <mods:dateCreated point="end">1911</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="local">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
@@ -100,7 +100,7 @@
             <mods:namePart type="family">Richardson</mods:namePart>
             <mods:namePart type="given">Charles H.</mods:namePart>
             <mods:namePart type="date">1887-</mods:namePart>
-            <mods:displayForm>Richardson, Charles H., 1887</mods:displayForm>
+            <mods:displayForm>Richardson, Charles H., 1887-</mods:displayForm>
         </mods:name>
         <mods:physicalDescription>
             <mods:extent>24 pages</mods:extent>

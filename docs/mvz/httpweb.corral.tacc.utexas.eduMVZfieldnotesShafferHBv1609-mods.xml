@@ -12,13 +12,14 @@
         <mods:dateCreated point="start">1976</mods:dateCreated>
         <mods:dateCreated point="end">1977</mods:dateCreated>
     </mods:originInfo>
-    <mods:name type="personal" authority="ingest">
+    <mods:name type="personal" authority="LCHS">
         <mods:role>
             <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
             <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
         </mods:role>
         <mods:namePart type="family">Shaffer</mods:namePart>
         <mods:namePart type="given">H. Bradley</mods:namePart>
+        <mods:namePart type="date">1953-</mods:namePart>
         <mods:displayForm>Shaffer, H. Bradley,  (Howard Bradley), 1953-</mods:displayForm>
     </mods:name>
     <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/ShafferHB/v1609</mods:identifier>
@@ -44,13 +45,14 @@
             <mods:namePart type="given">Paul</mods:namePart>
             <mods:displayForm>Elias, Paul</mods:displayForm>
         </mods:name>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="LCHS">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
             </mods:role>
             <mods:namePart type="family">Shaffer</mods:namePart>
             <mods:namePart type="given">H. Bradley</mods:namePart>
+            <mods:namePart type="date">1953-</mods:namePart>
             <mods:displayForm>Shaffer, H. Bradley,  (Howard Bradley), 1953-</mods:displayForm>
         </mods:name>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/ShafferHB/v1609_s1</mods:identifier>
@@ -77,13 +79,14 @@
             <mods:namePart type="given">Paul</mods:namePart>
             <mods:displayForm>Elias, Paul</mods:displayForm>
         </mods:name>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="LCHS">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
             </mods:role>
             <mods:namePart type="family">Shaffer</mods:namePart>
             <mods:namePart type="given">H. Bradley</mods:namePart>
+            <mods:namePart type="date">1953-</mods:namePart>
             <mods:displayForm>Shaffer, H. Bradley,  (Howard Bradley), 1953-</mods:displayForm>
         </mods:name>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/ShafferHB/v1609_s2</mods:identifier>
@@ -110,13 +113,14 @@
             <mods:namePart type="given">Paul</mods:namePart>
             <mods:displayForm>Elias, Paul</mods:displayForm>
         </mods:name>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="LCHS">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
             </mods:role>
             <mods:namePart type="family">Shaffer</mods:namePart>
             <mods:namePart type="given">H. Bradley</mods:namePart>
+            <mods:namePart type="date">1953-</mods:namePart>
             <mods:displayForm>Shaffer, H. Bradley,  (Howard Bradley), 1953-</mods:displayForm>
         </mods:name>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/ShafferHB/v1609_s3</mods:identifier>
@@ -143,13 +147,14 @@
             <mods:namePart type="given">Paul</mods:namePart>
             <mods:displayForm>Elias, Paul</mods:displayForm>
         </mods:name>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="LCHS">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
             </mods:role>
             <mods:namePart type="family">Shaffer</mods:namePart>
             <mods:namePart type="given">H. Bradley</mods:namePart>
+            <mods:namePart type="date">1953-</mods:namePart>
             <mods:displayForm>Shaffer, H. Bradley,  (Howard Bradley), 1953-</mods:displayForm>
         </mods:name>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/ShafferHB/v1609_s4</mods:identifier>
@@ -176,13 +181,14 @@
             <mods:namePart type="given">Paul</mods:namePart>
             <mods:displayForm>Elias, Paul</mods:displayForm>
         </mods:name>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="LCHS">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
             </mods:role>
             <mods:namePart type="family">Shaffer</mods:namePart>
             <mods:namePart type="given">H. Bradley</mods:namePart>
+            <mods:namePart type="date">1953-</mods:namePart>
             <mods:displayForm>Shaffer, H. Bradley,  (Howard Bradley), 1953-</mods:displayForm>
         </mods:name>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/ShafferHB/v1609_s5</mods:identifier>
@@ -209,13 +215,14 @@
             <mods:namePart type="given">Paul</mods:namePart>
             <mods:displayForm>Elias, Paul</mods:displayForm>
         </mods:name>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="LCHS">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
             </mods:role>
             <mods:namePart type="family">Shaffer</mods:namePart>
             <mods:namePart type="given">H. Bradley</mods:namePart>
+            <mods:namePart type="date">1953-</mods:namePart>
             <mods:displayForm>Shaffer, H. Bradley,  (Howard Bradley), 1953-</mods:displayForm>
         </mods:name>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/ShafferHB/v1609_s6</mods:identifier>

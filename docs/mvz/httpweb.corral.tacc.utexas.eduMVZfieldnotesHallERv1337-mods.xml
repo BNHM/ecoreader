@@ -12,7 +12,7 @@
         <mods:dateCreated point="start">1927</mods:dateCreated>
         <mods:dateCreated point="end">1932</mods:dateCreated>
     </mods:originInfo>
-    <mods:name type="personal" authority="ingest">
+    <mods:name type="personal" authority="LCHS">
         <mods:role>
             <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
             <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
@@ -20,7 +20,7 @@
         <mods:namePart type="family">Hall</mods:namePart>
         <mods:namePart type="given">E. Raymond</mods:namePart>
         <mods:namePart type="date">1902-1986</mods:namePart>
-        <mods:displayForm>Hall, E. Raymond (Eugene Raymond), 1902-1986</mods:displayForm>
+        <mods:displayForm>Hall, E. Raymond,  (Eugene Raymond), 1902-1986</mods:displayForm>
     </mods:name>
     <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/HallER/v1337</mods:identifier>
     <mods:relatedItem type="constituent">
@@ -36,7 +36,7 @@
             <mods:dateCreated point="start">1927</mods:dateCreated>
             <mods:dateCreated point="end">1927</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="LCHS">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
@@ -44,7 +44,7 @@
             <mods:namePart type="family">Hall</mods:namePart>
             <mods:namePart type="given">E. Raymond</mods:namePart>
             <mods:namePart type="date">1902-1986</mods:namePart>
-            <mods:displayForm>Hall, E. Raymond (Eugene Raymond), 1902-1986</mods:displayForm>
+            <mods:displayForm>Hall, E. Raymond,  (Eugene Raymond), 1902-1986</mods:displayForm>
         </mods:name>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, California, Alameda County</mods:geographic>
@@ -76,7 +76,7 @@
             <mods:dateCreated point="start">1927</mods:dateCreated>
             <mods:dateCreated point="end">1927</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="LCHS">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
@@ -84,7 +84,7 @@
             <mods:namePart type="family">Hall</mods:namePart>
             <mods:namePart type="given">E. Raymond</mods:namePart>
             <mods:namePart type="date">1902-1986</mods:namePart>
-            <mods:displayForm>Hall, E. Raymond (Eugene Raymond), 1902-1986</mods:displayForm>
+            <mods:displayForm>Hall, E. Raymond,  (Eugene Raymond), 1902-1986</mods:displayForm>
         </mods:name>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, California, Inyo County</mods:geographic>
@@ -113,7 +113,7 @@
             <mods:dateCreated point="start">1927</mods:dateCreated>
             <mods:dateCreated point="end">1927</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="LCHS">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
@@ -121,7 +121,7 @@
             <mods:namePart type="family">Hall</mods:namePart>
             <mods:namePart type="given">E. Raymond</mods:namePart>
             <mods:namePart type="date">1902-1986</mods:namePart>
-            <mods:displayForm>Hall, E. Raymond (Eugene Raymond), 1902-1986</mods:displayForm>
+            <mods:displayForm>Hall, E. Raymond,  (Eugene Raymond), 1902-1986</mods:displayForm>
         </mods:name>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, California, Alameda County</mods:geographic>
@@ -147,7 +147,7 @@
             <mods:dateCreated point="start">1927</mods:dateCreated>
             <mods:dateCreated point="end">1927</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="LCHS">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
@@ -155,7 +155,7 @@
             <mods:namePart type="family">Hall</mods:namePart>
             <mods:namePart type="given">E. Raymond</mods:namePart>
             <mods:namePart type="date">1902-1986</mods:namePart>
-            <mods:displayForm>Hall, E. Raymond (Eugene Raymond), 1902-1986</mods:displayForm>
+            <mods:displayForm>Hall, E. Raymond,  (Eugene Raymond), 1902-1986</mods:displayForm>
         </mods:name>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, Kansas, Douglas County</mods:geographic>
@@ -181,7 +181,7 @@
             <mods:dateCreated point="start">1927</mods:dateCreated>
             <mods:dateCreated point="end">1930</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="LCHS">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
@@ -189,7 +189,7 @@
             <mods:namePart type="family">Hall</mods:namePart>
             <mods:namePart type="given">E. Raymond</mods:namePart>
             <mods:namePart type="date">1902-1986</mods:namePart>
-            <mods:displayForm>Hall, E. Raymond (Eugene Raymond), 1902-1986</mods:displayForm>
+            <mods:displayForm>Hall, E. Raymond,  (Eugene Raymond), 1902-1986</mods:displayForm>
         </mods:name>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, California, Alameda County</mods:geographic>
@@ -215,7 +215,7 @@
             <mods:dateCreated point="start">1930</mods:dateCreated>
             <mods:dateCreated point="end">1930</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="LCHS">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
@@ -223,7 +223,7 @@
             <mods:namePart type="family">Hall</mods:namePart>
             <mods:namePart type="given">E. Raymond</mods:namePart>
             <mods:namePart type="date">1902-1986</mods:namePart>
-            <mods:displayForm>Hall, E. Raymond (Eugene Raymond), 1902-1986</mods:displayForm>
+            <mods:displayForm>Hall, E. Raymond,  (Eugene Raymond), 1902-1986</mods:displayForm>
         </mods:name>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, District of Columbia, Washington</mods:geographic>
@@ -246,7 +246,7 @@
             <mods:dateCreated point="start">1930</mods:dateCreated>
             <mods:dateCreated point="end">1931</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="LCHS">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
@@ -254,7 +254,7 @@
             <mods:namePart type="family">Hall</mods:namePart>
             <mods:namePart type="given">E. Raymond</mods:namePart>
             <mods:namePart type="date">1902-1986</mods:namePart>
-            <mods:displayForm>Hall, E. Raymond (Eugene Raymond), 1902-1986</mods:displayForm>
+            <mods:displayForm>Hall, E. Raymond,  (Eugene Raymond), 1902-1986</mods:displayForm>
         </mods:name>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, California, Alameda County</mods:geographic>
@@ -280,7 +280,7 @@
             <mods:dateCreated point="start">1931</mods:dateCreated>
             <mods:dateCreated point="end">1931</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="LCHS">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
@@ -288,7 +288,7 @@
             <mods:namePart type="family">Hall</mods:namePart>
             <mods:namePart type="given">E. Raymond</mods:namePart>
             <mods:namePart type="date">1902-1986</mods:namePart>
-            <mods:displayForm>Hall, E. Raymond (Eugene Raymond), 1902-1986</mods:displayForm>
+            <mods:displayForm>Hall, E. Raymond,  (Eugene Raymond), 1902-1986</mods:displayForm>
         </mods:name>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, Arizona, Coconino County</mods:geographic>
@@ -314,7 +314,7 @@
             <mods:dateCreated point="start">1931</mods:dateCreated>
             <mods:dateCreated point="end">1932</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="LCHS">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
@@ -322,7 +322,7 @@
             <mods:namePart type="family">Hall</mods:namePart>
             <mods:namePart type="given">E. Raymond</mods:namePart>
             <mods:namePart type="date">1902-1986</mods:namePart>
-            <mods:displayForm>Hall, E. Raymond (Eugene Raymond), 1902-1986</mods:displayForm>
+            <mods:displayForm>Hall, E. Raymond,  (Eugene Raymond), 1902-1986</mods:displayForm>
         </mods:name>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, California, Alameda County</mods:geographic>

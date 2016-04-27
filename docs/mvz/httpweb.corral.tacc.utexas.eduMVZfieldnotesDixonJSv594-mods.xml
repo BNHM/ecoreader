@@ -12,14 +12,14 @@
         <mods:dateCreated point="start">1918</mods:dateCreated>
         <mods:dateCreated point="end">1920</mods:dateCreated>
     </mods:originInfo>
-    <mods:name type="personal" authority="ingest">
+    <mods:name type="personal" authority="LCHS">
         <mods:role>
             <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
             <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
         </mods:role>
         <mods:namePart type="family">Dixon</mods:namePart>
         <mods:namePart type="given">Joseph S.</mods:namePart>
-        <mods:namePart type="date">1884-1985</mods:namePart>
+        <mods:namePart type="date">1884-1952</mods:namePart>
         <mods:displayForm>Dixon, Joseph S.,  (Joseph Scattergood), 1884-1952</mods:displayForm>
     </mods:name>
     <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/DixonJS/v594</mods:identifier>
@@ -36,14 +36,14 @@
             <mods:dateCreated point="start">1918</mods:dateCreated>
             <mods:dateCreated point="end">1920</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="LCHS">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
             </mods:role>
             <mods:namePart type="family">Dixon</mods:namePart>
             <mods:namePart type="given">Joseph S.</mods:namePart>
-            <mods:namePart type="date">1884-1985</mods:namePart>
+            <mods:namePart type="date">1884-1952</mods:namePart>
             <mods:displayForm>Dixon, Joseph S.,  (Joseph Scattergood), 1884-1952</mods:displayForm>
         </mods:name>
         <mods:physicalDescription>
@@ -64,14 +64,14 @@
             <mods:dateCreated point="start">1918</mods:dateCreated>
             <mods:dateCreated point="end">1919</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="LCHS">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
             </mods:role>
             <mods:namePart type="family">Dixon</mods:namePart>
             <mods:namePart type="given">Joseph S.</mods:namePart>
-            <mods:namePart type="date">1884-1985</mods:namePart>
+            <mods:namePart type="date">1884-1952</mods:namePart>
             <mods:displayForm>Dixon, Joseph S.,  (Joseph Scattergood), 1884-1952</mods:displayForm>
         </mods:name>
         <mods:subject authority="arctos">
@@ -95,14 +95,14 @@
             <mods:dateCreated point="start">1919</mods:dateCreated>
             <mods:dateCreated point="end">1919</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="LCHS">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
             </mods:role>
             <mods:namePart type="family">Dixon</mods:namePart>
             <mods:namePart type="given">Joseph S.</mods:namePart>
-            <mods:namePart type="date">1884-1985</mods:namePart>
+            <mods:namePart type="date">1884-1952</mods:namePart>
             <mods:displayForm>Dixon, Joseph S.,  (Joseph Scattergood), 1884-1952</mods:displayForm>
         </mods:name>
         <mods:subject authority="arctos">
@@ -126,14 +126,14 @@
             <mods:dateCreated point="start">1919</mods:dateCreated>
             <mods:dateCreated point="end">1919</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="LCHS">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
             </mods:role>
             <mods:namePart type="family">Dixon</mods:namePart>
             <mods:namePart type="given">Joseph S.</mods:namePart>
-            <mods:namePart type="date">1884-1985</mods:namePart>
+            <mods:namePart type="date">1884-1952</mods:namePart>
             <mods:displayForm>Dixon, Joseph S.,  (Joseph Scattergood), 1884-1952</mods:displayForm>
         </mods:name>
         <mods:subject authority="arctos">
@@ -163,14 +163,14 @@
             <mods:dateCreated point="start">1919</mods:dateCreated>
             <mods:dateCreated point="end">1919</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="LCHS">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
             </mods:role>
             <mods:namePart type="family">Dixon</mods:namePart>
             <mods:namePart type="given">Joseph S.</mods:namePart>
-            <mods:namePart type="date">1884-1985</mods:namePart>
+            <mods:namePart type="date">1884-1952</mods:namePart>
             <mods:displayForm>Dixon, Joseph S.,  (Joseph Scattergood), 1884-1952</mods:displayForm>
         </mods:name>
         <mods:subject authority="arctos">
@@ -194,14 +194,14 @@
             <mods:dateCreated point="start">1919</mods:dateCreated>
             <mods:dateCreated point="end">1920</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="LCHS">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
             </mods:role>
             <mods:namePart type="family">Dixon</mods:namePart>
             <mods:namePart type="given">Joseph S.</mods:namePart>
-            <mods:namePart type="date">1884-1985</mods:namePart>
+            <mods:namePart type="date">1884-1952</mods:namePart>
             <mods:displayForm>Dixon, Joseph S.,  (Joseph Scattergood), 1884-1952</mods:displayForm>
         </mods:name>
         <mods:subject authority="arctos">
@@ -240,14 +240,14 @@
             <mods:dateCreated point="start">1919</mods:dateCreated>
             <mods:dateCreated point="end">1919</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="LCHS">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
             </mods:role>
             <mods:namePart type="family">Dixon</mods:namePart>
             <mods:namePart type="given">Joseph S.</mods:namePart>
-            <mods:namePart type="date">1884-1985</mods:namePart>
+            <mods:namePart type="date">1884-1952</mods:namePart>
             <mods:displayForm>Dixon, Joseph S.,  (Joseph Scattergood), 1884-1952</mods:displayForm>
         </mods:name>
         <mods:subject authority="arctos">

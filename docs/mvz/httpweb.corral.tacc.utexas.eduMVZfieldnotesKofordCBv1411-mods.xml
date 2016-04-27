@@ -12,14 +12,14 @@
         <mods:dateCreated point="start">1963</mods:dateCreated>
         <mods:dateCreated point="end">1979</mods:dateCreated>
     </mods:originInfo>
-    <mods:name type="personal" authority="ingest">
+    <mods:name type="personal" authority="LCHS">
         <mods:role>
             <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
             <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
         </mods:role>
         <mods:namePart type="family">Koford</mods:namePart>
         <mods:namePart type="given">Carl B.</mods:namePart>
-        <mods:displayForm>Koford, Carl B., 1915-1979</mods:displayForm>
+        <mods:displayForm>Koford, Carl B.</mods:displayForm>
     </mods:name>
     <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/KofordCB/v1411</mods:identifier>
     <mods:relatedItem type="constituent">
@@ -35,14 +35,14 @@
             <mods:dateCreated point="start">1971</mods:dateCreated>
             <mods:dateCreated point="end">1972</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="LCHS">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
             </mods:role>
             <mods:namePart type="family">Koford</mods:namePart>
             <mods:namePart type="given">Carl B.</mods:namePart>
-            <mods:displayForm>Koford, Carl B., 1915-1979</mods:displayForm>
+            <mods:displayForm>Koford, Carl B.</mods:displayForm>
         </mods:name>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/KofordCB/v1411_s1</mods:identifier>
     </mods:relatedItem>
@@ -59,14 +59,14 @@
             <mods:dateCreated point="start">1963</mods:dateCreated>
             <mods:dateCreated point="end">1975</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="LCHS">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
             </mods:role>
             <mods:namePart type="family">Koford</mods:namePart>
             <mods:namePart type="given">Carl B.</mods:namePart>
-            <mods:displayForm>Koford, Carl B., 1915-1979</mods:displayForm>
+            <mods:displayForm>Koford, Carl B.</mods:displayForm>
         </mods:name>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/KofordCB/v1411_s2</mods:identifier>
     </mods:relatedItem>
@@ -83,14 +83,14 @@
             <mods:dateCreated point="start">1973</mods:dateCreated>
             <mods:dateCreated point="end">1973</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="LCHS">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
             </mods:role>
             <mods:namePart type="family">Koford</mods:namePart>
             <mods:namePart type="given">Carl B.</mods:namePart>
-            <mods:displayForm>Koford, Carl B., 1915-1979</mods:displayForm>
+            <mods:displayForm>Koford, Carl B.</mods:displayForm>
         </mods:name>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/KofordCB/v1411_s3</mods:identifier>
     </mods:relatedItem>
@@ -107,14 +107,14 @@
             <mods:dateCreated point="start">1977</mods:dateCreated>
             <mods:dateCreated point="end">1977</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="LCHS">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
             </mods:role>
             <mods:namePart type="family">Koford</mods:namePart>
             <mods:namePart type="given">Carl B.</mods:namePart>
-            <mods:displayForm>Koford, Carl B., 1915-1979</mods:displayForm>
+            <mods:displayForm>Koford, Carl B.</mods:displayForm>
         </mods:name>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/KofordCB/v1411_s4</mods:identifier>
     </mods:relatedItem>
@@ -131,14 +131,14 @@
             <mods:dateCreated point="start">1978</mods:dateCreated>
             <mods:dateCreated point="end">1978</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="LCHS">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
             </mods:role>
             <mods:namePart type="family">Koford</mods:namePart>
             <mods:namePart type="given">Carl B.</mods:namePart>
-            <mods:displayForm>Koford, Carl B., 1915-1979</mods:displayForm>
+            <mods:displayForm>Koford, Carl B.</mods:displayForm>
         </mods:name>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/KofordCB/v1411_s5</mods:identifier>
     </mods:relatedItem>
@@ -155,14 +155,14 @@
             <mods:dateCreated point="start">1978</mods:dateCreated>
             <mods:dateCreated point="end">1978</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="LCHS">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
             </mods:role>
             <mods:namePart type="family">Koford</mods:namePart>
             <mods:namePart type="given">Carl B.</mods:namePart>
-            <mods:displayForm>Koford, Carl B., 1915-1979</mods:displayForm>
+            <mods:displayForm>Koford, Carl B.</mods:displayForm>
         </mods:name>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/KofordCB/v1411_s6</mods:identifier>
     </mods:relatedItem>
@@ -179,14 +179,14 @@
             <mods:dateCreated point="start">1978</mods:dateCreated>
             <mods:dateCreated point="end">1979</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="LCHS">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
             </mods:role>
             <mods:namePart type="family">Koford</mods:namePart>
             <mods:namePart type="given">Carl B.</mods:namePart>
-            <mods:displayForm>Koford, Carl B., 1915-1979</mods:displayForm>
+            <mods:displayForm>Koford, Carl B.</mods:displayForm>
         </mods:name>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/KofordCB/v1411_s7</mods:identifier>
     </mods:relatedItem>

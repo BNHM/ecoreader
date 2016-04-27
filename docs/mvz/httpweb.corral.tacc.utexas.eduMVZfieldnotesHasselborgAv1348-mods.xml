@@ -12,14 +12,14 @@
         <mods:dateCreated point="start">1908</mods:dateCreated>
         <mods:dateCreated point="end">1931</mods:dateCreated>
     </mods:originInfo>
-    <mods:name type="personal" authority="ingest">
+    <mods:name type="personal" authority="LCHS">
         <mods:role>
             <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
             <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
         </mods:role>
         <mods:namePart type="family">Hasselborg</mods:namePart>
         <mods:namePart type="given">Allen E.</mods:namePart>
-        <mods:namePart type="date">1876-1986</mods:namePart>
+        <mods:namePart type="date">1876-1956</mods:namePart>
         <mods:displayForm>Hasselborg, Allen E., 1876-1956</mods:displayForm>
     </mods:name>
     <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/HasselborgA/v1348</mods:identifier>
@@ -36,14 +36,14 @@
             <mods:dateCreated point="start">1908</mods:dateCreated>
             <mods:dateCreated point="end">1908</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="LCHS">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
             </mods:role>
             <mods:namePart type="family">Hasselborg</mods:namePart>
             <mods:namePart type="given">Allen E.</mods:namePart>
-            <mods:namePart type="date">1876-1986</mods:namePart>
+            <mods:namePart type="date">1876-1956</mods:namePart>
             <mods:displayForm>Hasselborg, Allen E., 1876-1956</mods:displayForm>
         </mods:name>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/HasselborgA/v1348_s1</mods:identifier>
@@ -61,14 +61,14 @@
             <mods:dateCreated point="start">1909</mods:dateCreated>
             <mods:dateCreated point="end">1909</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="LCHS">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
             </mods:role>
             <mods:namePart type="family">Hasselborg</mods:namePart>
             <mods:namePart type="given">Allen E.</mods:namePart>
-            <mods:namePart type="date">1876-1986</mods:namePart>
+            <mods:namePart type="date">1876-1956</mods:namePart>
             <mods:displayForm>Hasselborg, Allen E., 1876-1956</mods:displayForm>
         </mods:name>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/HasselborgA/v1348_s2</mods:identifier>
@@ -111,12 +111,12 @@
             <mods:dateCreated point="start">1908</mods:dateCreated>
             <mods:dateCreated point="end">1908</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="LCHS">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
             </mods:role>
-            <mods:namePart type="family">Holden</mods:namePart>
+            <mods:namePart type="family">Heller</mods:namePart>
             <mods:namePart type="given">Edmund</mods:namePart>
             <mods:namePart type="date">1875-1939</mods:namePart>
             <mods:displayForm>Heller, Edmund, 1875-1939</mods:displayForm>

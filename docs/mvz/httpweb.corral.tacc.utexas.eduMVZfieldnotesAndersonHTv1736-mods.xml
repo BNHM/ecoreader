@@ -107,13 +107,14 @@
             <mods:dateCreated point="start">1932</mods:dateCreated>
             <mods:dateCreated point="end">1932</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="LCHS">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
             </mods:role>
             <mods:namePart type="family">Boyers</mods:namePart>
-            <mods:namePart type="given">Luther M.</mods:namePart>
+            <mods:namePart type="given">Luther M. </mods:namePart>
+            <mods:namePart type="date">1888-</mods:namePart>
             <mods:displayForm>Boyers, Luther M. ,  (Luther Mussen), 1888-</mods:displayForm>
         </mods:name>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/AndersonHT/v1736_s3</mods:identifier>
@@ -131,13 +132,14 @@
             <mods:dateCreated point="start">1932</mods:dateCreated>
             <mods:dateCreated point="end">1932</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="LCHS">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
             </mods:role>
             <mods:namePart type="family">Fitch</mods:namePart>
             <mods:namePart type="given">Henry S.</mods:namePart>
+            <mods:namePart type="date">1909-2009</mods:namePart>
             <mods:displayForm>Fitch, Henry S.,  (Henry Sheldon), 1909-2009</mods:displayForm>
         </mods:name>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/AndersonHT/v1736_s4</mods:identifier>
