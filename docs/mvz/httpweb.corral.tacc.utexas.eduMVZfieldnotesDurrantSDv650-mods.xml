@@ -36,15 +36,15 @@
             <mods:dateCreated point="start">1933</mods:dateCreated>
             <mods:dateCreated point="end">1933</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="LCHS">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
             </mods:role>
             <mods:namePart type="family">Durrant</mods:namePart>
             <mods:namePart type="given">Stephen David</mods:namePart>
-            <mods:namePart type="date">1902-1976</mods:namePart>
-            <mods:displayForm>Durrant, Stephen David, 1902-1976</mods:displayForm>
+            <mods:namePart type="date">1902-1975</mods:namePart>
+            <mods:displayForm>Durrant, Stephen David, 1902-1975</mods:displayForm>
         </mods:name>
         <mods:physicalDescription>
             <mods:extent>90 pages</mods:extent>

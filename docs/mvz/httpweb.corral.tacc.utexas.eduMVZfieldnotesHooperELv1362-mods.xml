@@ -12,15 +12,15 @@
         <mods:dateCreated point="start">1934</mods:dateCreated>
         <mods:dateCreated point="end">1938</mods:dateCreated>
     </mods:originInfo>
-    <mods:name type="personal" authority="ingest">
+    <mods:name type="personal" authority="LCHS">
         <mods:role>
             <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
             <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
         </mods:role>
         <mods:namePart type="family">Hooper</mods:namePart>
         <mods:namePart type="given">Emmet Thurman</mods:namePart>
-        <mods:namePart type="date">1911-</mods:namePart>
-        <mods:displayForm>Hooper, Emmet Thurman, 1911-</mods:displayForm>
+        <mods:namePart type="date">1911- </mods:namePart>
+        <mods:displayForm>Hooper, Emmet Thurman, 1911- </mods:displayForm>
     </mods:name>
     <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/HooperEL/v1362</mods:identifier>
     <mods:relatedItem type="constituent">
@@ -36,15 +36,15 @@
             <mods:dateCreated point="start">1934</mods:dateCreated>
             <mods:dateCreated point="end">1938</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="LCHS">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
             </mods:role>
             <mods:namePart type="family">Hooper</mods:namePart>
             <mods:namePart type="given">Emmet Thurman</mods:namePart>
-            <mods:namePart type="date">1911-</mods:namePart>
-            <mods:displayForm>Hooper, Emmet Thurman, 1911-</mods:displayForm>
+            <mods:namePart type="date">1911- </mods:namePart>
+            <mods:displayForm>Hooper, Emmet Thurman, 1911- </mods:displayForm>
         </mods:name>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/HooperEL/v1362_s0</mods:identifier>
     </mods:relatedItem>
@@ -61,15 +61,15 @@
             <mods:dateCreated point="start">1934</mods:dateCreated>
             <mods:dateCreated point="end">1936</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="LCHS">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
             </mods:role>
             <mods:namePart type="family">Hooper</mods:namePart>
             <mods:namePart type="given">Emmet Thurman</mods:namePart>
-            <mods:namePart type="date">1911-</mods:namePart>
-            <mods:displayForm>Hooper, Emmet Thurman, 1911-</mods:displayForm>
+            <mods:namePart type="date">1911- </mods:namePart>
+            <mods:displayForm>Hooper, Emmet Thurman, 1911- </mods:displayForm>
         </mods:name>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/HooperEL/v1362_s1</mods:identifier>
     </mods:relatedItem>
@@ -86,15 +86,15 @@
             <mods:dateCreated point="start">1936</mods:dateCreated>
             <mods:dateCreated point="end">1936</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="LCHS">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
             </mods:role>
             <mods:namePart type="family">Hooper</mods:namePart>
             <mods:namePart type="given">Emmet Thurman</mods:namePart>
-            <mods:namePart type="date">1911-</mods:namePart>
-            <mods:displayForm>Hooper, Emmet Thurman, 1911-</mods:displayForm>
+            <mods:namePart type="date">1911- </mods:namePart>
+            <mods:displayForm>Hooper, Emmet Thurman, 1911- </mods:displayForm>
         </mods:name>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/HooperEL/v1362_s2</mods:identifier>
     </mods:relatedItem>
@@ -111,15 +111,15 @@
             <mods:dateCreated point="start">1936</mods:dateCreated>
             <mods:dateCreated point="end">1938</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="LCHS">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
             </mods:role>
             <mods:namePart type="family">Hooper</mods:namePart>
             <mods:namePart type="given">Emmet Thurman</mods:namePart>
-            <mods:namePart type="date">1911-</mods:namePart>
-            <mods:displayForm>Hooper, Emmet Thurman, 1911-</mods:displayForm>
+            <mods:namePart type="date">1911- </mods:namePart>
+            <mods:displayForm>Hooper, Emmet Thurman, 1911- </mods:displayForm>
         </mods:name>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/HooperEL/v1362_s3</mods:identifier>
     </mods:relatedItem>

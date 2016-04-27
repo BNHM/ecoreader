@@ -12,14 +12,15 @@
         <mods:dateCreated point="start">1956</mods:dateCreated>
         <mods:dateCreated point="end">1960</mods:dateCreated>
     </mods:originInfo>
-    <mods:name type="personal" authority="ingest">
+    <mods:name type="personal" authority="local">
         <mods:role>
             <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
             <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
         </mods:role>
-        <mods:namePart type="family">Tevis</mods:namePart>
-        <mods:namePart type="given">Lloyd P.</mods:namePart>
-        <mods:namePart type="date">1916-2002</mods:namePart>
+        <mods:namePart type="family">Thaeler</mods:namePart>
+        <mods:namePart type="given">Charles</mods:namePart>
+        <mods:namePart type="termsOfAddress">Jr.</mods:namePart>
+        <mods:namePart type="date">1932-2004</mods:namePart>
         <mods:displayForm>Thaeler, Charles, Jr., 1932-2004</mods:displayForm>
     </mods:name>
     <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/ThaelerJrC/v1703</mods:identifier>
@@ -36,14 +37,15 @@
             <mods:dateCreated point="start">1956</mods:dateCreated>
             <mods:dateCreated point="end">1956</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="local">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
             </mods:role>
-            <mods:namePart type="family">Tevis</mods:namePart>
-            <mods:namePart type="given">Lloyd P.</mods:namePart>
-            <mods:namePart type="date">1916-2002</mods:namePart>
+            <mods:namePart type="family">Thaeler</mods:namePart>
+            <mods:namePart type="given">Charles</mods:namePart>
+            <mods:namePart type="termsOfAddress">Jr.</mods:namePart>
+            <mods:namePart type="date">1932-2004</mods:namePart>
             <mods:displayForm>Thaeler, Charles, Jr., 1932-2004</mods:displayForm>
         </mods:name>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/ThaelerJrC/v1703_s1</mods:identifier>
@@ -61,14 +63,15 @@
             <mods:dateCreated point="start">1957</mods:dateCreated>
             <mods:dateCreated point="end">1957</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="local">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
             </mods:role>
-            <mods:namePart type="family">Tevis</mods:namePart>
-            <mods:namePart type="given">Lloyd P.</mods:namePart>
-            <mods:namePart type="date">1916-2002</mods:namePart>
+            <mods:namePart type="family">Thaeler</mods:namePart>
+            <mods:namePart type="given">Charles</mods:namePart>
+            <mods:namePart type="termsOfAddress">Jr.</mods:namePart>
+            <mods:namePart type="date">1932-2004</mods:namePart>
             <mods:displayForm>Thaeler, Charles, Jr., 1932-2004</mods:displayForm>
         </mods:name>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/ThaelerJrC/v1703_s2</mods:identifier>
@@ -86,14 +89,15 @@
             <mods:dateCreated point="start">1958</mods:dateCreated>
             <mods:dateCreated point="end">1958</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="local">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
             </mods:role>
-            <mods:namePart type="family">Tevis</mods:namePart>
-            <mods:namePart type="given">Lloyd P.</mods:namePart>
-            <mods:namePart type="date">1916-2002</mods:namePart>
+            <mods:namePart type="family">Thaeler</mods:namePart>
+            <mods:namePart type="given">Charles</mods:namePart>
+            <mods:namePart type="termsOfAddress">Jr.</mods:namePart>
+            <mods:namePart type="date">1932-2004</mods:namePart>
             <mods:displayForm>Thaeler, Charles, Jr., 1932-2004</mods:displayForm>
         </mods:name>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/ThaelerJrC/v1703_s3</mods:identifier>
@@ -111,14 +115,15 @@
             <mods:dateCreated point="start">1958</mods:dateCreated>
             <mods:dateCreated point="end">1958</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="local">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
             </mods:role>
-            <mods:namePart type="family">Tevis</mods:namePart>
-            <mods:namePart type="given">Lloyd P.</mods:namePart>
-            <mods:namePart type="date">1916-2002</mods:namePart>
+            <mods:namePart type="family">Thaeler</mods:namePart>
+            <mods:namePart type="given">Charles</mods:namePart>
+            <mods:namePart type="termsOfAddress">Jr.</mods:namePart>
+            <mods:namePart type="date">1932-2004</mods:namePart>
             <mods:displayForm>Thaeler, Charles, Jr., 1932-2004</mods:displayForm>
         </mods:name>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/ThaelerJrC/v1703_s4</mods:identifier>
@@ -136,14 +141,15 @@
             <mods:dateCreated point="start">1958</mods:dateCreated>
             <mods:dateCreated point="end">1958</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="local">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
             </mods:role>
-            <mods:namePart type="family">Tevis</mods:namePart>
-            <mods:namePart type="given">Lloyd P.</mods:namePart>
-            <mods:namePart type="date">1916-2002</mods:namePart>
+            <mods:namePart type="family">Thaeler</mods:namePart>
+            <mods:namePart type="given">Charles</mods:namePart>
+            <mods:namePart type="termsOfAddress">Jr.</mods:namePart>
+            <mods:namePart type="date">1932-2004</mods:namePart>
             <mods:displayForm>Thaeler, Charles, Jr., 1932-2004</mods:displayForm>
         </mods:name>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/ThaelerJrC/v1703_s5</mods:identifier>
@@ -161,14 +167,15 @@
             <mods:dateCreated point="start">1959</mods:dateCreated>
             <mods:dateCreated point="end">1959</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="local">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
             </mods:role>
-            <mods:namePart type="family">Tevis</mods:namePart>
-            <mods:namePart type="given">Lloyd P.</mods:namePart>
-            <mods:namePart type="date">1916-2002</mods:namePart>
+            <mods:namePart type="family">Thaeler</mods:namePart>
+            <mods:namePart type="given">Charles</mods:namePart>
+            <mods:namePart type="termsOfAddress">Jr.</mods:namePart>
+            <mods:namePart type="date">1932-2004</mods:namePart>
             <mods:displayForm>Thaeler, Charles, Jr., 1932-2004</mods:displayForm>
         </mods:name>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/ThaelerJrC/v1703_s6</mods:identifier>
@@ -186,14 +193,15 @@
             <mods:dateCreated point="start">1960</mods:dateCreated>
             <mods:dateCreated point="end">1960</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="local">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
             </mods:role>
-            <mods:namePart type="family">Tevis</mods:namePart>
-            <mods:namePart type="given">Lloyd P.</mods:namePart>
-            <mods:namePart type="date">1916-2002</mods:namePart>
+            <mods:namePart type="family">Thaeler</mods:namePart>
+            <mods:namePart type="given">Charles</mods:namePart>
+            <mods:namePart type="termsOfAddress">Jr.</mods:namePart>
+            <mods:namePart type="date">1932-2004</mods:namePart>
             <mods:displayForm>Thaeler, Charles, Jr., 1932-2004</mods:displayForm>
         </mods:name>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/ThaelerJrC/v1703_s7</mods:identifier>
@@ -211,14 +219,15 @@
             <mods:dateCreated point="start">1960</mods:dateCreated>
             <mods:dateCreated point="end">1960</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="local">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
             </mods:role>
-            <mods:namePart type="family">Tevis</mods:namePart>
-            <mods:namePart type="given">Lloyd P.</mods:namePart>
-            <mods:namePart type="date">1916-2002</mods:namePart>
+            <mods:namePart type="family">Thaeler</mods:namePart>
+            <mods:namePart type="given">Charles</mods:namePart>
+            <mods:namePart type="termsOfAddress">Jr.</mods:namePart>
+            <mods:namePart type="date">1932-2004</mods:namePart>
             <mods:displayForm>Thaeler, Charles, Jr., 1932-2004</mods:displayForm>
         </mods:name>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/ThaelerJrC/v1703_s8</mods:identifier>
@@ -236,14 +245,15 @@
             <mods:dateCreated point="start">1960</mods:dateCreated>
             <mods:dateCreated point="end">1960</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="local">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
             </mods:role>
-            <mods:namePart type="family">Tevis</mods:namePart>
-            <mods:namePart type="given">Lloyd P.</mods:namePart>
-            <mods:namePart type="date">1916-2002</mods:namePart>
+            <mods:namePart type="family">Thaeler</mods:namePart>
+            <mods:namePart type="given">Charles</mods:namePart>
+            <mods:namePart type="termsOfAddress">Jr.</mods:namePart>
+            <mods:namePart type="date">1932-2004</mods:namePart>
             <mods:displayForm>Thaeler, Charles, Jr., 1932-2004</mods:displayForm>
         </mods:name>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/ThaelerJrC/v1703_s9</mods:identifier>

@@ -12,15 +12,15 @@
         <mods:dateCreated point="start">1912</mods:dateCreated>
         <mods:dateCreated point="end">1913</mods:dateCreated>
     </mods:originInfo>
-    <mods:name type="personal" authority="ingest">
+    <mods:name type="personal" authority="LCHS">
         <mods:role>
             <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
             <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
         </mods:role>
         <mods:namePart type="family">Taylor</mods:namePart>
         <mods:namePart type="given">Walter P.</mods:namePart>
-        <mods:namePart type="date">1888-1972</mods:namePart>
-        <mods:displayForm>Taylor, Walter P.,  (Walter Penn), 1888-1972</mods:displayForm>
+        <mods:namePart type="date">1888-1972 </mods:namePart>
+        <mods:displayForm>Taylor, Walter P.,  (Walter Penn), 1888-1972 </mods:displayForm>
     </mods:name>
     <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/TaylorWP/v1695</mods:identifier>
     <mods:relatedItem type="constituent">
@@ -36,15 +36,15 @@
             <mods:dateCreated point="start">1912</mods:dateCreated>
             <mods:dateCreated point="end">1913</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="LCHS">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
             </mods:role>
             <mods:namePart type="family">Taylor</mods:namePart>
             <mods:namePart type="given">Walter P.</mods:namePart>
-            <mods:namePart type="date">1888-1972</mods:namePart>
-            <mods:displayForm>Taylor, Walter P.,  (Walter Penn), 1888-1972</mods:displayForm>
+            <mods:namePart type="date">1888-1972 </mods:namePart>
+            <mods:displayForm>Taylor, Walter P.,  (Walter Penn), 1888-1972 </mods:displayForm>
         </mods:name>
         <mods:physicalDescription>
             <mods:extent>1 pages</mods:extent>
@@ -64,15 +64,15 @@
             <mods:dateCreated point="start">1912</mods:dateCreated>
             <mods:dateCreated point="end">1912</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="LCHS">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
             </mods:role>
             <mods:namePart type="family">Taylor</mods:namePart>
             <mods:namePart type="given">Walter P.</mods:namePart>
-            <mods:namePart type="date">1888-1972</mods:namePart>
-            <mods:displayForm>Taylor, Walter P.,  (Walter Penn), 1888-1972</mods:displayForm>
+            <mods:namePart type="date">1888-1972 </mods:namePart>
+            <mods:displayForm>Taylor, Walter P.,  (Walter Penn), 1888-1972 </mods:displayForm>
         </mods:name>
         <mods:physicalDescription>
             <mods:extent>190 pages</mods:extent>
@@ -92,15 +92,15 @@
             <mods:dateCreated point="start">1912</mods:dateCreated>
             <mods:dateCreated point="end">1913</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="LCHS">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
             </mods:role>
             <mods:namePart type="family">Taylor</mods:namePart>
             <mods:namePart type="given">Walter P.</mods:namePart>
-            <mods:namePart type="date">1888-1972</mods:namePart>
-            <mods:displayForm>Taylor, Walter P.,  (Walter Penn), 1888-1972</mods:displayForm>
+            <mods:namePart type="date">1888-1972 </mods:namePart>
+            <mods:displayForm>Taylor, Walter P.,  (Walter Penn), 1888-1972 </mods:displayForm>
         </mods:name>
         <mods:physicalDescription>
             <mods:extent>19 pages</mods:extent>

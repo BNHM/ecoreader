@@ -12,14 +12,13 @@
         <mods:dateCreated point="start">1947</mods:dateCreated>
         <mods:dateCreated point="end">1948</mods:dateCreated>
     </mods:originInfo>
-    <mods:name type="personal" authority="ingest">
+    <mods:name type="personal" authority="local">
         <mods:role>
             <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
             <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
         </mods:role>
         <mods:namePart type="family">Larson</mods:namePart>
         <mods:namePart type="given">Tom J.</mods:namePart>
-        <mods:namePart type="date">1924-</mods:namePart>
         <mods:displayForm>Larson, Tom J.</mods:displayForm>
     </mods:name>
     <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/LarsonT/v1430</mods:identifier>
@@ -36,14 +35,13 @@
             <mods:dateCreated point="start">1947</mods:dateCreated>
             <mods:dateCreated point="end">1948</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="local">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
             </mods:role>
             <mods:namePart type="family">Larson</mods:namePart>
             <mods:namePart type="given">Tom J.</mods:namePart>
-            <mods:namePart type="date">1924-</mods:namePart>
             <mods:displayForm>Larson, Tom J.</mods:displayForm>
         </mods:name>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/LarsonT/v1430_s1</mods:identifier>

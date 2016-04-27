@@ -12,7 +12,7 @@
         <mods:dateCreated point="start">1946</mods:dateCreated>
         <mods:dateCreated point="end">1949</mods:dateCreated>
     </mods:originInfo>
-    <mods:name type="personal" authority="ingest">
+    <mods:name type="personal" authority="LCHS">
         <mods:role>
             <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
             <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
@@ -20,7 +20,7 @@
         <mods:namePart type="family">Miller</mods:namePart>
         <mods:namePart type="given">Alden H.</mods:namePart>
         <mods:namePart type="date">1906-1965</mods:namePart>
-        <mods:displayForm>Miller, Alden H. (Alden Holmes), 1906-1965</mods:displayForm>
+        <mods:displayForm>Miller, Alden H.,  (Alden Holmes), 1906-1965</mods:displayForm>
     </mods:name>
     <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/MillerAH/v1489</mods:identifier>
     <mods:relatedItem type="constituent">
@@ -36,7 +36,7 @@
             <mods:dateCreated point="start">1946</mods:dateCreated>
             <mods:dateCreated point="end">1947</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="LCHS">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
@@ -44,7 +44,7 @@
             <mods:namePart type="family">Miller</mods:namePart>
             <mods:namePart type="given">Alden H.</mods:namePart>
             <mods:namePart type="date">1906-1965</mods:namePart>
-            <mods:displayForm>Miller, Alden H. (Alden Holmes), 1906-1965</mods:displayForm>
+            <mods:displayForm>Miller, Alden H.,  (Alden Holmes), 1906-1965</mods:displayForm>
         </mods:name>
         <mods:physicalDescription>
             <mods:extent>11 pages</mods:extent>
@@ -64,7 +64,7 @@
             <mods:dateCreated point="start">1947</mods:dateCreated>
             <mods:dateCreated point="end">1947</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="LCHS">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
@@ -72,7 +72,7 @@
             <mods:namePart type="family">Miller</mods:namePart>
             <mods:namePart type="given">Alden H.</mods:namePart>
             <mods:namePart type="date">1906-1965</mods:namePart>
-            <mods:displayForm>Miller, Alden H. (Alden Holmes), 1906-1965</mods:displayForm>
+            <mods:displayForm>Miller, Alden H.,  (Alden Holmes), 1906-1965</mods:displayForm>
         </mods:name>
         <mods:physicalDescription>
             <mods:extent>2 pages</mods:extent>
@@ -92,7 +92,7 @@
             <mods:dateCreated point="start">1947</mods:dateCreated>
             <mods:dateCreated point="end">1947</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="LCHS">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
@@ -100,7 +100,7 @@
             <mods:namePart type="family">Miller</mods:namePart>
             <mods:namePart type="given">Alden H.</mods:namePart>
             <mods:namePart type="date">1906-1965</mods:namePart>
-            <mods:displayForm>Miller, Alden H. (Alden Holmes), 1906-1965</mods:displayForm>
+            <mods:displayForm>Miller, Alden H.,  (Alden Holmes), 1906-1965</mods:displayForm>
         </mods:name>
         <mods:physicalDescription>
             <mods:extent>3 pages</mods:extent>
@@ -120,7 +120,7 @@
             <mods:dateCreated point="start">1947</mods:dateCreated>
             <mods:dateCreated point="end">1947</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="LCHS">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
@@ -128,7 +128,7 @@
             <mods:namePart type="family">Miller</mods:namePart>
             <mods:namePart type="given">Alden H.</mods:namePart>
             <mods:namePart type="date">1906-1965</mods:namePart>
-            <mods:displayForm>Miller, Alden H. (Alden Holmes), 1906-1965</mods:displayForm>
+            <mods:displayForm>Miller, Alden H.,  (Alden Holmes), 1906-1965</mods:displayForm>
         </mods:name>
         <mods:physicalDescription>
             <mods:extent>8 pages</mods:extent>
@@ -148,7 +148,7 @@
             <mods:dateCreated point="start">1947</mods:dateCreated>
             <mods:dateCreated point="end">1947</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="LCHS">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
@@ -156,7 +156,7 @@
             <mods:namePart type="family">Miller</mods:namePart>
             <mods:namePart type="given">Alden H.</mods:namePart>
             <mods:namePart type="date">1906-1965</mods:namePart>
-            <mods:displayForm>Miller, Alden H. (Alden Holmes), 1906-1965</mods:displayForm>
+            <mods:displayForm>Miller, Alden H.,  (Alden Holmes), 1906-1965</mods:displayForm>
         </mods:name>
         <mods:physicalDescription>
             <mods:extent>22 pages</mods:extent>
@@ -176,7 +176,7 @@
             <mods:dateCreated point="start">1946</mods:dateCreated>
             <mods:dateCreated point="end">1946</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="LCHS">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
@@ -184,7 +184,7 @@
             <mods:namePart type="family">Miller</mods:namePart>
             <mods:namePart type="given">Alden H.</mods:namePart>
             <mods:namePart type="date">1906-1965</mods:namePart>
-            <mods:displayForm>Miller, Alden H. (Alden Holmes), 1906-1965</mods:displayForm>
+            <mods:displayForm>Miller, Alden H.,  (Alden Holmes), 1906-1965</mods:displayForm>
         </mods:name>
         <mods:physicalDescription>
             <mods:extent>2 pages</mods:extent>
@@ -204,7 +204,7 @@
             <mods:dateCreated point="start">1947</mods:dateCreated>
             <mods:dateCreated point="end">1947</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="LCHS">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
@@ -212,7 +212,7 @@
             <mods:namePart type="family">Miller</mods:namePart>
             <mods:namePart type="given">Alden H.</mods:namePart>
             <mods:namePart type="date">1906-1965</mods:namePart>
-            <mods:displayForm>Miller, Alden H. (Alden Holmes), 1906-1965</mods:displayForm>
+            <mods:displayForm>Miller, Alden H.,  (Alden Holmes), 1906-1965</mods:displayForm>
         </mods:name>
         <mods:physicalDescription>
             <mods:extent>85 pages</mods:extent>
@@ -232,7 +232,7 @@
             <mods:dateCreated point="start">1947</mods:dateCreated>
             <mods:dateCreated point="end">1948</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="LCHS">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
@@ -240,7 +240,7 @@
             <mods:namePart type="family">Miller</mods:namePart>
             <mods:namePart type="given">Alden H.</mods:namePart>
             <mods:namePart type="date">1906-1965</mods:namePart>
-            <mods:displayForm>Miller, Alden H. (Alden Holmes), 1906-1965</mods:displayForm>
+            <mods:displayForm>Miller, Alden H.,  (Alden Holmes), 1906-1965</mods:displayForm>
         </mods:name>
         <mods:physicalDescription>
             <mods:extent>4 pages</mods:extent>
@@ -260,7 +260,7 @@
             <mods:dateCreated point="start">1948</mods:dateCreated>
             <mods:dateCreated point="end">1948</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="LCHS">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
@@ -268,7 +268,7 @@
             <mods:namePart type="family">Miller</mods:namePart>
             <mods:namePart type="given">Alden H.</mods:namePart>
             <mods:namePart type="date">1906-1965</mods:namePart>
-            <mods:displayForm>Miller, Alden H. (Alden Holmes), 1906-1965</mods:displayForm>
+            <mods:displayForm>Miller, Alden H.,  (Alden Holmes), 1906-1965</mods:displayForm>
         </mods:name>
         <mods:physicalDescription>
             <mods:extent>142 pages</mods:extent>
@@ -288,7 +288,7 @@
             <mods:dateCreated point="start">1948</mods:dateCreated>
             <mods:dateCreated point="end">1948</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="LCHS">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
@@ -296,7 +296,7 @@
             <mods:namePart type="family">Miller</mods:namePart>
             <mods:namePart type="given">Alden H.</mods:namePart>
             <mods:namePart type="date">1906-1965</mods:namePart>
-            <mods:displayForm>Miller, Alden H. (Alden Holmes), 1906-1965</mods:displayForm>
+            <mods:displayForm>Miller, Alden H.,  (Alden Holmes), 1906-1965</mods:displayForm>
         </mods:name>
         <mods:physicalDescription>
             <mods:extent>2 pages</mods:extent>
@@ -316,7 +316,7 @@
             <mods:dateCreated point="start">1949</mods:dateCreated>
             <mods:dateCreated point="end">1949</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="LCHS">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
@@ -324,7 +324,7 @@
             <mods:namePart type="family">Miller</mods:namePart>
             <mods:namePart type="given">Alden H.</mods:namePart>
             <mods:namePart type="date">1906-1965</mods:namePart>
-            <mods:displayForm>Miller, Alden H. (Alden Holmes), 1906-1965</mods:displayForm>
+            <mods:displayForm>Miller, Alden H.,  (Alden Holmes), 1906-1965</mods:displayForm>
         </mods:name>
         <mods:physicalDescription>
             <mods:extent>92 pages</mods:extent>

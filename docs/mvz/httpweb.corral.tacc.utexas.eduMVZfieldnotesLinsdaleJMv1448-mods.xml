@@ -12,7 +12,7 @@
         <mods:dateCreated point="start">1929</mods:dateCreated>
         <mods:dateCreated point="end">1929</mods:dateCreated>
     </mods:originInfo>
-    <mods:name type="personal" authority="ingest">
+    <mods:name type="personal" authority="LCHS">
         <mods:role>
             <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
             <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
@@ -20,7 +20,7 @@
         <mods:namePart type="family">Linsdale</mods:namePart>
         <mods:namePart type="given">Jean M.</mods:namePart>
         <mods:namePart type="date">1902-1969</mods:namePart>
-        <mods:displayForm>Linsdale, Jean M. (Jean Myron), 1902-1969</mods:displayForm>
+        <mods:displayForm>Linsdale, Jean M.,  (Jean Myron), 1902-1969</mods:displayForm>
     </mods:name>
     <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/LinsdaleJM/v1448</mods:identifier>
     <mods:relatedItem type="constituent">
@@ -36,7 +36,7 @@
             <mods:dateCreated point="start">1929</mods:dateCreated>
             <mods:dateCreated point="end">1929</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="LCHS">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
@@ -44,7 +44,7 @@
             <mods:namePart type="family">Linsdale</mods:namePart>
             <mods:namePart type="given">Jean M.</mods:namePart>
             <mods:namePart type="date">1902-1969</mods:namePart>
-            <mods:displayForm>Linsdale, Jean M. (Jean Myron), 1902-1969</mods:displayForm>
+            <mods:displayForm>Linsdale, Jean M.,  (Jean Myron), 1902-1969</mods:displayForm>
         </mods:name>
         <mods:physicalDescription>
             <mods:extent>2 pages</mods:extent>
@@ -64,7 +64,7 @@
             <mods:dateCreated point="start">1929</mods:dateCreated>
             <mods:dateCreated point="end">1929</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="LCHS">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
@@ -72,7 +72,7 @@
             <mods:namePart type="family">Linsdale</mods:namePart>
             <mods:namePart type="given">Jean M.</mods:namePart>
             <mods:namePart type="date">1902-1969</mods:namePart>
-            <mods:displayForm>Linsdale, Jean M. (Jean Myron), 1902-1969</mods:displayForm>
+            <mods:displayForm>Linsdale, Jean M.,  (Jean Myron), 1902-1969</mods:displayForm>
         </mods:name>
         <mods:physicalDescription>
             <mods:extent>12 pages</mods:extent>
@@ -92,7 +92,7 @@
             <mods:dateCreated point="start">1929</mods:dateCreated>
             <mods:dateCreated point="end">1929</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="LCHS">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
@@ -100,7 +100,7 @@
             <mods:namePart type="family">Linsdale</mods:namePart>
             <mods:namePart type="given">Jean M.</mods:namePart>
             <mods:namePart type="date">1902-1969</mods:namePart>
-            <mods:displayForm>Linsdale, Jean M. (Jean Myron), 1902-1969</mods:displayForm>
+            <mods:displayForm>Linsdale, Jean M.,  (Jean Myron), 1902-1969</mods:displayForm>
         </mods:name>
         <mods:physicalDescription>
             <mods:extent>8 pages</mods:extent>
@@ -120,7 +120,7 @@
             <mods:dateCreated point="start">1929</mods:dateCreated>
             <mods:dateCreated point="end">1929</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="LCHS">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
@@ -128,7 +128,7 @@
             <mods:namePart type="family">Linsdale</mods:namePart>
             <mods:namePart type="given">Jean M.</mods:namePart>
             <mods:namePart type="date">1902-1969</mods:namePart>
-            <mods:displayForm>Linsdale, Jean M. (Jean Myron), 1902-1969</mods:displayForm>
+            <mods:displayForm>Linsdale, Jean M.,  (Jean Myron), 1902-1969</mods:displayForm>
         </mods:name>
         <mods:physicalDescription>
             <mods:extent>18 pages</mods:extent>
@@ -148,7 +148,7 @@
             <mods:dateCreated point="start">1929</mods:dateCreated>
             <mods:dateCreated point="end">1929</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="LCHS">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
@@ -156,7 +156,7 @@
             <mods:namePart type="family">Linsdale</mods:namePart>
             <mods:namePart type="given">Jean M.</mods:namePart>
             <mods:namePart type="date">1902-1969</mods:namePart>
-            <mods:displayForm>Linsdale, Jean M. (Jean Myron), 1902-1969</mods:displayForm>
+            <mods:displayForm>Linsdale, Jean M.,  (Jean Myron), 1902-1969</mods:displayForm>
         </mods:name>
         <mods:physicalDescription>
             <mods:extent>162 pages</mods:extent>
