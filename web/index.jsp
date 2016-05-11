@@ -2,14 +2,14 @@
 
 	<div id="site_content">
 	    <div id="content">
-            <div class="container" id="query">
+            <div class="container"  style="width:960px" id="query">
 
                 <form role="form" class="form-horizontal" action=GET >
 
                 <!-- AUTHORS -->
                 <div class="form-group" id="author_row">
-                    <label class="col-sm-1 control-label" style="width:150px">Author Name</label>
-                    <div class="col-sm-3" id="author_combobox">
+                    <label class="col-sm-2 control-label" style="width:150px">Author Name</label>
+                    <div class="col-sm-4" id="author_combobox">
                         <select class="combobox form-control" width=20 id="authors" name="authors">
                              <option value=''>Loading authors ...</option>
                         </select>
@@ -26,23 +26,23 @@
                 <!-- DATES -->
                 <div class="form-group">
                     <label class="col-sm-1 control-label" style="width:150px">Year From</label>
-                    <div class="col-sm-1">
+                    <div class="col-sm-2">
                         <input type="text" class="form-control int_input"  name="begin_date" placeholder="1900">
                     </div>
                     <label class="col-sm-1 control-label">Year To</label>
-                    <div class="col-sm-1">
+                    <div class="col-sm-2">
                         <!-- <span id="and" style="display:inline-block;vertical-align:bottom;line-height:normal;">and</span>-->
                         <input type="text" class="form-control int_input" name="end_date" placeholder="2000">
                     </div>
                     <label for="volume_id" class="col-sm-1 control-label">Volume Id</label>
-                    <div class="col-sm-1">
+                    <div class="col-sm-2">
                         <input type="text" class="form-control int_input" width=20 name="volume_id" placeholder="500">
                      </div>
                 </div>
 
                 <!-- SECTION TITLE -->
                <div class="form-group" id="section_title">
-                    <label for="section_title" class="col-sm-1 control-label" style="width:150px">Section Title</label>
+                    <label for="section_title" class="col-sm-2 control-label" style="width:150px">Section Title</label>
                     <div class="col-sm-6">
                         <input type="text" class="form-control" name="section_title" width=40 placeholder="Inyo">
                     </div>
@@ -50,15 +50,15 @@
 
                 <!-- SUBMIT/RESET -->
                 <div class="form-group">
-                    <label class="col-sm-1" style="width:150px">&nbsp;</label>
-                    <div class="col-sm-1"><input type="button" value="Submit" class="btn btn-default btn-sm btn-block"></div>
-                    <div class="col-sm-1"><input type="button" value="Reset" class="btn btn-default btn-sm btn-block"></div>
+                    <label class="col-sm-2" style="width:150px">&nbsp;</label>
+                    <div class="col-sm-2"><input type="button" value="Submit" class="btn btn-default btn-sm btn-block"></div>
+                    <div class="col-sm-2"><input type="button" value="Reset" class="btn btn-default btn-sm btn-block"></div>
                 </div>
 
                </form>
             </div>
 
-        <div class="row" id="results"></div>
+        <div class="container" style="width:960px;" id="results"></div>
 
 
         </div><!--close content_container-->
