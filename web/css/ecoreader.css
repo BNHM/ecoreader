@@ -7,8 +7,12 @@ html
 
 body
 { font: normal 85% Arial, Helvetica, sans-serif;
+height:100vh;
   color: #000;
   background: #FFF url(../img/background.jpg) repeat;
+}
+body.modal-open {
+    overflow: hidden;
 }
 
 p
@@ -165,9 +169,11 @@ ul#menu li.current a, ul#menu li:hover a
 #site_content
 { width: 940px;
   overflow: hidden;
-  margin: 0 auto;
+  margin: 0 auto; 
+  min-height: 500px;
   padding: 0 0 20px 20px;
-  background: transparent url(../img/transparent_light.png) repeat;}
+  #background: transparent url(../img/transparent_light.png) repeat;
+}
 
 .sidebar_container
 { float: right;
@@ -204,7 +210,8 @@ ul#menu li.current a, ul#menu li:hover a
 /*THe HEIGHT is a hack here just to give enough room for the
 author drop-down box to show. We need to find some way to make this go all
 the way down to the footer*/
-  height:600px;
+  height:100%;
+  min-height:500px;
   /* also add a scrollbar here, which is a bit of hack, not sure if this
   is the best way to go about things */
   overflow-y: auto;
