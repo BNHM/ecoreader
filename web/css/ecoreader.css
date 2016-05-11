@@ -208,7 +208,7 @@ the way down to the footer*/
   /* also add a scrollbar here, which is a bit of hack, not sure if this
   is the best way to go about things */
   overflow-y: auto;
-  margin-bottom: 10px;
+  margin-bottom: 60px;
   float: left;}
 
 .content_item
@@ -253,7 +253,7 @@ the way down to the footer*/
 
 #footer a, #footer a:hover
 { text-decoration: none;
-  padding-bottom: 20px;}
+  padding-bottom: 0px;}
 
 #footer a:hover
 { text-decoration: underline;}

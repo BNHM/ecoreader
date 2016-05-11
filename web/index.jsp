@@ -1,68 +1,69 @@
 <%@ include file="header-home.jsp" %>
 
 	<div id="site_content">
-	  <div id="content">
-		<div class="content_item">
+	    <div id="content">
+            <div class="container" id="query">
 
-            <div id="validation" class="section">
-                <div class="row" id="query">
-                   <!-- <h1>Welcome to the EcoReader</h1>
-      	            <p>This portal provides access to digitized field notes from the Museum of Vertebrate Zoology Archives. Field notes that have not been scanned are also listed for reference. We will continue to add more volumes as they are cataloged. Please contact the Archives at mvzarchives@berkeley.edu.com for more information.</p>
-      	            -->
+                <form role="form" class="form-horizontal" action=GET >
 
-        <div class="form-horizontal my-form">
-          <div class="form-group form-group-sm" id="author_row">
-            <label for="author" class="control-label col-md-2" style="font-size: 14px">Author Name</label>
-            <div class="col-md-3" id="author_combobox">
-              <select class="combobox form-control" width=20 id="authors" name="authors">
-                        <option value=''>Loading authors ...</option>
-              </select>
+                <!-- AUTHORS -->
+                <div class="form-group" id="author_row">
+                    <label class="col-sm-1 control-label" style="width:150px">Author Name</label>
+                    <div class="col-sm-3" id="author_combobox">
+                        <select class="combobox form-control" width=20 id="authors" name="authors">
+                             <option value=''>Loading authors ...</option>
+                        </select>
+                    </div>
+                    <div class="col-sm-3">
+                        <div class="checkbox">
+                            <label>
+                                <input type="checkbox" name="scanned_only" value="true"> Scanned sections only
+                            </label>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- DATES -->
+                <div class="form-group">
+                    <label class="col-sm-1 control-label" style="width:150px">Year From</label>
+                    <div class="col-sm-1">
+                        <input type="text" class="form-control int_input"  name="begin_date" placeholder="1900">
+                    </div>
+                    <label class="col-sm-1 control-label">Year To</label>
+                    <div class="col-sm-1">
+                        <!-- <span id="and" style="display:inline-block;vertical-align:bottom;line-height:normal;">and</span>-->
+                        <input type="text" class="form-control int_input" name="end_date" placeholder="2000">
+                    </div>
+                    <label for="volume_id" class="col-sm-1 control-label">Volume Id</label>
+                    <div class="col-sm-1">
+                        <input type="text" class="form-control int_input" width=20 name="volume_id" placeholder="500">
+                     </div>
+                </div>
+
+                <!-- SECTION TITLE -->
+               <div class="form-group" id="section_title">
+                    <label for="section_title" class="col-sm-1 control-label" style="width:150px">Section Title</label>
+                    <div class="col-sm-6">
+                        <input type="text" class="form-control" name="section_title" width=40 placeholder="Inyo">
+                    </div>
+                </div>
+
+                <!-- SUBMIT/RESET -->
+                <div class="form-group">
+                    <label class="col-sm-1" style="width:150px">&nbsp;</label>
+                    <div class="col-sm-1"><input type="button" value="Submit" class="btn btn-default btn-sm btn-block"></div>
+                    <div class="col-sm-1"><input type="button" value="Reset" class="btn btn-default btn-sm btn-block"></div>
+                </div>
+
+               </form>
             </div>
-          <!--<div class="col-md-1" id="toggle_query">
-            <button class="btn btn-default btn-sm" type="button" onclick="toggleQuery();">+</button>
-          </div>-->
-          <div class="col-md-1"><input type="button" value="Submit" class="btn btn-default btn-sm btn-block"></div>
-          <div class="col-md-1"><input type="button" value="Reset" class="btn btn-default btn-sm btn-block"></div>
 
-          </div>
-        </div>
+        <div class="row" id="results"></div>
 
-        <form class="form-inline my-form" action=GET >
 
-        <div class="toggle-content" id="query_toggle">
-          <div class="form-group form-group-sm">
-            <label for="begin_date" class="control-label">Year Between</label>
-              <input type="text" class="form-control int_input" name="begin_date">
-              <span id="and" style="display:inline-block;vertical-align:bottom;line-height:normal;">and</span>
-              <input type="text" class="form-control int_input" name="end_date">
-          </div>
-          <div class="form-group form-group-sm" id="section_title">
-            <label for="section_title" class="control-label">Section Title</label>
-              <input type="text" class="form-control" name="section_title">
-          </div>
-          <div class="form-group form-group-sm">
-            <label for="volume_id" class="control-label">Volume Id</label>
-              <input type="text" class="form-control int_input" name="volume_id">
-          </div>
-          <div class="form-group form-group-sm">
-              <div class="checkbox">
-                <label>
-                  <input type="checkbox" name="scanned_only" value="true"> Scanned sections only
-                </label>
-              </div>
-          </div>
-          </div>
-        </form>
-    </div>
-
-        <div class="row" id="results">
-        </div>
-
-</div><!--close the validation div-->
-
-</div><!--close content_container-->
+        </div><!--close content_container-->
 	</div><!--close site_content-->
-  </div><!--close main-->
+</div><!--close main-->
 
 
 <script>
@@ -103,8 +104,17 @@ function getUrlParams() {
 function buildURLFromSelected() {
     var url = window.location.pathname + "?";
     $(":input, #authors select").each(function(){
-      if (this.value && $(this).attr('name'))
-         url += $(this).attr('name') + "=" + encodeURIComponent(this.value) + "&";  //appends the name and value
+      if (this.value && $(this).attr('name')) {
+        if ($(this).attr('name') == "scanned_only") {
+            if ($(this).is(':checked')) {
+                url += "scanned_only=true&";
+            } else {
+                url += "scanned_only=false&";
+            }
+        } else {
+            url += $(this).attr('name') + "=" + encodeURIComponent(this.value) + "&";  //appends the name and value
+        }
+      }
     });
     return url;
 }
@@ -120,6 +130,11 @@ function handleIncomingParameters() {
             $('#authors').val(value);
             // boostrap-combobox.js requires a refresh here
             $('#authors').data('combobox').refresh();
+        } else if (key == "scanned_only")  {
+            if (value == "true")
+                $("input[name="+ key +"]").prop('checked',true);
+            else 
+                $("input[name="+ key +"]").prop('checked',false);
         } else {
             $("input[name="+ key +"]").attr("value",value);
         }
