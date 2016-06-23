@@ -67,6 +67,14 @@
 
 
 <script>
+    document.onkeydown=function(evt){
+        var keyCode = evt ? (evt.which ? evt.which : evt.keyCode) : event.keyCode;
+        if(keyCode == 13)
+        {
+            handleSubmit();
+        }
+    }
+
     $(document).ready(function() {
 
         populateAuthors();
@@ -124,7 +132,8 @@ function handleIncomingParameters() {
     var query=getUrlParams();
     var foundValue = false;
     $.each(query, function(index, key){
-       value = erDecode(query[key]);
+        // Decode and take everything before a trailing # hash
+       value = erDecode(query[key]).split('#')[0];
        foundValue = true;
        if (key == "authors"){
             $('#authors').val(value);
