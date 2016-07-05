@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <mods:mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <mods:titleInfo>
-        <mods:title>Field Notes: Bryant H.C. 1914-15, v548</mods:title>
+        <mods:title>Field Notes: Bryant H.C. 1913-1920, v548</mods:title>
     </mods:titleInfo>
     <mods:language>
         <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
         <mods:languageTerm type="text">English</mods:languageTerm>
     </mods:language>
     <mods:originInfo>
-        <mods:dateCreated>1914-01-09/1920-01-01</mods:dateCreated>
-        <mods:dateCreated point="start">1914</mods:dateCreated>
+        <mods:dateCreated>1913-06-21/1920-01-01</mods:dateCreated>
+        <mods:dateCreated point="start">1913</mods:dateCreated>
         <mods:dateCreated point="end">1920</mods:dateCreated>
     </mods:originInfo>
     <mods:name type="personal" authority="LCHS">
