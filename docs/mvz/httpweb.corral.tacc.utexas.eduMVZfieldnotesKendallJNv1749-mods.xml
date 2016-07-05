@@ -26,6 +26,7 @@
             <mods:dateCreated point="start">1914</mods:dateCreated>
             <mods:dateCreated point="end">1930</mods:dateCreated>
         </mods:originInfo>
+        <mods:genre authority="local">Index</mods:genre>
         <mods:physicalDescription>
             <mods:extent>1 pages</mods:extent>
         </mods:physicalDescription>
@@ -44,7 +45,7 @@
             <mods:dateCreated point="start">1914</mods:dateCreated>
             <mods:dateCreated point="end">1914</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="local">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
@@ -53,6 +54,7 @@
             <mods:namePart type="given">J.N.</mods:namePart>
             <mods:displayForm>Kendall, J.N.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:physicalDescription>
             <mods:extent>104 pages</mods:extent>
         </mods:physicalDescription>
@@ -80,6 +82,7 @@
             <mods:namePart type="given">Donald D.</mods:namePart>
             <mods:displayForm>McLean, Donald D.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:physicalDescription>
             <mods:extent>46 pages</mods:extent>
         </mods:physicalDescription>
@@ -107,6 +110,7 @@
             <mods:namePart type="given">Leavitt M.</mods:namePart>
             <mods:displayForm>McQuesten, Leavitt M.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:physicalDescription>
             <mods:extent>36 pages</mods:extent>
         </mods:physicalDescription>
@@ -134,6 +138,7 @@
             <mods:namePart type="given">Robert D.</mods:namePart>
             <mods:displayForm>Moore, Robert D.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:physicalDescription>
             <mods:extent>65 pages</mods:extent>
         </mods:physicalDescription>

@@ -46,6 +46,7 @@
             <mods:namePart type="date">1905-2005</mods:namePart>
             <mods:displayForm>Benson, Seth B.,  (Seth Bertram), 1905-2005</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Species accounts</mods:genre>
         <mods:physicalDescription>
             <mods:extent>227 pages</mods:extent>
         </mods:physicalDescription>

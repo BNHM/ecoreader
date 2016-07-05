@@ -44,6 +44,7 @@
             <mods:namePart type="given">Donald Thurman</mods:namePart>
             <mods:displayForm>Tappe, Donald Thurman</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Index</mods:genre>
         <mods:physicalDescription>
             <mods:extent>1 pages</mods:extent>
         </mods:physicalDescription>
@@ -71,6 +72,8 @@
             <mods:namePart type="given">Donald Thurman</mods:namePart>
             <mods:displayForm>Tappe, Donald Thurman</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:physicalDescription>
             <mods:extent>95 pages</mods:extent>
         </mods:physicalDescription>
@@ -98,6 +101,7 @@
             <mods:namePart type="given">Donald Thurman</mods:namePart>
             <mods:displayForm>Tappe, Donald Thurman</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
         <mods:physicalDescription>
             <mods:extent>20 pages</mods:extent>
         </mods:physicalDescription>

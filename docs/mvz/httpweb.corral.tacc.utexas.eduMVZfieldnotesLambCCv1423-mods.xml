@@ -46,6 +46,8 @@
             <mods:namePart type="date">1883-</mods:namePart>
             <mods:displayForm>Lamb, Chester Converse, 1883-</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:physicalDescription>
             <mods:extent>171 pages</mods:extent>
         </mods:physicalDescription>

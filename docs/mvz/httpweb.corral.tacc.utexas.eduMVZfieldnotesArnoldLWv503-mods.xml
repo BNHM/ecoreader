@@ -44,6 +44,7 @@
             <mods:namePart type="given">Lee W.</mods:namePart>
             <mods:displayForm>Arnold, Lee W.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Index</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/ArnoldLW/v503_s0.jpg</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -68,6 +69,8 @@
             <mods:namePart type="given">Lee W.</mods:namePart>
             <mods:displayForm>Arnold, Lee W.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, California, Lassen County</mods:geographic>
         </mods:subject>
@@ -107,6 +110,8 @@
             <mods:namePart type="given">Lee W.</mods:namePart>
             <mods:displayForm>Arnold, Lee W.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, California, Alameda County</mods:geographic>
         </mods:subject>

@@ -44,6 +44,7 @@
             <mods:namePart type="given">Thomas C.</mods:namePart>
             <mods:displayForm>Groody, Thomas C.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Species accounts</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GroodyTC/v1311_s0</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -68,6 +69,8 @@
             <mods:namePart type="given">Thomas C.</mods:namePart>
             <mods:displayForm>Groody, Thomas C.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GroodyTC/v1311_s1</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -92,6 +95,7 @@
             <mods:namePart type="given">Thomas C.</mods:namePart>
             <mods:displayForm>Groody, Thomas C.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GroodyTC/v1311_s2</mods:identifier>
     </mods:relatedItem>
 </mods:mods>

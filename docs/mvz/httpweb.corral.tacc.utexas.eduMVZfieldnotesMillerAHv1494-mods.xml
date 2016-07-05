@@ -46,6 +46,7 @@
             <mods:namePart type="date">1906-1965</mods:namePart>
             <mods:displayForm>Miller, Alden H.,  (Alden Holmes), 1906-1965</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Species accounts</mods:genre>
         <mods:physicalDescription>
             <mods:extent>23 pages</mods:extent>
         </mods:physicalDescription>
@@ -74,6 +75,7 @@
             <mods:namePart type="date">1906-1965</mods:namePart>
             <mods:displayForm>Miller, Alden H.,  (Alden Holmes), 1906-1965</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Species accounts</mods:genre>
         <mods:physicalDescription>
             <mods:extent>252 pages</mods:extent>
         </mods:physicalDescription>

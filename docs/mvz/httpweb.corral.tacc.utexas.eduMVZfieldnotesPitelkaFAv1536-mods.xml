@@ -46,6 +46,7 @@
             <mods:namePart type="date">1916-2003</mods:namePart>
             <mods:displayForm>Pitelka, Frank A.,  (Frank Alois), 1916-2003</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Index</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/PitelkaFA/v1536_s0</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -96,6 +97,7 @@
             <mods:namePart type="date">1916-2003</mods:namePart>
             <mods:displayForm>Pitelka, Frank A.,  (Frank Alois), 1916-2003</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/PitelkaFA/v1536_s2</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -146,6 +148,7 @@
             <mods:namePart type="date">1916-2003</mods:namePart>
             <mods:displayForm>Pitelka, Frank A.,  (Frank Alois), 1916-2003</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/PitelkaFA/v1536_s4</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -196,6 +199,7 @@
             <mods:namePart type="date">1916-2003</mods:namePart>
             <mods:displayForm>Pitelka, Frank A.,  (Frank Alois), 1916-2003</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/PitelkaFA/v1536_s6</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">

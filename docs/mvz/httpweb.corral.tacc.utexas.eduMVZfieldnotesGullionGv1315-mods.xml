@@ -44,6 +44,8 @@
             <mods:namePart type="given">Gordon W.</mods:namePart>
             <mods:displayForm>Gullion, Gordon W.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal</mods:genre>
+        <mods:genre authority="local">Species accounts</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GullionG/v1315_s1</mods:identifier>
     </mods:relatedItem>
 </mods:mods>

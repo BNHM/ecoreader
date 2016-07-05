@@ -46,6 +46,7 @@
             <mods:namePart type="date">1867-1950</mods:namePart>
             <mods:displayForm>Alexander, Annie Montague, 1867-1950</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Index</mods:genre>
         <mods:physicalDescription>
             <mods:extent>1 pages</mods:extent>
         </mods:physicalDescription>
@@ -74,6 +75,25 @@
             <mods:namePart type="date">1867-1950</mods:namePart>
             <mods:displayForm>Alexander, Annie Montague, 1867-1950</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, Gulf of Alaska, United States, Alaska, Kenai Quad</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Alaska, Alexander Archipelago, Admiralty Island</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Alaska, Alexander Archipelago, Baranof Island</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Alaska, Alexander Archipelago, Chichagof Island</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Alaska, Glacier Bay National Park</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Alaska, Kenai Peninsula Borough</mods:geographic>
+        </mods:subject>
         <mods:physicalDescription>
             <mods:extent>13 pages</mods:extent>
         </mods:physicalDescription>
@@ -102,6 +122,11 @@
             <mods:namePart type="date">1867-1950</mods:namePart>
             <mods:displayForm>Alexander, Annie Montague, 1867-1950</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, Gulf of Alaska, United States, Alaska, Prince William Sound</mods:geographic>
+        </mods:subject>
         <mods:physicalDescription>
             <mods:extent>46 pages</mods:extent>
         </mods:physicalDescription>
@@ -130,6 +155,17 @@
             <mods:namePart type="date">1867-1950</mods:namePart>
             <mods:displayForm>Alexander, Annie Montague, 1867-1950</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
+        <mods:subject authority="arctos">
+            <mods:geographic>Pacific Ocean, United States, Hawaii, Hawaiian Islands, Molokai</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>Pacific Ocean, United States, Hawaii, Honolulu County, Hawaiian Islands, Oahu</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>Pacific Ocean, United States, Hawaii, Maui County, Hawaiian Islands, Maui</mods:geographic>
+        </mods:subject>
         <mods:physicalDescription>
             <mods:extent>30 pages</mods:extent>
         </mods:physicalDescription>
@@ -158,6 +194,11 @@
             <mods:namePart type="date">1867-1950</mods:namePart>
             <mods:displayForm>Alexander, Annie Montague, 1867-1950</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, Canada, British Columbia, Vancouver Island</mods:geographic>
+        </mods:subject>
         <mods:physicalDescription>
             <mods:extent>39 pages</mods:extent>
         </mods:physicalDescription>
@@ -186,6 +227,14 @@
             <mods:namePart type="date">1867-1950</mods:namePart>
             <mods:displayForm>Alexander, Annie Montague, 1867-1950</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, El Dorado County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Nevada County</mods:geographic>
+        </mods:subject>
         <mods:physicalDescription>
             <mods:extent>14 pages</mods:extent>
         </mods:physicalDescription>
@@ -214,6 +263,14 @@
             <mods:namePart type="date">1867-1950</mods:namePart>
             <mods:displayForm>Alexander, Annie Montague, 1867-1950</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Alameda County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Solano County</mods:geographic>
+        </mods:subject>
         <mods:physicalDescription>
             <mods:extent>5 pages</mods:extent>
         </mods:physicalDescription>
@@ -242,6 +299,14 @@
             <mods:namePart type="date">1867-1950</mods:namePart>
             <mods:displayForm>Alexander, Annie Montague, 1867-1950</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Shasta County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Trinity County</mods:geographic>
+        </mods:subject>
         <mods:physicalDescription>
             <mods:extent>61 pages</mods:extent>
         </mods:physicalDescription>

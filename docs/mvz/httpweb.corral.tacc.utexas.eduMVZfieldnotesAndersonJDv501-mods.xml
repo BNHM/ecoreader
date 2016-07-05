@@ -46,6 +46,8 @@
             <mods:namePart type="date">1930-1976</mods:namePart>
             <mods:displayForm>Anderson, James D., 1930-1976</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, California, Alpine County</mods:geographic>
         </mods:subject>

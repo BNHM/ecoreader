@@ -46,6 +46,7 @@
             <mods:namePart type="date">1902-1986</mods:namePart>
             <mods:displayForm>Hall, E. Raymond,  (Eugene Raymond), 1902-1986</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:physicalDescription>
             <mods:extent>258 pages</mods:extent>
         </mods:physicalDescription>

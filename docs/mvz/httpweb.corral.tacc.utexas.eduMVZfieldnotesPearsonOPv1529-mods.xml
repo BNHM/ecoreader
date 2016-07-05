@@ -46,6 +46,7 @@
             <mods:namePart type="date">1915-2003</mods:namePart>
             <mods:displayForm>Pearson, Oliver P.,  (Oliver Payne), 1915-2003</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/PearsonOP/v1529_s1</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -71,6 +72,7 @@
             <mods:namePart type="date">1915-2003</mods:namePart>
             <mods:displayForm>Pearson, Oliver P.,  (Oliver Payne), 1915-2003</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/PearsonOP/v1529_s2</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -96,6 +98,7 @@
             <mods:namePart type="date">1915-2003</mods:namePart>
             <mods:displayForm>Pearson, Oliver P.,  (Oliver Payne), 1915-2003</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Species accounts</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/PearsonOP/v1529_s3</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -121,6 +124,7 @@
             <mods:namePart type="date">1915-2003</mods:namePart>
             <mods:displayForm>Pearson, Oliver P.,  (Oliver Payne), 1915-2003</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/PearsonOP/v1529_s4</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -146,6 +150,7 @@
             <mods:namePart type="date">1915-2003</mods:namePart>
             <mods:displayForm>Pearson, Oliver P.,  (Oliver Payne), 1915-2003</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/PearsonOP/v1529_s5</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -171,6 +176,7 @@
             <mods:namePart type="date">1915-2003</mods:namePart>
             <mods:displayForm>Pearson, Oliver P.,  (Oliver Payne), 1915-2003</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Species accounts</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/PearsonOP/v1529_s6</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -196,6 +202,7 @@
             <mods:namePart type="date">1915-2003</mods:namePart>
             <mods:displayForm>Pearson, Oliver P.,  (Oliver Payne), 1915-2003</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/PearsonOP/v1529_s7</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -221,6 +228,7 @@
             <mods:namePart type="date">1915-2003</mods:namePart>
             <mods:displayForm>Pearson, Oliver P.,  (Oliver Payne), 1915-2003</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/PearsonOP/v1529_s8</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -246,6 +254,7 @@
             <mods:namePart type="date">1915-2003</mods:namePart>
             <mods:displayForm>Pearson, Oliver P.,  (Oliver Payne), 1915-2003</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Species accounts</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/PearsonOP/v1529_s9</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -271,6 +280,7 @@
             <mods:namePart type="date">1915-2003</mods:namePart>
             <mods:displayForm>Pearson, Oliver P.,  (Oliver Payne), 1915-2003</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Index</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/PearsonOP/v1529_s10</mods:identifier>
     </mods:relatedItem>
 </mods:mods>

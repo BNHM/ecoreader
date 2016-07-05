@@ -44,6 +44,7 @@
             <mods:namePart type="given">Fred G.</mods:namePart>
             <mods:displayForm>Evenden, Fred G.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Species accounts</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/EvendenFG/v670_s1</mods:identifier>
     </mods:relatedItem>
 </mods:mods>

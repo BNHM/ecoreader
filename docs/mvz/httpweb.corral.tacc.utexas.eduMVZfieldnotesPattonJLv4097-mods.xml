@@ -44,6 +44,7 @@
             <mods:namePart type="given">James L.</mods:namePart>
             <mods:displayForm>Patton, James L.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Index</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/PattonJL/v4097_s1</mods:identifier>
     </mods:relatedItem>
 </mods:mods>

@@ -44,6 +44,7 @@
             <mods:namePart type="given">Elizabeth L.</mods:namePart>
             <mods:displayForm>Jockusch, Elizabeth L.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
         <mods:subject authority="arctos">
             <mods:geographic>Central America, Costa Rica, Provincia Cartago</mods:geographic>
         </mods:subject>

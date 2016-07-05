@@ -44,6 +44,7 @@
             <mods:namePart type="given">Mary R.</mods:namePart>
             <mods:displayForm>Koford, Mary R.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
         <mods:physicalDescription>
             <mods:extent>42 pages</mods:extent>
         </mods:physicalDescription>
@@ -98,6 +99,7 @@
             <mods:namePart type="given">Mary R.</mods:namePart>
             <mods:displayForm>Koford, Mary R.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:physicalDescription>
             <mods:extent>137 pages</mods:extent>
         </mods:physicalDescription>

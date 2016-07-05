@@ -46,6 +46,7 @@
             <mods:namePart type="date">1936-</mods:namePart>
             <mods:displayForm>Johnson, Richard E.,  (Richard Evan), 1936-</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, California, Alameda County</mods:geographic>
         </mods:subject>
@@ -92,6 +93,7 @@
             <mods:namePart type="date">1936-</mods:namePart>
             <mods:displayForm>Johnson, Richard E.,  (Richard Evan), 1936-</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, Montana, Deer Lodge County</mods:geographic>
         </mods:subject>
@@ -132,6 +134,7 @@
             <mods:namePart type="date">1936-</mods:namePart>
             <mods:displayForm>Johnson, Richard E.,  (Richard Evan), 1936-</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, California, Nevada County</mods:geographic>
         </mods:subject>
@@ -172,6 +175,7 @@
             <mods:namePart type="date">1936-</mods:namePart>
             <mods:displayForm>Johnson, Richard E.,  (Richard Evan), 1936-</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, Alaska, Cold Bay, Alaskan Peninsula</mods:geographic>
         </mods:subject>
@@ -233,6 +237,7 @@
             <mods:namePart type="date">1936-</mods:namePart>
             <mods:displayForm>Johnson, Richard E.,  (Richard Evan), 1936-</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, California, Alameda County</mods:geographic>
         </mods:subject>
@@ -282,6 +287,7 @@
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, California, Contra Costa County</mods:geographic>
         </mods:subject>
+        <mods:genre authority="local">Species accounts</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/JohnsonRE/v1378_s6</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -307,6 +313,7 @@
             <mods:namePart type="date">1936-</mods:namePart>
             <mods:displayForm>Johnson, Richard E.,  (Richard Evan), 1936-</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, California, Alameda County, San Francisco Bay Islands, Bay Farm Island</mods:geographic>
         </mods:subject>

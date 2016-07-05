@@ -44,6 +44,7 @@
             <mods:namePart type="given">Douglas A.</mods:namePart>
             <mods:displayForm>Bell, Douglas A.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/BellDA/v514_s1</mods:identifier>
     </mods:relatedItem>
 </mods:mods>

@@ -46,6 +46,7 @@
             <mods:namePart type="date">1887-</mods:namePart>
             <mods:displayForm>Richardson, Charles H., 1887-</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Index</mods:genre>
         <mods:physicalDescription>
             <mods:extent>1 pages</mods:extent>
         </mods:physicalDescription>

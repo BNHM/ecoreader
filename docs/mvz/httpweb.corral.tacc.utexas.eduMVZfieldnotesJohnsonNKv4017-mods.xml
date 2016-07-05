@@ -46,6 +46,7 @@
             <mods:namePart type="date">1932-2003</mods:namePart>
             <mods:displayForm>Johnson, Ned K., 1932-2003</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, California, Alpine County</mods:geographic>
         </mods:subject>

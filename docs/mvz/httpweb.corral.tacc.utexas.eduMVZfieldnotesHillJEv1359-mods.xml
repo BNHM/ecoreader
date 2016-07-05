@@ -46,6 +46,8 @@
             <mods:namePart type="date">1907-1947</mods:namePart>
             <mods:displayForm>Hill, John Eric, 1907-1947</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, Oregon, Clackamas County</mods:geographic>
         </mods:subject>
@@ -92,6 +94,8 @@
             <mods:namePart type="date">1907-1947</mods:namePart>
             <mods:displayForm>Hill, John Eric, 1907-1947</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, California, Contra Costa County</mods:geographic>
         </mods:subject>
@@ -126,6 +130,8 @@
             <mods:namePart type="date">1907-1947</mods:namePart>
             <mods:displayForm>Hill, John Eric, 1907-1947</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, California, Inyo County</mods:geographic>
         </mods:subject>
@@ -166,6 +172,8 @@
             <mods:namePart type="date">1907-1947</mods:namePart>
             <mods:displayForm>Hill, John Eric, 1907-1947</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, California, Alameda County</mods:geographic>
         </mods:subject>
@@ -221,6 +229,8 @@
             <mods:namePart type="date">1907-1947</mods:namePart>
             <mods:displayForm>Hill, John Eric, 1907-1947</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:subject authority="arctos">
             <mods:geographic>North America, Canada, Manitoba</mods:geographic>
         </mods:subject>

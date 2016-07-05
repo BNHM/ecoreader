@@ -44,6 +44,7 @@
             <mods:namePart type="given">Jinzhong</mods:namePart>
             <mods:displayForm>Fu, Jinzhong</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/FuJ/v4139_s1</mods:identifier>
     </mods:relatedItem>
 </mods:mods>

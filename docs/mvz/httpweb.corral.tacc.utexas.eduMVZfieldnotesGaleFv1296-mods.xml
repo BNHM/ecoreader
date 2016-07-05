@@ -44,6 +44,8 @@
             <mods:namePart type="given">Francis C.</mods:namePart>
             <mods:displayForm>Gale, Francis C.,  (Claire)</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, Nevada, Nye County</mods:geographic>
         </mods:subject>

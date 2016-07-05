@@ -46,6 +46,7 @@
             <mods:namePart type="date">1918-</mods:namePart>
             <mods:displayForm>Hildebrand, Milton, 1918-</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Index</mods:genre>
         <mods:physicalDescription>
             <mods:extent>1 pages</mods:extent>
         </mods:physicalDescription>
@@ -92,6 +93,7 @@
         <mods:subject authority="arctos">
             <mods:geographic>Central America, El Salvador, Departamento Sonsonate</mods:geographic>
         </mods:subject>
+        <mods:genre authority="local">Species accounts</mods:genre>
         <mods:physicalDescription>
             <mods:extent>297 pages</mods:extent>
         </mods:physicalDescription>
@@ -120,6 +122,7 @@
             <mods:namePart type="date">1918-</mods:namePart>
             <mods:displayForm>Hildebrand, Milton, 1918-</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/HildebrandM/v1356_s2</mods:identifier>
     </mods:relatedItem>
 </mods:mods>

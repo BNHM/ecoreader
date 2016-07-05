@@ -46,6 +46,7 @@
             <mods:namePart type="date">1917-</mods:namePart>
             <mods:displayForm>Longhurst, William M., 1917-</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Index</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/LonghurstWM/v1458_s0</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -71,6 +72,7 @@
             <mods:namePart type="date">1917-</mods:namePart>
             <mods:displayForm>Longhurst, William M., 1917-</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/LonghurstWM/v1458_s1</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -96,6 +98,8 @@
             <mods:namePart type="date">1917-</mods:namePart>
             <mods:displayForm>Longhurst, William M., 1917-</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Species accounts</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/LonghurstWM/v1458_s2</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -121,6 +125,7 @@
             <mods:namePart type="date">1917-</mods:namePart>
             <mods:displayForm>Longhurst, William M., 1917-</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/LonghurstWM/v1458_s3</mods:identifier>
     </mods:relatedItem>
 </mods:mods>

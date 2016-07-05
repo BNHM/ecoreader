@@ -46,6 +46,7 @@
             <mods:namePart type="date">1917-1998</mods:namePart>
             <mods:displayForm>Sibley, Charles G.,  (Charles Gald), 1917-1998</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Index</mods:genre>
         <mods:physicalDescription>
             <mods:extent>1 pages</mods:extent>
         </mods:physicalDescription>
@@ -74,6 +75,7 @@
             <mods:namePart type="date">1917-1998</mods:namePart>
             <mods:displayForm>Sibley, Charles G.,  (Charles Gald), 1917-1998</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
         <mods:physicalDescription>
             <mods:extent>4 pages</mods:extent>
         </mods:physicalDescription>
@@ -102,6 +104,7 @@
             <mods:namePart type="date">1917-1998</mods:namePart>
             <mods:displayForm>Sibley, Charles G.,  (Charles Gald), 1917-1998</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
         <mods:physicalDescription>
             <mods:extent>3 pages</mods:extent>
         </mods:physicalDescription>

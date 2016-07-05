@@ -44,6 +44,8 @@
             <mods:namePart type="given">John R.</mods:namePart>
             <mods:displayForm>Arnold, John R.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, Nevada, Nye County</mods:geographic>
         </mods:subject>

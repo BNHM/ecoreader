@@ -94,6 +94,7 @@
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, Nevada, Washoe County</mods:geographic>
         </mods:subject>
+        <mods:genre authority="local">Species accounts</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/DalquestWW/v572_s1</mods:identifier>
     </mods:relatedItem>
 </mods:mods>

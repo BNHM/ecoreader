@@ -26,15 +26,17 @@
             <mods:dateCreated point="start">1966</mods:dateCreated>
             <mods:dateCreated point="end">1966</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="LCHS">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
             </mods:role>
             <mods:namePart type="family">Bock</mods:namePart>
             <mods:namePart type="given">Carl E.</mods:namePart>
-            <mods:displayForm>Bock, Carl E.</mods:displayForm>
+            <mods:namePart type="date">1942-</mods:namePart>
+            <mods:displayForm>Bock, Carl E., 1942-</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/BockCE/v1740_s1</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -59,6 +61,8 @@
             <mods:namePart type="given">William A.</mods:namePart>
             <mods:displayForm>Clemens, William A.,  (William Alvin)</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/BockCE/v1740_s2</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -83,6 +87,8 @@
             <mods:namePart type="given">John William</mods:namePart>
             <mods:displayForm>Cosgriff, John William</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/BockCE/v1740_s3</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -107,6 +113,7 @@
             <mods:namePart type="given">Richard F.</mods:namePart>
             <mods:displayForm>Johnston, Richard F.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/BockCE/v1740_s4</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -156,6 +163,7 @@
             <mods:namePart type="date">1901-1966</mods:namePart>
             <mods:displayForm>Stirton, R. A.,  (Ruben Arthur), 1901-1966</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/BockCE/v1740_s6</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -181,6 +189,7 @@
             <mods:namePart type="date">1901-1966</mods:namePart>
             <mods:displayForm>Stirton, R. A.,  (Ruben Arthur), 1901-1966</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/BockCE/v1740_s7</mods:identifier>
     </mods:relatedItem>
 </mods:mods>

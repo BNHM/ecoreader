@@ -44,6 +44,7 @@
             <mods:namePart type="given">Carl B.</mods:namePart>
             <mods:displayForm>Koford, Carl B.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Species accounts</mods:genre>
         <mods:physicalDescription>
             <mods:extent>382 pages</mods:extent>
         </mods:physicalDescription>

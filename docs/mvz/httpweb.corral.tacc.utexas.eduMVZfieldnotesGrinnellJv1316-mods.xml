@@ -46,6 +46,7 @@
             <mods:namePart type="date">1877-1939</mods:namePart>
             <mods:displayForm>Grinnell, Joseph, 1877-1939</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Index</mods:genre>
         <mods:physicalDescription>
             <mods:extent>1 pages</mods:extent>
         </mods:physicalDescription>
@@ -74,6 +75,8 @@
             <mods:namePart type="date">1877-1939</mods:namePart>
             <mods:displayForm>Grinnell, Joseph, 1877-1939</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:physicalDescription>
             <mods:extent>29 pages</mods:extent>
         </mods:physicalDescription>
@@ -102,6 +105,8 @@
             <mods:namePart type="date">1877-1939</mods:namePart>
             <mods:displayForm>Grinnell, Joseph, 1877-1939</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:physicalDescription>
             <mods:extent>141 pages</mods:extent>
         </mods:physicalDescription>
@@ -130,6 +135,8 @@
             <mods:namePart type="date">1877-1939</mods:namePart>
             <mods:displayForm>Grinnell, Joseph, 1877-1939</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:physicalDescription>
             <mods:extent>12 pages</mods:extent>
         </mods:physicalDescription>

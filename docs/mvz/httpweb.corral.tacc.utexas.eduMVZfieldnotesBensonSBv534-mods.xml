@@ -46,6 +46,10 @@
             <mods:namePart type="date">1905-2005</mods:namePart>
             <mods:displayForm>Benson, Seth B.,  (Seth Bertram), 1905-2005</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, Mexico, Baja California</mods:geographic>
+        </mods:subject>
         <mods:subject authority="arctos">
             <mods:geographic>North America, Mexico, Baja California, Isla Cedros</mods:geographic>
         </mods:subject>
@@ -60,6 +64,9 @@
         </mods:subject>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, California, Humboldt County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Imperial County</mods:geographic>
         </mods:subject>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, California, Lassen County</mods:geographic>
@@ -81,6 +88,9 @@
         </mods:subject>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, California, San Diego County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, San Luis Obispo County</mods:geographic>
         </mods:subject>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, California, Santa Barbara County</mods:geographic>

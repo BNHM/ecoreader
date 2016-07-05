@@ -44,6 +44,8 @@
             <mods:namePart type="given">Tom J.</mods:namePart>
             <mods:displayForm>Larson, Tom J.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/LarsonT/v1430_s1</mods:identifier>
     </mods:relatedItem>
 </mods:mods>

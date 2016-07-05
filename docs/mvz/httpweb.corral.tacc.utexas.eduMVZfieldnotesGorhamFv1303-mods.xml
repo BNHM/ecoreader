@@ -44,6 +44,8 @@
             <mods:namePart type="given">Frank W.</mods:namePart>
             <mods:displayForm>Gorham, Frank W.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, Nevada, Lincoln County</mods:geographic>
         </mods:subject>
@@ -80,6 +82,8 @@
             <mods:namePart type="given">Frank W.</mods:namePart>
             <mods:displayForm>Gorham, Frank W.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, California, Orange County</mods:geographic>
         </mods:subject>

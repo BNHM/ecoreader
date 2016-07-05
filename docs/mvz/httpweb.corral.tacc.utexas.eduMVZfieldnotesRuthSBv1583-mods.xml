@@ -44,6 +44,7 @@
             <mods:namePart type="given">Stephen B.</mods:namePart>
             <mods:displayForm>Ruth, Stephen B.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Index</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/RuthSB/v1583_s0</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -68,6 +69,7 @@
             <mods:namePart type="given">Stephen B.</mods:namePart>
             <mods:displayForm>Ruth, Stephen B.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/RuthSB/v1583_s1</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -92,6 +94,7 @@
             <mods:namePart type="given">Stephen B.</mods:namePart>
             <mods:displayForm>Ruth, Stephen B.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/RuthSB/v1583_s2</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -116,6 +119,7 @@
             <mods:namePart type="given">Stephen B.</mods:namePart>
             <mods:displayForm>Ruth, Stephen B.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/RuthSB/v1583_s3</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -140,6 +144,7 @@
             <mods:namePart type="given">Stephen B.</mods:namePart>
             <mods:displayForm>Ruth, Stephen B.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/RuthSB/v1583_s4</mods:identifier>
     </mods:relatedItem>
 </mods:mods>

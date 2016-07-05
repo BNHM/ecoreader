@@ -73,6 +73,7 @@
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, Nevada, White Pine County</mods:geographic>
         </mods:subject>
+        <mods:genre authority="local">Species accounts</mods:genre>
         <mods:physicalDescription>
             <mods:extent>32 pages</mods:extent>
         </mods:physicalDescription>
@@ -131,6 +132,7 @@
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, Nevada, White Pine County</mods:geographic>
         </mods:subject>
+        <mods:genre authority="local">Species accounts</mods:genre>
         <mods:physicalDescription>
             <mods:extent>141 pages</mods:extent>
         </mods:physicalDescription>

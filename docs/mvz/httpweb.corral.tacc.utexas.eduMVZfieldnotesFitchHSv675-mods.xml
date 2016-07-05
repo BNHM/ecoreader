@@ -46,6 +46,7 @@
             <mods:namePart type="date">1909-2009</mods:namePart>
             <mods:displayForm>Fitch, Henry S.,  (Henry Sheldon), 1909-2009</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, California, Del Norte County</mods:geographic>
         </mods:subject>
@@ -125,6 +126,7 @@
             <mods:namePart type="date">1909-2009</mods:namePart>
             <mods:displayForm>Fitch, Henry S.,  (Henry Sheldon), 1909-2009</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, California, Humboldt County</mods:geographic>
         </mods:subject>

@@ -44,6 +44,7 @@
             <mods:namePart type="given">Robert B.</mods:namePart>
             <mods:displayForm>Payne, Robert B.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/PayneRB/v1515_s1</mods:identifier>
     </mods:relatedItem>
 </mods:mods>

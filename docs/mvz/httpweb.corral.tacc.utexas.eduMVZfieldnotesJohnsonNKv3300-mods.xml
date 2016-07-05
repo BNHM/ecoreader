@@ -46,6 +46,7 @@
             <mods:namePart type="date">1932-2003</mods:namePart>
             <mods:displayForm>Johnson, Ned K., 1932-2003</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, Nevada, White Pine County</mods:geographic>
         </mods:subject>
@@ -74,6 +75,7 @@
             <mods:namePart type="date">1932-2003</mods:namePart>
             <mods:displayForm>Johnson, Ned K., 1932-2003</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, California, Sierra County</mods:geographic>
         </mods:subject>
@@ -105,6 +107,7 @@
             <mods:namePart type="date">1932-2003</mods:namePart>
             <mods:displayForm>Johnson, Ned K., 1932-2003</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, California, Alameda County</mods:geographic>
         </mods:subject>
@@ -148,6 +151,7 @@
             <mods:namePart type="date">1932-2003</mods:namePart>
             <mods:displayForm>Johnson, Ned K., 1932-2003</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, California, Alameda County</mods:geographic>
         </mods:subject>
@@ -185,6 +189,7 @@
             <mods:namePart type="date">1932-2003</mods:namePart>
             <mods:displayForm>Johnson, Ned K., 1932-2003</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, California, Calaveras County</mods:geographic>
         </mods:subject>
@@ -255,6 +260,7 @@
             <mods:namePart type="date">1932-2003</mods:namePart>
             <mods:displayForm>Johnson, Ned K., 1932-2003</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/JohnsonNK/v3300_s6</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -280,6 +286,7 @@
             <mods:namePart type="date">1932-2003</mods:namePart>
             <mods:displayForm>Johnson, Ned K., 1932-2003</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/JohnsonNK/v3300_s7</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -305,6 +312,7 @@
             <mods:namePart type="date">1932-2003</mods:namePart>
             <mods:displayForm>Johnson, Ned K., 1932-2003</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/JohnsonNK/v3300_s8</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -330,6 +338,7 @@
             <mods:namePart type="date">1932-2003</mods:namePart>
             <mods:displayForm>Johnson, Ned K., 1932-2003</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/JohnsonNK/v3300_s9</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -355,6 +364,7 @@
             <mods:namePart type="date">1932-2003</mods:namePart>
             <mods:displayForm>Johnson, Ned K., 1932-2003</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/JohnsonNK/v3300_s10</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -380,6 +390,7 @@
             <mods:namePart type="date">1932-2003</mods:namePart>
             <mods:displayForm>Johnson, Ned K., 1932-2003</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/JohnsonNK/v3300_s11</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -405,6 +416,7 @@
             <mods:namePart type="date">1932-2003</mods:namePart>
             <mods:displayForm>Johnson, Ned K., 1932-2003</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/JohnsonNK/v3300_s12</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -430,6 +442,7 @@
             <mods:namePart type="date">1932-2003</mods:namePart>
             <mods:displayForm>Johnson, Ned K., 1932-2003</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Species accounts</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/JohnsonNK/v3300_s13</mods:identifier>
     </mods:relatedItem>
 </mods:mods>

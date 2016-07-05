@@ -44,6 +44,7 @@
             <mods:namePart type="given">William B.</mods:namePart>
             <mods:displayForm>Davis, William B.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Index</mods:genre>
         <mods:physicalDescription>
             <mods:extent>1 pages</mods:extent>
         </mods:physicalDescription>
@@ -71,6 +72,7 @@
             <mods:namePart type="given">William B.</mods:namePart>
             <mods:displayForm>Davis, William B.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, Nevada, Esmeralda County</mods:geographic>
         </mods:subject>
@@ -104,6 +106,7 @@
             <mods:namePart type="given">William B.</mods:namePart>
             <mods:displayForm>Davis, William B.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, Nevada, Lincoln County</mods:geographic>
         </mods:subject>

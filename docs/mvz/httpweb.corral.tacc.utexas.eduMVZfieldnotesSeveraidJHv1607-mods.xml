@@ -68,6 +68,7 @@
             <mods:namePart type="given">Joye Harold</mods:namePart>
             <mods:displayForm>Severaid, Joye Harold</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/SeveraidJH/v1607_s2</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">

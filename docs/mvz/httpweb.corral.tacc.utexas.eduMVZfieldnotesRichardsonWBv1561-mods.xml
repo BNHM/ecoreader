@@ -44,6 +44,7 @@
             <mods:namePart type="given">William B.</mods:namePart>
             <mods:displayForm>Richardson, William B.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Index</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/RichardsonWB/v1561_s0</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -68,6 +69,7 @@
             <mods:namePart type="given">William B.</mods:namePart>
             <mods:displayForm>Richardson, William B.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/RichardsonWB/v1561_s1</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -92,6 +94,7 @@
             <mods:namePart type="given">William B.</mods:namePart>
             <mods:displayForm>Richardson, William B.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/RichardsonWB/v1561_s2</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">

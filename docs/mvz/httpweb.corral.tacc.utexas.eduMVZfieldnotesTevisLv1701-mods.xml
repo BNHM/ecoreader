@@ -12,7 +12,7 @@
         <mods:dateCreated point="start">1948</mods:dateCreated>
         <mods:dateCreated point="end">1948</mods:dateCreated>
     </mods:originInfo>
-    <mods:name type="personal" authority="local">
+    <mods:name type="personal" authority="LCHS">
         <mods:role>
             <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
             <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
@@ -36,7 +36,7 @@
             <mods:dateCreated point="start">1948</mods:dateCreated>
             <mods:dateCreated point="end">1948</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="local">
+        <mods:name type="personal" authority="LCHS">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
@@ -46,6 +46,8 @@
             <mods:namePart type="date">1916-2002</mods:namePart>
             <mods:displayForm>Tevis, Lloyd P.,  (Lloyd Pacheco), 1916-2002</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:physicalDescription>
             <mods:extent>189 pages</mods:extent>
         </mods:physicalDescription>

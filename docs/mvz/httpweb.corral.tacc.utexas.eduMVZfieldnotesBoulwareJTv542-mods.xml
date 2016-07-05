@@ -46,6 +46,8 @@
             <mods:namePart type="date">1920-</mods:namePart>
             <mods:displayForm>Boulware, Jean T.,  (Jean Thresher), 1920-</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/BoulwareJT/v542_s1</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -71,6 +73,8 @@
             <mods:namePart type="date">1920-</mods:namePart>
             <mods:displayForm>Boulware, Jean T.,  (Jean Thresher), 1920-</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/BoulwareJT/v542_s2</mods:identifier>
     </mods:relatedItem>
 </mods:mods>

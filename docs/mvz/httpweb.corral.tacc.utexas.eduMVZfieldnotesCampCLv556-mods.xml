@@ -46,6 +46,7 @@
             <mods:namePart type="date">1893-1975</mods:namePart>
             <mods:displayForm>Camp, Charles Lewis, 1893-1975</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Index</mods:genre>
         <mods:physicalDescription>
             <mods:extent>1 pages</mods:extent>
         </mods:physicalDescription>
@@ -74,6 +75,8 @@
             <mods:namePart type="date">1893-1975</mods:namePart>
             <mods:displayForm>Camp, Charles Lewis, 1893-1975</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, California, Marin County</mods:geographic>
         </mods:subject>
@@ -114,6 +117,7 @@
             <mods:namePart type="date">1893-1975</mods:namePart>
             <mods:displayForm>Camp, Charles Lewis, 1893-1975</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, California, Marin County</mods:geographic>
         </mods:subject>
@@ -145,6 +149,8 @@
             <mods:namePart type="date">1893-1975</mods:namePart>
             <mods:displayForm>Camp, Charles Lewis, 1893-1975</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, California, Los Angeles County</mods:geographic>
         </mods:subject>
@@ -179,6 +185,8 @@
             <mods:namePart type="date">1893-1975</mods:namePart>
             <mods:displayForm>Camp, Charles Lewis, 1893-1975</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, Arizona, Yuma County</mods:geographic>
         </mods:subject>
@@ -213,6 +221,7 @@
             <mods:namePart type="date">1893-1975</mods:namePart>
             <mods:displayForm>Camp, Charles Lewis, 1893-1975</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, California, Kern County</mods:geographic>
         </mods:subject>

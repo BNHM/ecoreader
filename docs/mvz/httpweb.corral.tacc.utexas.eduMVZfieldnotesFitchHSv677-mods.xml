@@ -46,6 +46,8 @@
             <mods:namePart type="date">1909-2009</mods:namePart>
             <mods:displayForm>Fitch, Henry S.,  (Henry Sheldon), 1909-2009</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, California, Alameda County</mods:geographic>
         </mods:subject>
@@ -98,6 +100,8 @@
             <mods:namePart type="date">1909-2009</mods:namePart>
             <mods:displayForm>Fitch, Henry S.,  (Henry Sheldon), 1909-2009</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, California, Lassen County</mods:geographic>
         </mods:subject>
@@ -171,6 +175,7 @@
             <mods:namePart type="date">1909-2009</mods:namePart>
             <mods:displayForm>Fitch, Henry S.,  (Henry Sheldon), 1909-2009</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
         <mods:physicalDescription>
             <mods:extent>3 pages</mods:extent>
         </mods:physicalDescription>
@@ -199,6 +204,8 @@
             <mods:namePart type="date">1909-2009</mods:namePart>
             <mods:displayForm>Fitch, Henry S.,  (Henry Sheldon), 1909-2009</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, California, Alameda County</mods:geographic>
         </mods:subject>

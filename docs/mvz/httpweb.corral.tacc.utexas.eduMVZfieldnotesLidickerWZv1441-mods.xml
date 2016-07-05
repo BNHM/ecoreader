@@ -46,6 +46,8 @@
             <mods:namePart type="date">1932-</mods:namePart>
             <mods:displayForm>Lidicker, William Zander, 1932-</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/LidickerWZ/v1441_s1</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -71,6 +73,8 @@
             <mods:namePart type="date">1932-</mods:namePart>
             <mods:displayForm>Lidicker, William Zander, 1932-</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/LidickerWZ/v1441_s2</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -96,6 +100,7 @@
             <mods:namePart type="date">1932-</mods:namePart>
             <mods:displayForm>Lidicker, William Zander, 1932-</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/LidickerWZ/v1441_s3</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -121,6 +126,7 @@
             <mods:namePart type="date">1932-</mods:namePart>
             <mods:displayForm>Lidicker, William Zander, 1932-</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/LidickerWZ/v1441_s4</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -146,6 +152,7 @@
             <mods:namePart type="date">1932-</mods:namePart>
             <mods:displayForm>Lidicker, William Zander, 1932-</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/LidickerWZ/v1441_s5</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -171,6 +178,7 @@
             <mods:namePart type="date">1932-</mods:namePart>
             <mods:displayForm>Lidicker, William Zander, 1932-</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/LidickerWZ/v1441_s6</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -196,6 +204,8 @@
             <mods:namePart type="date">1932-</mods:namePart>
             <mods:displayForm>Lidicker, William Zander, 1932-</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/LidickerWZ/v1441_s7</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -221,6 +231,7 @@
             <mods:namePart type="date">1932-</mods:namePart>
             <mods:displayForm>Lidicker, William Zander, 1932-</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/LidickerWZ/v1441_s8</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -246,6 +257,7 @@
             <mods:namePart type="date">1932-</mods:namePart>
             <mods:displayForm>Lidicker, William Zander, 1932-</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/LidickerWZ/v1441_s9</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -271,6 +283,7 @@
             <mods:namePart type="date">1932-</mods:namePart>
             <mods:displayForm>Lidicker, William Zander, 1932-</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/LidickerWZ/v1441_s10</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -296,6 +309,7 @@
             <mods:namePart type="date">1932-</mods:namePart>
             <mods:displayForm>Lidicker, William Zander, 1932-</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/LidickerWZ/v1441_s11</mods:identifier>
     </mods:relatedItem>
 </mods:mods>

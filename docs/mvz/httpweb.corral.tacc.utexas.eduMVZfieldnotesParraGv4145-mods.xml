@@ -44,6 +44,7 @@
             <mods:namePart type="given">Gabriela</mods:namePart>
             <mods:displayForm>Parra-Olea, Gabriela</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Index</mods:genre>
         <mods:physicalDescription>
             <mods:extent>1 pages</mods:extent>
         </mods:physicalDescription>
@@ -71,6 +72,7 @@
             <mods:namePart type="given">Gabriela</mods:namePart>
             <mods:displayForm>Parra-Olea, Gabriela</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
         <mods:physicalDescription>
             <mods:extent>50 pages</mods:extent>
         </mods:physicalDescription>
@@ -98,6 +100,7 @@
             <mods:namePart type="given">Gabriela</mods:namePart>
             <mods:displayForm>Parra-Olea, Gabriela</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:physicalDescription>
             <mods:extent>54 pages</mods:extent>
         </mods:physicalDescription>
@@ -125,6 +128,7 @@
             <mods:namePart type="given">Gabriela</mods:namePart>
             <mods:displayForm>Parra-Olea, Gabriela</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:physicalDescription>
             <mods:extent>21 pages</mods:extent>
         </mods:physicalDescription>
@@ -152,6 +156,7 @@
             <mods:namePart type="given">Gabriela</mods:namePart>
             <mods:displayForm>Parra-Olea, Gabriela</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:physicalDescription>
             <mods:extent>41 pages</mods:extent>
         </mods:physicalDescription>
@@ -179,6 +184,7 @@
             <mods:namePart type="given">Gabriela</mods:namePart>
             <mods:displayForm>Parra-Olea, Gabriela</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:physicalDescription>
             <mods:extent>8 pages</mods:extent>
         </mods:physicalDescription>

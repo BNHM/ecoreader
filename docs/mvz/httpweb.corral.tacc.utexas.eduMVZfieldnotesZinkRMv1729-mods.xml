@@ -94,6 +94,7 @@
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, Nevada, Esmeralda County</mods:geographic>
         </mods:subject>
+        <mods:genre authority="local">Species accounts</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/ZinkRM/v1729_s1</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -161,6 +162,7 @@
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, Oregon, Klamath County</mods:geographic>
         </mods:subject>
+        <mods:genre authority="local">Species accounts</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/ZinkRM/v1729_s2</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -186,6 +188,7 @@
             <mods:namePart type="date">1953-</mods:namePart>
             <mods:displayForm>Zink, Robert Martin, 1953-</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, California, Glenn County</mods:geographic>
         </mods:subject>
@@ -244,6 +247,7 @@
             <mods:namePart type="date">1953-</mods:namePart>
             <mods:displayForm>Zink, Robert Martin, 1953-</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:subject authority="arctos">
             <mods:geographic>South America, Paraguay, Itapua</mods:geographic>
         </mods:subject>
@@ -272,6 +276,7 @@
             <mods:namePart type="date">1953-</mods:namePart>
             <mods:displayForm>Zink, Robert Martin, 1953-</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, California, Lake County</mods:geographic>
         </mods:subject>
@@ -318,6 +323,7 @@
         <mods:subject authority="arctos">
             <mods:geographic>Central America, Costa Rica, Provincia Puntarenas</mods:geographic>
         </mods:subject>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, California, Los Angeles County</mods:geographic>
         </mods:subject>

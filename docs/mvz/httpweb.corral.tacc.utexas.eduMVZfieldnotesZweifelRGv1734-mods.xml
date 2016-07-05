@@ -46,6 +46,8 @@
             <mods:namePart type="date">1926-</mods:namePart>
             <mods:displayForm>Zweifel, Richard George, 1926-</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:subject authority="arctos">
             <mods:geographic>North America, Mexico, Chihuahua</mods:geographic>
         </mods:subject>

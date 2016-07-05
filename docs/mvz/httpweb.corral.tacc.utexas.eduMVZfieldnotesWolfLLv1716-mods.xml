@@ -44,6 +44,7 @@
             <mods:namePart type="given">Larry L.</mods:namePart>
             <mods:displayForm>Wolf, Larry L.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Species accounts</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/WolfLL/v1716_s1</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -68,6 +69,7 @@
             <mods:namePart type="given">Larry L.</mods:namePart>
             <mods:displayForm>Wolf, Larry L.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Species accounts</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/WolfLL/v1716_s2</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -92,6 +94,7 @@
             <mods:namePart type="given">Larry L.</mods:namePart>
             <mods:displayForm>Wolf, Larry L.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Species accounts</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/WolfLL/v1716_s3</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -116,6 +119,7 @@
             <mods:namePart type="given">Larry L.</mods:namePart>
             <mods:displayForm>Wolf, Larry L.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Species accounts</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/WolfLL/v1716_s4</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -140,6 +144,7 @@
             <mods:namePart type="given">Larry L.</mods:namePart>
             <mods:displayForm>Wolf, Larry L.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Species accounts</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/WolfLL/v1716_s5</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -164,6 +169,7 @@
             <mods:namePart type="given">Larry L.</mods:namePart>
             <mods:displayForm>Wolf, Larry L.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Species accounts</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/WolfLL/v1716_s6</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -188,6 +194,7 @@
             <mods:namePart type="given">Larry L.</mods:namePart>
             <mods:displayForm>Wolf, Larry L.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Species accounts</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/WolfLL/v1716_s7</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -212,6 +219,7 @@
             <mods:namePart type="given">Larry L.</mods:namePart>
             <mods:displayForm>Wolf, Larry L.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Species accounts</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/WolfLL/v1716_s8</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -236,6 +244,7 @@
             <mods:namePart type="given">Larry L.</mods:namePart>
             <mods:displayForm>Wolf, Larry L.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Species accounts</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/WolfLL/v1716_s9</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -260,6 +269,7 @@
             <mods:namePart type="given">Larry L.</mods:namePart>
             <mods:displayForm>Wolf, Larry L.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Species accounts</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/WolfLL/v1716_s10</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -284,6 +294,7 @@
             <mods:namePart type="given">Larry L.</mods:namePart>
             <mods:displayForm>Wolf, Larry L.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Species accounts</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/WolfLL/v1716_s11</mods:identifier>
     </mods:relatedItem>
 </mods:mods>

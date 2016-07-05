@@ -46,6 +46,8 @@
             <mods:namePart type="date">1906-1965</mods:namePart>
             <mods:displayForm>Miller, Alden H.,  (Alden Holmes), 1906-1965</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:physicalDescription>
             <mods:extent>245 pages</mods:extent>
         </mods:physicalDescription>

@@ -46,6 +46,8 @@
             <mods:namePart type="date">1905-</mods:namePart>
             <mods:displayForm>Engels, William L.,  (William Louis), 1905-</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/EngelsWL/v655_s1</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -71,6 +73,7 @@
             <mods:namePart type="date">1905-</mods:namePart>
             <mods:displayForm>Engels, William L.,  (William Louis), 1905-</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/EngelsWL/v655_s2</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -96,6 +99,7 @@
             <mods:namePart type="date">1905-</mods:namePart>
             <mods:displayForm>Engels, William L.,  (William Louis), 1905-</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/EngelsWL/v655_s3</mods:identifier>
     </mods:relatedItem>
 </mods:mods>

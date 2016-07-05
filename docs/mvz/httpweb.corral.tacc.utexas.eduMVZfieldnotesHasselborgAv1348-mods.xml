@@ -46,6 +46,8 @@
             <mods:namePart type="date">1876-1956</mods:namePart>
             <mods:displayForm>Hasselborg, Allen E., 1876-1956</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/HasselborgA/v1348_s1</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -71,6 +73,8 @@
             <mods:namePart type="date">1876-1956</mods:namePart>
             <mods:displayForm>Hasselborg, Allen E., 1876-1956</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/HasselborgA/v1348_s2</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -96,6 +100,8 @@
             <mods:namePart type="date">1912-</mods:namePart>
             <mods:displayForm>Hatfield, Donald M.,  (Donald Marshall), 1912-</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/HasselborgA/v1348_s3</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -121,6 +127,8 @@
             <mods:namePart type="date">1875-1939</mods:namePart>
             <mods:displayForm>Heller, Edmund, 1875-1939</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/HasselborgA/v1348_s4</mods:identifier>
     </mods:relatedItem>
 </mods:mods>

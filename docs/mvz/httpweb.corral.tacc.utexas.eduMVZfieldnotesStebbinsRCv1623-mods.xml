@@ -46,6 +46,7 @@
             <mods:namePart type="date">1915-2013</mods:namePart>
             <mods:displayForm>Stebbins, Robert C.,  (Robert Cyril), 1915-2013</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Index</mods:genre>
         <mods:physicalDescription>
             <mods:extent>1 pages</mods:extent>
         </mods:physicalDescription>
@@ -74,6 +75,7 @@
             <mods:namePart type="date">1915-2013</mods:namePart>
             <mods:displayForm>Stebbins, Robert C.,  (Robert Cyril), 1915-2013</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
         <mods:physicalDescription>
             <mods:extent>6 pages</mods:extent>
         </mods:physicalDescription>
@@ -102,6 +104,8 @@
             <mods:namePart type="date">1915-2013</mods:namePart>
             <mods:displayForm>Stebbins, Robert C.,  (Robert Cyril), 1915-2013</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:physicalDescription>
             <mods:extent>10 pages</mods:extent>
         </mods:physicalDescription>
@@ -130,6 +134,7 @@
             <mods:namePart type="date">1915-2013</mods:namePart>
             <mods:displayForm>Stebbins, Robert C.,  (Robert Cyril), 1915-2013</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:physicalDescription>
             <mods:extent>5 pages</mods:extent>
         </mods:physicalDescription>
@@ -158,6 +163,8 @@
             <mods:namePart type="date">1915-2013</mods:namePart>
             <mods:displayForm>Stebbins, Robert C.,  (Robert Cyril), 1915-2013</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:physicalDescription>
             <mods:extent>41 pages</mods:extent>
         </mods:physicalDescription>
@@ -186,6 +193,7 @@
             <mods:namePart type="date">1915-2013</mods:namePart>
             <mods:displayForm>Stebbins, Robert C.,  (Robert Cyril), 1915-2013</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
         <mods:physicalDescription>
             <mods:extent>6 pages</mods:extent>
         </mods:physicalDescription>
@@ -214,6 +222,8 @@
             <mods:namePart type="date">1915-2013</mods:namePart>
             <mods:displayForm>Stebbins, Robert C.,  (Robert Cyril), 1915-2013</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:physicalDescription>
             <mods:extent>55 pages</mods:extent>
         </mods:physicalDescription>
@@ -242,6 +252,7 @@
             <mods:namePart type="date">1915-2013</mods:namePart>
             <mods:displayForm>Stebbins, Robert C.,  (Robert Cyril), 1915-2013</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Species accounts</mods:genre>
         <mods:physicalDescription>
             <mods:extent>157 pages</mods:extent>
         </mods:physicalDescription>

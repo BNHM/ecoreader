@@ -46,6 +46,7 @@
             <mods:namePart type="date">1884-1952</mods:namePart>
             <mods:displayForm>Dixon, Joseph S.,  (Joseph Scattergood), 1884-1952</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Index</mods:genre>
         <mods:physicalDescription>
             <mods:extent>1 pages</mods:extent>
         </mods:physicalDescription>
@@ -74,6 +75,8 @@
             <mods:namePart type="date">1884-1952</mods:namePart>
             <mods:displayForm>Dixon, Joseph S.,  (Joseph Scattergood), 1884-1952</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, Alaska</mods:geographic>
         </mods:subject>
@@ -129,6 +132,8 @@
             <mods:namePart type="date">1884-1952</mods:namePart>
             <mods:displayForm>Dixon, Joseph S.,  (Joseph Scattergood), 1884-1952</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, California, Santa Clara County</mods:geographic>
         </mods:subject>
@@ -163,6 +168,8 @@
             <mods:namePart type="date">1884-1952</mods:namePart>
             <mods:displayForm>Dixon, Joseph S.,  (Joseph Scattergood), 1884-1952</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, California, San Mateo County</mods:geographic>
         </mods:subject>
@@ -197,6 +204,8 @@
             <mods:namePart type="date">1884-1952</mods:namePart>
             <mods:displayForm>Dixon, Joseph S.,  (Joseph Scattergood), 1884-1952</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, California, San Diego County</mods:geographic>
         </mods:subject>
@@ -228,6 +237,8 @@
             <mods:namePart type="date">1884-1952</mods:namePart>
             <mods:displayForm>Dixon, Joseph S.,  (Joseph Scattergood), 1884-1952</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, California, Mendocino County</mods:geographic>
         </mods:subject>
@@ -259,6 +270,8 @@
             <mods:namePart type="date">1884-1952</mods:namePart>
             <mods:displayForm>Dixon, Joseph S.,  (Joseph Scattergood), 1884-1952</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, California, Marin County</mods:geographic>
         </mods:subject>

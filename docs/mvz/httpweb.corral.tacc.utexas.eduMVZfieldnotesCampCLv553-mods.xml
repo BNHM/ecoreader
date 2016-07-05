@@ -46,6 +46,7 @@
             <mods:namePart type="date">1893-1975</mods:namePart>
             <mods:displayForm>Camp, Charles Lewis, 1893-1975</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, California, Riverside County</mods:geographic>
         </mods:subject>

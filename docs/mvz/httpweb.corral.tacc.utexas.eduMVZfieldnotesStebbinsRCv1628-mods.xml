@@ -46,6 +46,7 @@
             <mods:namePart type="date">1915-2013</mods:namePart>
             <mods:displayForm>Stebbins, Robert C.,  (Robert Cyril), 1915-2013</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
         <mods:physicalDescription>
             <mods:extent>4 pages</mods:extent>
         </mods:physicalDescription>
@@ -74,6 +75,7 @@
             <mods:namePart type="date">1915-2013</mods:namePart>
             <mods:displayForm>Stebbins, Robert C.,  (Robert Cyril), 1915-2013</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
         <mods:physicalDescription>
             <mods:extent>13 pages</mods:extent>
         </mods:physicalDescription>
@@ -102,6 +104,7 @@
             <mods:namePart type="date">1915-2013</mods:namePart>
             <mods:displayForm>Stebbins, Robert C.,  (Robert Cyril), 1915-2013</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
         <mods:physicalDescription>
             <mods:extent>7 pages</mods:extent>
         </mods:physicalDescription>
@@ -130,6 +133,8 @@
             <mods:namePart type="date">1915-2013</mods:namePart>
             <mods:displayForm>Stebbins, Robert C.,  (Robert Cyril), 1915-2013</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:physicalDescription>
             <mods:extent>7 pages</mods:extent>
         </mods:physicalDescription>
@@ -158,6 +163,7 @@
             <mods:namePart type="date">1915-2013</mods:namePart>
             <mods:displayForm>Stebbins, Robert C.,  (Robert Cyril), 1915-2013</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
         <mods:physicalDescription>
             <mods:extent>3 pages</mods:extent>
         </mods:physicalDescription>
@@ -186,6 +192,8 @@
             <mods:namePart type="date">1915-2013</mods:namePart>
             <mods:displayForm>Stebbins, Robert C.,  (Robert Cyril), 1915-2013</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:physicalDescription>
             <mods:extent>27 pages</mods:extent>
         </mods:physicalDescription>
@@ -214,6 +222,7 @@
             <mods:namePart type="date">1915-2013</mods:namePart>
             <mods:displayForm>Stebbins, Robert C.,  (Robert Cyril), 1915-2013</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
         <mods:physicalDescription>
             <mods:extent>7 pages</mods:extent>
         </mods:physicalDescription>
@@ -242,6 +251,7 @@
             <mods:namePart type="date">1915-2013</mods:namePart>
             <mods:displayForm>Stebbins, Robert C.,  (Robert Cyril), 1915-2013</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Species accounts</mods:genre>
         <mods:physicalDescription>
             <mods:extent>136 pages</mods:extent>
         </mods:physicalDescription>
@@ -270,6 +280,8 @@
             <mods:namePart type="date">1915-2013</mods:namePart>
             <mods:displayForm>Stebbins, Robert C.,  (Robert Cyril), 1915-2013</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/StebbinsRC/v1628_s9</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -295,6 +307,8 @@
             <mods:namePart type="date">1915-2013</mods:namePart>
             <mods:displayForm>Stebbins, Robert C.,  (Robert Cyril), 1915-2013</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:physicalDescription>
             <mods:extent>160 pages</mods:extent>
         </mods:physicalDescription>

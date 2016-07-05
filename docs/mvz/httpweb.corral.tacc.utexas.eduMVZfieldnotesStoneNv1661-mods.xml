@@ -44,6 +44,8 @@
             <mods:namePart type="given">Ned W.</mods:namePart>
             <mods:displayForm>Stone, Ned W.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Species accounts</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/StoneN/v1661_s1</mods:identifier>
     </mods:relatedItem>
 </mods:mods>

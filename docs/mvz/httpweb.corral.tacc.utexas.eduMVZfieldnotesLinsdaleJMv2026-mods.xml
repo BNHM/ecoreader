@@ -46,6 +46,7 @@
             <mods:namePart type="date">1902-1969</mods:namePart>
             <mods:displayForm>Linsdale, Jean M.,  (Jean Myron), 1902-1969</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Index</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/LinsdaleJM/v2026_s0</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -71,6 +72,7 @@
             <mods:namePart type="date">1902-1969</mods:namePart>
             <mods:displayForm>Linsdale, Jean M.,  (Jean Myron), 1902-1969</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
         <mods:physicalDescription>
             <mods:extent>85 pages</mods:extent>
         </mods:physicalDescription>

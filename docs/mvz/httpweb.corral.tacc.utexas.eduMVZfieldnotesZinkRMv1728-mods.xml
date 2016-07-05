@@ -46,6 +46,7 @@
             <mods:namePart type="date">1953-</mods:namePart>
             <mods:displayForm>Zink, Robert Martin, 1953-</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, California, Fresno County</mods:geographic>
         </mods:subject>
@@ -98,6 +99,7 @@
             <mods:namePart type="date">1953-</mods:namePart>
             <mods:displayForm>Zink, Robert Martin, 1953-</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, California, Alpine County</mods:geographic>
         </mods:subject>
@@ -156,6 +158,7 @@
             <mods:namePart type="date">1953-</mods:namePart>
             <mods:displayForm>Zink, Robert Martin, 1953-</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, California, Glenn County</mods:geographic>
         </mods:subject>
@@ -211,6 +214,7 @@
             <mods:namePart type="date">1953-</mods:namePart>
             <mods:displayForm>Zink, Robert Martin, 1953-</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, California, Lake County</mods:geographic>
         </mods:subject>
@@ -272,6 +276,7 @@
             <mods:namePart type="date">1953-</mods:namePart>
             <mods:displayForm>Zink, Robert Martin, 1953-</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
         <mods:subject authority="arctos">
             <mods:geographic>Central America, Costa Rica, Provincia Puntarenas</mods:geographic>
         </mods:subject>

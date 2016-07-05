@@ -44,6 +44,7 @@
             <mods:namePart type="given">Gene M.</mods:namePart>
             <mods:displayForm>Christman, Gene M.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
         <mods:physicalDescription>
             <mods:extent>300 pages</mods:extent>
         </mods:physicalDescription>

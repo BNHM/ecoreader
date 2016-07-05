@@ -44,6 +44,7 @@
             <mods:namePart type="given">Carl B.</mods:namePart>
             <mods:displayForm>Koford, Carl B.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Index</mods:genre>
         <mods:physicalDescription>
             <mods:extent>11 pages</mods:extent>
         </mods:physicalDescription>
@@ -71,6 +72,7 @@
             <mods:namePart type="given">Carl B.</mods:namePart>
             <mods:displayForm>Koford, Carl B.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:physicalDescription>
             <mods:extent>69 pages</mods:extent>
         </mods:physicalDescription>
@@ -98,6 +100,7 @@
             <mods:namePart type="given">Carl B.</mods:namePart>
             <mods:displayForm>Koford, Carl B.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:physicalDescription>
             <mods:extent>47 pages</mods:extent>
         </mods:physicalDescription>
@@ -125,6 +128,7 @@
             <mods:namePart type="given">Carl B.</mods:namePart>
             <mods:displayForm>Koford, Carl B.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:physicalDescription>
             <mods:extent>53 pages</mods:extent>
         </mods:physicalDescription>
@@ -152,6 +156,7 @@
             <mods:namePart type="given">Carl B.</mods:namePart>
             <mods:displayForm>Koford, Carl B.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:physicalDescription>
             <mods:extent>17 pages</mods:extent>
         </mods:physicalDescription>
@@ -179,6 +184,7 @@
             <mods:namePart type="given">Carl B.</mods:namePart>
             <mods:displayForm>Koford, Carl B.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/KofordCB/v1392_s6</mods:identifier>
     </mods:relatedItem>
 </mods:mods>

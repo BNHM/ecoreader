@@ -321,6 +321,7 @@
             <mods:namePart type="date">1907-2000</mods:namePart>
             <mods:displayForm>Russell, Ward C., 1907-2000</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/RussellWC/v1582_s12</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -371,6 +372,7 @@
             <mods:namePart type="date">1907-2000</mods:namePart>
             <mods:displayForm>Russell, Ward C., 1907-2000</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/RussellWC/v1582_s14</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">

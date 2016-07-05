@@ -46,6 +46,13 @@
             <mods:namePart type="date">1905-2005</mods:namePart>
             <mods:displayForm>Benson, Seth B.,  (Seth Bertram), 1905-2005</mods:displayForm>
         </mods:name>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Alameda County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Washington, Franklin County</mods:geographic>
+        </mods:subject>
+        <mods:genre authority="local">Species accounts</mods:genre>
         <mods:physicalDescription>
             <mods:extent>131 pages</mods:extent>
         </mods:physicalDescription>

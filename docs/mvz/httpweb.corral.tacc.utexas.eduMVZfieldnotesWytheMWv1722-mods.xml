@@ -46,6 +46,7 @@
             <mods:namePart type="date">1880-1958</mods:namePart>
             <mods:displayForm>Wythe, Margaret W.,  (Margaret Wilhelmina), 1880-1958</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Index</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/WytheMW/v1722_s0</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -71,6 +72,8 @@
             <mods:namePart type="date">1880-1958</mods:namePart>
             <mods:displayForm>Wythe, Margaret W.,  (Margaret Wilhelmina), 1880-1958</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, California, Alameda County</mods:geographic>
         </mods:subject>
@@ -105,6 +108,7 @@
             <mods:namePart type="date">1880-1958</mods:namePart>
             <mods:displayForm>Wythe, Margaret W.,  (Margaret Wilhelmina), 1880-1958</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, California, El Dorado County</mods:geographic>
         </mods:subject>
@@ -133,6 +137,7 @@
             <mods:namePart type="date">1880-1958</mods:namePart>
             <mods:displayForm>Wythe, Margaret W.,  (Margaret Wilhelmina), 1880-1958</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, California, Alameda County</mods:geographic>
         </mods:subject>
@@ -167,6 +172,7 @@
             <mods:namePart type="date">1880-1958</mods:namePart>
             <mods:displayForm>Wythe, Margaret W.,  (Margaret Wilhelmina), 1880-1958</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, California, Marin County</mods:geographic>
         </mods:subject>
@@ -195,6 +201,7 @@
             <mods:namePart type="date">1880-1958</mods:namePart>
             <mods:displayForm>Wythe, Margaret W.,  (Margaret Wilhelmina), 1880-1958</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, California, Alameda County</mods:geographic>
         </mods:subject>
@@ -226,6 +233,7 @@
             <mods:namePart type="date">1880-1958</mods:namePart>
             <mods:displayForm>Wythe, Margaret W.,  (Margaret Wilhelmina), 1880-1958</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, California, Monterey County</mods:geographic>
         </mods:subject>
@@ -254,6 +262,7 @@
             <mods:namePart type="date">1880-1958</mods:namePart>
             <mods:displayForm>Wythe, Margaret W.,  (Margaret Wilhelmina), 1880-1958</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, California, Alameda County</mods:geographic>
         </mods:subject>
@@ -282,6 +291,7 @@
             <mods:namePart type="date">1880-1958</mods:namePart>
             <mods:displayForm>Wythe, Margaret W.,  (Margaret Wilhelmina), 1880-1958</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, California, Sonoma County</mods:geographic>
         </mods:subject>
@@ -310,6 +320,7 @@
             <mods:namePart type="date">1880-1958</mods:namePart>
             <mods:displayForm>Wythe, Margaret W.,  (Margaret Wilhelmina), 1880-1958</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, California, Alameda County</mods:geographic>
         </mods:subject>
@@ -338,6 +349,8 @@
             <mods:namePart type="date">1880-1958</mods:namePart>
             <mods:displayForm>Wythe, Margaret W.,  (Margaret Wilhelmina), 1880-1958</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, California, Mendocino County</mods:geographic>
         </mods:subject>
@@ -366,6 +379,8 @@
             <mods:namePart type="date">1880-1958</mods:namePart>
             <mods:displayForm>Wythe, Margaret W.,  (Margaret Wilhelmina), 1880-1958</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, California, Alameda County</mods:geographic>
         </mods:subject>

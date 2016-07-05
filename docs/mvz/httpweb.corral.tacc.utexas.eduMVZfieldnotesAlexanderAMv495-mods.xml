@@ -46,6 +46,7 @@
             <mods:namePart type="date">1867-1950</mods:namePart>
             <mods:displayForm>Alexander, Annie Montague, 1867-1950</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Index</mods:genre>
         <mods:physicalDescription>
             <mods:extent>1 pages</mods:extent>
         </mods:physicalDescription>
@@ -74,6 +75,8 @@
             <mods:namePart type="date">1867-1950</mods:namePart>
             <mods:displayForm>Alexander, Annie Montague, 1867-1950</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, California, Marin County</mods:geographic>
         </mods:subject>
@@ -105,6 +108,8 @@
             <mods:namePart type="date">1867-1950</mods:namePart>
             <mods:displayForm>Alexander, Annie Montague, 1867-1950</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, California, Colusa County</mods:geographic>
         </mods:subject>
@@ -139,6 +144,8 @@
             <mods:namePart type="date">1867-1950</mods:namePart>
             <mods:displayForm>Alexander, Annie Montague, 1867-1950</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, California, Siskiyou County</mods:geographic>
         </mods:subject>
@@ -173,6 +180,7 @@
             <mods:namePart type="date">1867-1950</mods:namePart>
             <mods:displayForm>Alexander, Annie Montague, 1867-1950</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, California, Solano County</mods:geographic>
         </mods:subject>
@@ -204,6 +212,8 @@
             <mods:namePart type="date">1867-1950</mods:namePart>
             <mods:displayForm>Alexander, Annie Montague, 1867-1950</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, California, Fresno County</mods:geographic>
         </mods:subject>
@@ -235,6 +245,8 @@
             <mods:namePart type="date">1867-1950</mods:namePart>
             <mods:displayForm>Alexander, Annie Montague, 1867-1950</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, Oregon, Jackson County</mods:geographic>
         </mods:subject>
@@ -269,6 +281,8 @@
             <mods:namePart type="date">1867-1950</mods:namePart>
             <mods:displayForm>Alexander, Annie Montague, 1867-1950</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:subject authority="arctos">
             <mods:geographic>Pacific Ocean, United States, Hawaii, Honolulu County, Hawaiian Islands, Oahu</mods:geographic>
         </mods:subject>
@@ -300,6 +314,8 @@
             <mods:namePart type="date">1867-1950</mods:namePart>
             <mods:displayForm>Alexander, Annie Montague, 1867-1950</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, Arizona, Navajo County</mods:geographic>
         </mods:subject>

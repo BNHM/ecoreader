@@ -46,6 +46,8 @@
             <mods:namePart type="date">1907-1983</mods:namePart>
             <mods:displayForm>Gilmore, Raymond M.,  (Raymond Maurice), 1907-1983</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Species accounts</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GilmoreRM/v1297_s1</mods:identifier>
     </mods:relatedItem>
 </mods:mods>

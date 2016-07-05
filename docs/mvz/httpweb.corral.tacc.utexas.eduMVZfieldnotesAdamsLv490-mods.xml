@@ -46,6 +46,11 @@
             <mods:namePart type="date">1913- </mods:namePart>
             <mods:displayForm>Adams, Lowell, 1913- </mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
+        <mods:subject authority="arctos">
+            <mods:geographic>Pacific Ocean, Solomon Islands, Guadalcanal Province, Solomon Islands, Guadalcanal</mods:geographic>
+        </mods:subject>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/AdamsL/v490_s1.jpg</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -71,6 +76,10 @@
             <mods:namePart type="date">1913- </mods:namePart>
             <mods:displayForm>Adams, Lowell, 1913- </mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, San Bernardino County</mods:geographic>
+        </mods:subject>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/AdamsL/v490_s2.jpg</mods:identifier>
     </mods:relatedItem>
 </mods:mods>

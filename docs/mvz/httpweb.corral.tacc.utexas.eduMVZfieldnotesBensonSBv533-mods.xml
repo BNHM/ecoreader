@@ -46,6 +46,7 @@
             <mods:namePart type="date">1905-2005</mods:namePart>
             <mods:displayForm>Benson, Seth B.,  (Seth Bertram), 1905-2005</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:subject authority="arctos">
             <mods:geographic>North America, Mexico, Baja California</mods:geographic>
         </mods:subject>
@@ -59,7 +60,7 @@
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
         <mods:titleInfo>
-            <mods:title>Section 2: S.B. Benson 1938 Baja Species Accounts</mods:title>
+            <mods:title>Section 2: S.B. Benson 1948 Baja Species Accounts</mods:title>
         </mods:titleInfo>
         <mods:language>
             <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
@@ -83,6 +84,7 @@
         <mods:subject authority="arctos">
             <mods:geographic>North America, Mexico, Baja California</mods:geographic>
         </mods:subject>
+        <mods:genre authority="local">Species accounts</mods:genre>
         <mods:physicalDescription>
             <mods:extent>73 pages</mods:extent>
         </mods:physicalDescription>

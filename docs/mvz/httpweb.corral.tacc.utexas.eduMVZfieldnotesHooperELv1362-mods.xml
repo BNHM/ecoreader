@@ -46,6 +46,7 @@
             <mods:namePart type="date">1911- </mods:namePart>
             <mods:displayForm>Hooper, Emmet Thurman, 1911- </mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Index</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/HooperEL/v1362_s0</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -71,6 +72,8 @@
             <mods:namePart type="date">1911- </mods:namePart>
             <mods:displayForm>Hooper, Emmet Thurman, 1911- </mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/HooperEL/v1362_s1</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -96,6 +99,8 @@
             <mods:namePart type="date">1911- </mods:namePart>
             <mods:displayForm>Hooper, Emmet Thurman, 1911- </mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/HooperEL/v1362_s2</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -121,6 +126,8 @@
             <mods:namePart type="date">1911- </mods:namePart>
             <mods:displayForm>Hooper, Emmet Thurman, 1911- </mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/HooperEL/v1362_s3</mods:identifier>
     </mods:relatedItem>
 </mods:mods>

@@ -44,6 +44,7 @@
             <mods:namePart type="given">Norman B.</mods:namePart>
             <mods:displayForm>Stern, Norman B.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
         <mods:physicalDescription>
             <mods:extent>29 pages</mods:extent>
         </mods:physicalDescription>
@@ -71,6 +72,7 @@
             <mods:namePart type="given">Norman B.</mods:namePart>
             <mods:displayForm>Stern, Norman B.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
         <mods:physicalDescription>
             <mods:extent>32 pages</mods:extent>
         </mods:physicalDescription>
@@ -98,6 +100,8 @@
             <mods:namePart type="given">Norman B.</mods:namePart>
             <mods:displayForm>Stern, Norman B.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:physicalDescription>
             <mods:extent>46 pages</mods:extent>
         </mods:physicalDescription>
@@ -125,6 +129,8 @@
             <mods:namePart type="given">George E.</mods:namePart>
             <mods:displayForm>Stone, George E.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:physicalDescription>
             <mods:extent>53 pages</mods:extent>
         </mods:physicalDescription>

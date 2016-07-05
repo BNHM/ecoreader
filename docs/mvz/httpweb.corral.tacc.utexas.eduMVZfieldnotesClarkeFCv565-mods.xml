@@ -46,6 +46,7 @@
             <mods:namePart type="date">1887-1958</mods:namePart>
             <mods:displayForm>Clarke, Frank C., 1887-1958</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Index</mods:genre>
         <mods:physicalDescription>
             <mods:extent>1 pages</mods:extent>
         </mods:physicalDescription>
@@ -74,6 +75,7 @@
             <mods:namePart type="date">1887-1958</mods:namePart>
             <mods:displayForm>Clarke, Frank C., 1887-1958</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, California, Fresno County</mods:geographic>
         </mods:subject>
@@ -108,6 +110,7 @@
             <mods:namePart type="date">1887-1958</mods:namePart>
             <mods:displayForm>Clarke, Frank C., 1887-1958</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, California, Monterey County</mods:geographic>
         </mods:subject>
@@ -145,6 +148,7 @@
             <mods:namePart type="date">1887-1958</mods:namePart>
             <mods:displayForm>Clarke, Frank C., 1887-1958</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, California, Lake County</mods:geographic>
         </mods:subject>
@@ -179,6 +183,7 @@
             <mods:namePart type="date">1887-1958</mods:namePart>
             <mods:displayForm>Clarke, Frank C., 1887-1958</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, California, Imperial County</mods:geographic>
         </mods:subject>

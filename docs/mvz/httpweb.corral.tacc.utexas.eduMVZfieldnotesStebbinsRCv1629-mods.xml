@@ -46,6 +46,7 @@
             <mods:namePart type="date">1915-2013</mods:namePart>
             <mods:displayForm>Stebbins, Robert C.,  (Robert Cyril), 1915-2013</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Species accounts</mods:genre>
         <mods:physicalDescription>
             <mods:extent>381 pages</mods:extent>
         </mods:physicalDescription>

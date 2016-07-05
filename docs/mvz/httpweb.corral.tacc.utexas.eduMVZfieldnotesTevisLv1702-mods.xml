@@ -12,7 +12,7 @@
         <mods:dateCreated point="start">1950</mods:dateCreated>
         <mods:dateCreated point="end">1950</mods:dateCreated>
     </mods:originInfo>
-    <mods:name type="personal" authority="local">
+    <mods:name type="personal" authority="LCHS">
         <mods:role>
             <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
             <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
@@ -36,7 +36,7 @@
             <mods:dateCreated point="start">1950</mods:dateCreated>
             <mods:dateCreated point="end">1950</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="local">
+        <mods:name type="personal" authority="LCHS">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
@@ -46,6 +46,7 @@
             <mods:namePart type="date">1916-2002</mods:namePart>
             <mods:displayForm>Tevis, Lloyd P.,  (Lloyd Pacheco), 1916-2002</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Index</mods:genre>
         <mods:physicalDescription>
             <mods:extent>1 pages</mods:extent>
         </mods:physicalDescription>
@@ -64,7 +65,7 @@
             <mods:dateCreated point="start">1950</mods:dateCreated>
             <mods:dateCreated point="end">1950</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="local">
+        <mods:name type="personal" authority="LCHS">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
@@ -74,6 +75,7 @@
             <mods:namePart type="date">1916-2002</mods:namePart>
             <mods:displayForm>Tevis, Lloyd P.,  (Lloyd Pacheco), 1916-2002</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
         <mods:physicalDescription>
             <mods:extent>4 pages</mods:extent>
         </mods:physicalDescription>
@@ -92,7 +94,7 @@
             <mods:dateCreated point="start">1950</mods:dateCreated>
             <mods:dateCreated point="end">1950</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="local">
+        <mods:name type="personal" authority="LCHS">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
@@ -102,6 +104,7 @@
             <mods:namePart type="date">1916-2002</mods:namePart>
             <mods:displayForm>Tevis, Lloyd P.,  (Lloyd Pacheco), 1916-2002</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:physicalDescription>
             <mods:extent>14 pages</mods:extent>
         </mods:physicalDescription>
@@ -120,7 +123,7 @@
             <mods:dateCreated point="start">1950</mods:dateCreated>
             <mods:dateCreated point="end">1950</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="local">
+        <mods:name type="personal" authority="LCHS">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
@@ -130,6 +133,8 @@
             <mods:namePart type="date">1916-2002</mods:namePart>
             <mods:displayForm>Tevis, Lloyd P.,  (Lloyd Pacheco), 1916-2002</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:physicalDescription>
             <mods:extent>85 pages</mods:extent>
         </mods:physicalDescription>

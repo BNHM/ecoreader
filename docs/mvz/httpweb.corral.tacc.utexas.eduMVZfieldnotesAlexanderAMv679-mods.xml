@@ -46,6 +46,7 @@
             <mods:namePart type="date">1867-1950</mods:namePart>
             <mods:displayForm>Alexander, Annie Montague, 1867-1950</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Index</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/AlexanderAM/v679_s0</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -81,6 +82,8 @@
             <mods:namePart type="date">1879-1967</mods:namePart>
             <mods:displayForm>Kellogg, Louise, 1879-1967</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/AlexanderAM/v679_s1</mods:identifier>
     </mods:relatedItem>
 </mods:mods>

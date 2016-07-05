@@ -64,6 +64,8 @@
             <mods:namePart type="date">1893-1975</mods:namePart>
             <mods:displayForm>Camp, Charles Lewis, 1893-1975</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:physicalDescription>
             <mods:extent>51 pages</mods:extent>
         </mods:physicalDescription>

@@ -44,6 +44,7 @@
             <mods:namePart type="given">Halstead G.</mods:namePart>
             <mods:displayForm>White, Halstead G.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Index</mods:genre>
         <mods:physicalDescription>
             <mods:extent>1 pages</mods:extent>
         </mods:physicalDescription>
@@ -71,6 +72,8 @@
             <mods:namePart type="given">Halstead G.</mods:namePart>
             <mods:displayForm>White, Halstead G.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, California, Fresno County</mods:geographic>
         </mods:subject>
@@ -101,6 +104,8 @@
             <mods:namePart type="given">Halstead G.</mods:namePart>
             <mods:displayForm>White, Halstead G.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, California, San Bernardino County</mods:geographic>
         </mods:subject>
@@ -131,6 +136,8 @@
             <mods:namePart type="given">Halstead G.</mods:namePart>
             <mods:displayForm>White, Halstead G.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, California, Inyo County</mods:geographic>
         </mods:subject>
@@ -164,6 +171,8 @@
             <mods:namePart type="given">Halstead G.</mods:namePart>
             <mods:displayForm>White, Halstead G.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, California, Inyo County</mods:geographic>
         </mods:subject>

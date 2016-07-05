@@ -44,6 +44,7 @@
             <mods:namePart type="given">Richard D.</mods:namePart>
             <mods:displayForm>Sage, Richard D.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/SageRD/v1592_s1</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -68,6 +69,7 @@
             <mods:namePart type="given">Richard D.</mods:namePart>
             <mods:displayForm>Sage, Richard D.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/SageRD/v1592_s2</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -92,6 +94,7 @@
             <mods:namePart type="given">Richard D.</mods:namePart>
             <mods:displayForm>Sage, Richard D.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/SageRD/v1592_s3</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -116,6 +119,7 @@
             <mods:namePart type="given">Richard D.</mods:namePart>
             <mods:displayForm>Sage, Richard D.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/SageRD/v1592_s4</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -140,6 +144,7 @@
             <mods:namePart type="given">Richard D.</mods:namePart>
             <mods:displayForm>Sage, Richard D.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/SageRD/v1592_s5</mods:identifier>
     </mods:relatedItem>
 </mods:mods>

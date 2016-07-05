@@ -46,6 +46,8 @@
             <mods:namePart type="date">1918-</mods:namePart>
             <mods:displayForm>Hildebrand, Milton, 1918-</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, California, Inyo County</mods:geographic>
         </mods:subject>

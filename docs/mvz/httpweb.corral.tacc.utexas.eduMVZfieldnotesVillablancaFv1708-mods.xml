@@ -44,6 +44,7 @@
             <mods:namePart type="given">Francis X.</mods:namePart>
             <mods:displayForm>Villablanca, Francis X.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Index</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/VillablancaF/v1708_s0</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -98,6 +99,7 @@
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, California, Ventura County</mods:geographic>
         </mods:subject>
+        <mods:genre authority="local">Species accounts</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/VillablancaF/v1708_s1</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -122,6 +124,7 @@
             <mods:namePart type="given">Francis X.</mods:namePart>
             <mods:displayForm>Villablanca, Francis X.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, California, Fresno County</mods:geographic>
         </mods:subject>
@@ -191,6 +194,7 @@
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, California, San Luis Obispo County</mods:geographic>
         </mods:subject>
+        <mods:genre authority="local">Species accounts</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/VillablancaF/v1708_s3</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">

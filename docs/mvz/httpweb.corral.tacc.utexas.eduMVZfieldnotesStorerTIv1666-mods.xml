@@ -46,6 +46,8 @@
             <mods:namePart type="date">1889-1973</mods:namePart>
             <mods:displayForm>Storer, Tracy I. (Tracy Irwin), 1889-1973</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:physicalDescription>
             <mods:extent>172 pages</mods:extent>
         </mods:physicalDescription>

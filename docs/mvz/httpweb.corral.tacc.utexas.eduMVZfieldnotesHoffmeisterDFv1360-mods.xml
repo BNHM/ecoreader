@@ -44,6 +44,8 @@
             <mods:namePart type="given">Donald F.</mods:namePart>
             <mods:displayForm>Hoffmeister, Donald F.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/HoffmeisterDF/v1360_s1</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -68,6 +70,8 @@
             <mods:namePart type="given">Donald F.</mods:namePart>
             <mods:displayForm>Hoffmeister, Donald F.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/HoffmeisterDF/v1360_s2</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -92,6 +96,8 @@
             <mods:namePart type="given">Donald F.</mods:namePart>
             <mods:displayForm>Hoffmeister, Donald F.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/HoffmeisterDF/v1360_s3</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -116,6 +122,8 @@
             <mods:namePart type="given">Donald F.</mods:namePart>
             <mods:displayForm>Hoffmeister, Donald F.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/HoffmeisterDF/v1360_s4</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -140,6 +148,8 @@
             <mods:namePart type="given">Donald F.</mods:namePart>
             <mods:displayForm>Hoffmeister, Donald F.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/HoffmeisterDF/v1360_s5</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -164,6 +174,7 @@
             <mods:namePart type="given">Donald F.</mods:namePart>
             <mods:displayForm>Hoffmeister, Donald F.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/HoffmeisterDF/v1360_s6</mods:identifier>
     </mods:relatedItem>
 </mods:mods>

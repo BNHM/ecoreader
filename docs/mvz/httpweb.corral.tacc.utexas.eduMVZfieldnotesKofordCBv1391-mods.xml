@@ -44,6 +44,7 @@
             <mods:namePart type="given">Carl B.</mods:namePart>
             <mods:displayForm>Koford, Carl B.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, California, Imperial County</mods:geographic>
         </mods:subject>

@@ -49,6 +49,7 @@
         <mods:subject authority="arctos">
             <mods:geographic> North America, Mexico, Aguascalientes</mods:geographic>
         </mods:subject>
+        <mods:genre authority="aat">Catalogs</mods:genre>
         <mods:subject authority="arctos">
             <mods:geographic>North America, Mexico, Coahuila</mods:geographic>
         </mods:subject>

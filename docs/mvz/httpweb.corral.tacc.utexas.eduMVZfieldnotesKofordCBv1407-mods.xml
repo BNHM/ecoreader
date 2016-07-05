@@ -44,6 +44,8 @@
             <mods:namePart type="given">Carl B.</mods:namePart>
             <mods:displayForm>Koford, Carl B.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/KofordCB/v1407_s1</mods:identifier>
     </mods:relatedItem>
 </mods:mods>

@@ -44,6 +44,7 @@
             <mods:namePart type="given">Ronald W.</mods:namePart>
             <mods:displayForm>Smith, Ronald W.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Index</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/SmithRW/v1621_s0</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">

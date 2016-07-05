@@ -44,6 +44,7 @@
             <mods:namePart type="given">Gene M.</mods:namePart>
             <mods:displayForm>Christman, Gene M.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/ChristmanGM/v562_s1</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -68,6 +69,8 @@
             <mods:namePart type="given">Gene M.</mods:namePart>
             <mods:displayForm>Christman, Gene M.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal</mods:genre>
+        <mods:genre authority="local">Species accounts</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/ChristmanGM/v562_s2</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -92,6 +95,7 @@
             <mods:namePart type="given">Gene M.</mods:namePart>
             <mods:displayForm>Christman, Gene M.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Species accounts</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/ChristmanGM/v562_s3</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -116,6 +120,7 @@
             <mods:namePart type="given">Gene M.</mods:namePart>
             <mods:displayForm>Christman, Gene M.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/ChristmanGM/v562_s4</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -140,6 +145,7 @@
             <mods:namePart type="given">Gene M.</mods:namePart>
             <mods:displayForm>Christman, Gene M.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/ChristmanGM/v562_s5</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -164,6 +170,7 @@
             <mods:namePart type="given">Gene M.</mods:namePart>
             <mods:displayForm>Christman, Gene M.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/ChristmanGM/v562_s6</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -188,6 +195,8 @@
             <mods:namePart type="given">Gene M.</mods:namePart>
             <mods:displayForm>Christman, Gene M.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal</mods:genre>
+        <mods:genre authority="local">Species accounts</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/ChristmanGM/v562_s7</mods:identifier>
     </mods:relatedItem>
 </mods:mods>

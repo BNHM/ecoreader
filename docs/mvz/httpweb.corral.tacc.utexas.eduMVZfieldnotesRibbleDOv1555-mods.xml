@@ -53,6 +53,7 @@
             <mods:namePart type="given">Julie</mods:namePart>
             <mods:displayForm>Von Behren, Julie</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/RibbleDO/v1555_s1</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">

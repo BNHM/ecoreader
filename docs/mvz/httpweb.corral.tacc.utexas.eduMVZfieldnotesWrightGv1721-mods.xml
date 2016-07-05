@@ -46,6 +46,7 @@
             <mods:namePart type="date">1904-1936</mods:namePart>
             <mods:displayForm>Wright, George M.,  (George Melendez), 1904-1936</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:physicalDescription>
             <mods:extent>143 pages</mods:extent>
         </mods:physicalDescription>
@@ -74,6 +75,7 @@
             <mods:namePart type="date">1904-1936</mods:namePart>
             <mods:displayForm>Wright, George M.,  (George Melendez), 1904-1936</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:physicalDescription>
             <mods:extent>48 pages</mods:extent>
         </mods:physicalDescription>

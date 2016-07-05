@@ -46,6 +46,8 @@
             <mods:namePart type="date">1906-1965</mods:namePart>
             <mods:displayForm>Miller, Alden H.,  (Alden Holmes), 1906-1965</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:physicalDescription>
             <mods:extent>11 pages</mods:extent>
         </mods:physicalDescription>
@@ -74,6 +76,7 @@
             <mods:namePart type="date">1906-1965</mods:namePart>
             <mods:displayForm>Miller, Alden H.,  (Alden Holmes), 1906-1965</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
         <mods:physicalDescription>
             <mods:extent>6 pages</mods:extent>
         </mods:physicalDescription>
@@ -102,6 +105,8 @@
             <mods:namePart type="date">1906-1965</mods:namePart>
             <mods:displayForm>Miller, Alden H.,  (Alden Holmes), 1906-1965</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:physicalDescription>
             <mods:extent>45 pages</mods:extent>
         </mods:physicalDescription>
@@ -130,6 +135,8 @@
             <mods:namePart type="date">1906-1965</mods:namePart>
             <mods:displayForm>Miller, Alden H.,  (Alden Holmes), 1906-1965</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Species accounts</mods:genre>
         <mods:physicalDescription>
             <mods:extent>8 pages</mods:extent>
         </mods:physicalDescription>
@@ -158,6 +165,8 @@
             <mods:namePart type="date">1906-1965</mods:namePart>
             <mods:displayForm>Miller, Alden H.,  (Alden Holmes), 1906-1965</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:physicalDescription>
             <mods:extent>2 pages</mods:extent>
         </mods:physicalDescription>
@@ -186,6 +195,8 @@
             <mods:namePart type="date">1906-1965</mods:namePart>
             <mods:displayForm>Miller, Alden H.,  (Alden Holmes), 1906-1965</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:physicalDescription>
             <mods:extent>39 pages</mods:extent>
         </mods:physicalDescription>
@@ -214,6 +225,8 @@
             <mods:namePart type="date">1906-1965</mods:namePart>
             <mods:displayForm>Miller, Alden H.,  (Alden Holmes), 1906-1965</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Species accounts</mods:genre>
         <mods:physicalDescription>
             <mods:extent>18 pages</mods:extent>
         </mods:physicalDescription>
@@ -242,6 +255,8 @@
             <mods:namePart type="date">1906-1965</mods:namePart>
             <mods:displayForm>Miller, Alden H.,  (Alden Holmes), 1906-1965</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:physicalDescription>
             <mods:extent>44 pages</mods:extent>
         </mods:physicalDescription>
@@ -270,6 +285,7 @@
             <mods:namePart type="date">1906-1965</mods:namePart>
             <mods:displayForm>Miller, Alden H.,  (Alden Holmes), 1906-1965</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
         <mods:physicalDescription>
             <mods:extent>4 pages</mods:extent>
         </mods:physicalDescription>

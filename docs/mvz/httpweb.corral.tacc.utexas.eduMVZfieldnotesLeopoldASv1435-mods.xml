@@ -46,6 +46,8 @@
             <mods:namePart type="date">1913-1983</mods:namePart>
             <mods:displayForm>Leopold, A. Starker,  (Aldo Starker), 1913-1983</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:physicalDescription>
             <mods:extent>285 pages</mods:extent>
         </mods:physicalDescription>

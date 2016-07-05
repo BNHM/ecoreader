@@ -78,6 +78,7 @@
             <mods:namePart type="date">1963</mods:namePart>
             <mods:displayForm>Steinberg, Eleanor Kate, 1963</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Species accounts</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/RibbleDO/v1553_s2</mods:identifier>
     </mods:relatedItem>
 </mods:mods>

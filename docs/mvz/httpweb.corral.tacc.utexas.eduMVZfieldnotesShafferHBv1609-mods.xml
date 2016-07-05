@@ -55,6 +55,7 @@
             <mods:namePart type="date">1953-</mods:namePart>
             <mods:displayForm>Shaffer, H. Bradley,  (Howard Bradley), 1953-</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/ShafferHB/v1609_s1</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -89,6 +90,7 @@
             <mods:namePart type="date">1953-</mods:namePart>
             <mods:displayForm>Shaffer, H. Bradley,  (Howard Bradley), 1953-</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/ShafferHB/v1609_s2</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -123,6 +125,7 @@
             <mods:namePart type="date">1953-</mods:namePart>
             <mods:displayForm>Shaffer, H. Bradley,  (Howard Bradley), 1953-</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/ShafferHB/v1609_s3</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -157,6 +160,7 @@
             <mods:namePart type="date">1953-</mods:namePart>
             <mods:displayForm>Shaffer, H. Bradley,  (Howard Bradley), 1953-</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/ShafferHB/v1609_s4</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -191,6 +195,7 @@
             <mods:namePart type="date">1953-</mods:namePart>
             <mods:displayForm>Shaffer, H. Bradley,  (Howard Bradley), 1953-</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/ShafferHB/v1609_s5</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -225,6 +230,7 @@
             <mods:namePart type="date">1953-</mods:namePart>
             <mods:displayForm>Shaffer, H. Bradley,  (Howard Bradley), 1953-</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/ShafferHB/v1609_s6</mods:identifier>
     </mods:relatedItem>
 </mods:mods>

@@ -44,6 +44,7 @@
             <mods:namePart type="given">William B.</mods:namePart>
             <mods:displayForm>Richardson, William B.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Index</mods:genre>
         <mods:physicalDescription>
             <mods:extent>1 pages</mods:extent>
         </mods:physicalDescription>
@@ -71,6 +72,7 @@
             <mods:namePart type="given">William B.</mods:namePart>
             <mods:displayForm>Richardson, William B.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:physicalDescription>
             <mods:extent>27 pages</mods:extent>
         </mods:physicalDescription>
@@ -98,6 +100,7 @@
             <mods:namePart type="given">William B.</mods:namePart>
             <mods:displayForm>Richardson, William B.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:physicalDescription>
             <mods:extent>160 pages</mods:extent>
         </mods:physicalDescription>
@@ -125,6 +128,7 @@
             <mods:namePart type="given">William B.</mods:namePart>
             <mods:displayForm>Richardson, William B.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:physicalDescription>
             <mods:extent>13 pages</mods:extent>
         </mods:physicalDescription>
@@ -152,6 +156,7 @@
             <mods:namePart type="given">William B.</mods:namePart>
             <mods:displayForm>Richardson, William B.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:physicalDescription>
             <mods:extent>52 pages</mods:extent>
         </mods:physicalDescription>
@@ -179,6 +184,7 @@
             <mods:namePart type="given">William B.</mods:namePart>
             <mods:displayForm>Richardson, William B.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:physicalDescription>
             <mods:extent>16 pages</mods:extent>
         </mods:physicalDescription>
@@ -206,6 +212,7 @@
             <mods:namePart type="given">William B.</mods:namePart>
             <mods:displayForm>Richardson, William B.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:physicalDescription>
             <mods:extent>30 pages</mods:extent>
         </mods:physicalDescription>

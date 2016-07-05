@@ -46,6 +46,8 @@
             <mods:namePart type="date">1912-1996</mods:namePart>
             <mods:displayForm>Johnson, David H.,  (David Horn), 1912-1996</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/JohnsonDH/v1376_s1</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -71,6 +73,8 @@
             <mods:namePart type="date">1912-1996</mods:namePart>
             <mods:displayForm>Johnson, David H.,  (David Horn), 1912-1996</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, California, Alameda County</mods:geographic>
         </mods:subject>
@@ -114,6 +118,8 @@
             <mods:namePart type="date">1912-1996</mods:namePart>
             <mods:displayForm>Johnson, David H.,  (David Horn), 1912-1996</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, California, Inyo County</mods:geographic>
         </mods:subject>
@@ -151,6 +157,8 @@
             <mods:namePart type="date">1912-1996</mods:namePart>
             <mods:displayForm>Johnson, David H.,  (David Horn), 1912-1996</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, California, Lassen County</mods:geographic>
         </mods:subject>
@@ -203,6 +211,8 @@
             <mods:namePart type="date">1912-1996</mods:namePart>
             <mods:displayForm>Johnson, David H.,  (David Horn), 1912-1996</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/JohnsonDH/v1376_s5</mods:identifier>
     </mods:relatedItem>
 </mods:mods>

@@ -46,6 +46,7 @@
             <mods:namePart type="date">1879-1967</mods:namePart>
             <mods:displayForm>Kellogg, Louise, 1879-1967</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Index</mods:genre>
         <mods:physicalDescription>
             <mods:extent>1 pages</mods:extent>
         </mods:physicalDescription>
@@ -74,6 +75,8 @@
             <mods:namePart type="date">1879-1967</mods:namePart>
             <mods:displayForm>Kellogg, Louise, 1879-1967</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, California, Inyo County</mods:geographic>
         </mods:subject>
@@ -108,6 +111,7 @@
             <mods:namePart type="date">1879-1967</mods:namePart>
             <mods:displayForm>Kellogg, Louise, 1879-1967</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:subject authority="arctos">
             <mods:geographic>Pacific Ocean, France, French Polynesia, Society Islands, Moorea</mods:geographic>
         </mods:subject>
@@ -139,6 +143,8 @@
             <mods:namePart type="date">1879-1967</mods:namePart>
             <mods:displayForm>Kellogg, Louise, 1879-1967</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, California, Amador County</mods:geographic>
         </mods:subject>
@@ -179,6 +185,8 @@
             <mods:namePart type="date">1879-1967</mods:namePart>
             <mods:displayForm>Kellogg, Louise, 1879-1967</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, California, Inyo County</mods:geographic>
         </mods:subject>
@@ -213,6 +221,8 @@
             <mods:namePart type="date">1879-1967</mods:namePart>
             <mods:displayForm>Kellogg, Louise, 1879-1967</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, California, Kern County</mods:geographic>
         </mods:subject>
@@ -247,6 +257,8 @@
             <mods:namePart type="date">1879-1967</mods:namePart>
             <mods:displayForm>Kellogg, Louise, 1879-1967</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, California, Solano County</mods:geographic>
         </mods:subject>
@@ -278,6 +290,8 @@
             <mods:namePart type="date">1879-1967</mods:namePart>
             <mods:displayForm>Kellogg, Louise, 1879-1967</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, California, Imperial County</mods:geographic>
         </mods:subject>
@@ -312,6 +326,8 @@
             <mods:namePart type="date">1879-1967</mods:namePart>
             <mods:displayForm>Kellogg, Louise, 1879-1967</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, Nevada, Clark County</mods:geographic>
         </mods:subject>
@@ -343,6 +359,8 @@
             <mods:namePart type="date">1879-1967</mods:namePart>
             <mods:displayForm>Kellogg, Louise, 1879-1967</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, California, Inyo County</mods:geographic>
         </mods:subject>

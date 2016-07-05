@@ -46,6 +46,7 @@
             <mods:namePart type="date">1902-1986</mods:namePart>
             <mods:displayForm>Hall, E. Raymond,  (Eugene Raymond), 1902-1986</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, California, Alameda County</mods:geographic>
         </mods:subject>
@@ -86,6 +87,8 @@
             <mods:namePart type="date">1902-1986</mods:namePart>
             <mods:displayForm>Hall, E. Raymond,  (Eugene Raymond), 1902-1986</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, California, Inyo County</mods:geographic>
         </mods:subject>
@@ -123,6 +126,8 @@
             <mods:namePart type="date">1902-1986</mods:namePart>
             <mods:displayForm>Hall, E. Raymond,  (Eugene Raymond), 1902-1986</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, California, Alameda County</mods:geographic>
         </mods:subject>
@@ -157,6 +162,8 @@
             <mods:namePart type="date">1902-1986</mods:namePart>
             <mods:displayForm>Hall, E. Raymond,  (Eugene Raymond), 1902-1986</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, Kansas, Douglas County</mods:geographic>
         </mods:subject>
@@ -191,6 +198,8 @@
             <mods:namePart type="date">1902-1986</mods:namePart>
             <mods:displayForm>Hall, E. Raymond,  (Eugene Raymond), 1902-1986</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, California, Alameda County</mods:geographic>
         </mods:subject>
@@ -225,6 +234,8 @@
             <mods:namePart type="date">1902-1986</mods:namePart>
             <mods:displayForm>Hall, E. Raymond,  (Eugene Raymond), 1902-1986</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, District of Columbia, Washington</mods:geographic>
         </mods:subject>
@@ -256,6 +267,8 @@
             <mods:namePart type="date">1902-1986</mods:namePart>
             <mods:displayForm>Hall, E. Raymond,  (Eugene Raymond), 1902-1986</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, California, Alameda County</mods:geographic>
         </mods:subject>
@@ -290,6 +303,8 @@
             <mods:namePart type="date">1902-1986</mods:namePart>
             <mods:displayForm>Hall, E. Raymond,  (Eugene Raymond), 1902-1986</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, Arizona, Coconino County</mods:geographic>
         </mods:subject>
@@ -324,6 +339,7 @@
             <mods:namePart type="date">1902-1986</mods:namePart>
             <mods:displayForm>Hall, E. Raymond,  (Eugene Raymond), 1902-1986</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, California, Alameda County</mods:geographic>
         </mods:subject>

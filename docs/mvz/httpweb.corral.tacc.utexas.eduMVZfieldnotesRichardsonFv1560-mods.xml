@@ -46,6 +46,7 @@
             <mods:namePart type="date">1913-</mods:namePart>
             <mods:displayForm>Richardson, Frank, 1913-</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/RichardsonF/v1560_s1</mods:identifier>
     </mods:relatedItem>
 </mods:mods>

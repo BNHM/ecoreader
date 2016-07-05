@@ -46,6 +46,7 @@
             <mods:namePart type="date">1902-1986</mods:namePart>
             <mods:displayForm>Hall, E. Raymond,  (Eugene Raymond), 1902-1986</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, California, Lassen County</mods:geographic>
         </mods:subject>

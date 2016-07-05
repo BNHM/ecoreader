@@ -46,6 +46,7 @@
             <mods:namePart type="date">1924-</mods:namePart>
             <mods:displayForm>Landry, Stuart O.,  (Stuart Omer), 1924-</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Index</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/LandrySO/v1429_s0</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -71,6 +72,8 @@
             <mods:namePart type="date">1924-</mods:namePart>
             <mods:displayForm>Landry, Stuart O.,  (Stuart Omer), 1924-</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, California, Alameda County</mods:geographic>
         </mods:subject>
@@ -108,6 +111,8 @@
             <mods:namePart type="date">1924-</mods:namePart>
             <mods:displayForm>Landry, Stuart O.,  (Stuart Omer), 1924-</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, California, Alameda County</mods:geographic>
         </mods:subject>
@@ -148,6 +153,8 @@
             <mods:namePart type="date">1924-</mods:namePart>
             <mods:displayForm>Landry, Stuart O.,  (Stuart Omer), 1924-</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, Louisiana, Jefferson Parish</mods:geographic>
         </mods:subject>
@@ -188,6 +195,7 @@
             <mods:namePart type="date">1924-</mods:namePart>
             <mods:displayForm>Landry, Stuart O.,  (Stuart Omer), 1924-</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, California, Alameda County</mods:geographic>
         </mods:subject>

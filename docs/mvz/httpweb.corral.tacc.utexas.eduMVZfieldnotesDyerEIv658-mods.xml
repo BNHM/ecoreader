@@ -44,6 +44,7 @@
             <mods:namePart type="given">Ernest I.</mods:namePart>
             <mods:displayForm>Dyer, Ernest I.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/DyerEI/v658_s1</mods:identifier>
     </mods:relatedItem>
 </mods:mods>

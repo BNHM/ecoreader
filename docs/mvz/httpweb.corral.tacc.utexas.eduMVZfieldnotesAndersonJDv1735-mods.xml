@@ -46,6 +46,7 @@
             <mods:namePart type="date">1930-1976</mods:namePart>
             <mods:displayForm>Anderson, James D., 1930-1976</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/AndersonJD/v1735_s1</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -61,7 +62,7 @@
             <mods:dateCreated point="start">1960</mods:dateCreated>
             <mods:dateCreated point="end">1960</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="LCHS">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
@@ -70,6 +71,7 @@
             <mods:namePart type="given">Samuel M.</mods:namePart>
             <mods:displayForm>McGinnis, Samuel M.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/AndersonJD/v1735_s2</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -94,6 +96,7 @@
             <mods:namePart type="given">Edwin O.</mods:namePart>
             <mods:displayForm>Willis, Edwin O.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/AndersonJD/v1735_s3</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -118,6 +121,7 @@
             <mods:namePart type="given">Edwin O.</mods:namePart>
             <mods:displayForm>Willis, Edwin O.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/AndersonJD/v1735_s4</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -133,7 +137,7 @@
             <mods:dateCreated point="start">1961</mods:dateCreated>
             <mods:dateCreated point="end">1961</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="LCHS">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
@@ -142,6 +146,7 @@
             <mods:namePart type="given">Peter A.</mods:namePart>
             <mods:displayForm>Jordan, Peter A.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/AndersonJD/v1735_s5</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -157,7 +162,7 @@
             <mods:dateCreated point="start">1961</mods:dateCreated>
             <mods:dateCreated point="end">1961</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="local">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
@@ -166,6 +171,7 @@
             <mods:namePart type="given">Michael J.</mods:namePart>
             <mods:displayForm>Pontrelli, Michael J.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/AndersonJD/v1735_s6</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -181,7 +187,7 @@
             <mods:dateCreated point="start">1961</mods:dateCreated>
             <mods:dateCreated point="end">1961</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="local">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
@@ -190,6 +196,7 @@
             <mods:namePart type="given">Michael J.</mods:namePart>
             <mods:displayForm>Pontrelli, Michael J.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/AndersonJD/v1735_s7</mods:identifier>
     </mods:relatedItem>
 </mods:mods>

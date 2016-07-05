@@ -44,6 +44,7 @@
             <mods:namePart type="given">Joye Harold</mods:namePart>
             <mods:displayForm>Severaid, Joye Harold</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Species accounts</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/SeveraidJH/v1605_s1</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -68,6 +69,7 @@
             <mods:namePart type="given">Joye Harold</mods:namePart>
             <mods:displayForm>Severaid, Joye Harold</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Species accounts</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/SeveraidJH/v1605_s2</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -92,6 +94,7 @@
             <mods:namePart type="given">Joye Harold</mods:namePart>
             <mods:displayForm>Severaid, Joye Harold</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Species accounts</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/SeveraidJH/v1605_s3</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -116,6 +119,7 @@
             <mods:namePart type="given">Joye Harold</mods:namePart>
             <mods:displayForm>Severaid, Joye Harold</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Species accounts</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/SeveraidJH/v1605_s4</mods:identifier>
     </mods:relatedItem>
 </mods:mods>

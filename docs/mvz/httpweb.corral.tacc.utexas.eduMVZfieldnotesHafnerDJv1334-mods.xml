@@ -44,6 +44,7 @@
             <mods:namePart type="given">David J.</mods:namePart>
             <mods:displayForm>Hafner, David J.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/HafnerDJ/v1334_s1</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -68,6 +69,7 @@
             <mods:namePart type="given">David J.</mods:namePart>
             <mods:displayForm>Hafner, David J.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/HafnerDJ/v1334_s2</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -92,6 +94,7 @@
             <mods:namePart type="given">John C.</mods:namePart>
             <mods:displayForm>Hafner, John C.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/HafnerDJ/v1334_s3</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -116,6 +119,7 @@
             <mods:namePart type="given">John C.</mods:namePart>
             <mods:displayForm>Hafner, John C.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/HafnerDJ/v1334_s4</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -141,6 +145,7 @@
             <mods:namePart type="date">1947-</mods:namePart>
             <mods:displayForm>Hilborn, Ray, 1947-</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/HafnerDJ/v1334_s5</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -166,6 +171,7 @@
             <mods:namePart type="date">1947-</mods:namePart>
             <mods:displayForm>Hilborn, Ray, 1947-</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/HafnerDJ/v1334_s6</mods:identifier>
     </mods:relatedItem>
 </mods:mods>

@@ -46,6 +46,8 @@
             <mods:namePart type="date">1905-</mods:namePart>
             <mods:displayForm>Erickson, Mary M.,  (Mary Marilla), 1905-</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, Arizona, Yuma County</mods:geographic>
         </mods:subject>
@@ -89,6 +91,8 @@
             <mods:namePart type="date">1905-</mods:namePart>
             <mods:displayForm>Erickson, Mary M.,  (Mary Marilla), 1905-</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/EricksonMM/v656_s2</mods:identifier>
     </mods:relatedItem>
 </mods:mods>

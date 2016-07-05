@@ -12,7 +12,7 @@
         <mods:dateCreated point="start">1935</mods:dateCreated>
         <mods:dateCreated point="end">1955</mods:dateCreated>
     </mods:originInfo>
-    <mods:name type="personal" authority="ingest">
+    <mods:name type="personal" authority="local">
         <mods:role>
             <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
             <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
@@ -35,7 +35,7 @@
             <mods:dateCreated point="start">1935</mods:dateCreated>
             <mods:dateCreated point="end">1955</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="local">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
@@ -44,6 +44,7 @@
             <mods:namePart type="given">Robert E.</mods:namePart>
             <mods:displayForm>Bailey, Robert E.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Index</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/BaileyRE/v1739_s0</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -59,7 +60,7 @@
             <mods:dateCreated point="start">1950</mods:dateCreated>
             <mods:dateCreated point="end">1950</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="local">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
@@ -68,6 +69,8 @@
             <mods:namePart type="given">Robert E.</mods:namePart>
             <mods:displayForm>Bailey, Robert E.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/BaileyRE/v1739_s1</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -92,6 +95,7 @@
             <mods:namePart type="given">James Basil</mods:namePart>
             <mods:displayForm>Bowers, James Basil</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/BaileyRE/v1739_s2</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -116,6 +120,8 @@
             <mods:namePart type="given">Paul</mods:namePart>
             <mods:displayForm>Dehnel, Paul</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/BaileyRE/v1739_s3</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -140,6 +146,7 @@
             <mods:namePart type="given">E. C.</mods:namePart>
             <mods:displayForm>Dougherty, E. C.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/BaileyRE/v1739_s4</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -155,15 +162,17 @@
             <mods:dateCreated point="start">1935</mods:dateCreated>
             <mods:dateCreated point="end">1935</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="LCHS">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
             </mods:role>
             <mods:namePart type="family">Eakin</mods:namePart>
             <mods:namePart type="given">Richard M.</mods:namePart>
+            <mods:namePart type="date">1910-1999</mods:namePart>
             <mods:displayForm>Eakin, Richard M., 1910-1999</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/BaileyRE/v1739_s5</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -190,6 +199,8 @@
             <mods:namePart type="date">1920-1964</mods:namePart>
             <mods:displayForm>Fox, Wade, Jr.,  (Fox, Rufus Wade, Jr.), 1920-1964</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/BaileyRE/v1739_s6</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -215,6 +226,7 @@
             <mods:namePart type="date">1916-</mods:namePart>
             <mods:displayForm>Genelly, Richard Emmett, 1916-</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/BaileyRE/v1739_s7</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -239,6 +251,8 @@
             <mods:namePart type="given">Ronald A.</mods:namePart>
             <mods:displayForm>Hahn, Ronald A.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/BaileyRE/v1739_s8</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -263,6 +277,7 @@
             <mods:namePart type="given">Robert S.</mods:namePart>
             <mods:displayForm>Hoffmann, Robert S.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/BaileyRE/v1739_s9</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -278,13 +293,14 @@
             <mods:dateCreated point="start">1942</mods:dateCreated>
             <mods:dateCreated point="end">1942</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="LCHS">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
             </mods:role>
             <mods:namePart type="family">James</mods:namePart>
             <mods:namePart type="given">Miriam Stokes</mods:namePart>
+            <mods:namePart type="date">1914-</mods:namePart>
             <mods:displayForm>James, Miriam Stokes, 1914-</mods:displayForm>
         </mods:name>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/BaileyRE/v1739_s10</mods:identifier>
@@ -311,6 +327,8 @@
             <mods:namePart type="given">Malcolm</mods:namePart>
             <mods:displayForm>Jollie, Malcolm</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/BaileyRE/v1739_s11</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -335,6 +353,8 @@
             <mods:namePart type="given">Malcolm</mods:namePart>
             <mods:displayForm>Jollie, Malcolm</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/BaileyRE/v1739_s12</mods:identifier>
     </mods:relatedItem>
 </mods:mods>

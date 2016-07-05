@@ -44,6 +44,7 @@
             <mods:namePart type="given">Javier A.</mods:namePart>
             <mods:displayForm>Rodríguez-Robles, Javier A.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/RodriguezJA/v4153_s1</mods:identifier>
     </mods:relatedItem>
 </mods:mods>

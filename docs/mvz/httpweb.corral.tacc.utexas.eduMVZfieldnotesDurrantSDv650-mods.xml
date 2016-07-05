@@ -46,6 +46,8 @@
             <mods:namePart type="date">1902-1975</mods:namePart>
             <mods:displayForm>Durrant, Stephen David, 1902-1975</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:physicalDescription>
             <mods:extent>90 pages</mods:extent>
         </mods:physicalDescription>

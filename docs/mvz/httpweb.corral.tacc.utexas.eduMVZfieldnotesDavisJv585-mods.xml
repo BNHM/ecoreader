@@ -44,6 +44,7 @@
             <mods:namePart type="given">John</mods:namePart>
             <mods:displayForm>Davis, John</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/DavisJ/v585_s1</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -68,6 +69,8 @@
             <mods:namePart type="given">John</mods:namePart>
             <mods:displayForm>Davis, John</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal</mods:genre>
+        <mods:genre authority="local">Species accounts</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/DavisJ/v585_s2</mods:identifier>
     </mods:relatedItem>
 </mods:mods>

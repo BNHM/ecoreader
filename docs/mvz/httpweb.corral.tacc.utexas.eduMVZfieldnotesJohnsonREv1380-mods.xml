@@ -46,6 +46,7 @@
             <mods:namePart type="date">1936-</mods:namePart>
             <mods:displayForm>Johnson, Richard E.,  (Richard Evan), 1936-</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/JohnsonRE/v1380_s1</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -71,6 +72,7 @@
             <mods:namePart type="date">1936-</mods:namePart>
             <mods:displayForm>Johnson, Richard E.,  (Richard Evan), 1936-</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/JohnsonRE/v1380_s2</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -96,6 +98,7 @@
             <mods:namePart type="date">1936-</mods:namePart>
             <mods:displayForm>Johnson, Richard E.,  (Richard Evan), 1936-</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/JohnsonRE/v1380_s3</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -121,6 +124,7 @@
             <mods:namePart type="date">1936-</mods:namePart>
             <mods:displayForm>Johnson, Richard E.,  (Richard Evan), 1936-</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/JohnsonRE/v1380_s4</mods:identifier>
     </mods:relatedItem>
 </mods:mods>

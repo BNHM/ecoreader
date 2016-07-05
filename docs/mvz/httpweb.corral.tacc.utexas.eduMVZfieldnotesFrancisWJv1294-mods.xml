@@ -44,6 +44,7 @@
             <mods:namePart type="given">William J.</mods:namePart>
             <mods:displayForm>Francis, William J.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/FrancisWJ/v1294_s1</mods:identifier>
     </mods:relatedItem>
 </mods:mods>

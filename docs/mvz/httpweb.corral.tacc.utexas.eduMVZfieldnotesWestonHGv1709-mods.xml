@@ -44,6 +44,7 @@
             <mods:namePart type="given">Henry G.</mods:namePart>
             <mods:displayForm>Weston, Henry G.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Index</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/WestonHG/v1709_s0</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -68,6 +69,8 @@
             <mods:namePart type="given">Henry G.</mods:namePart>
             <mods:displayForm>Weston, Henry G.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, California, Alameda County</mods:geographic>
         </mods:subject>
@@ -125,12 +128,14 @@
             <mods:namePart type="given">Henry G.</mods:namePart>
             <mods:displayForm>Weston, Henry G.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, California, Riverside County</mods:geographic>
         </mods:subject>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, California, San Bernardino County</mods:geographic>
         </mods:subject>
+        <mods:genre authority="local">Species accounts</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/WestonHG/v1709_s2</mods:identifier>
     </mods:relatedItem>
 </mods:mods>

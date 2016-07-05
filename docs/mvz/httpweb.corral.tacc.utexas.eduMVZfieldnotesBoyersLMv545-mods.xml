@@ -46,6 +46,8 @@
             <mods:namePart type="date">1888-</mods:namePart>
             <mods:displayForm>Boyers, Luther M. ,  (Luther Mussen), 1888-</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/BoyersLM/v545_s1</mods:identifier>
     </mods:relatedItem>
 </mods:mods>

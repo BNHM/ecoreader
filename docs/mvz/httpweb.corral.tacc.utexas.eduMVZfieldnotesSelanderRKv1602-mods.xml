@@ -44,6 +44,7 @@
             <mods:namePart type="given">Robert K.</mods:namePart>
             <mods:displayForm>Selander, Robert K.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Index</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/SelanderRK/v1602_s0</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -68,6 +69,7 @@
             <mods:namePart type="given">Robert K.</mods:namePart>
             <mods:displayForm>Selander, Robert K.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/SelanderRK/v1602_s1</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -116,6 +118,7 @@
             <mods:namePart type="given">Robert K.</mods:namePart>
             <mods:displayForm>Selander, Robert K.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/SelanderRK/v1602_s3</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">

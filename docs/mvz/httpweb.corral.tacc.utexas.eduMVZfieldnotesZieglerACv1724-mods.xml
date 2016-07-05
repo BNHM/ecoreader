@@ -44,6 +44,7 @@
             <mods:namePart type="given">Alan C.</mods:namePart>
             <mods:displayForm>Ziegler, Alan C.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Index</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/ZieglerAC/v1724_s0</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -68,6 +69,7 @@
             <mods:namePart type="given">Alan C.</mods:namePart>
             <mods:displayForm>Ziegler, Alan C.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/ZieglerAC/v1724_s1</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -92,6 +94,7 @@
             <mods:namePart type="given">Alan C.</mods:namePart>
             <mods:displayForm>Ziegler, Alan C.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/ZieglerAC/v1724_s2</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -116,6 +119,7 @@
             <mods:namePart type="given">Alan C.</mods:namePart>
             <mods:displayForm>Ziegler, Alan C.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/ZieglerAC/v1724_s3</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -140,6 +144,7 @@
             <mods:namePart type="given">Alan C.</mods:namePart>
             <mods:displayForm>Ziegler, Alan C.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/ZieglerAC/v1724_s4</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -164,6 +169,7 @@
             <mods:namePart type="given">Alan C.</mods:namePart>
             <mods:displayForm>Ziegler, Alan C.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/ZieglerAC/v1724_s5</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -188,6 +194,7 @@
             <mods:namePart type="given">Alan C.</mods:namePart>
             <mods:displayForm>Ziegler, Alan C.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/ZieglerAC/v1724_s6</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -212,6 +219,7 @@
             <mods:namePart type="given">Alan C.</mods:namePart>
             <mods:displayForm>Ziegler, Alan C.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/ZieglerAC/v1724_s7</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -236,6 +244,7 @@
             <mods:namePart type="given">Alan C.</mods:namePart>
             <mods:displayForm>Ziegler, Alan C.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/ZieglerAC/v1724_s8</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -260,6 +269,7 @@
             <mods:namePart type="given">Alan C.</mods:namePart>
             <mods:displayForm>Ziegler, Alan C.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/ZieglerAC/v1724_s9</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -284,6 +294,7 @@
             <mods:namePart type="given">Alan C.</mods:namePart>
             <mods:displayForm>Ziegler, Alan C.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/ZieglerAC/v1724_s10</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -308,6 +319,7 @@
             <mods:namePart type="given">Alan C.</mods:namePart>
             <mods:displayForm>Ziegler, Alan C.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/ZieglerAC/v1724_s11</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -332,6 +344,7 @@
             <mods:namePart type="given">Alan C.</mods:namePart>
             <mods:displayForm>Ziegler, Alan C.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Species accounts</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/ZieglerAC/v1724_s12</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -356,6 +369,7 @@
             <mods:namePart type="given">Alan C.</mods:namePart>
             <mods:displayForm>Ziegler, Alan C.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/ZieglerAC/v1724_s13</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -380,6 +394,7 @@
             <mods:namePart type="given">Alan C.</mods:namePart>
             <mods:displayForm>Ziegler, Alan C.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/ZieglerAC/v1724_s14</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -404,6 +419,7 @@
             <mods:namePart type="given">Alan C.</mods:namePart>
             <mods:displayForm>Ziegler, Alan C.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Species accounts</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/ZieglerAC/v1724_s15</mods:identifier>
     </mods:relatedItem>
 </mods:mods>

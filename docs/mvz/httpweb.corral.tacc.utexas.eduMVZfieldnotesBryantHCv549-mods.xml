@@ -46,6 +46,7 @@
             <mods:namePart type="date">1886-1968</mods:namePart>
             <mods:displayForm>Bryant, H. C. (Harold Child), 1886-1968</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Index</mods:genre>
         <mods:physicalDescription>
             <mods:extent>1 pages</mods:extent>
         </mods:physicalDescription>
@@ -74,6 +75,7 @@
             <mods:namePart type="date">1886-1968</mods:namePart>
             <mods:displayForm>Bryant, H. C. (Harold Child), 1886-1968</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, California, Fresno County</mods:geographic>
         </mods:subject>
@@ -111,6 +113,7 @@
             <mods:namePart type="date">1886-1968</mods:namePart>
             <mods:displayForm>Bryant, H. C. (Harold Child), 1886-1968</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, California, Alameda County</mods:geographic>
         </mods:subject>
@@ -166,6 +169,7 @@
             <mods:namePart type="date">1886-1968</mods:namePart>
             <mods:displayForm>Bryant, H. C. (Harold Child), 1886-1968</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, California, Alameda County</mods:geographic>
         </mods:subject>
@@ -221,6 +225,7 @@
             <mods:namePart type="date">1886-1968</mods:namePart>
             <mods:displayForm>Bryant, H. C. (Harold Child), 1886-1968</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, California, Alameda County</mods:geographic>
         </mods:subject>
@@ -273,6 +278,7 @@
             <mods:namePart type="date">1886-1968</mods:namePart>
             <mods:displayForm>Bryant, H. C. (Harold Child), 1886-1968</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, California, Alameda County</mods:geographic>
         </mods:subject>

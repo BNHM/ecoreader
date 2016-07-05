@@ -44,6 +44,7 @@
             <mods:namePart type="given">Richard M.</mods:namePart>
             <mods:displayForm>Hunt, Richard M.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Index</mods:genre>
         <mods:physicalDescription>
             <mods:extent>1 pages</mods:extent>
         </mods:physicalDescription>
@@ -86,6 +87,7 @@
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, California, Solano County</mods:geographic>
         </mods:subject>
+        <mods:genre authority="local">Species accounts</mods:genre>
         <mods:physicalDescription>
             <mods:extent>4 pages</mods:extent>
         </mods:physicalDescription>
@@ -113,6 +115,7 @@
             <mods:namePart type="given">Richard M.</mods:namePart>
             <mods:displayForm>Hunt, Richard M.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, California, Inyo County</mods:geographic>
         </mods:subject>
@@ -179,6 +182,7 @@
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, California, Siskiyou County</mods:geographic>
         </mods:subject>
+        <mods:genre authority="local">Species accounts</mods:genre>
         <mods:physicalDescription>
             <mods:extent>10 pages</mods:extent>
         </mods:physicalDescription>
@@ -206,6 +210,8 @@
             <mods:namePart type="given">Richard M.</mods:namePart>
             <mods:displayForm>Hunt, Richard M.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, California, Fresno County</mods:geographic>
         </mods:subject>

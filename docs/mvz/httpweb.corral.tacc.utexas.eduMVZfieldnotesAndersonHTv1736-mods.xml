@@ -12,7 +12,7 @@
         <mods:dateCreated point="start">1932</mods:dateCreated>
         <mods:dateCreated point="end">1932</mods:dateCreated>
     </mods:originInfo>
-    <mods:name type="personal" authority="ingest">
+    <mods:name type="personal" authority="local">
         <mods:role>
             <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
             <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
@@ -35,7 +35,7 @@
             <mods:dateCreated point="start">1932</mods:dateCreated>
             <mods:dateCreated point="end">1932</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="local">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
@@ -44,6 +44,7 @@
             <mods:namePart type="given">Howard T.</mods:namePart>
             <mods:displayForm>Anderson, Howard T.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Index</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/AndersonHT/v1736_s0</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -59,7 +60,7 @@
             <mods:dateCreated point="start">1932</mods:dateCreated>
             <mods:dateCreated point="end">1932</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="local">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
@@ -68,6 +69,7 @@
             <mods:namePart type="given">Howard T.</mods:namePart>
             <mods:displayForm>Anderson, Howard T.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/AndersonHT/v1736_s1</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -83,7 +85,7 @@
             <mods:dateCreated point="start">1932</mods:dateCreated>
             <mods:dateCreated point="end">1932</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="local">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
@@ -92,6 +94,7 @@
             <mods:namePart type="given">Carey N.</mods:namePart>
             <mods:displayForm>Baldwin, Carey N.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/AndersonHT/v1736_s2</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -117,6 +120,8 @@
             <mods:namePart type="date">1888-</mods:namePart>
             <mods:displayForm>Boyers, Luther M. ,  (Luther Mussen), 1888-</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/AndersonHT/v1736_s3</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -142,6 +147,8 @@
             <mods:namePart type="date">1909-2009</mods:namePart>
             <mods:displayForm>Fitch, Henry S.,  (Henry Sheldon), 1909-2009</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/AndersonHT/v1736_s4</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -157,15 +164,17 @@
             <mods:dateCreated point="start">1932</mods:dateCreated>
             <mods:dateCreated point="end">1932</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="local">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
             </mods:role>
             <mods:namePart type="family">Harville</mods:namePart>
             <mods:namePart type="given">Ronald P.</mods:namePart>
-            <mods:displayForm>Harville, Ronald P., 1905-1991</mods:displayForm>
+            <mods:displayForm>Harville, Ronald P.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/AndersonHT/v1736_s5</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -181,7 +190,7 @@
             <mods:dateCreated point="start">1932</mods:dateCreated>
             <mods:dateCreated point="end">1932</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="local">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
@@ -190,6 +199,8 @@
             <mods:namePart type="given">H. Robert</mods:namePart>
             <mods:displayForm>Poultney, H. Robert</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/AndersonHT/v1736_s6</mods:identifier>
     </mods:relatedItem>
 </mods:mods>

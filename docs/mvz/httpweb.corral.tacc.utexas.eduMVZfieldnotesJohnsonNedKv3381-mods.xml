@@ -46,6 +46,7 @@
             <mods:namePart type="date">1932-2003</mods:namePart>
             <mods:displayForm>Johnson, Ned K., 1932-2003</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Index</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/JohnsonNedK/v3381_s0</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -71,6 +72,7 @@
             <mods:namePart type="date">1932-2003</mods:namePart>
             <mods:displayForm>Johnson, Ned K., 1932-2003</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, California, Alameda County</mods:geographic>
         </mods:subject>
@@ -114,6 +116,7 @@
             <mods:namePart type="date">1932-2003</mods:namePart>
             <mods:displayForm>Johnson, Ned K., 1932-2003</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, Nevada, Esmeralda County</mods:geographic>
         </mods:subject>
@@ -157,6 +160,7 @@
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, Nevada, Lyon County</mods:geographic>
         </mods:subject>
+        <mods:genre authority="local">Species accounts</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/JohnsonNedK/v3381_s3</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -182,6 +186,7 @@
             <mods:namePart type="date">1932-2003</mods:namePart>
             <mods:displayForm>Johnson, Ned K., 1932-2003</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, California, Alpine County</mods:geographic>
         </mods:subject>
@@ -246,6 +251,7 @@
             <mods:namePart type="date">1932-2003</mods:namePart>
             <mods:displayForm>Johnson, Ned K., 1932-2003</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, California, Alpine County</mods:geographic>
         </mods:subject>
@@ -343,6 +349,7 @@
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, Nevada, Washoe County</mods:geographic>
         </mods:subject>
+        <mods:genre authority="local">Species accounts</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/JohnsonNedK/v3381_s6</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -368,6 +375,7 @@
             <mods:namePart type="date">1932-2003</mods:namePart>
             <mods:displayForm>Johnson, Ned K., 1932-2003</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, California, Lassen County</mods:geographic>
         </mods:subject>
@@ -405,6 +413,7 @@
             <mods:namePart type="date">1932-2003</mods:namePart>
             <mods:displayForm>Johnson, Ned K., 1932-2003</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, California, Alameda County</mods:geographic>
         </mods:subject>
@@ -454,6 +463,7 @@
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, California, Sierra County</mods:geographic>
         </mods:subject>
+        <mods:genre authority="local">Species accounts</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/JohnsonNedK/v3381_s9</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -479,6 +489,7 @@
             <mods:namePart type="date">1932-2003</mods:namePart>
             <mods:displayForm>Johnson, Ned K., 1932-2003</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
         <mods:subject authority="arctos">
             <mods:geographic>North America, Mexico, Aguascalientes</mods:geographic>
         </mods:subject>
@@ -513,6 +524,7 @@
             <mods:namePart type="date">1932-2003</mods:namePart>
             <mods:displayForm>Johnson, Ned K., 1932-2003</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:subject authority="arctos">
             <mods:geographic>North America, Mexico, Aguascalientes</mods:geographic>
         </mods:subject>
@@ -547,6 +559,7 @@
             <mods:namePart type="date">1932-2003</mods:namePart>
             <mods:displayForm>Johnson, Ned K., 1932-2003</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, Oregon, Harney County</mods:geographic>
         </mods:subject>

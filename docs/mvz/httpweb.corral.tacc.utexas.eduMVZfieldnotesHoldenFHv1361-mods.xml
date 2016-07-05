@@ -44,6 +44,7 @@
             <mods:namePart type="given">F. Harvey</mods:namePart>
             <mods:displayForm>Holden, F. Harvey</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Index</mods:genre>
         <mods:physicalDescription>
             <mods:extent>1 pages</mods:extent>
         </mods:physicalDescription>
@@ -71,6 +72,8 @@
             <mods:namePart type="given">F. Harvey</mods:namePart>
             <mods:displayForm>Holden, F. Harvey</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:physicalDescription>
             <mods:extent>47 pages</mods:extent>
         </mods:physicalDescription>
@@ -98,6 +101,7 @@
             <mods:namePart type="given">F. Harvey</mods:namePart>
             <mods:displayForm>Holden, F. Harvey</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
         <mods:physicalDescription>
             <mods:extent>7 pages</mods:extent>
         </mods:physicalDescription>
@@ -125,6 +129,8 @@
             <mods:namePart type="given">F. Harvey</mods:namePart>
             <mods:displayForm>Holden, F. Harvey</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:physicalDescription>
             <mods:extent>20 pages</mods:extent>
         </mods:physicalDescription>
@@ -152,6 +158,7 @@
             <mods:namePart type="given">F. Harvey</mods:namePart>
             <mods:displayForm>Holden, F. Harvey</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
         <mods:physicalDescription>
             <mods:extent>50 pages</mods:extent>
         </mods:physicalDescription>
@@ -180,6 +187,8 @@
             <mods:namePart type="date">1883-</mods:namePart>
             <mods:displayForm>Holliger, Charles Daniel, 1883-</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:physicalDescription>
             <mods:extent>50 pages</mods:extent>
         </mods:physicalDescription>
@@ -208,6 +217,8 @@
             <mods:namePart type="date">1883-</mods:namePart>
             <mods:displayForm>Holliger, Charles Daniel, 1883-</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:physicalDescription>
             <mods:extent>21 pages</mods:extent>
         </mods:physicalDescription>
@@ -236,6 +247,8 @@
             <mods:namePart type="date">1883-</mods:namePart>
             <mods:displayForm>Holliger, Charles Daniel, 1883-</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:physicalDescription>
             <mods:extent>83 pages</mods:extent>
         </mods:physicalDescription>

@@ -46,6 +46,7 @@
             <mods:namePart type="date">1945-</mods:namePart>
             <mods:displayForm>Greene, Harry W., 1945-</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GreeneH/v1307_s0</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -71,6 +72,7 @@
             <mods:namePart type="date">1945-</mods:namePart>
             <mods:displayForm>Greene, Harry W., 1945-</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GreeneH/v1307_s1</mods:identifier>
     </mods:relatedItem>
 </mods:mods>

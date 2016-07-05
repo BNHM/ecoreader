@@ -46,6 +46,8 @@
             <mods:namePart type="date">1888-1972 </mods:namePart>
             <mods:displayForm>Taylor, Walter P.,  (Walter Penn), 1888-1972 </mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:physicalDescription>
             <mods:extent>298 pages</mods:extent>
         </mods:physicalDescription>
@@ -74,6 +76,7 @@
             <mods:namePart type="date">1888-1972 </mods:namePart>
             <mods:displayForm>Taylor, Walter P.,  (Walter Penn), 1888-1972 </mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
         <mods:physicalDescription>
             <mods:extent>2 pages</mods:extent>
         </mods:physicalDescription>

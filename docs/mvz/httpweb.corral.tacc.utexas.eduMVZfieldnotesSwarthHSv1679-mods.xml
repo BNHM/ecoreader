@@ -46,6 +46,7 @@
             <mods:namePart type="date">1878-1935</mods:namePart>
             <mods:displayForm>Swarth, Harry S., 1878-1935</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Index</mods:genre>
         <mods:physicalDescription>
             <mods:extent>1 pages</mods:extent>
         </mods:physicalDescription>
@@ -74,6 +75,8 @@
             <mods:namePart type="date">1878-1935</mods:namePart>
             <mods:displayForm>Swarth, Harry S., 1878-1935</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:physicalDescription>
             <mods:extent>182 pages</mods:extent>
         </mods:physicalDescription>

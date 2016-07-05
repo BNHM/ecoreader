@@ -44,6 +44,8 @@
             <mods:namePart type="given">Elbert M.</mods:namePart>
             <mods:displayForm>Brock, Elbert M.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/BrockEM/v544_s1</mods:identifier>
     </mods:relatedItem>
 </mods:mods>

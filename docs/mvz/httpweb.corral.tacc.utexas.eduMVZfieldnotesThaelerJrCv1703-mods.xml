@@ -48,6 +48,8 @@
             <mods:namePart type="date">1932-2004</mods:namePart>
             <mods:displayForm>Thaeler, Charles, Jr., 1932-2004</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/ThaelerJrC/v1703_s1</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -74,6 +76,7 @@
             <mods:namePart type="date">1932-2004</mods:namePart>
             <mods:displayForm>Thaeler, Charles, Jr., 1932-2004</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/ThaelerJrC/v1703_s2</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -100,6 +103,7 @@
             <mods:namePart type="date">1932-2004</mods:namePart>
             <mods:displayForm>Thaeler, Charles, Jr., 1932-2004</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/ThaelerJrC/v1703_s3</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -126,6 +130,7 @@
             <mods:namePart type="date">1932-2004</mods:namePart>
             <mods:displayForm>Thaeler, Charles, Jr., 1932-2004</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/ThaelerJrC/v1703_s4</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -152,6 +157,7 @@
             <mods:namePart type="date">1932-2004</mods:namePart>
             <mods:displayForm>Thaeler, Charles, Jr., 1932-2004</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Species accounts</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/ThaelerJrC/v1703_s5</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -178,6 +184,8 @@
             <mods:namePart type="date">1932-2004</mods:namePart>
             <mods:displayForm>Thaeler, Charles, Jr., 1932-2004</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/ThaelerJrC/v1703_s6</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -204,6 +212,7 @@
             <mods:namePart type="date">1932-2004</mods:namePart>
             <mods:displayForm>Thaeler, Charles, Jr., 1932-2004</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/ThaelerJrC/v1703_s7</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -230,6 +239,7 @@
             <mods:namePart type="date">1932-2004</mods:namePart>
             <mods:displayForm>Thaeler, Charles, Jr., 1932-2004</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/ThaelerJrC/v1703_s8</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -256,6 +266,7 @@
             <mods:namePart type="date">1932-2004</mods:namePart>
             <mods:displayForm>Thaeler, Charles, Jr., 1932-2004</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Species accounts</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/ThaelerJrC/v1703_s9</mods:identifier>
     </mods:relatedItem>
 </mods:mods>

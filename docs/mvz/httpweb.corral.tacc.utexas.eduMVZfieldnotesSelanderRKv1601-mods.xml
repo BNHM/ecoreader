@@ -44,6 +44,7 @@
             <mods:namePart type="given">Robert K.</mods:namePart>
             <mods:displayForm>Selander, Robert K.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Index</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/SelanderRK/v1601_s0</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">

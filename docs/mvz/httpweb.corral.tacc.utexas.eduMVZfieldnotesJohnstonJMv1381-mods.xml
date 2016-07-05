@@ -44,6 +44,7 @@
             <mods:namePart type="given">John M.</mods:namePart>
             <mods:displayForm>Johnston, John M.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/JohnstonJM/v1381_s1</mods:identifier>
     </mods:relatedItem>
 </mods:mods>

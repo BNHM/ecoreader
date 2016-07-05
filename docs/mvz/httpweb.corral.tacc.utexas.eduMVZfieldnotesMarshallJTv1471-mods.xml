@@ -44,6 +44,8 @@
             <mods:namePart type="given">Joseph T.</mods:namePart>
             <mods:displayForm>Marshall, Joseph T.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/MarshallJT/v1471_s1</mods:identifier>
     </mods:relatedItem>
 </mods:mods>

@@ -46,6 +46,7 @@
             <mods:namePart type="date">1917-2000</mods:namePart>
             <mods:displayForm>Dalquest, Walter Woelber, 1917-2000</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Index</mods:genre>
         <mods:physicalDescription>
             <mods:extent>1 pages</mods:extent>
         </mods:physicalDescription>
@@ -74,6 +75,7 @@
             <mods:namePart type="date">1917-2000</mods:namePart>
             <mods:displayForm>Dalquest, Walter Woelber, 1917-2000</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Species accounts</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/DalquestWW/v575_s1</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -99,6 +101,7 @@
             <mods:namePart type="date">1917-2000</mods:namePart>
             <mods:displayForm>Dalquest, Walter Woelber, 1917-2000</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Species accounts</mods:genre>
         <mods:physicalDescription>
             <mods:extent>22 pages</mods:extent>
         </mods:physicalDescription>
@@ -127,6 +130,7 @@
             <mods:namePart type="date">1917-2000</mods:namePart>
             <mods:displayForm>Dalquest, Walter Woelber, 1917-2000</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Species accounts</mods:genre>
         <mods:physicalDescription>
             <mods:extent>104 pages</mods:extent>
         </mods:physicalDescription>
@@ -155,6 +159,7 @@
             <mods:namePart type="date">1917-2000</mods:namePart>
             <mods:displayForm>Dalquest, Walter Woelber, 1917-2000</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Species accounts</mods:genre>
         <mods:physicalDescription>
             <mods:extent>59 pages</mods:extent>
         </mods:physicalDescription>

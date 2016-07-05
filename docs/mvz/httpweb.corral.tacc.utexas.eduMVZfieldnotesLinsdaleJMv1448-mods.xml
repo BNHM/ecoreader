@@ -46,6 +46,7 @@
             <mods:namePart type="date">1902-1969</mods:namePart>
             <mods:displayForm>Linsdale, Jean M.,  (Jean Myron), 1902-1969</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Index</mods:genre>
         <mods:physicalDescription>
             <mods:extent>2 pages</mods:extent>
         </mods:physicalDescription>
@@ -74,6 +75,8 @@
             <mods:namePart type="date">1902-1969</mods:namePart>
             <mods:displayForm>Linsdale, Jean M.,  (Jean Myron), 1902-1969</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:physicalDescription>
             <mods:extent>12 pages</mods:extent>
         </mods:physicalDescription>
@@ -102,6 +105,7 @@
             <mods:namePart type="date">1902-1969</mods:namePart>
             <mods:displayForm>Linsdale, Jean M.,  (Jean Myron), 1902-1969</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:physicalDescription>
             <mods:extent>8 pages</mods:extent>
         </mods:physicalDescription>
@@ -130,6 +134,8 @@
             <mods:namePart type="date">1902-1969</mods:namePart>
             <mods:displayForm>Linsdale, Jean M.,  (Jean Myron), 1902-1969</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:physicalDescription>
             <mods:extent>18 pages</mods:extent>
         </mods:physicalDescription>
@@ -158,6 +164,7 @@
             <mods:namePart type="date">1902-1969</mods:namePart>
             <mods:displayForm>Linsdale, Jean M.,  (Jean Myron), 1902-1969</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Species accounts</mods:genre>
         <mods:physicalDescription>
             <mods:extent>162 pages</mods:extent>
         </mods:physicalDescription>

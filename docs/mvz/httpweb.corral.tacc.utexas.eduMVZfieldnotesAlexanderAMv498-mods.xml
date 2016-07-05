@@ -46,12 +46,14 @@
             <mods:namePart type="date">1867-1950</mods:namePart>
             <mods:displayForm>Alexander, Annie Montague, 1867-1950</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, Arizona, Navajo County</mods:geographic>
         </mods:subject>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, Utah, San Juan County</mods:geographic>
         </mods:subject>
+        <mods:genre authority="local">Species accounts</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/AlexanderAM/v498_s1.jpg</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -77,9 +79,11 @@
             <mods:namePart type="date">1867-1950</mods:namePart>
             <mods:displayForm>Alexander, Annie Montague, 1867-1950</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
         <mods:subject authority="arctos">
             <mods:geographic>North America, United States, Arizona, Coconino County</mods:geographic>
         </mods:subject>
+        <mods:genre authority="local">Species accounts</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/AlexanderAM/v498_s2.jpg</mods:identifier>
     </mods:relatedItem>
 </mods:mods>

@@ -46,6 +46,7 @@
             <mods:namePart type="date">1956-</mods:namePart>
             <mods:displayForm>Good, David A., 1956-</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/GoodDA/v1302_s1</mods:identifier>
     </mods:relatedItem>
 </mods:mods>

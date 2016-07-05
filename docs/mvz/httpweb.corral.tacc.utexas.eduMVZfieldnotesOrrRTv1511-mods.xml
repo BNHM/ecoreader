@@ -46,6 +46,7 @@
             <mods:namePart type="date">1908-1994</mods:namePart>
             <mods:displayForm>Orr, Robert T.,  (Robert Thomas), 1908-1994</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Index</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/OrrRT/v1511_s0</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -121,6 +122,7 @@
             <mods:namePart type="date">1908-1994</mods:namePart>
             <mods:displayForm>Orr, Robert T.,  (Robert Thomas), 1908-1994</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/OrrRT/v1511_s3</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">

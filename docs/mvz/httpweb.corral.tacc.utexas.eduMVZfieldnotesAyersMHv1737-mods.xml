@@ -26,7 +26,7 @@
             <mods:dateCreated point="start">1974</mods:dateCreated>
             <mods:dateCreated point="end">1974</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="local">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
@@ -35,6 +35,7 @@
             <mods:namePart type="given">Mary</mods:namePart>
             <mods:displayForm>Ayers, Mary</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/AyersMH/v1737_s1</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -59,6 +60,7 @@
             <mods:namePart type="given">M. J.</mods:namePart>
             <mods:displayForm>Fabbri, M. J.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/AyersMH/v1737_s2</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -83,6 +85,7 @@
             <mods:namePart type="given">David J.</mods:namePart>
             <mods:displayForm>Hafner, David J.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/AyersMH/v1737_s3</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -107,6 +110,7 @@
             <mods:namePart type="given">Steve</mods:namePart>
             <mods:displayForm>Sweetwood, Steve</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/AyersMH/v1737_s4</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -122,15 +126,17 @@
             <mods:dateCreated point="start">1974</mods:dateCreated>
             <mods:dateCreated point="end">1974</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="local">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
             </mods:role>
             <mods:namePart type="family">McDonald</mods:namePart>
             <mods:namePart type="given">Ken</mods:namePart>
-            <mods:displayForm>McDonald, Ken</mods:displayForm>
+            <mods:displayForm>Ken McDonald</mods:displayForm>
         </mods:name>
+        <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/AyersMH/v1737_s5</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -146,15 +152,16 @@
             <mods:dateCreated point="start">1974</mods:dateCreated>
             <mods:dateCreated point="end">1974</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="local">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
             </mods:role>
             <mods:namePart type="family">McDonald</mods:namePart>
             <mods:namePart type="given">Ken</mods:namePart>
-            <mods:displayForm>McDonald, Ken</mods:displayForm>
+            <mods:displayForm>Ken McDonald</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/AyersMH/v1737_s6</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -170,15 +177,16 @@
             <mods:dateCreated point="start">1974</mods:dateCreated>
             <mods:dateCreated point="end">1974</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="local">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
             </mods:role>
             <mods:namePart type="family">McDonald</mods:namePart>
             <mods:namePart type="given">Ken</mods:namePart>
-            <mods:displayForm>McDonald, Ken</mods:displayForm>
+            <mods:displayForm>Ken McDonald</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Species accounts</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/AyersMH/v1737_s7</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -194,15 +202,16 @@
             <mods:dateCreated point="start">1974</mods:dateCreated>
             <mods:dateCreated point="end">1974</mods:dateCreated>
         </mods:originInfo>
-        <mods:name type="personal" authority="ingest">
+        <mods:name type="personal" authority="local">
             <mods:role>
                 <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
                 <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
             </mods:role>
             <mods:namePart type="family">McDonald</mods:namePart>
             <mods:namePart type="given">Ken</mods:namePart>
-            <mods:displayForm>McDonald, Ken</mods:displayForm>
+            <mods:displayForm>Ken McDonald</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Species accounts</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/AyersMH/v1737_s8</mods:identifier>
     </mods:relatedItem>
 </mods:mods>
