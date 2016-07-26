@@ -32,6 +32,8 @@ function populateVolumes() {
     }  */
     $.getJSON( theUrl , function(data) {
     //$.getJSON( theUrl + "?" + $("form").serialize(), function(data) {
+
+
         var list_group_tpl = "<ul class='list-group'>{list}</ul>";
         var list_heading_tpl = "<h4 class='list-group-heading'>{vol_title}</h4>";
         var list_item_tpl = "<li class='list-group-item'>{section_title}{view_section}</li>";
@@ -68,7 +70,7 @@ function populateVolumes() {
         if (textStatus == "timeout") {
 	        showMessage ("Timed out waiting for response! Try again later or reduce the number of graphs you are querying. If the problem persists, contact the System Administrator.");
         } else {
-	        showMessage ("Error completing request!");
+	        $("#results").html("</b>Unable to complete request. No results to show for your search!</b>").show();
         }
     });
 }

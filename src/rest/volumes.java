@@ -71,9 +71,18 @@ public class volumes {
             familyName = null;
             givenName = null;
         }
+        String json = "";
 
-        String json = er.getVolumes(familyName, givenName, section_title, scanned_only, volume_id, begin_date, end_date);
-
+        if  ((familyName == null || familyName.trim().equals("")) &&
+                (givenName == null || givenName.trim().equals("")) &&
+                begin_date == 0 &&
+                end_date == 0 &&
+                (section_title == null || section_title.trim().equals("") )&&
+                volume_id == 0) {
+            json = "{[]}";
+        } else {
+             json = er.getVolumes(familyName, givenName, section_title, scanned_only, volume_id, begin_date, end_date);
+        }
         try {
             rb = Response.ok(json);
         } catch (Exception e) {
@@ -82,6 +91,7 @@ public class volumes {
             return rb.build();
         }
         rb.header("Access-Control-Allow-Origin", "*");
+
         return rb.build();
     }
 
