@@ -72,7 +72,8 @@ public class Mods implements NotebookMetadata {
         return nameList;
     }
 
-    public void setName(Term term) { nameList.addLast(term);}
+    public void setName(Term term) {
+        nameList.addLast(term);}
 
     public String getFamilyNameText() {
         return modsUtils.getTermValue(familyNameList, "type", "family");

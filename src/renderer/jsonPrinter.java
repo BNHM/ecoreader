@@ -82,7 +82,7 @@ public class jsonPrinter extends  printerAbstractClass {
         sb.append("\t\t\t\"@id\":\"" + section.getIdentifier() + "\",\n");
         sb.append("\t\t\t\"@type\":\"http://purl.org/dc/dcmitype/Collection\",\n");
         sb.append("\t\t\t\"title\":\"" + section.getTitle() + "\",\n");
-        sb.append("\t\t\t\"geographic\":\"" + section.getGeographic() + "\",\n");
+        sb.append("\t\t\t\"geographic\":\"" + section.getGeographies() + "\",\n");
         sb.append("\t\t\t\"dateCreated\":\"" + section.getDateCreated() + "\",\n");
         sb.append("\t\t\t\"sectionNumberAsString\":\"" + section.getSectionNumberAsString() + "\",\n");
 

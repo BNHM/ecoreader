@@ -47,7 +47,6 @@ public class sqlImporter {
      * Given a list of mods files, validate them, appending to error string
      *
      * @param files
-     *
      * @return
      */
     public String validateNotebooks(List<String> files, boolean ignoreSections) {
@@ -134,9 +133,6 @@ public class sqlImporter {
         if (notebook.getIdentifier() == null) {
             errors.append(notebook.getFilename() + " has no Volume Identifier\n");
         }
-        if (notebook.getFamilyNameText() == null) {
-            errors.append(notebook.getFilename() + " has no Familyname \n");
-        }
         if (notebook.getTitle() == null) {
             errors.append(notebook.getFilename() + " has no Title \n");
         }
@@ -161,13 +157,14 @@ public class sqlImporter {
     private void saveSection(mvzSection section) {
         PreparedStatement stmt = null;
         try {
+
             String sql = "INSERT INTO section " +
-                    "(volume_id, section_identifier, type, title, geographic, dateCreated, sectionNumberAsString,family_name,given_name) " +
+                    "(volume_id, section_identifier, type, title, dateCreated, sectionNumberAsString,family_name,given_name) " +
                     "VALUES ((Select volume_id from volume where filename = ?)," +
-                    "?,?,?,?,?,?,?,?) " +
+                    "?,?,?,?,?,?,?) " +
                     "ON DUPLICATE KEY UPDATE " +
                     "volume_id = VALUES(volume_id), type = VALUES(type), title = VALUES(title), " +
-                    "geographic = VALUES(geographic), dateCreated = VALUES(dateCreated), sectionNumberAsString = VALUES(sectionNumberAsString), " +
+                    "dateCreated = VALUES(dateCreated), sectionNumberAsString = VALUES(sectionNumberAsString), " +
                     "family_name = VALUES(family_name), given_name = VALUES(given_name)";
 
             stmt = conn.prepareStatement(sql);
@@ -178,20 +175,67 @@ public class sqlImporter {
             // TODO insert type
             stmt.setString(3, null);
             stmt.setString(4, section.getTitle());
-            stmt.setString(5, section.getGeographic());
 
-            stmt.setInt(6, Integer.parseInt(section.getDateCreated()));
-            stmt.setString(7, section.getSectionNumberAsString());
-            stmt.setString(8, section.getFamilyNameText());
-            stmt.setString(9, section.getNameText());
+            stmt.setInt(5, Integer.parseInt(section.getDateCreated()));
+            stmt.setString(6, section.getSectionNumberAsString());
+            stmt.setString(7, section.getFamilyNameText());
+            stmt.setString(8, section.getNameText());
 
             stmt.execute();
+            if (section.getGeographies().size() > 0)
+                saveSectionGeographies(section.getGeographies());
+            attachSectionGeographies(section);
         } catch (Exception e) {
             throw new ServerErrorException(e);
         } finally {
             db.close(stmt, null);
         }
     }
+
+    private void saveSectionGeographies(List<String> geographies) {
+        PreparedStatement stmt = null;
+        try {
+            String sql = "INSERT INTO `geographic` SET `geographic` = ? ON DUPLICATE KEY UPDATE geographic_id=geographic_id";
+
+            stmt = conn.prepareStatement(sql);
+
+            for (String geographic : geographies) {
+                stmt.setString(1, geographic);
+                stmt.addBatch();
+            }
+
+            stmt.executeBatch();
+        } catch (SQLException e) {
+            throw new ServerErrorException(e);
+        } finally {
+            db.close(stmt, null);
+        }
+    }
+
+    private void attachSectionGeographies(mvzSection section) {
+        PreparedStatement stmt = null;
+        try {
+            String sql = "INSERT INTO `sectionGeographies` SET `geographic_id` = " +
+                    "  (SELECT `geographic_id` FROM `geographic` WHERE `geographic` = ?)," +
+                    "`section_id` = " +
+                    "  (SELECT `section_id` FROM `section` WHERE `section_identifier` = ?)";
+
+            stmt = conn.prepareStatement(sql);
+
+            for (String geographic : section.getGeographies()) {
+                stmt.setString(1, geographic);
+                stmt.setString(2, section.getIdentifier());
+                stmt.addBatch();
+            }
+
+            stmt.executeBatch();
+        } catch (SQLException e) {
+            throw new ServerErrorException(e);
+        } finally {
+            db.close(stmt, null);
+        }
+    }
+
 
     /**
      * the method verifies that the sections in that db match the
@@ -423,9 +467,7 @@ public class sqlImporter {
      * Process a file, returning the filename itself as a String (parsed from File object)
      *
      * @param f
-     *
      * @return
-     *
      * @throws validationException
      */
     private String processFile(File f) throws validationException {

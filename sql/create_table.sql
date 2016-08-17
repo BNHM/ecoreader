@@ -24,7 +24,6 @@ CREATE TABLE `section` (
   `section_identifier` varchar(255) DEFAULT NULL,
   `type` varchar(255) DEFAULT NULL,
   `title` varchar(255) DEFAULT NULL,
-  `geographic` varchar(255) DEFAULT NULL,
   `dateCreated` smallint(6) DEFAULT NULL,
   `sectionNumberAsString` varchar(16) DEFAULT NULL,
   `given_name` varchar(255) DEFAULT NULL,
@@ -33,18 +32,19 @@ CREATE TABLE `section` (
   UNIQUE KEY `section_identifier` (`section_identifier`),
   KEY `volume_id` (`volume_id`),
   CONSTRAINT `section_ibfk_1` FOREIGN KEY (`volume_id`) REFERENCES `volume` (`volume_id`) ON DELETE CASCADE
+  CONSTRAINT `section_geographic_id` FOREIGN KEY (`geographic_id`) REFERENCES `geographic` (`geographic_id`)
 ) ENGINE=InnoDB  DEFAULT CHARSET=utf8;
 
-DROP TABLE IF EXISTS page;
-CREATE TABLE `page` (
-  `page_id` int(11) NOT NULL AUTO_INCREMENT,
-  `section_id` int(11) DEFAULT NULL,
-  `page_number` int(11) DEFAULT NULL,
-  `page_identifier` varchar(255) DEFAULT NULL,
-  `type` varchar(255) DEFAULT NULL,
-  UNIQUE KEY `page_page_idx` (`page_id`),
-  UNIQUE KEY `page_identifier` (`page_identifier`),
-  KEY `FK_page_section_id` (`section_id`),
-  CONSTRAINT `FK_page_section_id` FOREIGN KEY (`section_id`) REFERENCES `section` (`section_id`) ON DELETE CASCADE
-) ENGINE=InnoDB  DEFAULT CHARSET=utf8;
+DROP TABLE IF EXISTS geographic;
+CREATE TABLE `geographic` (
+  `geographic_id` int(11) UNSIGNED NOT NULL AUTO_INCREMENT,
+  `geographic` varchar(2083) NOT NULL,
+  UNIQUE KEY `geographic_geographic` (`geographic`),
+)DROP TABLE IF EXISTS geographic;
 
+CREATE TABLE `sectionGeographies` (
+  `geographic_id` int(11) UNSIGNED NOT NULL,
+  `section_id` int(11) NOT NULL,
+  CONSTRAINT `sectionGeographies_geographic_id` FOREIGN KEY (`geographic_id`) REFERENCES `geographic` (`geographic_id`),
+  CONSTRAINT `sectionGeographies_section_id` FOREIGN KEY (`section_id`) REFERENCES `section` (`section_id`) ON DELETE CASCADE,
+) ENGINE=InnoDB  DEFAULT CHARSET=utf8String ENGINE=InnoDB  DEFAULT CHARSET=utf8String
