@@ -501,7 +501,8 @@
                 this.$ul.css({
                     'max-height': this.options.maxHeight + 'px',
                     'overflow-y': 'auto',
-                    'overflow-x': 'hidden'
+                    // 'overflow-x': 'hidden'
+                    'overflow-x': 'auto'
                 });
             }
 

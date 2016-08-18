@@ -43,7 +43,7 @@
                 <!-- GEOGRAPHIC -->
                 <div class="form-group" id="geographies_row">
                     <label for="geographies" class="col-sm-2 control-label" style="width:150px">Geographic</label>
-                    <div class="col-sm-8">
+                    <div class="col-sm-10">
                         <select class="form-control" id="geographies" name="geographies" multiple="multiple">
                             <option value="">Loading geographies ...</option>
                         </select>

@@ -437,6 +437,18 @@ a#img_link:hover {
     cursor: pointer;
 }
 
-.multiselect-container {
-    overflow-x: auto;
+#geographies-button {
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 0px;
+}
+
+#geographies-dropdown {
+    padding-left: 15px;
+    padding-right: 15px;
+    background-color: #eee;
+    border: 1px solid #ccc;
+}
+
+.multiselect-selected-text {
+    color: #999;
 }
