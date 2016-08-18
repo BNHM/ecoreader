@@ -5,6 +5,7 @@ import run.ecoReader;
 import java.io.UnsupportedEncodingException;
 import java.net.MalformedURLException;
 import java.net.URLDecoder;
+import java.util.List;
 import javax.ws.rs.*;
 import javax.ws.rs.core.MediaType;
 import javax.ws.rs.core.Response;
@@ -47,6 +48,7 @@ public class volumes {
                                        @QueryParam("end_date") int end_date,
                                        @QueryParam("section_title") String section_title,
                                        @QueryParam("volume_id") int volume_id,
+                                       @QueryParam("geographies") List<String> geographies,
                                        @DefaultValue("false") @QueryParam("scanned_only") boolean scanned_only) {
         ecoReader er = new ecoReader();
 
@@ -77,11 +79,12 @@ public class volumes {
                 (givenName == null || givenName.trim().equals("")) &&
                 begin_date == 0 &&
                 end_date == 0 &&
+                geographies.size() == 0 &&
                 (section_title == null || section_title.trim().equals("") )&&
                 volume_id == 0) {
             json = "{[]}";
         } else {
-             json = er.getVolumes(familyName, givenName, section_title, scanned_only, volume_id, begin_date, end_date);
+             json = er.getVolumes(familyName, givenName, section_title, scanned_only, volume_id, begin_date, end_date, geographies);
         }
         try {
             rb = Response.ok(json);

@@ -12,6 +12,7 @@ import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.util.Iterator;
+import java.util.List;
 
 /**
  * Base functions for parsing input files.
@@ -29,6 +30,29 @@ public class ecoReader {
     public ecoReader() {
         db = new database();
         conn = db.getConn();
+    }
+
+    public String getGeographies() {
+        PreparedStatement stmt = null;
+        ResultSet rs = null;
+
+        JSONArray geographies = new JSONArray();
+
+        try {
+            String sql = "SELECT `geographic` FROM geographic";
+            stmt = conn.prepareStatement(sql);
+
+            rs = stmt.executeQuery();
+            while (rs.next()) {
+                geographies.add(rs.getString("geographic"));
+            }
+        } catch (SQLException e) {
+            throw new ServerErrorException(e);
+        } finally {
+            db.close(stmt, rs);
+        }
+
+        return geographies.toJSONString();
     }
 
     public String getAuthors() {
@@ -67,6 +91,7 @@ public class ecoReader {
      * @param volume_id
      * @param begin_date
      * @param end_date
+     * @param geographies
      * @return
      */
     public String getVolumes(
@@ -76,7 +101,8 @@ public class ecoReader {
             boolean scanned_only,
             int volume_id,
             int begin_date,
-            int end_date) {
+            int end_date,
+            List<String> geographies) {
         PreparedStatement stmt = null;
         ResultSet rs = null;
 
@@ -85,6 +111,21 @@ public class ecoReader {
         try {
             int paramSet = 0;
             StringBuilder sql = new StringBuilder("SELECT\n\tv.title, v.volume_id\nFROM\n\tvolume v, section s");
+
+            if (geographies.size() > 0) {
+                sql.append("\nINNER JOIN sectionGeographies sg ON sg.section_id = s.section_id");
+                sql.append("\nINNER JOIN geographic g ON g.geographic_id = sg.geographic_id");
+                sql.append("\n\tAND g.geographic IN (");
+                for (String geographic: geographies) {
+                    sql.append("\"");
+                    sql.append(geographic);
+                    sql.append("\", ");
+                }
+                // remove the last ","
+                sql.deleteCharAt(sql.length() - 2);
+                sql.append(") ");
+            }
+
             sql.append("\nWHERE v.volume_id = s.volume_id");
             if (familyName != null) {
                 if (familyName.equalsIgnoreCase("null")) {
@@ -207,7 +248,7 @@ public class ecoReader {
 
                 int vol_id = Integer.parseInt(vol.get("volume_id").toString());
 
-                String sql = "SELECT section_id, title, geographic, " + "" +
+                String sql = "SELECT section_id, title, " + "" +
                         "CASE WHEN EXISTS (SELECT section_id FROM page WHERE section.section_id = page.section_id) " +
                         "THEN 'TRUE' ELSE 'FALSE' END AS isScanned " +
                         "FROM section WHERE volume_id = ? ORDER BY section_identifier";
@@ -225,7 +266,7 @@ public class ecoReader {
                     if (!scanned_only || (scanned_only && rs.getBoolean("isScanned"))) {
                         section.put("section_id", rs.getInt("section_id"));
                         section.put("title", rs.getString("title"));
-                        section.put("geographic", rs.getString("geographic"));
+//                        section.put("geographic", rs.getString("geographic"));
                         section.put("isScanned", rs.getBoolean("isScanned"));
 
                         sections.add(section);

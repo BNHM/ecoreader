@@ -9,14 +9,49 @@ function populateAuthors() {
             $.each(data.authors,function(index,author) {
                 listItems+= "<option value='" + author  + "'>" + author + "</option>";
             });
-            $("#authors").html(listItems);
-            $(".combobox").combobox();
+            $("#authors").html(listItems).combobox();
+            // $(".combobox").combobox();
         },
         fail: function(jqXHR,textStatus) {
             if (textStatus == "timeout") {
 	            showMessage ("Timed out waiting for response! Try again later or reduce the number of graphs you are querying. If the problem persists, contact the System Administrator.");
             } else {
 	            showMessage ("Error completing request!");
+            }
+        }
+    });
+}
+
+function populateGeographies() {
+
+    $.ajax({
+        url: "rest/sections/geographies",
+        async: false,
+        success: function(data) {
+            var listItems = "";
+            // listItems+= "<option value=''>Select a geographic ...</option>";
+            $.each(data,function(index, geographic) {
+                listItems+= "<option value='" + geographic + "'>" + geographic + "</option>";
+            });
+            $("#geographies").html(listItems).multiselect({
+                enableCaseInsensitiveFiltering: true,
+                nonSelectedText: "Select a geographic",
+                numberDisplayer: 1,
+                allSelectedText: false,
+                // buttonContainer: '<div class=".btn-group col-sm-6" />',
+                // buttonWidth: '100%',
+                maxHeight: 300,
+                templates: {
+                    // button: '<button type="button" class="multiselect dropdown-toggle btn btn-default col-sm-6" data-toggle="dropdown" style="width: 100%;">Select a geographic</button>',
+                    ul: '<ul class="multiselect-container dropdown-menu col-sm-12"></ul>',
+                }
+            });
+        },
+        fail: function(jqXHR,textStatus) {
+            if (textStatus == "timeout") {
+                showMessage ("Timed out waiting for response! Try again later or reduce the number of graphs you are querying. If the problem persists, contact the System Administrator.");
+            } else {
+                showMessage ("Error completing request!");
             }
         }
     });

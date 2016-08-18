@@ -436,3 +436,7 @@ a#img_link:hover {
     cursor: hand;
     cursor: pointer;
 }
+
+.multiselect-container {
+    overflow-x: auto;
+}

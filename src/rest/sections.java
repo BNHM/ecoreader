@@ -55,5 +55,23 @@ public class sections {
         return rb.build();
     }
 
+    @GET
+    @Produces(MediaType.APPLICATION_JSON)
+    @Path("/geographies")
+    public Response getSectionGeographies() {
+        ecoReader er = new ecoReader();
+        String json = er.getGeographies();
+
+        try {
+            rb = Response.ok(json);
+        } catch (Exception e) {
+            rb = Response.status(204);
+            rb.header("Access-Control-Allow-Origin", "*");
+            return rb.build();
+        }
+        rb.header("Access-Control-Allow-Origin", "*");
+        return rb.build();
+    }
+
 }
 
