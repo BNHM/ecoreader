@@ -32,19 +32,19 @@ CREATE TABLE `section` (
   UNIQUE KEY `section_identifier` (`section_identifier`),
   KEY `volume_id` (`volume_id`),
   CONSTRAINT `section_ibfk_1` FOREIGN KEY (`volume_id`) REFERENCES `volume` (`volume_id`) ON DELETE CASCADE
-  CONSTRAINT `section_geographic_id` FOREIGN KEY (`geographic_id`) REFERENCES `geographic` (`geographic_id`)
 ) ENGINE=InnoDB  DEFAULT CHARSET=utf8;
 
 DROP TABLE IF EXISTS geographic;
 CREATE TABLE `geographic` (
   `geographic_id` int(11) UNSIGNED NOT NULL AUTO_INCREMENT,
   `geographic` varchar(2083) NOT NULL,
-  UNIQUE KEY `geographic_geographic` (`geographic`),
-)DROP TABLE IF EXISTS geographic;
+  UNIQUE KEY `geographic_geographic` (`geographic`)
+) ENGINE=InnoDB  DEFAULT CHARSET=utf8;
 
+DROP TABLE IF EXISTS geographic;
 CREATE TABLE `sectionGeographies` (
   `geographic_id` int(11) UNSIGNED NOT NULL,
   `section_id` int(11) NOT NULL,
   CONSTRAINT `sectionGeographies_geographic_id` FOREIGN KEY (`geographic_id`) REFERENCES `geographic` (`geographic_id`),
-  CONSTRAINT `sectionGeographies_section_id` FOREIGN KEY (`section_id`) REFERENCES `section` (`section_id`) ON DELETE CASCADE,
-) ENGINE=InnoDB  DEFAULT CHARSET=utf8String ENGINE=InnoDB  DEFAULT CHARSET=utf8String
+  CONSTRAINT `sectionGeographies_section_id` FOREIGN KEY (`section_id`) REFERENCES `section` (`section_id`) ON DELETE CASCADE
+) ENGINE=InnoDB  DEFAULT CHARSET=utf8;
