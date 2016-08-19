@@ -11,23 +11,24 @@ import java.io.File;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.LinkedList;
+import java.util.List;
 
 public class mvzSection implements sectionMetadata {
     private String title;
     private String identifier;
-    private String geographic;
+    private final List<String> geographies = new ArrayList<>();
     private String dateCreated;
     private final LinkedList<Term> nameList = new LinkedList<Term>();
     private final LinkedList<Term> familyNameList = new LinkedList<Term>();
     private final LinkedList<pageMetadata> pages = new LinkedList<pageMetadata>();
 
 
-    public String getGeographic() {
-        return geographic;
+    public List<String> getGeographies() {
+        return geographies;
     }
 
     public void addGeographic(String geographic) {
-        this.geographic = geographic;
+        geographies.add(geographic);
     }
 
     public String getDateCreated() {

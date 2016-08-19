@@ -1,6 +1,7 @@
 package renderer;
 
 import java.util.LinkedList;
+import java.util.List;
 
 /**
  * Work with metadata in a section.  A "section" is a subunit of "volume" (represented by NotebookMetadata) and
@@ -56,10 +57,10 @@ public interface sectionMetadata {
     public void addPages(String urlString);
 
     /**
-     * Get the location that this section refers to
+     * Get the locations that this section refers to
      * @return
      */
-    public String getGeographic();
+    public List<String> getGeographies();
 
     /**
      * Get the date this section was created
