@@ -16,7 +16,7 @@ import java.util.List;
 public class mvzSection implements sectionMetadata {
     private String title;
     private String identifier;
-    private final List<String> geographies = new ArrayList<>();
+    private final List<String> geographies = new ArrayList();
     private String dateCreated;
     private final LinkedList<Term> nameList = new LinkedList<Term>();
     private final LinkedList<Term> familyNameList = new LinkedList<Term>();
