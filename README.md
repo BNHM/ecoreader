@@ -8,15 +8,15 @@ An instance of [ecoReader](http://ecoreader.berkeley.edu/) is running on our BNH
 
 The basic workflow in ecoReader consists of:
 
-1. Use Archivist Toolkit (AT) to collect images and metadata about field notebooks.
+1. Archivists use Archivist Toolkit (AT) to catalog field notebooks while images of notebook pages are uploaded to web archive.
 
-2. Export <a href='http://www.loc.gov/standards/mods/'>Metadata Object Description Schema (MODS)</a> data files from AT
+2. Export <a href='http://www.loc.gov/standards/mods/'>Metadata Object Description Schema (MODS)</a> metadata files from AT
 
-3. Read MODS data files that appear in a pickup location and store the parsed information in online database (index).
+3. Read MODS files that appear in a designated pickup location and store the parsed information in online database (index).
 
 4. Enable online viewing and spatial query of all notebook metadata and images by reading online database.
 
-5. Publish data to BHL periodically.
+5. TBD: Publish data to BHL periodically.
      
 _ecoReader_ replaces the "BSCIT MVZ Archival Field Notebooks" website. This first iteration is funded through the [MVZ 'Hidden Collections' CLIR grant ](http://www.clir.org/hiddencollections/awards/for-2011).
 
