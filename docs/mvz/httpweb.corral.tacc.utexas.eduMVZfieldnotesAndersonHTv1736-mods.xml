@@ -19,7 +19,8 @@
         </mods:role>
         <mods:namePart type="family">Anderson</mods:namePart>
         <mods:namePart type="given">Howard T.</mods:namePart>
-        <mods:displayForm>Anderson, Howard T.</mods:displayForm>
+        <mods:namePart type="date">1909-1981</mods:namePart>
+        <mods:displayForm>Anderson, Howard T., 1909-1981</mods:displayForm>
     </mods:name>
     <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/AndersonHT/v1736</mods:identifier>
     <mods:relatedItem type="constituent">
@@ -42,7 +43,8 @@
             </mods:role>
             <mods:namePart type="family">Anderson</mods:namePart>
             <mods:namePart type="given">Howard T.</mods:namePart>
-            <mods:displayForm>Anderson, Howard T.</mods:displayForm>
+            <mods:namePart type="date">1909-1981</mods:namePart>
+            <mods:displayForm>Anderson, Howard T., 1909-1981</mods:displayForm>
         </mods:name>
         <mods:genre authority="local">Index</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/AndersonHT/v1736_s0</mods:identifier>
@@ -67,7 +69,8 @@
             </mods:role>
             <mods:namePart type="family">Anderson</mods:namePart>
             <mods:namePart type="given">Howard T.</mods:namePart>
-            <mods:displayForm>Anderson, Howard T.</mods:displayForm>
+            <mods:namePart type="date">1909-1981</mods:namePart>
+            <mods:displayForm>Anderson, Howard T., 1909-1981</mods:displayForm>
         </mods:name>
         <mods:genre authority="local">Journal</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/AndersonHT/v1736_s1</mods:identifier>

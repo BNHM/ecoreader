@@ -69,6 +69,7 @@
             <mods:namePart type="given">Robert A.</mods:namePart>
             <mods:displayForm>Norris, Robert A.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Catalog and Journal</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/NorrisRA/v1507_s1</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -93,6 +94,7 @@
             <mods:namePart type="given">Robert A.</mods:namePart>
             <mods:displayForm>Norris, Robert A.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Catalog and Journal</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/NorrisRA/v1507_s2</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">

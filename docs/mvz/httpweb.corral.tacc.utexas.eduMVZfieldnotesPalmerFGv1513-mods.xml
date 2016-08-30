@@ -69,6 +69,7 @@
             <mods:namePart type="given">Fletcher G.</mods:namePart>
             <mods:displayForm>Palmer, Fletcher G.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal and Catalog</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/PalmerFG/v1513_s4</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -93,6 +94,7 @@
             <mods:namePart type="given">Fletcher G.</mods:namePart>
             <mods:displayForm>Palmer, Fletcher G.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal and Catalog</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/PalmerFG/v1513_s5</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -117,6 +119,7 @@
             <mods:namePart type="given">Fletcher G.</mods:namePart>
             <mods:displayForm>Palmer, Fletcher G.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal and Catalog</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/PalmerFG/v1513_s6</mods:identifier>
     </mods:relatedItem>
 </mods:mods>

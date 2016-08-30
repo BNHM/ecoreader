@@ -44,6 +44,7 @@
             <mods:namePart type="given">Frances M.</mods:namePart>
             <mods:displayForm>Ogilvie, Frances M.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Catalog and Journal</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/OgilvieF/v1509_s1</mods:identifier>
     </mods:relatedItem>
 </mods:mods>
