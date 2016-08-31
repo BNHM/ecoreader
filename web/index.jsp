@@ -42,12 +42,13 @@
 
                 <!-- GEOGRAPHIC -->
                 <div class="form-group" id="geographies_row">
-                    <label for="geographies" class="col-sm-2 control-label" style="width:150px">Geographic</label>
+                    <label for="geographies" class="col-sm-2 control-label" style="width:150px"><img src='img/info.gif' data-toggle="modal" data-target="#myModal" width=15 height=15 /> Geographic</label>
                     <div class="col-sm-10">
                         <select class="form-control" id="geographies" name="geographies" multiple="multiple">
                             <option value="">Loading geographies ...</option>
                         </select>
                     </div>
+
                 </div>
 
                 <!-- SECTION TITLE -->
@@ -71,6 +72,27 @@
         </div>
 
         <div class="container" style="width:960px;" id="results"></div>
+
+        <!-- Modal -->
+          <div class="modal fade" id="myModal" role="dialog">
+            <div class="modal-dialog">
+
+              <!-- Modal content-->
+              <div class="modal-content">
+                <div class="modal-body">
+                  <p>
+                    Not all higher geography is populated in our database so results may be incomplete.
+                    Also, the query will return the entire volume even if just one section matches the selected higher geography.
+                  </p>
+                </div>
+                <div class="modal-footer">
+                  <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                </div>
+              </div>
+
+            </div>
+          </div>
+
 
 
     </div><!--close content_container-->
