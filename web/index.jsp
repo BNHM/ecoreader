@@ -1,8 +1,28 @@
 <%@ include file="header-home.jsp" %>
 
-<div id="site_content">
-    <div id="content">
-        <div class="container" style="width:960px" id="query">
+	<div id="site_content">
+	  <div id="content">
+		<div class="content_item">
+
+            <div id="validation" class="section">
+                <div class="row" id="query">
+                   <!-- <h1>Welcome to the EcoReader</h1>
+      	            <p>This portal provides access to digitized field notes from the Museum of Vertebrate Zoology Archives. Field notes that have not been scanned are also listed for reference. We will continue to add more volumes as they are cataloged. Please contact the Archives at mvzarchives@berkeley.edu.com for more information.</p>
+      	            -->
+
+        <div class="form-horizontal my-form">
+          <div class="form-group form-group-sm" id="author_row">
+            <label for="author" class="control-label col-md-2 col-xs-6" style="font-size: 14px">Author Name</label>
+            <div class="col-md-3 col-xs-6" id="author_combobox">
+              <select class="combobox form-control" width=20 id="authors">
+                        <option value=''>Loading authors ...</option>
+              </select>
+            </div>
+          <div class="col-md-1 col-xs-4" id="toggle_query">
+            <button class="btn btn-default btn-sm" type="button" onclick="toggleQuery();">+</button>
+          </div>
+          <div class="col-md-2 col-xs-4"><input type="button" value="Submit" class="btn btn-default btn-sm btn-block"></div>
+          <div class="col-md-2 col-xs-4"><input type="button" value="Reset" class="btn btn-default btn-sm btn-block"></div>
 
             <form role="form" class="form-horizontal" action=GET>
 

@@ -6,22 +6,22 @@
 <html>
 <head>
     <title>MVZ EcoReader</title>
+    <meta name="viewport" content="width=device-width, minimum-scale=1, initial-scale=1" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta charset="UTF-8"/>
+    <meta name="theme-color" content="#888"/>
 
     <link rel="stylesheet" type="text/css" href="css/ecoreader.css" />
 
     <link rel="stylesheet" type="text/css" href="css/jquery-ui.css" />
-    <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
     <link rel="stylesheet" type="text/css" href="css/bootstrap-combobox.css">
-    <link rel="stylesheet" type="text/css" href="css/bootstrap-multiselect.css">
     <link rel="stylesheet" type="text/css" href="css/jquery.fancybox.css"/>
     <link rel="stylesheet" type="text/css" href="css/jquery.fancybox-thumbs.css"/>
-    <link rel="stylesheet" type="text/css" href="css/alerts.css"/>
 
     <script type="text/javascript" src="js/jquery.js"></script>
     <script type="text/javascript" src="js/jquery-ui.min.js"></script>
     <script type="text/javascript" src="js/bootstrap.min.js"></script>
     <script type="text/javascript" src="js/bootstrap-combobox.js"></script>
-    <script type="text/javascript" src="js/bootstrap-multiselect.js"></script>
     <script type="text/javascript" src="js/jquery.fancybox.pack.js"></script>
     <script type="text/javascript" src="js/jquery.fancybox-thumbs.js"></script>
     <script type="text/javascript" src="js/ecoreader.js"></script>
