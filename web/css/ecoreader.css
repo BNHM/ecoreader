@@ -167,7 +167,7 @@ ul#menu li.current a, ul#menu li:hover a
   box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;  }
 
 #site_content
-{ width: 940px;
+{ width: 980px;
   overflow: hidden;
   margin: 0 auto; 
   min-height: 500px;
