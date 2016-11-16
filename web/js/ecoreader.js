@@ -199,7 +199,7 @@ function showSectionFancybox(section_id, galIndex, data) {
 
 	    var html = "<div class='fancybox-img-download'>" +
                 "<p><a href='" + this.big + "' download='image.png'>Download Image</a></p>" +
-                "<p><a href='" + this.big + "' target='_blank'>Link to Image</a></p>";
+                "<p><a href='" + this.big + "' type='image/png' target='_blank'>Link to Image</a></p>";
             html += "<div class='fancybox-page-nav'>" +
                 "<div><img src='img/zoomin.png'><label> click in center of image to enlarge</label></div>";
             if (this.group.length > 1) {
