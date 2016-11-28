@@ -48,6 +48,9 @@
         </mods:name>
         <mods:genre authority="aat">Catalogs</mods:genre>
         <mods:genre authority="local">Journal</mods:genre>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Contra Costa County</mods:geographic>
+        </mods:subject>
         <mods:physicalDescription>
             <mods:extent>4 pages</mods:extent>
         </mods:physicalDescription>
@@ -78,6 +81,21 @@
         </mods:name>
         <mods:genre authority="aat">Catalogs</mods:genre>
         <mods:genre authority="local">Journal</mods:genre>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, Mexico, Distrito Federal</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, Mexico, Michoacán</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Alameda County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, New Mexico, Eddy County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Texas, Webb County</mods:geographic>
+        </mods:subject>
         <mods:physicalDescription>
             <mods:extent>45 pages</mods:extent>
         </mods:physicalDescription>
@@ -107,6 +125,21 @@
         </mods:name>
         <mods:genre authority="aat">Catalogs</mods:genre>
         <mods:genre authority="local">Journal</mods:genre>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Lassen County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Plumas County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Shasta County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Nevada, Humboldt County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Nevada, Washoe County</mods:geographic>
+        </mods:subject>
         <mods:physicalDescription>
             <mods:extent>13 pages</mods:extent>
         </mods:physicalDescription>
@@ -136,6 +169,21 @@
         </mods:name>
         <mods:genre authority="aat">Catalogs</mods:genre>
         <mods:genre authority="local">Journal</mods:genre>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, Mexico, Distrito Federal</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, Mexico, Michoacán</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, Mexico, San Luis Potosí</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Texas, Uvalde County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Texas, Webb County</mods:geographic>
+        </mods:subject>
         <mods:physicalDescription>
             <mods:extent>19 pages</mods:extent>
         </mods:physicalDescription>
@@ -165,6 +213,24 @@
         </mods:name>
         <mods:genre authority="aat">Catalogs</mods:genre>
         <mods:genre authority="local">Journal</mods:genre>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Lassen County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Plumas County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Shasta County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Nevada, Humboldt County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Nevada, Pershing County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Nevada, Washoe County</mods:geographic>
+        </mods:subject>
         <mods:physicalDescription>
             <mods:extent>17 pages</mods:extent>
         </mods:physicalDescription>
@@ -194,6 +260,12 @@
         </mods:name>
         <mods:genre authority="aat">Catalogs</mods:genre>
         <mods:genre authority="local">Journal</mods:genre>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, Mexico, Distrito Federal</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, Mexico, Michoacán</mods:geographic>
+        </mods:subject>
         <mods:physicalDescription>
             <mods:extent>19 pages</mods:extent>
         </mods:physicalDescription>
@@ -223,6 +295,9 @@
         </mods:name>
         <mods:genre authority="aat">Catalogs</mods:genre>
         <mods:genre authority="local">Journal</mods:genre>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, Mexico, Michoacán</mods:geographic>
+        </mods:subject>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/HallER/v1343_s6</mods:identifier>
     </mods:relatedItem>
 </mods:mods>

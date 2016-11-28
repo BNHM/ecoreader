@@ -47,6 +47,12 @@
             <mods:displayForm>Stebbins, Robert C.,  (Robert Cyril), 1915-2013</mods:displayForm>
         </mods:name>
         <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Contra Costa County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Tuolumne County</mods:geographic>
+        </mods:subject>
         <mods:physicalDescription>
             <mods:extent>2 pages</mods:extent>
         </mods:physicalDescription>
@@ -77,6 +83,15 @@
         </mods:name>
         <mods:genre authority="aat">Catalogs</mods:genre>
         <mods:genre authority="local">Journal</mods:genre>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Humboldt County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Shasta County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Trinity County</mods:geographic>
+        </mods:subject>
         <mods:physicalDescription>
             <mods:extent>15 pages</mods:extent>
         </mods:physicalDescription>
@@ -107,6 +122,12 @@
         </mods:name>
         <mods:genre authority="aat">Catalogs</mods:genre>
         <mods:genre authority="local">Journal</mods:genre>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Alameda County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Contra Costa County</mods:geographic>
+        </mods:subject>
         <mods:physicalDescription>
             <mods:extent>7 pages</mods:extent>
         </mods:physicalDescription>
@@ -137,6 +158,18 @@
         </mods:name>
         <mods:genre authority="aat">Catalogs</mods:genre>
         <mods:genre authority="local">Journal</mods:genre>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Los Angeles County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Marin County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Napa County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Sonoma County</mods:geographic>
+        </mods:subject>
         <mods:physicalDescription>
             <mods:extent>8 pages</mods:extent>
         </mods:physicalDescription>
@@ -167,6 +200,45 @@
         </mods:name>
         <mods:genre authority="aat">Catalogs</mods:genre>
         <mods:genre authority="local">Journal</mods:genre>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Contra Costa County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Kern County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Los Angeles County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Monterey County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, San Benito County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, San Bernardino County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, San Diego County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, San Luis Obispo County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, San Mateo County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Santa Clara County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Santa Cruz County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Tulare County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Oregon, Multnomah County</mods:geographic>
+        </mods:subject>
         <mods:physicalDescription>
             <mods:extent>71 pages</mods:extent>
         </mods:physicalDescription>
@@ -195,6 +267,57 @@
             <mods:namePart type="date">1915-2013</mods:namePart>
             <mods:displayForm>Stebbins, Robert C.,  (Robert Cyril), 1915-2013</mods:displayForm>
         </mods:name>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Alameda County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Contra Costa County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Kern County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Los Angeles County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Marin County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Monterey County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Napa County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, San Benito County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, San Bernardino County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, San Diego County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, San Mateo County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Santa Clara County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Santa Cruz County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Shasta County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Sonoma County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Trinity County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Tulare County</mods:geographic>
+        </mods:subject>
         <mods:genre authority="local">Species accounts</mods:genre>
         <mods:physicalDescription>
             <mods:extent>80 pages</mods:extent>
@@ -225,6 +348,15 @@
             <mods:displayForm>Stebbins, Robert C.,  (Robert Cyril), 1915-2013</mods:displayForm>
         </mods:name>
         <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Marin County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Oregon, Multnomah County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Washington, Pierce County</mods:geographic>
+        </mods:subject>
         <mods:physicalDescription>
             <mods:extent>2 pages</mods:extent>
         </mods:physicalDescription>
@@ -255,6 +387,15 @@
         </mods:name>
         <mods:genre authority="aat">Catalogs</mods:genre>
         <mods:genre authority="local">Journal</mods:genre>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Humboldt County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Mendocino County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Napa County</mods:geographic>
+        </mods:subject>
         <mods:physicalDescription>
             <mods:extent>15 pages</mods:extent>
         </mods:physicalDescription>
@@ -284,6 +425,21 @@
             <mods:displayForm>Stebbins, Robert C.,  (Robert Cyril), 1915-2013</mods:displayForm>
         </mods:name>
         <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Alameda County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Los Angeles County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Marin County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Ventura County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Oregon, Lincoln County</mods:geographic>
+        </mods:subject>
         <mods:physicalDescription>
             <mods:extent>3 pages</mods:extent>
         </mods:physicalDescription>
@@ -314,6 +470,30 @@
         </mods:name>
         <mods:genre authority="aat">Catalogs</mods:genre>
         <mods:genre authority="local">Journal</mods:genre>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Contra Costa County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Kern County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Los Angeles County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Monterey County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, San Bernardino County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, San Luis Obispo County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Santa Barbara County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Ventura County</mods:geographic>
+        </mods:subject>
         <mods:physicalDescription>
             <mods:extent>50 pages</mods:extent>
         </mods:physicalDescription>
@@ -343,6 +523,21 @@
             <mods:displayForm>Stebbins, Robert C.,  (Robert Cyril), 1915-2013</mods:displayForm>
         </mods:name>
         <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Arizona, Santa Cruz County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Alameda County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Kern County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Santa Clara County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Santa Cruz County</mods:geographic>
+        </mods:subject>
         <mods:physicalDescription>
             <mods:extent>3 pages</mods:extent>
         </mods:physicalDescription>
@@ -371,6 +566,60 @@
             <mods:namePart type="date">1915-2013</mods:namePart>
             <mods:displayForm>Stebbins, Robert C.,  (Robert Cyril), 1915-2013</mods:displayForm>
         </mods:name>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Arizona, Santa Cruz County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Alameda County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Contra Costa County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Humboldt County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Kern County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Los Angeles County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Marin County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Mendocino County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Napa County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, San Bernardino County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, San Luis Obispo County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Santa Barbara County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Santa Clara County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Trinity County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Ventura County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Oregon, Lincoln County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Oregon, Multnomah County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Washington, Pierce County</mods:geographic>
+        </mods:subject>
         <mods:genre authority="local">Species accounts</mods:genre>
         <mods:physicalDescription>
             <mods:extent>135 pages</mods:extent>

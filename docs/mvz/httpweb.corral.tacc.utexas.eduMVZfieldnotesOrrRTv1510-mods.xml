@@ -73,6 +73,12 @@
             <mods:displayForm>Orr, Robert T.,  (Robert Thomas), 1908-1994</mods:displayForm>
         </mods:name>
         <mods:genre authority="local">Journal</mods:genre>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Nevada, Lander County </mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Nevada, Nye County</mods:geographic>
+        </mods:subject>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/OrrRT/v1510_s1</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -99,6 +105,48 @@
             <mods:displayForm>Orr, Robert T.,  (Robert Thomas), 1908-1994</mods:displayForm>
         </mods:name>
         <mods:genre authority="local">Journal and Catalog</mods:genre>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Alaska, Denali Borough</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Alameda County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Butte County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Lake County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Mariposa County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Mariposa County, Yosemite National Park</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Monterey County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, San Mateo County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Santa Cruz County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Solano County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Sonoma County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Tuolumne County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Yolo County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>South America, Brazil, Bahia</mods:geographic>
+        </mods:subject>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/OrrRT/v1510_s2</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -125,6 +173,15 @@
             <mods:displayForm>Orr, Robert T.,  (Robert Thomas), 1908-1994</mods:displayForm>
         </mods:name>
         <mods:genre authority="local">Catalog and Journal</mods:genre>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Butte County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Colusa County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Santa Cruz County</mods:geographic>
+        </mods:subject>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/OrrRT/v1510_s3</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -151,6 +208,12 @@
             <mods:displayForm>Orr, Robert T.,  (Robert Thomas), 1908-1994</mods:displayForm>
         </mods:name>
         <mods:genre authority="local">Catalog and Journal</mods:genre>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, San Bernardino County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Nevada, Clark County</mods:geographic>
+        </mods:subject>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/OrrRT/v1510_s4</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -177,6 +240,12 @@
             <mods:displayForm>Orr, Robert T.,  (Robert Thomas), 1908-1994</mods:displayForm>
         </mods:name>
         <mods:genre authority="local">Journal and Catalog</mods:genre>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Alameda County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Mendocino County</mods:geographic>
+        </mods:subject>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/OrrRT/v1510_s5</mods:identifier>
     </mods:relatedItem>
 </mods:mods>

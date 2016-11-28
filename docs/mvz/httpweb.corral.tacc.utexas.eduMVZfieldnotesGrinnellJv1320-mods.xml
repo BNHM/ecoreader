@@ -76,6 +76,18 @@
             <mods:displayForm>Grinnell, Joseph, 1877-1939</mods:displayForm>
         </mods:name>
         <mods:genre authority="local">Journal</mods:genre>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Fresno County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Imperial County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Inyo County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Los Angeles County</mods:geographic>
+        </mods:subject>
         <mods:physicalDescription>
             <mods:extent>12 pages</mods:extent>
         </mods:physicalDescription>
@@ -106,6 +118,9 @@
         </mods:name>
         <mods:genre authority="aat">Catalogs</mods:genre>
         <mods:genre authority="local">Journal</mods:genre>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Riverside County</mods:geographic>
+        </mods:subject>
         <mods:physicalDescription>
             <mods:extent>6 pages</mods:extent>
         </mods:physicalDescription>
@@ -136,6 +151,15 @@
         </mods:name>
         <mods:genre authority="aat">Catalogs</mods:genre>
         <mods:genre authority="local">Journal</mods:genre>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Kern County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, San Luis Obispo County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Santa Barbara County</mods:geographic>
+        </mods:subject>
         <mods:physicalDescription>
             <mods:extent>56 pages</mods:extent>
         </mods:physicalDescription>
@@ -166,6 +190,9 @@
         </mods:name>
         <mods:genre authority="aat">Catalogs</mods:genre>
         <mods:genre authority="local">Journal</mods:genre>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Placer County</mods:geographic>
+        </mods:subject>
         <mods:physicalDescription>
             <mods:extent>43 pages</mods:extent>
         </mods:physicalDescription>
@@ -196,6 +223,12 @@
         </mods:name>
         <mods:genre authority="aat">Catalogs</mods:genre>
         <mods:genre authority="local">Journal</mods:genre>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Marin County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Sonoma County</mods:geographic>
+        </mods:subject>
         <mods:physicalDescription>
             <mods:extent>27 pages</mods:extent>
         </mods:physicalDescription>
@@ -226,6 +259,12 @@
         </mods:name>
         <mods:genre authority="aat">Catalogs</mods:genre>
         <mods:genre authority="local">Journal</mods:genre>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Mendocino County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Sonoma County</mods:geographic>
+        </mods:subject>
         <mods:physicalDescription>
             <mods:extent>13 pages</mods:extent>
         </mods:physicalDescription>
@@ -256,6 +295,9 @@
         </mods:name>
         <mods:genre authority="aat">Catalogs</mods:genre>
         <mods:genre authority="local">Journal</mods:genre>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Placer County</mods:geographic>
+        </mods:subject>
         <mods:physicalDescription>
             <mods:extent>36 pages</mods:extent>
         </mods:physicalDescription>
@@ -285,6 +327,12 @@
             <mods:displayForm>Grinnell, Joseph, 1877-1939</mods:displayForm>
         </mods:name>
         <mods:genre authority="local">Journal</mods:genre>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Alameda County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Solano County</mods:geographic>
+        </mods:subject>
         <mods:physicalDescription>
             <mods:extent>19 pages</mods:extent>
         </mods:physicalDescription>

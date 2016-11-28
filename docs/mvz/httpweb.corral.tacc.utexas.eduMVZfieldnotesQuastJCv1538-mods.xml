@@ -44,6 +44,7 @@
             <mods:namePart type="given">Jay C.</mods:namePart>
             <mods:displayForm>Quast, Jay C.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Catalog and Journal</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/QuastJC/v1538_s1</mods:identifier>
     </mods:relatedItem>
 </mods:mods>

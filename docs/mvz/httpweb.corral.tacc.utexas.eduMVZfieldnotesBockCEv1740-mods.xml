@@ -15,7 +15,7 @@
     <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/BockCE/v1740</mods:identifier>
     <mods:relatedItem type="constituent">
         <mods:titleInfo>
-            <mods:title>Bock, C.E. 1966 Catalogue #3-#18. California: Nevada Co.</mods:title>
+            <mods:title>Section 1: Bock, C.E. 1966 Catalogue #3-#18. California: Nevada Co.</mods:title>
         </mods:titleInfo>
         <mods:language>
             <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
@@ -41,7 +41,7 @@
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
         <mods:titleInfo>
-            <mods:title>Clemens, W.A. Niovrara Co., Whyoming</mods:title>
+            <mods:title>Section 2: Clemens, W.A. Niovrara Co., Whyoming</mods:title>
         </mods:titleInfo>
         <mods:language>
             <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
@@ -67,7 +67,7 @@
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
         <mods:titleInfo>
-            <mods:title>Cosgriff, J.W. Leffler, S.R. 1961 New Mexico</mods:title>
+            <mods:title>Section 3: Cosgriff, J.W. Leffler, S.R. 1961 New Mexico</mods:title>
         </mods:titleInfo>
         <mods:language>
             <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
@@ -93,7 +93,7 @@
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
         <mods:titleInfo>
-            <mods:title>Johnston, R.F. Nevada: Elko Co.</mods:title>
+            <mods:title>Section 4: Johnston, R.F. Nevada: Elko Co.</mods:title>
         </mods:titleInfo>
         <mods:language>
             <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
@@ -118,7 +118,7 @@
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
         <mods:titleInfo>
-            <mods:title>Reynolds, H.C. 1953-1958 Map of Tasmania</mods:title>
+            <mods:title>Section 5: Reynolds, H.C. 1953-1958 Map of Tasmania</mods:title>
         </mods:titleInfo>
         <mods:language>
             <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
@@ -142,7 +142,7 @@
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
         <mods:titleInfo>
-            <mods:title>Stirton, R.A. 1953 Australia</mods:title>
+            <mods:title>Section 6: Stirton, R.A. 1953 Australia</mods:title>
         </mods:titleInfo>
         <mods:language>
             <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
@@ -168,7 +168,7 @@
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
         <mods:titleInfo>
-            <mods:title>Stirton, R.A. 1958 Australia</mods:title>
+            <mods:title>Section 7: Stirton, R.A. 1958 Australia</mods:title>
         </mods:titleInfo>
         <mods:language>
             <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>

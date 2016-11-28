@@ -53,6 +53,21 @@
             <mods:namePart type="given">Hans J.</mods:namePart>
             <mods:displayForm>Peeters, Hans J.</mods:displayForm>
         </mods:name>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, Canada, British Columbia</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Alameda County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Lake County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Mendocino County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>South America, Colombia, Valle del Cauca</mods:geographic>
+        </mods:subject>
         <mods:physicalDescription>
             <mods:extent>224 pages</mods:extent>
         </mods:physicalDescription>

@@ -24,7 +24,7 @@
     <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/DavisJ/v589</mods:identifier>
     <mods:relatedItem type="constituent">
         <mods:titleInfo>
-            <mods:title>Section 1: Catalogue: California, Mexico 1952, 1953, 1955-57, 1961</mods:title>
+            <mods:title>Section 1: Davis, J. 1952, 1953, 1955-57, 1961, Catalogue: #2254-2646, Calif., Mexico</mods:title>
         </mods:titleInfo>
         <mods:language>
             <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
@@ -74,7 +74,7 @@
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
         <mods:titleInfo>
-            <mods:title>Section 3: Catalogue: California, Peru 1964-71</mods:title>
+            <mods:title>Section 3: Davis, J. 1964-1971, Catalogue: #2647-2709, Calif., Peru</mods:title>
         </mods:titleInfo>
         <mods:language>
             <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>

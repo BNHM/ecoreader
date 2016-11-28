@@ -46,6 +46,7 @@
             <mods:namePart type="date">1916-2003</mods:namePart>
             <mods:displayForm>Pitelka, Frank A.,  (Frank Alois), 1916-2003</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Catalog and Journal</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/PitelkaFA/v1534_s1</mods:identifier>
     </mods:relatedItem>
 </mods:mods>

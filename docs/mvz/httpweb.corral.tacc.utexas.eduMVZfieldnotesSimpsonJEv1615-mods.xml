@@ -44,6 +44,7 @@
             <mods:namePart type="given">James E.</mods:namePart>
             <mods:displayForm>Simpson, James E.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Catalog and Journal</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/SimpsonJE/v1615_s1</mods:identifier>
     </mods:relatedItem>
 </mods:mods>

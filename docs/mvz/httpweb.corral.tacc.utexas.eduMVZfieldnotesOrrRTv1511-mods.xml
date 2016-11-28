@@ -73,6 +73,15 @@
             <mods:displayForm>Orr, Robert T.,  (Robert Thomas), 1908-1994</mods:displayForm>
         </mods:name>
         <mods:genre authority="local">Journal and Catalog</mods:genre>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Nevada, Clark County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Nevada, Lincoln County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Nevada, Nye County</mods:geographic>
+        </mods:subject>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/OrrRT/v1511_s1</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -99,6 +108,12 @@
             <mods:displayForm>Orr, Robert T.,  (Robert Thomas), 1908-1994</mods:displayForm>
         </mods:name>
         <mods:genre authority="local">Journal and Catalog</mods:genre>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Nevada, Clark County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Nevada, Nye County</mods:geographic>
+        </mods:subject>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/OrrRT/v1511_s2</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -125,6 +140,15 @@
             <mods:displayForm>Orr, Robert T.,  (Robert Thomas), 1908-1994</mods:displayForm>
         </mods:name>
         <mods:genre authority="local">Journal</mods:genre>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Nevada, Lander County </mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Nevada, Nye County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Nevada, Washoe County</mods:geographic>
+        </mods:subject>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/OrrRT/v1511_s3</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -151,6 +175,66 @@
             <mods:displayForm>Orr, Robert T.,  (Robert Thomas), 1908-1994</mods:displayForm>
         </mods:name>
         <mods:genre authority="local">Journal and Catalog</mods:genre>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Alameda County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Siskiyou County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Idaho, Adams County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Idaho, Blaine County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Idaho, Bonner County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Idaho, Boundary County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Idaho, Clearwater County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Idaho, Custer County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Idaho, Idaho County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Idaho, Kootenai County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Idaho, Shoshone County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Idaho, Valley County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Idaho, Washington County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Oregon, Crook County </mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Oregon, Deschutes County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Oregon, Douglas County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Oregon, Grant County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Oregon, Klamath County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Oregon, Union County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Oregon, Wheeler County</mods:geographic>
+        </mods:subject>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/OrrRT/v1511_s4</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -177,6 +261,21 @@
             <mods:displayForm>Orr, Robert T.,  (Robert Thomas), 1908-1994</mods:displayForm>
         </mods:name>
         <mods:genre authority="local">Journal and Catalog</mods:genre>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Alameda County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Contra Costa County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, San Diego County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, San Mateo County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Stanislaus County</mods:geographic>
+        </mods:subject>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/OrrRT/v1511_s5</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -203,6 +302,12 @@
             <mods:displayForm>Orr, Robert T.,  (Robert Thomas), 1908-1994</mods:displayForm>
         </mods:name>
         <mods:genre authority="local">Catalog and Journal</mods:genre>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Fresno County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Kern County</mods:geographic>
+        </mods:subject>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/OrrRT/v1511_s6</mods:identifier>
     </mods:relatedItem>
 </mods:mods>

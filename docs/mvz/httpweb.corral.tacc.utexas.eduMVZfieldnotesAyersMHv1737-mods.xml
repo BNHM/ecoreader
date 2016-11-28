@@ -36,6 +36,9 @@
             <mods:displayForm>Ayers, Mary</mods:displayForm>
         </mods:name>
         <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, San Bernardino County</mods:geographic>
+        </mods:subject>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/AyersMH/v1737_s1</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -61,6 +64,9 @@
             <mods:displayForm>Fabbri, M. J.</mods:displayForm>
         </mods:name>
         <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, San Bernardino County</mods:geographic>
+        </mods:subject>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/AyersMH/v1737_s2</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -86,6 +92,12 @@
             <mods:displayForm>Hafner, David J.</mods:displayForm>
         </mods:name>
         <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Kern County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, San Bernardino County</mods:geographic>
+        </mods:subject>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/AyersMH/v1737_s3</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -111,6 +123,9 @@
             <mods:displayForm>Sweetwood, Steve</mods:displayForm>
         </mods:name>
         <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, San Bernardino County</mods:geographic>
+        </mods:subject>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/AyersMH/v1737_s4</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -137,6 +152,12 @@
         </mods:name>
         <mods:genre authority="aat">Catalogs</mods:genre>
         <mods:genre authority="local">Journal</mods:genre>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Contra Costa County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, San Bernardino County</mods:geographic>
+        </mods:subject>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/AyersMH/v1737_s5</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -162,6 +183,9 @@
             <mods:displayForm>Ken McDonald</mods:displayForm>
         </mods:name>
         <mods:genre authority="local">Journal</mods:genre>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, San Bernardino County</mods:geographic>
+        </mods:subject>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/AyersMH/v1737_s6</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -186,6 +210,9 @@
             <mods:namePart type="given">Ken</mods:namePart>
             <mods:displayForm>Ken McDonald</mods:displayForm>
         </mods:name>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, San Bernardino County</mods:geographic>
+        </mods:subject>
         <mods:genre authority="local">Species accounts</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/AyersMH/v1737_s7</mods:identifier>
     </mods:relatedItem>
@@ -211,6 +238,9 @@
             <mods:namePart type="given">Ken</mods:namePart>
             <mods:displayForm>Ken McDonald</mods:displayForm>
         </mods:name>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, San Bernardino County</mods:geographic>
+        </mods:subject>
         <mods:genre authority="local">Species accounts</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/AyersMH/v1737_s8</mods:identifier>
     </mods:relatedItem>

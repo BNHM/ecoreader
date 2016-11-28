@@ -47,6 +47,9 @@
             <mods:displayForm>Anderson, James D., 1930-1976</mods:displayForm>
         </mods:name>
         <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, Mexico, Chihuahua</mods:geographic>
+        </mods:subject>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/AndersonJD/v1735_s1</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -72,6 +75,9 @@
             <mods:displayForm>McGinnis, Samuel M.</mods:displayForm>
         </mods:name>
         <mods:genre authority="local">Journal</mods:genre>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, Mexico, Chihuahua</mods:geographic>
+        </mods:subject>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/AndersonJD/v1735_s2</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -97,6 +103,9 @@
             <mods:displayForm>Willis, Edwin O.</mods:displayForm>
         </mods:name>
         <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, Mexico, Chihuahua</mods:geographic>
+        </mods:subject>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/AndersonJD/v1735_s3</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -122,6 +131,9 @@
             <mods:displayForm>Willis, Edwin O.</mods:displayForm>
         </mods:name>
         <mods:genre authority="local">Journal</mods:genre>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, Mexico, Chihuahua</mods:geographic>
+        </mods:subject>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/AndersonJD/v1735_s4</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -147,6 +159,15 @@
             <mods:displayForm>Jordan, Peter A.</mods:displayForm>
         </mods:name>
         <mods:genre authority="local">Journal</mods:genre>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, Mexico, Chihuahua</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, San Bernardino County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, New Mexico, Dona Ana County</mods:geographic>
+        </mods:subject>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/AndersonJD/v1735_s5</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -172,6 +193,9 @@
             <mods:displayForm>Pontrelli, Michael J.</mods:displayForm>
         </mods:name>
         <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, Mexico, Chihuahua</mods:geographic>
+        </mods:subject>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/AndersonJD/v1735_s6</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -197,6 +221,18 @@
             <mods:displayForm>Pontrelli, Michael J.</mods:displayForm>
         </mods:name>
         <mods:genre authority="local">Journal</mods:genre>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, Mexico, Chihuahua</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, San Bernardino County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, New Mexico, Dona Ana County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, Texas, El Paso County </mods:geographic>
+        </mods:subject>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/AndersonJD/v1735_s7</mods:identifier>
     </mods:relatedItem>
 </mods:mods>

@@ -44,6 +44,7 @@
             <mods:namePart type="given">Alfred C.</mods:namePart>
             <mods:displayForm>Shelton, Alfred C.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal and Catalog</mods:genre>
         <mods:physicalDescription>
             <mods:extent>226 pages</mods:extent>
         </mods:physicalDescription>

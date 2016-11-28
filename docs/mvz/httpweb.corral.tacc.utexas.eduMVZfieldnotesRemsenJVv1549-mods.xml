@@ -44,6 +44,7 @@
             <mods:namePart type="given">James Vanderbeek</mods:namePart>
             <mods:displayForm>Remsen, James Vanderbeek</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal and Species accounts</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/RemsenJV/v1549_s1</mods:identifier>
     </mods:relatedItem>
 </mods:mods>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<mods:mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mods:titleInfo>
+        <mods:title>Field Notes: Albe M.J. 2001-2011, v4229</mods:title>
+    </mods:titleInfo>
+    <mods:language>
+        <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+        <mods:languageTerm type="text">English</mods:languageTerm>
+    </mods:language>
+    <mods:originInfo>
+        <mods:dateCreated>2001-07-15/2011-09-13</mods:dateCreated>
+        <mods:dateCreated point="start">2001</mods:dateCreated>
+        <mods:dateCreated point="end">2011</mods:dateCreated>
+    </mods:originInfo>
+    <mods:name type="personal" authority="ingest">
+        <mods:role>
+            <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+            <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+        </mods:role>
+        <mods:namePart type="family">Albe</mods:namePart>
+        <mods:namePart type="given">Monica J.</mods:namePart>
+        <mods:displayForm>Albe, Monica J.</mods:displayForm>
+    </mods:name>
+    <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/AlbeM/v4229</mods:identifier>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 1: Catalog #1-405</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>2001-07-15/2010-06-11</mods:dateCreated>
+            <mods:dateCreated point="start">2001</mods:dateCreated>
+            <mods:dateCreated point="end">2010</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="ingest">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Albe</mods:namePart>
+            <mods:namePart type="given">Monica J.</mods:namePart>
+            <mods:displayForm>Albe, Monica J.</mods:displayForm>
+        </mods:name>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/AlbeM/v4229_s1</mods:identifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="constituent">
+        <mods:titleInfo>
+            <mods:title>Section 2: Journal: California, Idaho, Nevada, Oregon, Washington and Canada</mods:title>
+        </mods:titleInfo>
+        <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        <mods:originInfo>
+            <mods:dateCreated>2003-03-08/2011-09-13</mods:dateCreated>
+            <mods:dateCreated point="start">2003</mods:dateCreated>
+            <mods:dateCreated point="end">2011</mods:dateCreated>
+        </mods:originInfo>
+        <mods:name type="personal" authority="ingest">
+            <mods:role>
+                <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+                <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Albe</mods:namePart>
+            <mods:namePart type="given">Monica J.</mods:namePart>
+            <mods:displayForm>Albe, Monica J.</mods:displayForm>
+        </mods:name>
+        <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/AlbeM/v4229_s2</mods:identifier>
+    </mods:relatedItem>
+</mods:mods>

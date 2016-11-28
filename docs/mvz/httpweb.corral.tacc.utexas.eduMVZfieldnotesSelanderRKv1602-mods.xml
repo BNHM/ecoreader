@@ -94,6 +94,7 @@
             <mods:namePart type="given">Robert K.</mods:namePart>
             <mods:displayForm>Selander, Robert K.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Catalog and Journal</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/SelanderRK/v1602_s2</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -143,6 +144,7 @@
             <mods:namePart type="given">Robert K.</mods:namePart>
             <mods:displayForm>Selander, Robert K.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Catalog and Journal</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/SelanderRK/v1602_s4</mods:identifier>
     </mods:relatedItem>
 </mods:mods>

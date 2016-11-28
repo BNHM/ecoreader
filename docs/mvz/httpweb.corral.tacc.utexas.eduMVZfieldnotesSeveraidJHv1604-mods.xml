@@ -44,6 +44,7 @@
             <mods:namePart type="given">Joye Harold</mods:namePart>
             <mods:displayForm>Severaid, Joye Harold</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Catalog and Journal</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/SeveraidJH/v1604_s1</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -68,6 +69,7 @@
             <mods:namePart type="given">Joye Harold</mods:namePart>
             <mods:displayForm>Severaid, Joye Harold</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal and Catalog</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/SeveraidJH/v1604_s2</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -92,6 +94,7 @@
             <mods:namePart type="given">Joye Harold</mods:namePart>
             <mods:displayForm>Severaid, Joye Harold</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Catalog and Journal</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/SeveraidJH/v1604_s3</mods:identifier>
     </mods:relatedItem>
 </mods:mods>

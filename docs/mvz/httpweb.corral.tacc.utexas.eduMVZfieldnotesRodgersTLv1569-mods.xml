@@ -46,6 +46,7 @@
             <mods:namePart type="date">1909-</mods:namePart>
             <mods:displayForm>Rodgers, Thomas Lathan, 1909-</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Catalog and Journal</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/RodgersTL/v1569_s0</mods:identifier>
     </mods:relatedItem>
 </mods:mods>

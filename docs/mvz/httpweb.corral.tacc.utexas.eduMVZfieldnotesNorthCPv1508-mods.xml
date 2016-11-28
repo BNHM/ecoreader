@@ -45,6 +45,15 @@
             <mods:displayForm>North, Chandler P.</mods:displayForm>
         </mods:name>
         <mods:genre authority="local">Catalog and Journal</mods:genre>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, Mexico, Baja California</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Imperial County</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, San Bernardino County</mods:geographic>
+        </mods:subject>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/NorthCP/v1508_s1</mods:identifier>
     </mods:relatedItem>
 </mods:mods>
