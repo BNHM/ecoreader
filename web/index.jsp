@@ -130,9 +130,12 @@
     // Get URL Parameters from window.location.href
     function getUrlParams() {
         var vars = [], hash;
-        var hashes = window.location.href.slice(window.location.href.indexOf('?') + 1).split('&');
+        var incomingUrl = window.location.href;
+        // removing trailing ? on incoming url...
+        incomingUrl = incomingUrl.replace(/\?+$/, "");
+        var hashes = incomingUrl.slice(incomingUrl.indexOf('?') + 1).split('&');
         // Detect if there are no parameters
-        if (window.location.href == hashes[0]) {
+        if (incomingUrl == hashes[0]) {
             return false;
         }
         for (var i = 0; i < hashes.length; i++) {
