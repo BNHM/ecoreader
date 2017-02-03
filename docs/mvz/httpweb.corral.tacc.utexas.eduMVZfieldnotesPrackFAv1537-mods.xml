@@ -44,6 +44,7 @@
             <mods:namePart type="given">Francis A.</mods:namePart>
             <mods:displayForm>Prack, Francis A.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal and Catalog</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/PrackFA/v1537_s1</mods:identifier>
     </mods:relatedItem>
 </mods:mods>

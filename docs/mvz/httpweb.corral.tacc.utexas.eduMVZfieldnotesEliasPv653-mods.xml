@@ -45,6 +45,9 @@
             <mods:displayForm>Elias, Paul</mods:displayForm>
         </mods:name>
         <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:subject authority="arctos">
+            <mods:geographic>Central America, Guatemala, Departamento Huehuetenango</mods:geographic>
+        </mods:subject>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/EliasP/v653_s1</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -69,6 +72,18 @@
             <mods:namePart type="given">Paul</mods:namePart>
             <mods:displayForm>Elias, Paul</mods:displayForm>
         </mods:name>
+        <mods:subject authority="arctos">
+            <mods:geographic>Central America, Guatemala, Departamento El Quiche</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>Central America, Guatemala, Departamento Huehuetenango</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>Central America, Guatemala, Departamento Quezaltenango</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>Central America, Guatemala, Departamento San Marcos</mods:geographic>
+        </mods:subject>
         <mods:genre authority="local">Journal</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/EliasP/v653_s2</mods:identifier>
     </mods:relatedItem>
@@ -95,6 +110,21 @@
             <mods:displayForm>Elias, Paul</mods:displayForm>
         </mods:name>
         <mods:genre authority="aat">Catalogs</mods:genre>
+        <mods:subject authority="arctos">
+            <mods:geographic>Central America, Guatemala, Departamento Alta Verapaz</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>Central America, Guatemala, Departamento Baja Verapaz</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>Central America, Guatemala, Departamento El Quiche</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>Central America, Guatemala, Departamento Huehuetenango</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, Mexico, Chiapas</mods:geographic>
+        </mods:subject>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/EliasP/v653_s3</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -119,7 +149,34 @@
             <mods:namePart type="given">Paul</mods:namePart>
             <mods:displayForm>Elias, Paul</mods:displayForm>
         </mods:name>
+        <mods:subject authority="arctos">
+            <mods:geographic>Central America, Guatemala, Departamento Alta Verapaz</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>Central America, Guatemala, Departamento Baja Verapaz</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>Central America, Guatemala, Departamento El Quiche</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>Central America, Guatemala, Departamento Huehuetenango</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>Central America, Guatemala, Departamento San Marcos</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>Central America, Guatemala, Departamento Solola</mods:geographic>
+        </mods:subject>
         <mods:genre authority="local">Journal</mods:genre>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, Mexico, Chiapas</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, Mexico, Chihuahua</mods:geographic>
+        </mods:subject>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, Mexico, Oaxaca</mods:geographic>
+        </mods:subject>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/EliasP/v653_s4</mods:identifier>
     </mods:relatedItem>
 </mods:mods>

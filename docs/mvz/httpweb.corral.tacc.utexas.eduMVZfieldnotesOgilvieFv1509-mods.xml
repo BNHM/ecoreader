@@ -45,6 +45,9 @@
             <mods:displayForm>Ogilvie, Frances M.</mods:displayForm>
         </mods:name>
         <mods:genre authority="local">Catalog and Journal</mods:genre>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Fresno County</mods:geographic>
+        </mods:subject>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/OgilvieF/v1509_s1</mods:identifier>
     </mods:relatedItem>
 </mods:mods>

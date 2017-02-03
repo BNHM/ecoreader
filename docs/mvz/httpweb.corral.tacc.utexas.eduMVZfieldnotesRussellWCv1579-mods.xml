@@ -75,6 +75,7 @@
             <mods:namePart type="date">1907-2000</mods:namePart>
             <mods:displayForm>Russell, Ward C., 1907-2000</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal and Catalog</mods:genre>
         <mods:physicalDescription>
             <mods:extent>43 pages</mods:extent>
         </mods:physicalDescription>
@@ -161,6 +162,7 @@
             <mods:namePart type="date">1907-2000</mods:namePart>
             <mods:displayForm>Russell, Ward C., 1907-2000</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal and Catalog</mods:genre>
         <mods:physicalDescription>
             <mods:extent>42 pages</mods:extent>
         </mods:physicalDescription>
@@ -218,6 +220,7 @@
             <mods:namePart type="date">1907-2000</mods:namePart>
             <mods:displayForm>Russell, Ward C., 1907-2000</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal and Catalog</mods:genre>
         <mods:physicalDescription>
             <mods:extent>33 pages</mods:extent>
         </mods:physicalDescription>
@@ -275,6 +278,7 @@
             <mods:namePart type="date">1907-2000</mods:namePart>
             <mods:displayForm>Russell, Ward C., 1907-2000</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal and Catalog</mods:genre>
         <mods:physicalDescription>
             <mods:extent>61 pages</mods:extent>
         </mods:physicalDescription>

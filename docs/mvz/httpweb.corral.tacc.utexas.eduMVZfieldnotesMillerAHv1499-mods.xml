@@ -73,6 +73,9 @@
             <mods:namePart type="given">Robert D.</mods:namePart>
             <mods:displayForm>Moore, Robert D.</mods:displayForm>
         </mods:name>
+        <mods:subject authority="arctos">
+            <mods:geographic>North America, United States, California, Alameda County</mods:geographic>
+        </mods:subject>
         <mods:physicalDescription>
             <mods:extent>26 pages</mods:extent>
         </mods:physicalDescription>

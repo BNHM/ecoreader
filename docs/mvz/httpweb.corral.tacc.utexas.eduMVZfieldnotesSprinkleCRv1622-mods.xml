@@ -44,6 +44,7 @@
             <mods:namePart type="given">Charles R.</mods:namePart>
             <mods:displayForm>Sprinkle, Charles R.</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Journal and Catalog</mods:genre>
         <mods:physicalDescription>
             <mods:extent>152 pages</mods:extent>
         </mods:physicalDescription>

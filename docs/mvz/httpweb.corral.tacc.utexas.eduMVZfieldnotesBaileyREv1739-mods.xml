@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <mods:mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <mods:titleInfo>
-        <mods:title>Field Notes: Bailey R.E. 1950, J.B. Bowers 1948, P.A. Dehnel 1947, E.C. Dougherty 1942, R.M. Eaken 1935, R.W. Fox 1946, R.E. Genelly 1945, R.A. Hahn 1955, R.S. Hoffmann 1954, M.S. James 1942-43, M. Jollie 1943-45</mods:title>
+        <mods:title>Field Notes: Bailey R.E. 1950, J.B. Bowers 1948, P.A. Dehnel 1947, E.C. Dougherty 1942, R.M. Eakin 1935, R.W. Fox 1946, R.E. Genelly 1945, R.A. Hahn 1955, R.S. Hoffmann 1954, M.S. James 1942-43, M. Jollie 1943-45</mods:title>
     </mods:titleInfo>
     <mods:language>
         <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>

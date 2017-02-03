@@ -72,6 +72,7 @@
             <mods:namePart type="date">1909-</mods:namePart>
             <mods:displayForm>Rodgers, Thomas Lathan, 1909-</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Catalog and Species accounts</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/RodgersTL/v1568_s1</mods:identifier>
     </mods:relatedItem>
     <mods:relatedItem type="constituent">
@@ -97,6 +98,7 @@
             <mods:namePart type="date">1909-</mods:namePart>
             <mods:displayForm>Rodgers, Thomas Lathan, 1909-</mods:displayForm>
         </mods:name>
+        <mods:genre authority="local">Catalog and Journal</mods:genre>
         <mods:identifier displayLabel="Image-Service">http://web.corral.tacc.utexas.edu/MVZ/fieldnotes/RodgersTL/v1568_s2</mods:identifier>
     </mods:relatedItem>
 </mods:mods>
