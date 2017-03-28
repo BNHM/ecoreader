@@ -4,7 +4,7 @@ A vast store of knowledge on our natural environment is not contained on the web
 
 _ecoReader_ was conceived by the Museum of Vertebrate Zoology to quickly and easily make field notebooks accessible for online viewing.  The ecoReader code library is designed to easily support multiple data input formats, using a common notebook metadata interface, and provide for consistent output using a centralized indexing mechanism.  The indexing mechanism is not yet written but will be either Mysql, SQLite, or a Document Store such as MongoDB.    
 
-An instance of [ecoReader](http://ecoreader.berkeley.edu/) is running on our BNHM server.
+An instance of [EcoReader](http://ecoreader.berkeley.edu/) is running on our BNHM server.
 
 The basic workflow in ecoReader consists of:
 
@@ -18,5 +18,5 @@ The basic workflow in ecoReader consists of:
 
 5. TBD: Publish data to BHL periodically.
      
-_ecoReader_ replaces the "BSCIT MVZ Archival Field Notebooks" website. This first iteration is funded through the [MVZ 'Hidden Collections' CLIR grant ](http://www.clir.org/hiddencollections/awards/for-2011).
+_EcoReader_ replaces the "BSCIT MVZ Archival Field Notebooks" website. This first iteration is funded through the [MVZ 'Hidden Collections' CLIR grant ](http://www.clir.org/hiddencollections/awards/for-2011).
 
