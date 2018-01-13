@@ -185,6 +185,8 @@ function showSectionFancybox(section_id, galIndex, data) {
                     galIndex = 0;
                 }
                 this.index = galIndex;
+ 		// update big image to the currently selected image
+                this.big = this.group[galIndex].href.replace("600","1200");
             } else {
                 galIndex = upcoming.index;
             }
