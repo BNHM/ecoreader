@@ -157,8 +157,8 @@
                     } else {
                         url += "scanned_only=false&";
                     }
-                } else if (this.name == 'geographies') {
-                    url += $(this).serialize();
+                //} else if (this.name == 'geographies') {
+                //    url +=  $(this).serialize();
                 } else {
                     url += $(this).attr('name') + "=" + encodeURIComponent(this.value) + "&";  //appends the name and value
                 }
@@ -179,6 +179,9 @@
                 $('#authors').val(value);
                 // boostrap-combobox.js requires a refresh here
                 $('#authors').data('combobox').refresh();
+            } else if (key == "geographies") {
+                $('#geographies').val(value);
+                // TODO: handle case where multiple geographies are selected.
             } else if (key == "scanned_only") {
                 if (value == "true")
                     $("input[name=" + key + "]").prop('checked', true);
