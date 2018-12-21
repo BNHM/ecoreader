@@ -54,7 +54,7 @@
                 <li><a href="index.jsp">Search</a></li>
                 <li><a href="about.jsp">About</a></li>
                 <li><a href="citation.jsp">Citation Help</a></li>
-                <li><a href="https://mvzarchives.wordpress.com/">MVZArchives</a></li>
+                <li><a href="https://mvzarchives.berkeley.edu/">MVZArchives</a></li>
             </ul>
         </div><!--close menu-->
       </div><!--close menubar-->
