@@ -1,6 +1,6 @@
 package modsDigester;
 
-import org.apache.commons.digester3.Digester;
+import org.apache.commons.digester.Digester;
 import org.xml.sax.SAXException;
 
 import java.io.IOException;
@@ -105,7 +105,7 @@ public class modsFactory {
         }
 
         try {
-            mods = digester.parse(xmlFile);
+            mods = (Mods) digester.parse(xmlFile);
             mods.setFilename(xmlFile.split("/")[xmlFile.split("/").length - 1]);
         } catch (IOException e) {
             e.printStackTrace();

@@ -20,4 +20,6 @@ The basic workflow in ecoReader consists of:
      
 _EcoReader_ replaces the "BSCIT MVZ Archival Field Notebooks" website. This first iteration is funded through the [MVZ 'Hidden Collections' CLIR grant ](http://www.clir.org/hiddencollections/awards/for-2011).
 
+# Developers
 
+See gradle build script as well as copy properties file in src/main/resources

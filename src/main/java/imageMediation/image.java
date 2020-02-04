@@ -1,14 +1,14 @@
 package imageMediation;
 
-import com.sun.media.jai.codec.FileSeekableStream;
-import com.sun.media.jai.codec.TIFFDecodeParam;
+//import com.sun.media.jai.codec.FileSeekableStream;
+//import com.sun.media.jai.codec.TIFFDecodeParam;
 import modsDigester.mvzTaccPage;
 import org.apache.commons.io.FileUtils;
 import utils.SettingsManager;
 
 import javax.imageio.ImageIO;
-import javax.media.jai.JAI;
-import javax.media.jai.RenderedOp;
+//import javax.media.jai.JAI;
+//import javax.media.jai.RenderedOp;
 import java.awt.image.BufferedImage;
 import java.awt.image.renderable.ParameterBlock;
 import java.io.File;
@@ -78,6 +78,10 @@ public class image {
                 e.printStackTrace();
             }
 
+            /**
+             *
+            * NOTE: JBD Removing this in January, 2020 when porting to new Java... this part will need
+             * a replacement...
 
             // Create the filestream for reading the file we've copied over from the remote server
             FileSeekableStream stream = null;
@@ -94,6 +98,8 @@ public class image {
             params.add(stream);
             RenderedOp image1 = JAI.create("tiff", params);
             image = image1.getAsBufferedImage();
+            */
+
         }
     }
 
