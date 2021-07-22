@@ -23,3 +23,10 @@ _EcoReader_ replaces the "BSCIT MVZ Archival Field Notebooks" website. This firs
 # Developers
 
 See gradle build script as well as copy properties file in src/main/resources
+
+Deployment as the jetty user:
+```
+# running from server where we have ecoreader deployed:
+sudo -u jetty cp dist/ecoreader.war  /usr/share/jetty9/webapps/root-ecoreader.berkeley.edu.war
+sudo /bin/systemctl restart jetty9.service
+```

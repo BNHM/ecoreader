@@ -1,0 +1,5 @@
+src/main/resources/ecoreader.props
+.gradle/
+build/
+dist/
+out/

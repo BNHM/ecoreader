@@ -13,6 +13,15 @@
         
     <p>This portal provides access to digitized field notes from the Museum of Vertebrate Zoology Archives as well as unscanned field notes that have been cataloged. Digitization efforts were originally funded in 2003 (NSF Grant No. <a href=http://www.nsf.gov/awardsearch/showAward?AWD_ID=0237424>0237424</a>) and subsequently funded by inhouse or direct donations. A new partnership with the Smithsonian and the Internet Archive (funded by CLIR) will begin in 2017. We will continue to add more volumes as they are cataloged. Please contact the Archives at mvzarchives@berkeley.edu for more information.</p>
 
+    <h1>EcoReader Citation</h1>
+        <p>Content on the EcoReader is available for research use.</p>
+        <p>Please use the suggested format to cite content from the EcoReader:</p>
+
+{Lastname(author)}, {FirstInitial(author)}. Field Notebook. {date}. Volume X, section x, page(s) x. Museum of Vertebrate Zoology Archives, University of California, Berkeley.
+
+<p>If you use content from the EcoReader in a publication, we ask that you send the MVZ Archives a copy of the publication. <br>
+Please contact the Archives at <a href=mailto:mvzarchives@berkeley.edu>mvzarchives@berkeley.edu</a> if you have any questions or require any assistance.
+</p>
 </div><!--close content_container-->
 	</div><!--close site_content-->
   </div><!--close main-->
