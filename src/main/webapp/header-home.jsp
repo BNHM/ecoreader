@@ -55,6 +55,7 @@
                 <li><a href="about.jsp">About</a></li>
                 <li><a href="citation.jsp">Citation Help</a></li>
                 <li><a href="https://mvzarchives.berkeley.edu/">MVZArchives</a></li>
+                <li><a href="https://calphotos.berkeley.edu/mvz.html" target="_blank">Photo Archive</a></li>
             </ul>
         </div><!--close menu-->
       </div><!--close menubar-->
