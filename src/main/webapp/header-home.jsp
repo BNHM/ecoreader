@@ -36,13 +36,13 @@
     </script>
 
 <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-2ZXHNHR6CW"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-25QQRRZ7FF"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'G-2ZXHNHR6CW');
+  gtag('config', 'G-25QQRRZ7FF');
 </script>
 </head>
 
